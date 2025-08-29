@@ -1,0 +1,92 @@
+name: "Dead Cells"
+slug: "dead-cells"
+description: "A roguelike-Metroidvania game featuring tight platforming and challenging combat. Players control an amorphous creature called the Prisoner, exploring a diseased island with interconnected areas and permanent upgrades."
+release_date: "2018-08-07"
+latest_version: "2024.9"
+developers:
+  - "Motion Twin"
+publishers:
+  - "Motion Twin"
+  - "Playdigious"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+  - "Nintendo Switch"
+  - "PlayStation 4"
+  - "Xbox One"
+  - "iOS"
+  - "Android"
+  - "PlayStation 5"
+
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "action"
+    - "horror"
+    - "post_apocalyptic"
+  gameplay_features:
+    - "real_time"
+    - "tile_graphics"
+    - "permadeath"
+    - "procedural_generation"
+    - "crafting"
+    - "skill_trees"
+  difficulty: "hard"
+
+lineage:
+  parent_games:
+    - "castlevania"
+    - "metroid"
+  fork_type: "inspired_by"
+
+links:
+  official_website: "https://dead-cells.com/"
+  steam_page: "https://store.steampowered.com/app/588650/Dead_Cells/"
+  wiki: "https://deadcells.fandom.com/"
+
+media:
+  logo: "logo.png"
+  icon: "icon.png"
+  screenshots:
+    - "combat_action.png"
+    - "biome_exploration.png"
+    - "weapon_variety.png"
+    - "boss_encounter.png"
+  videos:
+    - "gameplay_trailer.mp4"
+
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+  languages:
+    - "English"
+    - "French"
+    - "German"
+    - "Spanish"
+    - "Japanese"
+    - "Portuguese"
+    - "Russian"
+    - "Chinese"
+
+technical:
+  engine: "Custom Engine"
+  source_language: "Haxe"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "500MB"
+    notes: "Excellent performance on all platforms"
+
+tags:
+  - "metroidvania"
+  - "action"
+  - "pixel_art"
+  - "fast_paced"
+  - "challenging"
+  - "indie"
+  - "motion_twin"
+
+notes: "Winner of multiple indie game awards. Known for its fluid animation and tight controls. Has received numerous free content updates."
+last_updated: "2025-08-29"

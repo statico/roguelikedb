@@ -1,0 +1,88 @@
+name: "NetHack"
+slug: "nethack"
+description: "A classic dungeon exploration roguelike where the player must retrieve the Amulet of Yendor from the depths of the Dungeons of Doom and Gehennom. Known for its incredible depth, complexity, and the motto 'The DevTeam thinks of everything.'"
+release_date: "1987-07-28"
+latest_version: "3.6.7"
+developers:
+  - "NetHack DevTeam"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+  - "Unix"
+  - "DOS"
+  - "BeOS"
+  - "VMS"
+  - "Haiku"
+  - "OS/2"
+
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "ascii_graphics"
+    - "permadeath"
+    - "procedural_generation"
+    - "open_source"
+    - "character_classes"
+    - "magic_system"
+    - "pets_companions"
+    - "quests"
+    - "moddable"
+  difficulty: "extreme"
+
+lineage:
+  forked_from: "hack"
+  parent_games:
+    - "rogue"
+    - "hack"
+  notable_forks:
+    - "slashem"
+    - "unnethack"
+    - "nethack4"
+    - "hackem"
+  fork_type: "direct_fork"
+
+links:
+  official_website: "https://www.nethack.org/"
+  github_repo: "https://github.com/NetHack/NetHack"
+  roguebasin: "https://www.roguebasin.com/index.php/NetHack"
+  wiki: "https://nethackwiki.com/"
+
+media:
+  logo: "logo.png"
+  screenshots:
+    - "screenshot_1.png"
+    - "screenshot_2.png"
+    - "ascii_interface.png"
+
+community:
+  active_development: true
+  open_source: true
+  license: "NetHack General Public License"
+  community_size: "large"
+  languages:
+    - "English"
+
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "16MB"
+    storage_space: "50MB"
+    notes: "Extremely lightweight, runs on almost any system"
+
+tags:
+  - "classic"
+  - "ascii"
+  - "fantasy"
+  - "traditional"
+  - "hardcore"
+  - "open_source"
+  - "hacklike"
+  - "dungeon_crawler"
+
+notes: "Inducted into the Museum of Modern Art (MoMA) in 2022 as part of their video game collection. One of the most influential roguelikes ever created."
+last_updated: "2025-08-29"

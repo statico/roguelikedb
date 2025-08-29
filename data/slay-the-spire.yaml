@@ -1,0 +1,87 @@
+name: "Slay the Spire"
+slug: "slay-the-spire"
+description: "A roguelike deck-building game that combines card-based combat with roguelike progression. Players ascend a spire of multiple floors, building and customizing their deck as they battle enemies and bosses."
+release_date: "2019-01-23"
+latest_version: "2.3.17"
+developers:
+  - "Mega Crit"
+publishers:
+  - "Mega Crit"
+  - "Humble Bundle"
+platforms:
+  - "Windows"
+  - "macOS" 
+  - "Linux"
+  - "Nintendo Switch"
+  - "PlayStation 4"
+  - "Xbox One"
+  - "iOS"
+  - "Android"
+
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "deckbuilder"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "permadeath"
+    - "procedural_generation"
+    - "character_classes"
+    - "skill_trees"
+  difficulty: "moderate"
+
+lineage:
+  parent_games:
+    - "dominion"
+    - "ascension"
+  fork_type: "inspired_by"
+
+links:
+  official_website: "https://www.megacrit.com/"
+  steam_page: "https://store.steampowered.com/app/646570/Slay_the_Spire/"
+  wiki: "https://slay-the-spire.fandom.com/"
+
+media:
+  logo: "logo.png"
+  icon: "icon.png"
+  screenshots:
+    - "combat_screenshot.png"
+    - "map_screen.png"
+    - "deck_building.png"
+    - "boss_fight.png"
+
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "massive"
+  languages:
+    - "English"
+    - "French"
+    - "German"
+    - "Spanish"
+    - "Japanese"
+    - "Korean"
+    - "Chinese"
+
+technical:
+  engine: "libGDX"
+  source_language: "Java"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "1GB"
+    notes: "Runs well on most modern systems"
+
+tags:
+  - "deckbuilder"
+  - "modern"
+  - "indie"
+  - "strategy"
+  - "popular"
+  - "accessible"
+  - "cards"
+
+notes: "Popularized the roguelike deck-building subgenre and has sold over 5 million copies. Winner of multiple indie game awards."
+last_updated: "2025-08-29"
