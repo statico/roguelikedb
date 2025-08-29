@@ -1,0 +1,81 @@
+name: "Angband"
+slug: "angband"
+description: "A dungeon-crawling roguelike based on the writings of J.R.R. Tolkien. Players must survive 100 floor levels of the fortress Angband to defeat Morgoth. Known for its extreme difficulty and Tolkien-inspired fantasy setting."
+release_date: "1993-04-11"
+latest_version: "4.2.5"
+developers:
+  - "Angband Development Team"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+  - "Unix"
+  - "Android"
+
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "ascii_graphics"
+    - "permadeath"
+    - "procedural_generation"
+    - "open_source"
+    - "character_classes"
+    - "magic_system"
+  difficulty: "extreme"
+
+lineage:
+  forked_from: "umoria"
+  parent_games:
+    - "rogue"
+    - "moria"
+    - "umoria"
+  notable_forks:
+    - "zangband"
+    - "tome"
+    - "sangband"
+    - "oangband"
+    - "fangband"
+  fork_type: "direct_fork"
+
+links:
+  official_website: "http://rephial.org/"
+  github_repo: "https://github.com/angband/angband"
+  roguebasin: "https://www.roguebasin.com/index.php/Angband"
+
+media:
+  logo: "logo.png"
+  screenshots:
+    - "dungeon_view.png"
+    - "character_sheet.png"
+    - "inventory.png"
+
+community:
+  active_development: true
+  open_source: true
+  license: "GPL-2.0"
+  community_size: "medium"
+  languages:
+    - "English"
+
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "32MB"
+    storage_space: "100MB"
+    notes: "Very lightweight and portable"
+
+tags:
+  - "classic"
+  - "tolkien"
+  - "fantasy"
+  - "traditional"
+  - "hardcore"
+  - "open_source"
+  - "band_variant"
+
+notes: "One of the major roguelikes and progenitor of the 'band' family of roguelikes. Identified as a major roguelike by John Harris."
+last_updated: "2025-08-29"

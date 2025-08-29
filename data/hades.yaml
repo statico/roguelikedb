@@ -1,0 +1,91 @@
+name: "Hades"
+slug: "hades"
+description: "A critically acclaimed action roguelike that combines fast-paced combat with Greek mythology. Play as Zagreus, son of Hades, attempting to escape the Underworld with the help of Olympian gods who grant various powers."
+release_date: "2020-09-17"
+latest_version: "1.38142"
+developers:
+  - "Supergiant Games"
+publishers:
+  - "Supergiant Games"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Nintendo Switch"
+  - "PlayStation 4"
+  - "PlayStation 5"
+  - "Xbox One"
+  - "Xbox Series X/S"
+  - "iOS"
+
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "action"
+    - "fantasy"
+  gameplay_features:
+    - "real_time"
+    - "3d_graphics"
+    - "permadeath"
+    - "procedural_generation"
+    - "story_driven"
+    - "skill_trees"
+  difficulty: "moderate"
+
+lineage:
+  parent_games:
+    - "bastion"
+    - "transistor"
+    - "pyre"
+  fork_type: "spiritual_successor"
+
+links:
+  official_website: "https://www.supergiantgames.com/games/hades/"
+  steam_page: "https://store.steampowered.com/app/1145360/Hades/"
+  wiki: "https://hades.fandom.com/"
+
+media:
+  logo: "logo.png"
+  icon: "icon.png"
+  screenshots:
+    - "zagreus_combat.png"
+    - "house_of_hades.png"
+    - "olympian_boons.png"
+    - "boss_battle.png"
+  videos:
+    - "launch_trailer.mp4"
+
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "massive"
+  languages:
+    - "English"
+    - "French"
+    - "German"
+    - "Spanish"
+    - "Japanese"
+    - "Korean"
+    - "Portuguese"
+    - "Russian"
+    - "Chinese"
+
+technical:
+  engine: "Custom Engine"
+  source_language: "C#"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "15GB"
+    notes: "Optimized for various platforms including Nintendo Switch"
+
+tags:
+  - "action"
+  - "modern"
+  - "indie"
+  - "narrative"
+  - "award_winning"
+  - "greek_mythology"
+  - "supergiant"
+
+notes: "Game of the Year winner at multiple award ceremonies. Features incredible art by Jen Zee and music by Darren Korb. Sold over 5 million copies."
+last_updated: "2025-08-29"

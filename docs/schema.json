@@ -1,0 +1,368 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://roguelikedb.com/schemas/game.json",
+  "title": "Roguelike Game Schema",
+  "description": "Schema for roguelike game entries in the database",
+  "type": "object",
+  "required": [
+    "name",
+    "slug",
+    "description",
+    "release_date",
+    "developers",
+    "platforms",
+    "classification"
+  ],
+  "properties": {
+    "name": {
+      "type": "string",
+      "description": "Full name of the game",
+      "minLength": 1,
+      "examples": ["NetHack", "Slay the Spire", "Caves of Qud"]
+    },
+    "slug": {
+      "type": "string",
+      "description": "URL-friendly identifier (must match YAML filename)",
+      "pattern": "^[a-z0-9-]+$",
+      "minLength": 1,
+      "examples": ["nethack", "slay-the-spire", "caves-of-qud"]
+    },
+    "description": {
+      "type": "string",
+      "description": "Brief description of the game",
+      "minLength": 10,
+      "maxLength": 500
+    },
+    "release_date": {
+      "type": "string",
+      "description": "Initial release date",
+      "pattern": "^[0-9]{4}(-[0-9]{2}(-[0-9]{2})?)?$",
+      "examples": ["1987", "2017-11", "2019-05-14"]
+    },
+    "latest_version": {
+      "type": "string",
+      "description": "Latest stable version",
+      "examples": ["3.6.7", "2.3", "1.0.2-beta"]
+    },
+    "developers": {
+      "type": "array",
+      "description": "List of developers/teams",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      },
+      "minItems": 1,
+      "examples": [["NetHack DevTeam"], ["MegaCrit"], ["Freehold Games"]]
+    },
+    "publishers": {
+      "type": "array",
+      "description": "List of publishers (if different from developers)",
+      "items": {
+        "type": "string",
+        "minLength": 1
+      }
+    },
+    "platforms": {
+      "type": "array",
+      "description": "Supported platforms",
+      "items": {
+        "type": "string",
+        "enum": [
+          "Windows", "macOS", "Linux", "DOS", "Unix",
+          "Android", "iOS", "Web", "Steam", "itch.io",
+          "Nintendo Switch", "PlayStation", "Xbox",
+          "Amiga", "Atari", "C64", "Other"
+        ]
+      },
+      "minItems": 1
+    },
+    "classification": {
+      "type": "object",
+      "description": "Game classification and taxonomy",
+      "required": ["primary_type"],
+      "properties": {
+        "primary_type": {
+          "type": "string",
+          "description": "Primary roguelike classification",
+          "enum": [
+            "traditional",
+            "roguelike",
+            "roguelite",
+            "roguelike-like",
+            "coffee-break",
+            "puzzle",
+            "action",
+            "real-time"
+          ]
+        },
+        "subgenres": {
+          "type": "array",
+          "description": "Subgenre classifications",
+          "items": {
+            "type": "string",
+            "enum": [
+              "dungeon_crawler",
+              "deckbuilder",
+              "simulation",
+              "mystery_dungeon",
+              "survival",
+              "horror",
+              "sci-fi",
+              "fantasy",
+              "cyberpunk",
+              "post-apocalyptic",
+              "space",
+              "western",
+              "historical",
+              "modern"
+            ]
+          }
+        },
+        "gameplay_features": {
+          "type": "array",
+          "description": "Notable gameplay mechanics",
+          "items": {
+            "type": "string",
+            "enum": [
+              "turn_based",
+              "real_time",
+              "grid_based",
+              "permadeath",
+              "procedural_generation",
+              "ascii_graphics",
+              "tile_graphics",
+              "3d_graphics",
+              "multiplayer",
+              "moddable",
+              "open_source",
+              "crafting",
+              "magic_system",
+              "skill_trees",
+              "character_classes",
+              "pets_companions",
+              "quests",
+              "story_driven",
+              "sandbox"
+            ]
+          }
+        },
+        "difficulty": {
+          "type": "string",
+          "description": "General difficulty level",
+          "enum": ["beginner", "moderate", "hard", "extreme", "varies"]
+        }
+      }
+    },
+    "lineage": {
+      "type": "object",
+      "description": "Game relationships and genealogy",
+      "properties": {
+        "forked_from": {
+          "type": "string",
+          "description": "Direct parent game slug",
+          "pattern": "^[a-z0-9-]+$",
+          "examples": ["nethack", "angband"]
+        },
+        "parent_games": {
+          "type": "array",
+          "description": "Ancestral influences (game slugs)",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "examples": [["rogue", "moria"], ["nethack", "dcss"]]
+        },
+        "notable_forks": {
+          "type": "array",
+          "description": "Popular derivatives (game slugs)",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-z0-9-]+$"
+          },
+          "examples": [["slashem", "unnethack"], ["tome4", "tome2"]]
+        },
+        "fork_type": {
+          "type": "string",
+          "description": "Type of fork relationship",
+          "enum": [
+            "direct_fork",
+            "major_variant",
+            "spiritual_successor",
+            "commercial_adaptation",
+            "community_continuation",
+            "inspired_by"
+          ]
+        }
+      }
+    },
+    "links": {
+      "type": "object",
+      "description": "External links and resources",
+      "properties": {
+        "official_website": {
+          "type": "string",
+          "format": "uri",
+          "description": "Official game website"
+        },
+        "download_page": {
+          "type": "string",
+          "format": "uri",
+          "description": "Official download page"
+        },
+        "steam_page": {
+          "type": "string",
+          "format": "uri",
+          "description": "Steam store page"
+        },
+        "itch_page": {
+          "type": "string",
+          "format": "uri",
+          "description": "itch.io page"
+        },
+        "github_repo": {
+          "type": "string",
+          "format": "uri",
+          "description": "GitHub repository"
+        },
+        "wiki": {
+          "type": "string",
+          "format": "uri",
+          "description": "Game wiki or documentation"
+        },
+        "roguebasin": {
+          "type": "string",
+          "format": "uri",
+          "description": "RogueBasin article"
+        },
+        "reddit": {
+          "type": "string",
+          "format": "uri",
+          "description": "Reddit community"
+        },
+        "discord": {
+          "type": "string",
+          "format": "uri",
+          "description": "Discord server"
+        }
+      }
+    },
+    "media": {
+      "type": "object",
+      "description": "Associated media files (automatically discovered by slug)",
+      "properties": {
+        "logo": {
+          "type": "string",
+          "description": "Game logo filename",
+          "pattern": "^[a-zA-Z0-9._-]+\\.(png|jpg|jpeg|gif|webp)$"
+        },
+        "icon": {
+          "type": "string",
+          "description": "Game icon filename",
+          "pattern": "^[a-zA-Z0-9._-]+\\.(png|jpg|jpeg|gif|webp)$"
+        },
+        "screenshots": {
+          "type": "array",
+          "description": "Screenshot filenames",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-zA-Z0-9._-]+\\.(png|jpg|jpeg|gif|webp)$"
+          }
+        },
+        "videos": {
+          "type": "array",
+          "description": "Video filenames",
+          "items": {
+            "type": "string",
+            "pattern": "^[a-zA-Z0-9._-]+\\.(mp4|webm|mov|avi|mkv)$"
+          }
+        }
+      }
+    },
+    "community": {
+      "type": "object",
+      "description": "Community information and statistics",
+      "properties": {
+        "active_development": {
+          "type": "boolean",
+          "description": "Is the game actively developed?"
+        },
+        "open_source": {
+          "type": "boolean",
+          "description": "Is the game open source?"
+        },
+        "license": {
+          "type": "string",
+          "description": "Software license",
+          "examples": ["MIT", "GPL-2.0", "Proprietary", "Creative Commons"]
+        },
+        "community_size": {
+          "type": "string",
+          "description": "Relative community size",
+          "enum": ["small", "medium", "large", "massive", "unknown"]
+        },
+        "languages": {
+          "type": "array",
+          "description": "Supported languages",
+          "items": {
+            "type": "string",
+            "examples": ["English", "Japanese", "French", "German", "Spanish"]
+          }
+        }
+      }
+    },
+    "technical": {
+      "type": "object",
+      "description": "Technical information",
+      "properties": {
+        "engine": {
+          "type": "string",
+          "description": "Game engine or framework",
+          "examples": ["Unity", "C++", "Python", "JavaScript", "Java"]
+        },
+        "source_language": {
+          "type": "string",
+          "description": "Primary programming language",
+          "examples": ["C", "C++", "Python", "Java", "JavaScript", "C#"]
+        },
+        "system_requirements": {
+          "type": "object",
+          "description": "System requirements",
+          "properties": {
+            "minimum_ram": {
+              "type": "string",
+              "examples": ["512MB", "1GB", "2GB"]
+            },
+            "storage_space": {
+              "type": "string",
+              "examples": ["100MB", "1GB", "5GB"]
+            },
+            "notes": {
+              "type": "string",
+              "description": "Additional technical notes"
+            }
+          }
+        }
+      }
+    },
+    "tags": {
+      "type": "array",
+      "description": "Searchable tags",
+      "items": {
+        "type": "string",
+        "pattern": "^[a-z0-9_-]+$"
+      },
+      "examples": [["classic", "ascii", "fantasy"], ["modern", "graphics", "deckbuilder"]]
+    },
+    "notes": {
+      "type": "string",
+      "description": "Additional notes or special information",
+      "maxLength": 1000
+    },
+    "last_updated": {
+      "type": "string",
+      "description": "When this entry was last updated",
+      "format": "date",
+      "examples": ["2024-03-15"]
+    }
+  }
+}

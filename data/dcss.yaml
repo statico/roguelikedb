@@ -1,0 +1,80 @@
+name: "Dungeon Crawl Stone Soup"
+slug: "dcss"
+description: "A free and open source roguelike that emphasizes tactical combat and character development. Known for removing tedious elements from traditional roguelikes while maintaining strategic depth."
+release_date: "2006-09-19"
+latest_version: "0.32.0"
+developers:
+  - "DCSS DevTeam"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+  - "Web"
+  - "Android"
+
+classification:
+  primary_type: "roguelike"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "ascii_graphics"
+    - "tile_graphics"
+    - "permadeath"
+    - "procedural_generation"
+    - "open_source"
+    - "character_classes"
+    - "magic_system"
+    - "skill_trees"
+  difficulty: "hard"
+
+lineage:
+  forked_from: "linleys-dungeon-crawl"
+  parent_games:
+    - "linleys-dungeon-crawl"
+    - "rogue"
+  notable_forks:
+    - "bcrawl"
+    - "hellcrawl"
+  fork_type: "community_continuation"
+
+links:
+  official_website: "https://crawl.develz.org/"
+  github_repo: "https://github.com/crawl/crawl"
+  wiki: "http://crawl.chaosforge.org/"
+  roguebasin: "https://www.roguebasin.com/index.php/Crawl"
+
+media:
+  logo: "logo.png"
+  screenshots:
+    - "ascii_view.png"
+    - "tiles_view.png"
+    - "dungeon_layout.png"
+
+community:
+  active_development: true
+  open_source: true
+  license: "GPL-2.0"
+  community_size: "large"
+  languages:
+    - "English"
+
+technical:
+  source_language: "C++"
+  system_requirements:
+    minimum_ram: "512MB"
+    storage_space: "200MB"
+    notes: "Available to play in web browser"
+
+tags:
+  - "classic"
+  - "strategic"
+  - "fantasy"
+  - "modern_roguelike"
+  - "open_source"
+  - "web_playable"
+  - "tactical"
+
+notes: "Won Roguelike of the Year in 2008 and consistently ranks among the top roguelikes. Known for its excellent balance and streamlined design."
+last_updated: "2025-08-29"
