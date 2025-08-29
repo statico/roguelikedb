@@ -1,0 +1,63 @@
+---
+export interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "A comprehensive database of roguelike games with terminal aesthetics" } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="description" content={description} />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title} | Roguelike Database</title>
+  </head>
+  <body class="bg-terminal-bg text-terminal-white font-mono min-h-screen">
+    <div class="terminal-box min-h-screen">
+      <header class="terminal-border-b p-4">
+        <div class="ascii-art text-terminal-amber">
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                              ROGUELIKE DATABASE                             │
+├─────────────────────────────────────────────────────────────────────────────┤
+│ [A]ll Games  [S]earch  [T]ags  [L]ineage  [R]andom  [H]elp                │
+└─────────────────────────────────────────────────────────────────────────────┘
+        </div>
+      </header>
+      
+      <nav class="p-2 terminal-border-b">
+        <a href="/" class="terminal-button mr-2">[A]ll</a>
+        <a href="/search" class="terminal-button mr-2">[S]earch</a>
+        <a href="/tags" class="terminal-button mr-2">[T]ags</a>
+        <a href="/lineage" class="terminal-button mr-2">[L]ineage</a>
+        <a href="/random" class="terminal-button mr-2">[R]andom</a>
+        <a href="/help" class="terminal-button">[H]elp</a>
+      </nav>
+      
+      <main class="flex-1 p-4">
+        <slot />
+      </main>
+      
+      <footer class="terminal-border-t p-2 text-terminal-gray text-center">
+        <div class="text-xs">
+          ┌─ ROGUELIKE DATABASE ─┐ 
+          │ Open Source Project  │
+          │ Terminal Aesthetics  │
+          └──────────────────────┘
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
+
+<style>
+  .terminal-border-b {
+    border-bottom: 1px solid #FFFFFF;
+  }
+  .terminal-border-t {
+    border-top: 1px solid #FFFFFF;
+  }
+</style>
