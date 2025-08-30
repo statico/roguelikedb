@@ -1,0 +1,52 @@
+name: "NPPAngband"
+slug: "nppangband"
+description: "No Partial Packages Angband - focused on improving user interface and gameplay balance while maintaining the core Angband experience. Features enhanced automation and quality-of-life improvements."
+release_date: "2006"
+latest_version: "8.0.4"
+developers:
+  - "Diego González"
+  - "NPP Development Team"
+platforms:
+  - "Windows"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "tile_graphics"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "angband"
+  parent_games:
+    - "angband"
+  fork_type: "major_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/NPPAngband"
+community:
+  active_development: true
+  open_source: true
+  license: "Angband License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64MB"
+    storage_space: "30MB"
+tags:
+  - "angband-variant"
+  - "ui-improved"
+  - "balanced"
+  - "automation"
+  - "2006"
+notes: "Focuses on improving the user experience of Angband while preserving its core gameplay. Features better automation, improved interface, and quality-of-life enhancements."
+last_updated: "2025-01-30"

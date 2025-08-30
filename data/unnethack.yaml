@@ -1,0 +1,56 @@
+name: "UnNetHack"
+slug: "unnethack"
+description: "Unofficial NetHack variant emphasizing randomness, interface improvements, and additional content. Features new branches, levels, UI enhancements, and incorporates many community patches."
+release_date: "2011"
+latest_version: "6.0.8"
+developers:
+  - "Patric Mueller (Bhaak)"
+  - "UnNetHack Contributors"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "tile_graphics"
+    - "pets_companions"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "nethack"
+  parent_games:
+    - "nethack"
+  fork_type: "major_variant"
+links:
+  github_repo: "https://github.com/UnNetHack/UnNetHack"
+  roguebasin: "https://www.roguebasin.com/index.php/UnNetHack"
+community:
+  active_development: true
+  open_source: true
+  license: "NetHack General Public License"
+  community_size: "medium"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64MB"
+    storage_space: "100MB"
+tags:
+  - "nethack-variant"
+  - "randomness"
+  - "ui-improved"
+  - "active"
+  - "2011"
+  - "community-patches"
+notes: "Active NetHack variant focusing on increased randomness and UI improvements. Features new branches (Town, Ruins of Moria, Black Market, Sheol) and extensive community patch integration."
+last_updated: "2025-01-30"

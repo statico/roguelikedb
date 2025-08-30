@@ -1,0 +1,55 @@
+name: "SporkHack"
+slug: "sporkhack"
+description: "NetHack variant focused on balance changes and gameplay improvements. Features varied Gehennom, new special levels, artifacts, and enhanced level compiler with improved DES commands."
+release_date: "2007"
+latest_version: "0.6.5"
+developers:
+  - "Derek Ray"
+  - "Tangles"
+  - "K2"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "pets_companions"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "nethack"
+  parent_games:
+    - "nethack"
+  fork_type: "major_variant"
+links:
+  github_repo: "https://github.com/NHTangles/sporkhack"
+  roguebasin: "https://www.roguebasin.com/index.php/SporkHack"
+community:
+  active_development: false
+  open_source: true
+  license: "NetHack General Public License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64MB"
+    storage_space: "50MB"
+tags:
+  - "nethack-variant"
+  - "balanced"
+  - "gehennom"
+  - "level-compiler"
+  - "2007"
+notes: "Balance-oriented NetHack variant that improved Gehennom with new special levels and enhanced level compiler features. Available on public servers including Hardfought."
+last_updated: "2025-01-30"

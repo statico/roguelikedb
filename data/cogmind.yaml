@@ -1,0 +1,51 @@
+name: "Cogmind"
+slug: "cogmind"
+description: "Sci-fi ASCII roguelike where you play as a robot building yourself from components found by destroying other robots. Created by Grid Sage Games with exceptional UI design and tactical combat."
+release_date: "2017-05-16"
+latest_version: "Beta 12"
+developers:
+  - "Grid Sage Games"
+platforms:
+  - "Windows"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "sci-fi"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "crafting"
+    - "character_classes"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://www.gridsagegames.com/cogmind/"
+  steam_page: "https://store.steampowered.com/app/722730/Cogmind/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  source_language: "C++"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "1GB"
+tags:
+  - "sci-fi"
+  - "robot"
+  - "components"
+  - "tactical"
+  - "modern-ui"
+  - "ascii"
+notes: "Features innovative component-based character building where you literally build yourself from scavenged robot parts. Exceptional ASCII art and interface design."
+last_updated: "2025-01-30"

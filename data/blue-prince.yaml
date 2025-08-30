@@ -1,0 +1,46 @@
+name: "Blue Prince"
+slug: "blue-prince"
+description: "Puzzle roguelike with cel-shaded 3D graphics and procedural room generation in a mystery mansion. Became highest-rated 2025 title on Metacritic, featuring blueprint-based level exploration and dynamic room layouts."
+release_date: "2025-04-10"
+developers:
+  - "Raw Fury"
+publishers:
+  - "Raw Fury"
+platforms:
+  - "PlayStation"
+  - "Xbox"
+  - "Windows"
+classification:
+  primary_type: "puzzle"
+  subgenres:
+    - "dungeon_crawler"
+  gameplay_features:
+    - "turn_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "3d_graphics"
+    - "story_driven"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Unreal Engine 5"
+  system_requirements:
+    minimum_ram: "8GB"
+    storage_space: "4GB"
+tags:
+  - "puzzle"
+  - "3d"
+  - "mystery"
+  - "blueprint"
+  - "2025"
+  - "highest-rated"
+notes: "Highest-rated 2025 game on Metacritic. Features innovative blueprint-driven exploration with shifting room layouts. Development overcame challenges in dynamic room templating."
+last_updated: "2025-01-30"

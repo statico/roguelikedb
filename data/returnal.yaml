@@ -1,0 +1,49 @@
+name: "Returnal"
+slug: "returnal"
+description: "Third-person bullet-hell roguelike set on alien planet Atropos. Features procedurally generated biomes, psychological horror elements, and innovative haptic feedback integration on PS5."
+release_date: "2021-04-30"
+developers:
+  - "Housemarque"
+publishers:
+  - "Sony Interactive Entertainment"
+platforms:
+  - "PlayStation"
+  - "Windows"
+classification:
+  primary_type: "action"
+  subgenres:
+    - "sci-fi"
+    - "horror"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "3d_graphics"
+    - "story_driven"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  steam_page: "https://store.steampowered.com/app/1649740/Returnal/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Housemarque proprietary engine"
+  system_requirements:
+    minimum_ram: "16GB"
+    storage_space: "60GB"
+    notes: "PS5 SSD for fast loading, haptic feedback support"
+tags:
+  - "3d"
+  - "bullet-hell"
+  - "psychological"
+  - "sci-fi"
+  - "ps5-exclusive"
+  - "housemarque"
+notes: "Won Game Developers Choice Awards for Best Technology. Over 1.2 million copies sold. Features innovative use of PS5's haptic feedback and SSD streaming for seamless world loading."
+last_updated: "2025-01-30"

@@ -1,0 +1,58 @@
+name: "Rogue"
+slug: "rogue"
+description: "The foundational game that defined the roguelike genre, created in 1980 featuring procedurally generated dungeons, turn-based movement, ASCII graphics, and permanent character death. Established virtually all conventions of roguelike gaming."
+release_date: "1980"
+developers:
+  - "Michael Toy"
+  - "Glenn Wichman"
+  - "Ken Arnold"
+publishers:
+  - "UC Berkeley"
+  - "Epyx"
+platforms:
+  - "Unix"
+  - "DOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "adventure"
+    - "dnd-plato"
+  notable_forks:
+    - "hack"
+    - "moria"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  wiki: "https://en.wikipedia.org/wiki/Rogue_(video_game)"
+  roguebasin: "https://www.roguebasin.com/index.php/Rogue"
+community:
+  active_development: false
+  open_source: true
+  license: "BSD"
+  community_size: "medium"
+technical:
+  engine: "C with curses library"
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64KB"
+    notes: "Terminal with cursor control capabilities"
+tags:
+  - "foundational"
+  - "genre-defining"
+  - "ascii"
+  - "turn-based"
+  - "permadeath"
+  - "1980"
+notes: "The genre-defining roguelike that established all major conventions still used today. Available on numerous modern platforms."
+last_updated: "2025-01-30"

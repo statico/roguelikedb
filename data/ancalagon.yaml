@@ -1,0 +1,40 @@
+name: "Ancalagon"
+slug: "ancalagon"
+description: "Early 1983 roguelike for Philips P2000 computer by Hans Pennings. Notable as one of the first non-English roguelike implementations, demonstrating the international appeal of the genre in its early years."
+release_date: "1983"
+developers:
+  - "Hans Pennings"
+platforms:
+  - "Other"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+community:
+  active_development: false
+  open_source: false
+  community_size: "small"
+technical:
+  source_language: "BASIC"
+  system_requirements:
+    notes: "Required Philips P2000 computer"
+tags:
+  - "foundational"
+  - "international"
+  - "p2000"
+  - "1983"
+  - "rare"
+notes: "Important early example of roguelike gaming outside English-speaking markets. Named after Ancalagon the Black from Tolkien's works. Very rare and difficult to preserve."
+last_updated: "2025-01-30"

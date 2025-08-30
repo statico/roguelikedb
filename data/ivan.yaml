@@ -1,0 +1,53 @@
+name: "IVAN (Iter Vehemens ad Necem)"
+slug: "ivan"
+description: "Complex simulation-heavy roguelike featuring detailed body part system, material properties, and intricate combat mechanics. Known for its depth and unforgiving difficulty."
+release_date: "2001"
+latest_version: "0.58"
+developers:
+  - "Timo Kiviluoto"
+  - "IVAN Development Team"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "DOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+    - "simulation"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  github_repo: "https://github.com/Attnam/ivan"
+  roguebasin: "https://www.roguebasin.com/index.php/IVAN"
+community:
+  active_development: true
+  open_source: true
+  license: "GPL"
+  community_size: "small"
+technical:
+  source_language: "C++"
+  system_requirements:
+    minimum_ram: "128MB"
+    storage_space: "100MB"
+tags:
+  - "simulation"
+  - "body-parts"
+  - "materials"
+  - "complex"
+  - "extreme-difficulty"
+  - "open-source"
+notes: "Features incredibly detailed simulation of body parts, materials, and physics. Every limb can be severed, and material properties affect everything from combat to crafting."
+last_updated: "2025-01-30"

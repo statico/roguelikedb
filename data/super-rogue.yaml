@@ -1,0 +1,47 @@
+name: "Super Rogue"
+slug: "super-rogue"
+description: "Enhanced Rogue variant with improved graphics, expanded gameplay mechanics, and additional features. Part of the early wave of Rogue improvements in the mid-1980s Unix community."
+release_date: "1984"
+developers:
+  - "Robert Dan Henry"
+platforms:
+  - "Unix"
+  - "DOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "open_source"
+  difficulty: "hard"
+lineage:
+  forked_from: "rogue"
+  parent_games:
+    - "rogue"
+    - "advanced-rogue"
+  fork_type: "direct_fork"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Super_Rogue"
+community:
+  active_development: false
+  open_source: true
+  license: "BSD"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64KB"
+    storage_space: "1MB"
+tags:
+  - "foundational"
+  - "enhanced-rogue"
+  - "1984"
+  - "unix"
+notes: "Part of the family of early Rogue enhancements alongside Advanced Rogue. Contributed to the evolution of roguelike features before NetHack consolidated many improvements."
+last_updated: "2025-01-30"

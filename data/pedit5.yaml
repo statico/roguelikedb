@@ -1,0 +1,42 @@
+name: "pedit5"
+slug: "pedit5"
+description: "One of the earliest dungeon-crawling games and direct precursor to the roguelike genre, created on the PLATO system in 1975 with real-time multiplayer dungeon exploration and character progression."
+release_date: "1975"
+developers:
+  - "Rusty Rutherford"
+platforms:
+  - "Other"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "real_time"
+    - "multiplayer"
+    - "character_classes"
+  difficulty: "varies"
+lineage:
+  notable_forks:
+    - "dnd"
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  wiki: "https://en.wikipedia.org/wiki/PLATO_(computer_system)"
+community:
+  active_development: false
+  open_source: false
+  community_size: "small"
+technical:
+  engine: "PLATO system native code"
+  source_language: "Assembly"
+  system_requirements:
+    notes: "Required PLATO terminal and network access"
+tags:
+  - "historical"
+  - "foundational"
+  - "plato"
+  - "multiplayer"
+  - "1975"
+notes: "Historical significance as one of the earliest computer dungeon games. No longer playable in original form but preserved through PLATO system emulators."
+last_updated: "2025-01-30"

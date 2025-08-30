@@ -1,0 +1,44 @@
+name: "Sword of Fargoal"
+slug: "sword-of-fargoal"
+description: "Classic 1982 roguelike for Commodore VIC-20 and C64 by Jeff McCord, featuring real-time movement and regenerating levels. Notable as one of the earliest console roguelikes with smooth scrolling."
+release_date: "1982"
+developers:
+  - "Jeff McCord"
+platforms:
+  - "C64"
+  - "Other"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  wiki: "https://en.wikipedia.org/wiki/Sword_of_Fargoal"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "small"
+technical:
+  source_language: "BASIC"
+  system_requirements:
+    minimum_ram: "64KB"
+    storage_space: "48KB"
+    notes: "Required Commodore VIC-20 or C64"
+tags:
+  - "historical"
+  - "commodore"
+  - "1982"
+  - "real-time"
+  - "console"
+notes: "One of the earliest console roguelikes. Featured smooth scrolling and real-time gameplay unusual for the era. Later remade for modern platforms."
+last_updated: "2025-01-30"

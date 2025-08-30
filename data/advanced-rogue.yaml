@@ -1,0 +1,51 @@
+name: "Advanced Rogue"
+slug: "advanced-rogue"
+description: "Enhanced version of Rogue with expanded features including multiple character classes, team-based gameplay, and extended dungeon mechanics. Developed in 1984 as one of the earliest major Rogue expansions."
+release_date: "1984"
+developers:
+  - "Michael Morgan"
+  - "Ken Dalka"
+platforms:
+  - "Unix"
+  - "DOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "character_classes"
+    - "open_source"
+  difficulty: "hard"
+lineage:
+  forked_from: "rogue"
+  parent_games:
+    - "rogue"
+  notable_forks:
+    - "super-rogue"
+  fork_type: "direct_fork"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Advanced_Rogue"
+community:
+  active_development: false
+  open_source: true
+  license: "BSD"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64KB"
+    storage_space: "1MB"
+tags:
+  - "foundational"
+  - "character-classes"
+  - "team-based"
+  - "1984"
+  - "rogue-expansion"
+notes: "Important early expansion of Rogue introducing character classes and team gameplay. Influenced later roguelike development with its class-based mechanics."
+last_updated: "2025-01-30"

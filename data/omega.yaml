@@ -1,0 +1,50 @@
+name: "Omega"
+slug: "omega"
+description: "Complex roguelike with persistent village, guild system, and non-linear gameplay. Created by Laurence Brothers in 1987, featuring unique mechanics and multiple victory conditions."
+release_date: "1987"
+developers:
+  - "Laurence Brothers"
+platforms:
+  - "Unix"
+  - "DOS"
+  - "Windows"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "character_classes"
+    - "quests"
+    - "sandbox"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Omega"
+community:
+  active_development: false
+  open_source: true
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64KB"
+    storage_space: "10MB"
+tags:
+  - "classic"
+  - "village"
+  - "guilds"
+  - "complex"
+  - "1987"
+  - "non-linear"
+notes: "Notable for persistent village and guild membership system. Features multiple paths to victory including retirement from adventuring."
+last_updated: "2025-01-30"

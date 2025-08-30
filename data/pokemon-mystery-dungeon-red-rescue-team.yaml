@@ -1,0 +1,49 @@
+name: "Pokémon Mystery Dungeon: Red Rescue Team"
+slug: "pokemon-mystery-dungeon-red-rescue-team"
+description: "Chunsoft's inaugural entry merging Pokémon characters with roguelike mechanics via procedurally generated dungeons and modified permadeath allowing player rescues, creating accessible roguelike experience."
+release_date: "2005-11-17"
+developers:
+  - "Chunsoft"
+publishers:
+  - "The Pokémon Company"
+  - "Nintendo"
+platforms:
+  - "Other"
+classification:
+  primary_type: "roguelike"
+  subgenres:
+    - "mystery_dungeon"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "story_driven"
+    - "pets_companions"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "dragon-quest-mystery-dungeon"
+  fork_type: "commercial_adaptation"
+links:
+  wiki: "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Blue_Rescue_Team_and_Red_Rescue_Team"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Custom Dragon Quest Mystery Dungeon engine adaptation"
+  source_language: "C++"
+  system_requirements:
+    storage_space: "32MB"
+    notes: "Game Boy Advance compatible"
+tags:
+  - "pokemon"
+  - "licensed"
+  - "chunsoft"
+  - "rescue-team"
+  - "gba"
+  - "mystery-dungeon"
+notes: "First major franchise-based roguelike to achieve mainstream success. Over 5.25 million copies sold worldwide. Remade as Rescue Team DX for Switch in 2020."
+last_updated: "2025-01-30"

@@ -1,0 +1,57 @@
+name: "DynaHack"
+slug: "dynahack"
+description: "Dynamic NetHack variant featuring advanced ASCII interface with auto-resizing, multi-line message box, sidebar, and extensive UI improvements. Incorporates content from multiple NetHack variants."
+release_date: "2013"
+latest_version: "0.6.0"
+developers:
+  - "tungtn"
+  - "DynaHack Contributors"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "pets_companions"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "nitro-hack"
+  parent_games:
+    - "nitro-hack"
+    - "nethack"
+    - "unnethack"
+  fork_type: "major_variant"
+links:
+  github_repo: "https://github.com/tung/DynaHack"
+  roguebasin: "https://www.roguebasin.com/index.php/DynaHack"
+community:
+  active_development: false
+  open_source: true
+  license: "NetHack General Public License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "128MB"
+    storage_space: "100MB"
+tags:
+  - "nethack-variant"
+  - "ui-advanced"
+  - "interface"
+  - "dynamic"
+  - "2013"
+  - "nitro-hack"
+notes: "Advanced interface NetHack variant with 80+ new special levels, revamped Gehennom, magic chests, and sophisticated ASCII UI enhancements. Available on Hardfought server."
+last_updated: "2025-01-30"

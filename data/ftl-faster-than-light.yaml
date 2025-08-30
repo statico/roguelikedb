@@ -1,0 +1,54 @@
+name: "FTL: Faster Than Light"
+slug: "ftl-faster-than-light"
+description: "Real-time strategy roguelike spaceship simulation where players manage crew, systems, and resources while exploring a hostile galaxy. Features permadeath, procedural encounters, and tactical combat."
+release_date: "2012-09-14"
+latest_version: "1.6.14"
+developers:
+  - "Subset Games"
+publishers:
+  - "Subset Games"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "iOS"
+classification:
+  primary_type: "roguelike"
+  subgenres:
+    - "space"
+    - "simulation"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "story_driven"
+    - "crafting"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://subsetgames.com/ftl.html"
+  steam_page: "https://store.steampowered.com/app/212680/FTL_Faster_Than_Light/"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Custom C++ engine"
+  source_language: "C++"
+  system_requirements:
+    minimum_ram: "1GB"
+    storage_space: "2GB"
+tags:
+  - "spaceship"
+  - "tactical"
+  - "crew-management"
+  - "indie-hit"
+  - "2012"
+  - "subset-games"
+notes: "Hugely successful indie roguelike that defined the spaceship management subgenre. Over 2.5 million copies sold. Features Advanced Edition expansion with additional content and systems."
+last_updated: "2025-01-30"

@@ -1,0 +1,49 @@
+name: "Stoneshard"
+slug: "stoneshard"
+description: "Isometric turn-based roguelike with detailed injury and treatment systems. Features complex equipment management, gridless movement options, and atmospheric medieval fantasy setting."
+release_date: "2021-05-26"
+developers:
+  - "Ink Stains Games"
+publishers:
+  - "HypeTrain Digital"
+platforms:
+  - "Windows"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "character_classes"
+    - "crafting"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  steam_page: "https://store.steampowered.com/app/860450/Stoneshard/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "2GB"
+tags:
+  - "isometric"
+  - "injury-system"
+  - "medieval"
+  - "complex"
+  - "atmospheric"
+  - "unity"
+notes: "Over 400,000 units sold by 2023. Features detailed injury and treatment mechanics. Praised for atmospheric graphics and complexity but noted for steep learning curve. Active modding community."
+last_updated: "2025-01-30"

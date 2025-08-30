@@ -1,0 +1,51 @@
+name: "SAngband"
+slug: "sangband"
+description: "Skills Angband - variant that replaced traditional character classes with a flexible skill-based character development system. Pioneered skill-based progression in the Angband family."
+release_date: "2002"
+latest_version: "1.0.0"
+developers:
+  - "Leon Marrick"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "DOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "skill_trees"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "angband"
+  parent_games:
+    - "angband"
+  fork_type: "major_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/SAngband"
+community:
+  active_development: false
+  open_source: true
+  license: "Angband License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "32MB"
+    storage_space: "15MB"
+tags:
+  - "angband-variant"
+  - "skill-based"
+  - "innovative"
+  - "classless"
+  - "2002"
+notes: "Revolutionary for introducing skill-based character development to replace traditional classes. Influenced later roguelike design with its flexible character progression system."
+last_updated: "2025-01-30"

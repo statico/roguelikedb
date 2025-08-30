@@ -1,0 +1,54 @@
+name: "ADOM (Ancient Domains of Mystery)"
+slug: "adom"
+description: "Complex roguelike featuring overworld exploration, questlines, and corruption system. Known for deep character development and intricate gameplay mechanics developed by Thomas Biskup since 1994."
+release_date: "1994"
+latest_version: "3.3.3"
+developers:
+  - "Thomas Biskup"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "DOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "character_classes"
+    - "magic_system"
+    - "quests"
+    - "story_driven"
+  difficulty: "extreme"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://www.adom.de"
+  roguebasin: "https://www.roguebasin.com/index.php/ADOM"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "16MB"
+    storage_space: "20MB"
+tags:
+  - "classic"
+  - "complex"
+  - "corruption"
+  - "quests"
+  - "overworld"
+  - "thomas-biskup"
+notes: "Features unique corruption system and overworld exploration. One of the Berlin Interpretation examples of traditional roguelikes."
+last_updated: "2025-01-30"

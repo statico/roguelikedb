@@ -1,0 +1,52 @@
+name: "Balatro"
+slug: "balatro"
+description: "Addictive poker-themed deckbuilding roguelike featuring joker-driven poker hand combos and multiple difficulty modes. Won Best Independent Game, Best Debut Indie Game, and Best Mobile Game at The Game Awards 2024."
+release_date: "2024-02-20"
+developers:
+  - "LocalThunk"
+publishers:
+  - "LocalThunk"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "PlayStation"
+  - "Xbox"
+  - "Nintendo Switch"
+  - "Android"
+  - "iOS"
+classification:
+  primary_type: "roguelike"
+  subgenres:
+    - "deckbuilder"
+  gameplay_features:
+    - "turn_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "slay-the-spire"
+  fork_type: "inspired_by"
+links:
+  steam_page: "https://store.steampowered.com/app/2379780/Balatro/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "LÖVE 2D"
+  source_language: "Lua"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "1GB"
+tags:
+  - "poker"
+  - "deckbuilder"
+  - "indie-hit"
+  - "2024"
+  - "game-awards"
+  - "addictive"
+notes: "Massive commercial success with over 5 million copies sold. Won three awards at The Game Awards 2024 including Game of the Year nomination. Features 20 challenge modes and multiple decks."
+last_updated: "2025-01-30"

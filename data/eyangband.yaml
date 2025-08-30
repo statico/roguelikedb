@@ -1,0 +1,49 @@
+name: "EyAngband"
+slug: "eyangband"
+description: "Ey-themed Angband variant featuring unique aesthetic and gameplay modifications. Part of the experimental wave of Angband variants exploring different themes and mechanics."
+release_date: "2003"
+developers:
+  - "Eytan Zweig"
+platforms:
+  - "Windows"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "angband"
+  parent_games:
+    - "angband"
+  fork_type: "major_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/EyAngband"
+community:
+  active_development: false
+  open_source: true
+  license: "Angband License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "32MB"
+    storage_space: "15MB"
+tags:
+  - "angband-variant"
+  - "themed"
+  - "experimental"
+  - "2003"
+  - "unique"
+notes: "Experimental Angband variant that explored different thematic elements. Part of the diverse ecosystem of Angband modifications during the early 2000s."
+last_updated: "2025-01-30"

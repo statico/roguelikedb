@@ -1,0 +1,51 @@
+name: "Brogue"
+slug: "brogue"
+description: "Elegant modern ASCII roguelike created by Brian Walker in 2009, emphasizing pure roguelike design with beautiful ASCII graphics, streamlined interface, and focus on tactical gameplay over complexity."
+release_date: "2009"
+latest_version: "1.7.5"
+developers:
+  - "Brian Walker"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "open_source"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://sites.google.com/site/broguegame/"
+  roguebasin: "https://www.roguebasin.com/index.php/Brogue"
+community:
+  active_development: true
+  open_source: true
+  license: "Creative Commons"
+  community_size: "medium"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64MB"
+    storage_space: "10MB"
+tags:
+  - "modern"
+  - "elegant"
+  - "ascii"
+  - "streamlined"
+  - "tactical"
+  - "beautiful"
+notes: "Praised for exceptional aesthetic design and pure roguelike mechanics. Features innovative lighting effects and environmental interactions in ASCII."
+last_updated: "2025-01-30"

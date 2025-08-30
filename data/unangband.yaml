@@ -1,0 +1,53 @@
+name: "UnAngband"
+slug: "unangband"
+description: "Expanded Angband variant featuring multiple dungeons, surface wilderness, and significantly enlarged game world. One of the most ambitious expansions of the Angband formula."
+release_date: "2007"
+latest_version: "0.6.2"
+developers:
+  - "Andrew Doull"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "character_classes"
+    - "magic_system"
+    - "sandbox"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "angband"
+  parent_games:
+    - "angband"
+  fork_type: "major_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Unangband"
+community:
+  active_development: false
+  open_source: true
+  license: "Angband License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64MB"
+    storage_space: "50MB"
+tags:
+  - "angband-variant"
+  - "expanded"
+  - "wilderness"
+  - "multiple-dungeons"
+  - "2007"
+  - "ambitious"
+notes: "One of the most ambitious Angband variants, featuring multiple dungeons and surface exploration. Significantly expanded the scope beyond traditional single-dungeon gameplay."
+last_updated: "2025-01-30"

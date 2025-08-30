@@ -1,0 +1,58 @@
+name: "MAngband"
+slug: "mangband"
+description: "Multiplayer Angband - real-time multiplayer version of Angband allowing multiple players to explore dungeons simultaneously. One of the first successful multiplayer roguelike implementations."
+release_date: "1997"
+latest_version: "1.5.0"
+developers:
+  - "Alex Dingle"
+  - "MAngband Development Team"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "real_time"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "multiplayer"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "angband"
+  parent_games:
+    - "angband"
+  notable_forks:
+    - "tomenet"
+  fork_type: "major_variant"
+links:
+  official_website: "http://www.mangband.org"
+  roguebasin: "https://www.roguebasin.com/index.php/MAngband"
+community:
+  active_development: true
+  open_source: true
+  license: "Angband License"
+  community_size: "medium"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64MB"
+    storage_space: "50MB"
+    notes: "Network connection required for multiplayer"
+tags:
+  - "angband-variant"
+  - "multiplayer"
+  - "real-time"
+  - "pioneering"
+  - "1997"
+  - "servers"
+notes: "Pioneering multiplayer roguelike that successfully adapted Angband for multiple players. Features persistent servers and real-time gameplay. Influenced later multiplayer roguelike development."
+last_updated: "2025-01-30"

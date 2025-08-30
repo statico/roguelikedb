@@ -1,0 +1,58 @@
+name: "Caves of Qud"
+slug: "caves-of-qud"
+description: "Science fantasy roguelike set in a far-future Earth with complex simulation systems, mutations, and deep lore. Created by Freehold Games, combining traditional roguelike mechanics with innovative storytelling."
+release_date: "2015-07-15"
+latest_version: "2.0.206.60"
+developers:
+  - "Freehold Games"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "sci-fi"
+    - "post-apocalyptic"
+    - "simulation"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "tile_graphics"
+    - "character_classes"
+    - "crafting"
+    - "story_driven"
+    - "moddable"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://www.cavesofqud.com/"
+  steam_page: "https://store.steampowered.com/app/333640/Caves_of_Qud/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Unity"
+  source_language: "C#"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "2GB"
+tags:
+  - "sci-fi"
+  - "mutations"
+  - "simulation"
+  - "lore"
+  - "modern"
+  - "unity"
+notes: "Features one of the most complex mutation systems in roguelikes. Rich procedural history generation and deep environmental simulation."
+last_updated: "2025-01-30"

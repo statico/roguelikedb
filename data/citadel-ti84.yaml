@@ -1,0 +1,44 @@
+name: "Citadel (TI-84+ CE)"
+slug: "citadel-ti84"
+description: "Modern roguelike for TI-84+ CE graphing calculator by Dennis Yang, featuring 3D-like corridor view using 1KB tile graphics in RAM and flash sectors for dungeon storage."
+release_date: "2021"
+developers:
+  - "Dennis Yang"
+  - "CEMetech"
+platforms:
+  - "Other"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  wiki: "https://www.cemetech.net/forum/viewtopic.php?t=18154"
+community:
+  active_development: false
+  open_source: true
+  community_size: "small"
+technical:
+  engine: "TI AppLib with C"
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "32KB"
+    notes: "TI-84+ CE calculator with 6 MHz Z80-type CPU, 96×64 mono LCD"
+tags:
+  - "calculator"
+  - "ti-84"
+  - "educational"
+  - "constrained"
+  - "cemetech"
+notes: "Demonstrates roguelike design within extreme hardware constraints. Open source project showcasing calculator programming techniques."
+last_updated: "2025-01-30"

@@ -1,0 +1,41 @@
+name: "DUNGEON (PET)"
+slug: "dungeon-pet"
+description: "1979 dungeon crawler for Commodore PET by Brian Sawyer, adapting early mainframe dungeon concepts to personal computers. One of the earliest commercial attempts at roguelike gaming."
+release_date: "1979"
+developers:
+  - "Brian Sawyer"
+platforms:
+  - "Other"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "procedural_generation"
+    - "ascii_graphics"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "dungeon"
+    - "dnd-plato"
+  fork_type: "inspired_by"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "small"
+technical:
+  source_language: "BASIC"
+  system_requirements:
+    minimum_ram: "32KB"
+    notes: "Required Commodore PET computer"
+tags:
+  - "foundational"
+  - "pet"
+  - "commodore"
+  - "1979"
+  - "early-commercial"
+notes: "Important early adaptation of mainframe dungeon concepts to personal computers. Helped establish roguelike gaming in the home computer market."
+last_updated: "2025-01-30"

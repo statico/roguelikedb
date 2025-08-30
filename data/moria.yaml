@@ -1,0 +1,53 @@
+name: "Moria"
+slug: "moria"
+description: "Seminal 1983 roguelike set in Tolkien's Mines of Moria, featuring the first literary adaptation in roguelikes and establishing the foundation for the entire Angband family of games."
+release_date: "1983"
+latest_version: "4.87"
+developers:
+  - "Robert Alan Koeneke"
+platforms:
+  - "Unix"
+  - "DOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "character_classes"
+    - "magic_system"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+  notable_forks:
+    - "angband"
+    - "umoria"
+  fork_type: "inspired_by"
+links:
+  wiki: "https://en.wikipedia.org/wiki/Moria_(video_game)"
+  roguebasin: "https://www.roguebasin.com/index.php/Moria"
+community:
+  active_development: false
+  open_source: true
+  community_size: "small"
+technical:
+  engine: "Pascal (VMS), later C"
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "128KB"
+    notes: "Originally required VMS system"
+tags:
+  - "foundational"
+  - "tolkien"
+  - "angband-ancestor"
+  - "middle-earth"
+  - "1983"
+  - "literary"
+notes: "First successful literary adaptation in roguelikes. Foundation for Angband lineage. Features 50 levels of Mines of Moria with Balrog as final boss."
+last_updated: "2025-01-30"

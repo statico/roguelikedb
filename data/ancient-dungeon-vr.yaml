@@ -1,0 +1,41 @@
+name: "Ancient Dungeon VR"
+slug: "ancient-dungeon-vr"
+description: "VR roguelike using Unreal Engine 4's procedural mesh API to generate 3D dungeons at runtime. Features room-scale locomotion and haptic combat for immersive dungeon crawling."
+release_date: "2020"
+developers:
+  - "Eric Thullen"
+platforms:
+  - "Other"
+classification:
+  primary_type: "action"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "3d_graphics"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "small"
+technical:
+  engine: "Unreal Engine 4"
+  system_requirements:
+    notes: "VR headset required (Quest, Vive, Index), 90 FPS target"
+tags:
+  - "vr"
+  - "3d"
+  - "immersive"
+  - "unreal"
+  - "room-scale"
+  - "haptic"
+notes: "Pioneer in VR roguelike design. Uses GPU instancing for large enemy counts and streaming navmesh segments to minimize VR reprojection drops."
+last_updated: "2025-01-30"

@@ -1,0 +1,51 @@
+name: "POWDER"
+slug: "powder"
+description: "Compact roguelike originally created for Game Boy Advance by Jeff Lait in 2004. Features streamlined gameplay designed for portable gaming with traditional roguelike mechanics."
+release_date: "2004"
+latest_version: "118"
+developers:
+  - "Jeff Lait"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "Other"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "open_source"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  official_website: "http://www.zincland.com/powder/"
+  roguebasin: "https://www.roguebasin.com/index.php/POWDER"
+community:
+  active_development: false
+  open_source: true
+  community_size: "small"
+technical:
+  source_language: "C++"
+  system_requirements:
+    minimum_ram: "32MB"
+    storage_space: "10MB"
+    notes: "Originally designed for Game Boy Advance limitations"
+tags:
+  - "portable"
+  - "gba"
+  - "streamlined"
+  - "compact"
+  - "jeff-lait"
+  - "open-source"
+notes: "Notable for being designed specifically for handheld gaming. Proves that roguelikes can work well on limited hardware with careful design choices."
+last_updated: "2025-01-30"

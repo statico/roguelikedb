@@ -1,0 +1,57 @@
+name: "SLASH'EM"
+slug: "slashem"
+description: "Super Lotsa Added Stuff Hack - Extended Magic. Major NetHack variant adding new roles, races, monsters, items, and areas. One of the most popular and influential NetHack variants."
+release_date: "1997"
+latest_version: "0.0.7E7F3"
+developers:
+  - "Warren Cheung"
+  - "SLASH'EM Development Team"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+  - "DOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "pets_companions"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "nethack"
+  parent_games:
+    - "nethack"
+    - "hack"
+  notable_forks:
+    - "slashem-extended"
+  fork_type: "major_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/SLASH'EM"
+community:
+  active_development: false
+  open_source: true
+  license: "NetHack General Public License"
+  community_size: "medium"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64MB"
+    storage_space: "50MB"
+tags:
+  - "nethack-variant"
+  - "major-expansion"
+  - "influential"
+  - "1997"
+  - "popular"
+notes: "One of the most significant NetHack variants, greatly expanding content with new roles, races, and areas. Many features were later incorporated into NetHack itself."
+last_updated: "2025-01-30"

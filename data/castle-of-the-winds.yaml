@@ -1,0 +1,49 @@
+name: "Castle of the Winds"
+slug: "castle-of-the-winds"
+description: "Classic Windows roguelike with graphical interface, created by Rick Saada in 1989. Featured point-and-click gameplay and was one of the first successful GUI roguelikes for personal computers."
+release_date: "1989"
+developers:
+  - "Rick Saada"
+publishers:
+  - "SaadaSoft"
+platforms:
+  - "Windows"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  wiki: "https://en.wikipedia.org/wiki/Castle_of_the_Winds"
+community:
+  active_development: false
+  open_source: false
+  license: "Shareware"
+  community_size: "medium"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "2MB"
+    storage_space: "5MB"
+    notes: "Required Windows 3.1 or later"
+tags:
+  - "windows"
+  - "graphical"
+  - "shareware"
+  - "gui"
+  - "1989"
+  - "point-click"
+notes: "Pioneer of graphical roguelikes on Windows. Featured Norse mythology theme and was distributed as shareware. Part 1 was freeware, Part 2 was commercial."
+last_updated: "2025-01-30"

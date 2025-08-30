@@ -1,0 +1,51 @@
+name: "Noita"
+slug: "noita"
+description: "Real-time physics-driven roguelike where every pixel is simulated. Features destructible environments, complex spell crafting system, and emergent gameplay through fluid dynamics and material interactions."
+release_date: "2020-10-15"
+developers:
+  - "Nolla Games"
+publishers:
+  - "Nolla Games"
+platforms:
+  - "Windows"
+classification:
+  primary_type: "action"
+  subgenres:
+    - "fantasy"
+    - "simulation"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "magic_system"
+    - "sandbox"
+    - "moddable"
+  difficulty: "extreme"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  steam_page: "https://store.steampowered.com/app/881100/Noita/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Custom C engine"
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "1GB"
+    notes: "GPU required for pixel simulation"
+tags:
+  - "physics"
+  - "pixel-simulation"
+  - "destructible"
+  - "spells"
+  - "emergent"
+  - "finnish"
+notes: "Over 700,000 copies sold. Features unprecedented pixel-level physics simulation. Every material in the game world is simulated including fluids, gases, and chemical reactions. Strong modding community."
+last_updated: "2025-01-30"

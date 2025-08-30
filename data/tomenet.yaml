@@ -1,0 +1,57 @@
+name: "TomeNET"
+slug: "tomenet"
+description: "Multiplayer version of ToME combining elements from Tales of Middle Earth and Angband in real-time multiplayer format. Features persistent servers with shared dungeons and player interaction."
+release_date: "2001"
+latest_version: "4.9.1"
+developers:
+  - "DarkGod"
+  - "TomeNET Development Team"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "real_time"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "multiplayer"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "mangband"
+  parent_games:
+    - "mangband"
+    - "tales-of-middle-earth"
+  fork_type: "major_variant"
+links:
+  official_website: "http://www.tomenet.eu"
+  roguebasin: "https://www.roguebasin.com/index.php/TomeNET"
+community:
+  active_development: true
+  open_source: true
+  license: "GPL"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "128MB"
+    storage_space: "100MB"
+    notes: "Network connection required, persistent servers"
+tags:
+  - "multiplayer"
+  - "tome"
+  - "persistent"
+  - "servers"
+  - "2001"
+  - "real-time"
+notes: "Advanced multiplayer roguelike combining ToME content with multiplayer mechanics. Features persistent character progression and active European servers with regular events."
+last_updated: "2025-01-30"

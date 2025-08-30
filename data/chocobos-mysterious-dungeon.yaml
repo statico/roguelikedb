@@ -1,0 +1,47 @@
+name: "Chocobo's Mysterious Dungeon"
+slug: "chocobos-mysterious-dungeon"
+description: "Square's first roguelike featuring beloved Chocobo character from Final Fantasy series, successfully blending traditional roguelike mechanics with Final Fantasy elements and ATB system."
+release_date: "1997-12-23"
+developers:
+  - "Square"
+publishers:
+  - "Square"
+platforms:
+  - "PlayStation"
+classification:
+  primary_type: "roguelike"
+  subgenres:
+    - "mystery_dungeon"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "procedural_generation"
+    - "magic_system"
+    - "story_driven"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "mystery-dungeon-series"
+  fork_type: "commercial_adaptation"
+links:
+  wiki: "https://en.wikipedia.org/wiki/Chocobo%27s_Mysterious_Dungeon"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Proprietary PlayStation engine"
+  source_language: "C++"
+  system_requirements:
+    storage_space: "650MB"
+    notes: "Original PlayStation console required"
+tags:
+  - "final-fantasy"
+  - "chocobo"
+  - "square"
+  - "playstation"
+  - "licensed"
+  - "mystery-dungeon"
+notes: "Exceeded one million units sold. First successful integration of real-time elements (ATB) with turn-based roguelike mechanics. Led to multiple sequels."
+last_updated: "2025-01-30"

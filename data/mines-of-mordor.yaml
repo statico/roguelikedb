@@ -1,0 +1,42 @@
+name: "Mines of Mordor"
+slug: "mines-of-mordor"
+description: "1979 roguelike for TRS-80 by Scott Cunningham, one of the earliest implementations of dungeon crawling mechanics on personal computers. Featured Tolkien-inspired setting and primitive graphics."
+release_date: "1979"
+developers:
+  - "Scott Cunningham"
+platforms:
+  - "Other"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "dnd-plato"
+  notable_forks:
+    - "rogue"
+  fork_type: "inspired_by"
+community:
+  active_development: false
+  open_source: false
+  community_size: "small"
+technical:
+  source_language: "BASIC"
+  system_requirements:
+    minimum_ram: "16KB"
+    notes: "Required TRS-80 Model I computer"
+tags:
+  - "foundational"
+  - "trs-80"
+  - "tolkien"
+  - "1979"
+  - "historical"
+notes: "Early personal computer roguelike that helped establish the genre outside mainframe environments. Tolkien influence predated Moria by several years."
+last_updated: "2025-01-30"

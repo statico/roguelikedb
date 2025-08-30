@@ -1,0 +1,55 @@
+name: "Hack"
+slug: "hack"
+description: "Direct descendant of Rogue created in 1982, introducing pet companions, shop systems, and complex magic mechanics that would later be incorporated into NetHack. Key evolutionary step between Rogue and NetHack."
+release_date: "1982"
+latest_version: "1.0.3"
+developers:
+  - "Jay Fenlason"
+  - "Kenny Woodland"
+  - "Mike Thome"
+  - "Jon Payne"
+platforms:
+  - "Unix"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "pets_companions"
+    - "character_classes"
+  difficulty: "hard"
+lineage:
+  forked_from: "rogue"
+  parent_games:
+    - "rogue"
+  notable_forks:
+    - "nethack"
+  fork_type: "direct_fork"
+links:
+  wiki: "https://nethackwiki.com/wiki/Hack"
+  roguebasin: "https://www.roguebasin.com/index.php/Hack"
+community:
+  active_development: false
+  open_source: true
+  community_size: "small"
+technical:
+  engine: "C programming language"
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64KB"
+    notes: "Unix system with terminal support"
+tags:
+  - "foundational"
+  - "unix"
+  - "pets"
+  - "shops"
+  - "1982"
+  - "nethack-predecessor"
+notes: "Critical evolutionary step that introduced pet system, shops, and religious mechanics later adopted by NetHack. Historically important but completely superseded."
+last_updated: "2025-01-30"

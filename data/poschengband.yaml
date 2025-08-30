@@ -1,0 +1,57 @@
+name: "PosChengband"
+slug: "poschengband"
+description: "Modern and popular Angband variant featuring extensive content additions, improved balance, and active development. Known for its large number of races, classes, and gameplay options."
+release_date: "2013"
+latest_version: "7.3.0"
+developers:
+  - "Chris Carr"
+  - "PosChengband Development Team"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "tile_graphics"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "chengband"
+  parent_games:
+    - "chengband"
+    - "hengband"
+    - "angband"
+  fork_type: "major_variant"
+links:
+  github_repo: "https://github.com/ThatGitMikey/poschengband"
+  roguebasin: "https://www.roguebasin.com/index.php/PosChengband"
+community:
+  active_development: true
+  open_source: true
+  license: "Angband License"
+  community_size: "medium"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "128MB"
+    storage_space: "100MB"
+tags:
+  - "angband-variant"
+  - "modern"
+  - "extensive"
+  - "active"
+  - "2013"
+  - "popular"
+notes: "One of the most popular modern Angband variants with extensive content and active development. Features dozens of races and classes, making it one of the most content-rich variants available."
+last_updated: "2025-01-30"

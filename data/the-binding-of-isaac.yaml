@@ -1,0 +1,54 @@
+name: "The Binding of Isaac"
+slug: "the-binding-of-isaac"
+description: "Top-down shooter roguelike with dark religious themes and twisted narrative. Features procedurally generated rooms, permanent upgrades, and psychological horror elements in a basement setting."
+release_date: "2011-09-28"
+latest_version: "Rebirth (2014)"
+developers:
+  - "Edmund McMillen"
+  - "Florian Himsl"
+publishers:
+  - "Edmund McMillen"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+classification:
+  primary_type: "action"
+  subgenres:
+    - "horror"
+    - "psychological"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "zelda"
+  notable_forks:
+    - "binding-of-isaac-rebirth"
+  fork_type: "inspired_by"
+links:
+  steam_page: "https://store.steampowered.com/app/113200/The_Binding_of_Isaac/"
+  wiki: "https://bindingofisaacrebirth.fandom.com/"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "massive"
+technical:
+  engine: "Adobe Flash"
+  system_requirements:
+    minimum_ram: "1GB"
+    storage_space: "500MB"
+tags:
+  - "dark"
+  - "religious"
+  - "psychological"
+  - "influential"
+  - "2011"
+  - "mcmillen"
+notes: "Massively influential indie roguelike that popularized the genre. Over 5 million copies sold across all versions. Spawned multiple expansions and inspired countless similar games."
+last_updated: "2025-01-30"

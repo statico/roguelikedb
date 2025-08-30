@@ -1,0 +1,57 @@
+name: "Hengband"
+slug: "hengband"
+description: "Japanese Angband variant released in 2008 with unique features, extensive Japanese localization, and distinctive gameplay mechanics. One of the most popular Angband variants in Japan with active development."
+release_date: "2008"
+latest_version: "3.0.0"
+developers:
+  - "Hengband Development Team"
+  - "Mr. Hoge"
+platforms:
+  - "Windows"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "tile_graphics"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "zangband"
+  parent_games:
+    - "zangband"
+    - "angband"
+  fork_type: "major_variant"
+links:
+  official_website: "http://hengband.sourceforge.jp/"
+  roguebasin: "https://www.roguebasin.com/index.php/Hengband"
+community:
+  active_development: true
+  open_source: true
+  license: "Angband License"
+  community_size: "medium"
+  languages:
+    - "Japanese"
+    - "English"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64MB"
+    storage_space: "50MB"
+tags:
+  - "angband-variant"
+  - "japanese"
+  - "active"
+  - "localized"
+  - "2008"
+notes: "Major Japanese Angband variant with extensive localization and unique features. Maintains active development and has a strong following in Japan. Features both ASCII and tile graphics options."
+last_updated: "2025-01-30"

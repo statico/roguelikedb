@@ -1,0 +1,50 @@
+name: "Loop Hero"
+slug: "loop-hero"
+description: "Innovative card-based world-building roguelike where players place terrain cards to create challenges on a looping path. Features automatic battler mechanics with strategic card placement and resource management."
+release_date: "2021-03-04"
+developers:
+  - "Four Quarters"
+publishers:
+  - "Devolver Digital"
+platforms:
+  - "Windows"
+  - "Nintendo Switch"
+  - "PlayStation"
+  - "Xbox"
+classification:
+  primary_type: "roguelike"
+  subgenres:
+    - "deckbuilder"
+    - "simulation"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "story_driven"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  steam_page: "https://store.steampowered.com/app/1282730/Loop_Hero/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "2GB"
+tags:
+  - "card-based"
+  - "auto-battler"
+  - "innovative"
+  - "loop"
+  - "terrain"
+  - "2021"
+notes: "Highly innovative genre blend that received critical acclaim. Features unique automatic progression with strategic card placement. Strong narrative elements with post-apocalyptic themes."
+last_updated: "2025-01-30"

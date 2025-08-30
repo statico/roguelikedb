@@ -1,0 +1,56 @@
+name: "ZAngband"
+slug: "zangband"
+description: "Major Angband variant created in 1994 that expanded the game significantly with new races, classes, monsters, and gameplay mechanics. Served as foundation for many later Angband variants including ToME."
+release_date: "1994"
+latest_version: "2.7.5c"
+developers:
+  - "Topi Ylinen"
+  - "ZAngband Development Team"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "DOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "angband"
+  parent_games:
+    - "angband"
+    - "moria"
+  notable_forks:
+    - "tales-of-middle-earth"
+    - "hengband"
+  fork_type: "major_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/ZAngband"
+community:
+  active_development: false
+  open_source: true
+  license: "Angband License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "4MB"
+    storage_space: "10MB"
+tags:
+  - "angband-variant"
+  - "major-expansion"
+  - "1994"
+  - "foundation"
+  - "influential"
+notes: "One of the most influential Angband variants. Greatly expanded the monster list, added new races and classes, and served as the base for ToME and other major variants."
+last_updated: "2025-01-30"

@@ -1,0 +1,45 @@
+name: "dnd (PLATO)"
+slug: "dnd-plato"
+description: "One of the earliest computer role-playing games created in 1975 on the PLATO system, featuring character classes, dungeon exploration, turn-based combat, and mechanics that directly influenced Rogue and later roguelikes."
+release_date: "1975"
+developers:
+  - "Gary Whisenhunt"
+  - "Ray Wood"
+platforms:
+  - "Other"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "permadeath"
+    - "character_classes"
+    - "magic_system"
+  difficulty: "hard"
+lineage:
+  notable_forks:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  wiki: "https://en.wikipedia.org/wiki/Dungeons_%26_Dragons_computer_games"
+community:
+  active_development: false
+  open_source: false
+  community_size: "small"
+technical:
+  engine: "PLATO system native programming"
+  source_language: "Assembly"
+  system_requirements:
+    notes: "Required PLATO system terminal access"
+tags:
+  - "historical"
+  - "foundational"
+  - "plato"
+  - "dnd"
+  - "1975"
+  - "turn-based"
+notes: "Foundational computer RPG that established many roguelike conventions. Based on D&D tabletop rules. Available through PLATO emulators."
+last_updated: "2025-01-30"

@@ -1,0 +1,46 @@
+name: "Larn"
+slug: "larn"
+description: "Innovative 1986 roguelike featuring unique time pressure mechanics where the player must save their daughter from illness within a time limit, adding narrative urgency to traditional roguelike exploration."
+release_date: "1986"
+developers:
+  - "Noah Morgan"
+platforms:
+  - "Unix"
+  - "DOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "story_driven"
+    - "magic_system"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Larn"
+community:
+  active_development: false
+  open_source: true
+  community_size: "small"
+technical:
+  engine: "C programming language"
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64KB"
+    notes: "Unix or DOS system with terminal support"
+tags:
+  - "narrative"
+  - "time-pressure"
+  - "innovative"
+  - "1986"
+  - "story-driven"
+notes: "First roguelike to implement meaningful time pressure and narrative urgency. Player has limited time to find cure in volcano depths before daughter dies."
+last_updated: "2025-01-30"

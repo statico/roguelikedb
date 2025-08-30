@@ -1,0 +1,47 @@
+name: "Beneath Apple Manor"
+slug: "beneath-apple-manor"
+description: "One of the earliest commercial roguelike games featuring procedurally generated dungeons, developed for Apple II in 1978. Notable for pioneering random dungeon generation in commercial gaming two years before Rogue."
+release_date: "1978"
+latest_version: "Special Edition (1982)"
+developers:
+  - "Don Worth"
+publishers:
+  - "The Software Factory"
+platforms:
+  - "Other"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+  difficulty: "moderate"
+lineage:
+  notable_forks:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  wiki: "https://en.wikipedia.org/wiki/Beneath_Apple_Manor"
+community:
+  active_development: false
+  open_source: false
+  community_size: "small"
+  license: "Proprietary"
+technical:
+  engine: "Apple II BASIC and assembly"
+  source_language: "BASIC"
+  system_requirements:
+    minimum_ram: "48KB"
+    notes: "Required Apple II computer and floppy disk"
+tags:
+  - "historical"
+  - "commercial"
+  - "apple-ii"
+  - "procedural"
+  - "1978"
+notes: "Groundbreaking for commercial use of procedural generation. Available through Apple II emulators and retrogaming archives."
+last_updated: "2025-01-30"

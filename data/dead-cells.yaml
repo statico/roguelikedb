@@ -1,6 +1,6 @@
 name: "Dead Cells"
 slug: "dead-cells"
-description: "A roguelike-Metroidvania game featuring tight platforming and challenging combat. Players control an amorphous creature called the Prisoner, exploring a diseased island with interconnected areas and permanent upgrades."
+description: "Metroidvania roguelike featuring fluid combat and procedural levels with permadeath mechanics. Motion Twin's acclaimed indie hit with 2024 local co-op update, multiple DLCs including Castlevania-themed expansion, and over 5 million copies sold."
 release_date: "2018-08-07"
 latest_version: "2024.9"
 developers:
@@ -88,5 +88,5 @@ tags:
   - "indie"
   - "motion_twin"
 
-notes: "Winner of multiple indie game awards. Known for its fluid animation and tight controls. Has received numerous free content updates."
+notes: "Over 5 million copies sold with Overwhelmingly Positive Steam reviews (96%). Features local 2-player co-op (added June 11, 2024), shared map with independent permadeath and revive cooldown. Large modding and speedrunning communities (~100k Discord members). Multiple DLCs including Castlevania crossover content."
 last_updated: "2025-08-29"

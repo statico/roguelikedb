@@ -1,0 +1,62 @@
+name: "Cataclysm: Dark Days Ahead"
+slug: "cataclysm-dda"
+description: "Open-source post-apocalyptic survival roguelike with incredibly detailed simulation systems, crafting, base building, and vehicle construction. One of the most complex roguelikes ever created."
+release_date: "2013-02-26"
+latest_version: "0.H Herbert"
+developers:
+  - "Kevin Granade"
+  - "CleverRaven Community"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+  - "Android"
+  - "iOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "survival"
+    - "post-apocalyptic"
+    - "simulation"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "tile_graphics"
+    - "crafting"
+    - "sandbox"
+    - "open_source"
+    - "moddable"
+  difficulty: "extreme"
+lineage:
+  forked_from: "cataclysm"
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "community_continuation"
+links:
+  github_repo: "https://github.com/CleverRaven/Cataclysm-DDA"
+  official_website: "https://cataclysmdda.org"
+  wiki: "https://cddawiki.chezzo.com"
+community:
+  active_development: true
+  open_source: true
+  license: "CC BY-SA 3.0"
+  community_size: "large"
+technical:
+  source_language: "C++"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "1GB"
+tags:
+  - "post-apocalyptic"
+  - "survival"
+  - "crafting"
+  - "vehicles"
+  - "simulation"
+  - "open-source"
+  - "zombies"
+notes: "Features one of the most detailed crafting and survival systems in gaming. You can build vehicles, construct bases, and survive in a detailed post-apocalyptic world."
+last_updated: "2025-01-30"

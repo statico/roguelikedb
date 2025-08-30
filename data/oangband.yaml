@@ -1,0 +1,53 @@
+name: "Oangband"
+slug: "oangband"
+description: "Angband variant released in 2006 that merged features from multiple other variants. Known for balancing complexity with playability and featuring improved interface elements."
+release_date: "2006"
+latest_version: "1.1.0u"
+developers:
+  - "Bahman Rabii"
+  - "Leon Marrick"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "angband"
+  parent_games:
+    - "angband"
+    - "zangband"
+  fork_type: "major_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/OAngband"
+community:
+  active_development: false
+  open_source: true
+  license: "Angband License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "32MB"
+    storage_space: "20MB"
+tags:
+  - "angband-variant"
+  - "merged-features"
+  - "balanced"
+  - "2006"
+  - "interface-improved"
+notes: "Attempted to merge the best features from various Angband variants while maintaining balance. Known for its improved interface and user experience compared to vanilla Angband."
+last_updated: "2025-01-30"

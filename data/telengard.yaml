@@ -1,0 +1,45 @@
+name: "Telengard"
+slug: "telengard"
+description: "Early commercial roguelike created in 1982 by Daniel Lawrence, featuring 50-level dungeon with real-time elements and save game functionality. Notable as one of the first widely distributed commercial roguelikes."
+release_date: "1982"
+developers:
+  - "Daniel Lawrence"
+platforms:
+  - "DOS"
+  - "C64"
+  - "Apple II"
+  - "TRS-80"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "character_classes"
+    - "ascii_graphics"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+    - "dnd-plato"
+  fork_type: "inspired_by"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "small"
+technical:
+  source_language: "BASIC"
+  system_requirements:
+    minimum_ram: "48KB"
+    storage_space: "1MB"
+tags:
+  - "historical"
+  - "commercial"
+  - "1982"
+  - "multi-platform"
+  - "real-time"
+notes: "One of the earliest commercial roguelikes with wide distribution. Featured real-time gameplay elements unusual for early roguelikes."
+last_updated: "2025-01-30"

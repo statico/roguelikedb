@@ -1,0 +1,49 @@
+name: "Pacific Drive"
+slug: "pacific-drive"
+description: "Survival driving roguelike with randomized expeditions and time pressure mechanics. Features vehicle customization and repair in a hazardous post-apocalyptic setting with procedural encounters."
+release_date: "2024-02-22"
+developers:
+  - "Ironwood Studios"
+publishers:
+  - "Kepler Interactive"
+platforms:
+  - "PlayStation"
+  - "Windows"
+classification:
+  primary_type: "roguelike"
+  subgenres:
+    - "survival"
+    - "post-apocalyptic"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "3d_graphics"
+    - "crafting"
+    - "sandbox"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  steam_page: "https://store.steampowered.com/app/1458140/Pacific_Drive/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "8GB"
+    storage_space: "20GB"
+tags:
+  - "driving"
+  - "survival"
+  - "vehicle"
+  - "post-apocalyptic"
+  - "expeditions"
+  - "2024"
+notes: "Unique blend of driving mechanics with roguelike progression. Features detailed vehicle damage and repair systems. Time pressure creates strategic tension in exploration."
+last_updated: "2025-01-30"

@@ -1,0 +1,50 @@
+name: "Hellband"
+slug: "hellband"
+description: "Hell-themed Angband variant featuring darker atmosphere, demonic creatures, and infernal settings. Explores horror themes within the Angband framework with unique monsters and locations."
+release_date: "2004"
+developers:
+  - "Konijn"
+platforms:
+  - "Windows"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "horror"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "angband"
+  parent_games:
+    - "angband"
+  fork_type: "major_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Hellband"
+community:
+  active_development: false
+  open_source: true
+  license: "Angband License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "32MB"
+    storage_space: "20MB"
+tags:
+  - "angband-variant"
+  - "hell-themed"
+  - "horror"
+  - "demonic"
+  - "2004"
+  - "dark"
+notes: "Distinctive horror-themed Angband variant featuring infernal creatures and darker atmosphere. Part of the thematic exploration wave of Angband variants in the mid-2000s."
+last_updated: "2025-01-30"

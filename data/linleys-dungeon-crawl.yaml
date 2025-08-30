@@ -1,0 +1,52 @@
+name: "Linley's Dungeon Crawl"
+slug: "linleys-dungeon-crawl"
+description: "Classic roguelike created by Linley Henzell in 1995, serving as the predecessor to Dungeon Crawl Stone Soup. Featured innovative spellcasting mechanics and streamlined gameplay."
+release_date: "1995"
+latest_version: "4.0.0 beta26"
+developers:
+  - "Linley Henzell"
+platforms:
+  - "DOS"
+  - "Windows"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "character_classes"
+    - "magic_system"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+    - "moria"
+  notable_forks:
+    - "dcss"
+  fork_type: "inspired_by"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Linley's_Dungeon_Crawl"
+community:
+  active_development: false
+  open_source: true
+  community_size: "small"
+technical:
+  source_language: "C++"
+  system_requirements:
+    minimum_ram: "16MB"
+    storage_space: "10MB"
+tags:
+  - "classic"
+  - "predecessor"
+  - "spellcasting"
+  - "dcss-ancestor"
+  - "1995"
+notes: "Important predecessor to DCSS. Featured innovative spell memorization system and streamlined character progression that influenced modern roguelike design."
+last_updated: "2025-01-30"

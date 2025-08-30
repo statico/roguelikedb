@@ -1,0 +1,60 @@
+name: "Tales of Middle Earth (ToME)"
+slug: "tales-of-middle-earth"
+description: "Open-source roguelike based on Tolkien's Middle-earth, originally released in 1998 as Angband variant, evolved into independent game with complex skill system and faithful adaptation of Tolkien's world."
+release_date: "1998"
+latest_version: "4.10.0"
+developers:
+  - "Nicolas Casalini (DarkGod)"
+  - "Community contributors"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "tile_graphics"
+    - "skill_trees"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+    - "moddable"
+  difficulty: "hard"
+lineage:
+  forked_from: "zangband"
+  parent_games:
+    - "angband"
+    - "moria"
+  fork_type: "major_variant"
+links:
+  official_website: "https://www.t-o-m-e.net"
+  roguebasin: "https://www.roguebasin.com/index.php/Tales_of_Middle_Earth"
+  wiki: "https://tolkiengateway.net/wiki/Tales_of_Middle_Earth"
+community:
+  active_development: true
+  open_source: true
+  license: "GPL"
+  community_size: "medium"
+technical:
+  engine: "T-Engine4 (ToME 4)"
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "512MB"
+    storage_space: "100MB"
+tags:
+  - "tolkien"
+  - "middle-earth"
+  - "open-source"
+  - "angband-variant"
+  - "skill-system"
+  - "fantasy"
+notes: "One of the most successful open-source roguelikes. Features faithful recreation of Middle-earth with multiple victory conditions and deep character customization."
+last_updated: "2025-01-30"

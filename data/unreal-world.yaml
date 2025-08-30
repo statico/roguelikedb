@@ -1,0 +1,56 @@
+name: "UnReal World"
+slug: "unreal-world"
+description: "Survival roguelike set in Iron Age Finland, first released in 1992. Features detailed survival simulation, hunting, fishing, crafting, and realistic seasonal weather systems."
+release_date: "1992"
+latest_version: "3.84"
+developers:
+  - "Sami Maaranen"
+  - "Erkka Lehmus"
+publishers:
+  - "Enormous Elk"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "survival"
+    - "historical"
+    - "simulation"
+  gameplay_features:
+    - "turn_based"
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "crafting"
+    - "sandbox"
+  difficulty: "extreme"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  official_website: "http://www.unrealworld.fi"
+  steam_page: "https://store.steampowered.com/app/351700/UnReal_World/"
+  wiki: "https://en.wikipedia.org/wiki/UnReal_World"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  source_language: "C++"
+  system_requirements:
+    minimum_ram: "512MB"
+    storage_space: "500MB"
+tags:
+  - "survival"
+  - "finland"
+  - "iron-age"
+  - "realistic"
+  - "longevity"
+  - "seasons"
+notes: "One of the longest-developed roguelikes, continuously updated since 1992. Features incredibly detailed survival mechanics based on actual Iron Age Finnish culture."
+last_updated: "2025-01-30"

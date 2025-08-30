@@ -1,0 +1,51 @@
+name: "Steamband"
+slug: "steamband"
+description: "Steampunk-themed Angband variant featuring Victorian-era technology, steam-powered devices, and industrial aesthetics. Replaces traditional fantasy elements with steampunk alternatives."
+release_date: "2005"
+latest_version: "0.4.0"
+developers:
+  - "Greg Wooledge"
+platforms:
+  - "Windows"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "sci-fi"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "character_classes"
+    - "crafting"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "angband"
+  parent_games:
+    - "angband"
+  fork_type: "major_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Steamband"
+community:
+  active_development: false
+  open_source: true
+  license: "Angband License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "32MB"
+    storage_space: "20MB"
+tags:
+  - "angband-variant"
+  - "steampunk"
+  - "themed"
+  - "victorian"
+  - "2005"
+  - "industrial"
+notes: "Unique steampunk setting among Angband variants. Features steam-powered technology, Victorian-era aesthetics, and industrial equipment replacing traditional fantasy items."
+last_updated: "2025-01-30"

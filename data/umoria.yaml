@@ -1,0 +1,54 @@
+name: "UMoria"
+slug: "umoria"
+description: "Unix port of Moria created by James E. Wilson, becoming the standard Unix version and foundation for many later variants. Features improved interface and portability over original Moria."
+release_date: "1987"
+latest_version: "5.7.15"
+developers:
+  - "James E. Wilson"
+  - "David J. Grabiner"
+platforms:
+  - "Unix"
+  - "Linux"
+  - "Windows"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "hard"
+lineage:
+  forked_from: "moria"
+  parent_games:
+    - "moria"
+  notable_forks:
+    - "angband"
+  fork_type: "direct_fork"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/UMoria"
+community:
+  active_development: false
+  open_source: true
+  license: "GPL"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64KB"
+    storage_space: "5MB"
+tags:
+  - "unix"
+  - "moria-port"
+  - "foundation"
+  - "angband-ancestor"
+  - "1987"
+notes: "Standard Unix port of Moria that became the foundation for Angband and many other variants. Important bridge between original Moria and modern variants."
+last_updated: "2025-01-30"

@@ -1,0 +1,47 @@
+name: "Against the Storm"
+slug: "against-the-storm"
+description: "City-building roguelike with species management and event-driven hazards. Features the queen's impatience mechanic and procedural maps with unique weather-based challenges in a fantasy setting."
+release_date: "2023-12-08"
+developers:
+  - "Eremite Games"
+publishers:
+  - "Hooded Horse"
+platforms:
+  - "Windows"
+classification:
+  primary_type: "roguelike"
+  subgenres:
+    - "fantasy"
+    - "simulation"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "sandbox"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  steam_page: "https://store.steampowered.com/app/1336490/Against_the_Storm/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "8GB"
+    storage_space: "4GB"
+tags:
+  - "city-builder"
+  - "species-management"
+  - "weather"
+  - "fantasy"
+  - "strategy"
+  - "2023"
+notes: "Innovative blend of city-building with roguelike meta-progression. Reached 100,000 players within six months. Features unique species management with different races having distinct needs and abilities."
+last_updated: "2025-01-30"

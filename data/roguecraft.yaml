@@ -1,0 +1,46 @@
+name: "Roguecraft"
+slug: "roguecraft"
+description: "Modern indie Amiga roguelike by Badger Punch using AGA chipset tricks and HAM-5 mode for enhanced graphics. Released in 2025 with Evercade port featuring exclusive content."
+release_date: "2025"
+developers:
+  - "Badger Punch"
+platforms:
+  - "Amiga"
+  - "Other"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  itch_page: "https://badger-punch.itch.io/roguecraft"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "small"
+technical:
+  engine: "AGA chipset optimized"
+  source_language: "Assembly"
+  system_requirements:
+    notes: "Requires Amiga with AGA chipset for enhanced graphics"
+tags:
+  - "amiga"
+  - "modern-retro"
+  - "aga"
+  - "indie"
+  - "2025"
+  - "evercade"
+notes: "Demonstrates ongoing Amiga development community. Uses advanced AGA techniques for 262,144 colors on screen and streamed Paula audio."
+last_updated: "2025-01-30"
