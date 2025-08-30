@@ -1,0 +1,61 @@
+name: "Rogue Legacy"
+slug: "rogue-legacy"
+description: "Genealogical roguelite platformer where each death passes control to a descendant with unique traits, genetic conditions, and inherited castle upgrades providing meta-progression."
+release_date: "2013-06-27"
+latest_version: "1.2.0b"
+developers:
+  - "Cellar Door Games"
+publishers:
+  - "Cellar Door Games"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "PlayStation 3"
+  - "PlayStation 4"
+  - "Xbox 360"
+  - "PlayStation Vita"
+  - "Steam"
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "platformer"
+    - "metroidvania"
+  gameplay_features:
+    - "real_time"
+    - "2d_graphics"
+    - "procedural_generation"
+    - "meta_progression"
+    - "genetic_traits"
+    - "castle_upgrades"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+    - "castlevania"
+  notable_forks:
+    - "rogue-legacy-2"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://www.cellardoor.games/rogue-legacy/"
+  steam_page: "https://store.steampowered.com/app/241600/Rogue_Legacy/"
+  wiki: "https://en.wikipedia.org/wiki/Rogue_Legacy"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "C#/XNA"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "200MB"
+tags:
+  - "genealogical"
+  - "platformer"
+  - "meta-progression"
+  - "2013"
+  - "innovative"
+  - "traits"
+notes: "Groundbreaking roguelite with 'Very Positive' Steam reviews (91%) and over 1.2 million copies sold. Popularized genealogical progression mechanics and inspired numerous imitators in the genre."
+last_updated: "2025-01-30"

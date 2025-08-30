@@ -1,0 +1,52 @@
+name: "EvilHack"
+slug: "evilhack"
+description: "Difficult NetHack variant featuring branch color coding, expanded ranks, cursed item enhancements, and anti-heroic challenges. Part of the experimental NetHack modification scene."
+release_date: "2003"
+developers:
+  - "Eric W. Harland (EvilHack)"
+platforms:
+  - "DOS"
+  - "Windows"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "pets_companions"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "nethack"
+  parent_games:
+    - "nethack"
+  fork_type: "major_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/EvilHack"
+community:
+  active_development: false
+  open_source: true
+  license: "NetHack General Public License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "32MB"
+    storage_space: "30MB"
+tags:
+  - "nethack-variant"
+  - "difficult"
+  - "evil-themed"
+  - "cursed-items"
+  - "2003"
+  - "experimental"
+notes: "Experimental NetHack variant exploring anti-heroic themes and increased difficulty. Features were later incorporated into other variants including SLEX and UnNetHack."
+last_updated: "2025-01-30"

@@ -1,0 +1,53 @@
+name: "Torneko no Daibouken: Fushigi no Dungeon"
+slug: "torneko-no-daibouken"
+description: "First Mystery Dungeon game featuring Dragon Quest's Torneko as protagonist. Established the Mystery Dungeon formula combining traditional roguelike mechanics with JRPG accessibility and character progression."
+release_date: "1993-09-19"
+developers:
+  - "Chunsoft"
+publishers:
+  - "Enix"
+platforms:
+  - "Super Famicom"
+  - "Game Boy"
+classification:
+  primary_type: "roguelike"
+  subgenres:
+    - "mystery_dungeon"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "story_driven"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  notable_forks:
+    - "pokemon-mystery-dungeon-red-rescue-team"
+    - "shiren-the-wanderer"
+  fork_type: "commercial_adaptation"
+links:
+  wiki: "https://en.wikipedia.org/wiki/Torneko_no_Daib%C5%8Dken:_Fushigi_no_Dungeon"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Custom SNES engine"
+  system_requirements:
+    storage_space: "8Mbit"
+    notes: "Super Famicom cartridge"
+tags:
+  - "mystery-dungeon"
+  - "dragon-quest"
+  - "chunsoft"
+  - "foundational"
+  - "1993"
+  - "snes"
+notes: "First game in the Mystery Dungeon series, establishing the template for console roguelikes. Featured Torneko from Dragon Quest IV and introduced roguelike mechanics to console audiences."
+last_updated: "2025-01-30"

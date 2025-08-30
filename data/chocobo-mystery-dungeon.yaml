@@ -1,0 +1,52 @@
+name: "Chocobo's Mystery Dungeon"
+slug: "chocobo-mystery-dungeon"
+description: "Square's Mystery Dungeon entry featuring Final Fantasy's iconic Chocobo character. Traditional roguelike mechanics with Final Fantasy job system integration and colorful presentation."
+release_date: "1997-12-23"
+latest_version: "1.0"
+developers:
+  - "Square"
+publishers:
+  - "Square"
+platforms:
+  - "PlayStation"
+  - "WonderSwan Color"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "mystery_dungeon"
+    - "final_fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "job_system"
+    - "story_driven"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "torneko-no-daibouken"
+  notable_forks:
+    - "final-fantasy-fables-chocobo-tales"
+  fork_type: "licensed_adaptation"
+links:
+  wiki: "https://en.wikipedia.org/wiki/Chocobo%27s_Mysterious_Dungeon"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Custom PlayStation engine"
+  system_requirements:
+    storage_space: "CD-ROM"
+tags:
+  - "chocobo"
+  - "final-fantasy"
+  - "square"
+  - "mystery-dungeon"
+  - "1997"
+  - "playstation"
+notes: "First PlayStation Mystery Dungeon game featuring Square's beloved Chocobo mascot. Integrated Final Fantasy job classes and magic system into traditional roguelike framework."
+last_updated: "2025-01-30"

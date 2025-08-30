@@ -1,0 +1,54 @@
+name: "868-HACK"
+slug: "868-hack"
+description: "Minimalist cyberpunk roguelike designed for mobile devices featuring resource management, stealth mechanics, and abstract hacking-themed gameplay with unique scoring system."
+release_date: "2013-09-12"
+latest_version: "1.2"
+developers:
+  - "Michael Brough"
+publishers:
+  - "Michael Brough"
+platforms:
+  - "iOS"
+  - "Android"
+  - "Windows"
+  - "macOS"
+  - "Linux"
+classification:
+  primary_type: "mobile"
+  subgenres:
+    - "cyberpunk"
+    - "minimalist"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "resource_management"
+    - "scoring_system"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  official_website: "http://www.868-hack.com/"
+  app_store: "https://apps.apple.com/us/app/868-hack/id635749911"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Custom mobile engine"
+  system_requirements:
+    minimum_ram: "1GB"
+    storage_space: "50MB"
+tags:
+  - "cyberpunk"
+  - "mobile"
+  - "minimalist"
+  - "scoring"
+  - "2013"
+  - "abstract"
+notes: "Critically acclaimed mobile roguelike with multiple awards including Excellence in Design at IGF 2014. Featured in 'Best of' lists on both iOS and Android app stores for innovative mobile-first design."
+last_updated: "2025-01-30"

@@ -1,0 +1,52 @@
+name: "AceHack"
+slug: "acehack"
+description: "NetHack variant created by Jérôme Péron featuring customizable UI with menu-driven commands, enhanced message logs, replay functionality, and improved logging with crash recovery."
+release_date: "2019"
+latest_version: "1.0"
+developers:
+  - "Jérôme Péron (wasting-away)"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "pets_companions"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "nethack"
+  parent_games:
+    - "nethack"
+  fork_type: "major_variant"
+links:
+  github_repo: "https://github.com/wasting-away/AceHack"
+community:
+  active_development: true
+  open_source: true
+  license: "NetHack General Public License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64MB"
+    storage_space: "50MB"
+tags:
+  - "nethack-variant"
+  - "ui-customizable"
+  - "enhanced-logging"
+  - "replay"
+  - "2019"
+notes: "Modern NetHack variant focusing on improved user experience with customizable interface, enhanced logging, and replay functionality. Active development with community engagement."
+last_updated: "2025-01-30"

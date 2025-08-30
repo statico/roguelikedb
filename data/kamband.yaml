@@ -1,0 +1,51 @@
+name: "Kamband"
+slug: "kamband"
+description: "Japanese-developed Angband variant with unique monster AI, enhanced graphics support, and gameplay mechanics influenced by Japanese RPG design philosophy."
+release_date: "2002-01-01"
+latest_version: "2.1.3"
+developers:
+  - "Kawazoe Nobuhiro"
+  - "Japanese Angband Community"
+publishers:
+  - "Open Source Community"
+platforms:
+  - "Windows"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "angband_variant"
+    - "japanese"
+  gameplay_features:
+    - "turn_based"
+    - "ascii_graphics"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "enhanced_ai"
+  difficulty: "extreme"
+lineage:
+  parent_games:
+    - "angband"
+  fork_type: "regional_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Kamband"
+community:
+  active_development: false
+  open_source: true
+  license: "Angband license"
+  community_size: "small"
+technical:
+  source_language: "C"
+  engine: "Modified Angband engine"
+  system_requirements:
+    minimum_ram: "16MB"
+    storage_space: "20MB"
+tags:
+  - "angband-variant"
+  - "japanese"
+  - "enhanced-ai"
+  - "2002"
+  - "regional"
+notes: "Developed by Japanese roguelike community with focus on improved monster AI and graphics. Featured unique gameplay elements influenced by Japanese game design traditions."
+last_updated: "2025-01-30"

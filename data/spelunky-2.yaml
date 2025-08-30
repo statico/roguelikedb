@@ -1,0 +1,56 @@
+name: "Spelunky 2"
+slug: "spelunky-2"
+description: "Highly anticipated sequel to influential Spelunky featuring expanded mechanics, new areas, online multiplayer, and refined platforming roguelike gameplay with even more emergent possibilities."
+release_date: "2020-09-15"
+latest_version: "1.32.0"
+developers:
+  - "Derek Yu"
+  - "Mossmouth"
+publishers:
+  - "Mossmouth"
+platforms:
+  - "PlayStation 4"
+  - "Windows"
+  - "Xbox One"
+  - "Nintendo Switch"
+  - "Steam"
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "platformer"
+    - "action"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "multiplayer"
+    - "emergent_gameplay"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "spelunky"
+  fork_type: "direct_sequel"
+links:
+  official_website: "https://spelunky2.com/"
+  steam_page: "https://store.steampowered.com/app/418530/Spelunky_2/"
+  wiki: "https://en.wikipedia.org/wiki/Spelunky_2"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "massive"
+technical:
+  engine: "Custom C++ engine"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "2GB"
+tags:
+  - "platformer"
+  - "sequel"
+  - "multiplayer"
+  - "derek-yu"
+  - "2020"
+  - "acclaimed"
+notes: "Critically acclaimed sequel with 'Overwhelmingly Positive' Steam reviews (96%). Over 1 million copies sold within months of release. Winner of multiple Game of the Year awards and considered evolution of the roguelite genre."
+last_updated: "2025-01-30"

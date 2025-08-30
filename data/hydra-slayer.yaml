@@ -1,0 +1,54 @@
+name: "Hydra Slayer"
+slug: "hydra-slayer"
+description: "Mathematical puzzle roguelike focused on hydra-slaying mechanics where cutting heads affects regeneration patterns, creating unique strategic combat requiring mathematical thinking."
+release_date: "2012-01-01"
+latest_version: "18.0"
+developers:
+  - "Zeno Rogue"
+publishers:
+  - "Zeno Rogue"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "Android"
+  - "Steam"
+classification:
+  primary_type: "puzzle"
+  subgenres:
+    - "mathematical"
+    - "educational"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "puzzle_combat"
+    - "mathematical_mechanics"
+    - "strategic_thinking"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  official_website: "http://www.roguetemple.com/z/hydrax/"
+  steam_page: "https://store.steampowered.com/app/1433780/Hydra_Slayer/"
+  source_code: "https://github.com/zenorogue/hydra"
+community:
+  active_development: true
+  open_source: true
+  license: "GPLv2"
+  community_size: "small"
+technical:
+  source_language: "C++"
+  engine: "Custom puzzle engine"
+  system_requirements:
+    minimum_ram: "256MB"
+    storage_space: "50MB"
+tags:
+  - "puzzle"
+  - "mathematical"
+  - "educational"
+  - "hydra"
+  - "2012"
+  - "strategic"
+notes: "Unique puzzle roguelike that teaches mathematical concepts through gameplay. Featured in educational contexts and praised for innovative combination of mathematical problem-solving with roguelike mechanics."
+last_updated: "2025-01-30"

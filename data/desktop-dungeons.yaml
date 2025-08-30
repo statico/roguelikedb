@@ -1,0 +1,55 @@
+name: "Desktop Dungeons"
+slug: "desktop-dungeons"
+description: "Puzzle-focused roguelike with quick gameplay sessions featuring resource management, tactical combat, and unlockable content in bite-sized dungeon challenges."
+release_date: "2013-11-07"
+latest_version: "Enhanced Edition"
+developers:
+  - "QCF Design"
+publishers:
+  - "QCF Design"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "Steam"
+  - "iOS"
+  - "Android"
+classification:
+  primary_type: "puzzle"
+  subgenres:
+    - "tactical"
+    - "casual"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "puzzle_combat"
+    - "resource_management"
+    - "quick_sessions"
+    - "unlockable_content"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  official_website: "http://www.desktopdungeons.net/"
+  steam_page: "https://store.steampowered.com/app/226620/Desktop_Dungeons/"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Custom 2D engine"
+  system_requirements:
+    minimum_ram: "1GB"
+    storage_space: "500MB"
+tags:
+  - "puzzle"
+  - "tactical"
+  - "quick-play"
+  - "2013"
+  - "casual"
+  - "bite-sized"
+notes: "Successful puzzle roguelike with 'Very Positive' Steam reviews (86%). Started as free alpha version that gained massive popularity before commercial release. Features extensive unlock system and metaprogression."
+last_updated: "2025-01-30"

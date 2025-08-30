@@ -1,0 +1,52 @@
+name: "Quickband"
+slug: "quickband"
+description: "Speed-focused Angband variant designed for faster gameplay sessions with streamlined mechanics, reduced grinding, and accelerated character progression while maintaining core depth."
+release_date: "2004-01-01"
+latest_version: "1.0.4"
+developers:
+  - "Andrew Doull"
+  - "Quickband Development Team"
+publishers:
+  - "Open Source Community"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "angband_variant"
+    - "streamlined"
+  gameplay_features:
+    - "turn_based"
+    - "ascii_graphics"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "fast_progression"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "angband"
+  fork_type: "streamlined_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Quickband"
+community:
+  active_development: false
+  open_source: true
+  license: "Angband license"
+  community_size: "small"
+technical:
+  source_language: "C"
+  engine: "Modified Angband engine"
+  system_requirements:
+    minimum_ram: "16MB"
+    storage_space: "15MB"
+tags:
+  - "angband-variant"
+  - "fast-paced"
+  - "streamlined"
+  - "2004"
+  - "accessible"
+notes: "Designed to address complaints about Angband's lengthy gameplay sessions by accelerating progression and reducing tedious elements while preserving strategic depth and challenge."
+last_updated: "2025-01-30"

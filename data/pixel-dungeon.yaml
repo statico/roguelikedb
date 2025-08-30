@@ -1,0 +1,60 @@
+name: "Pixel Dungeon"
+slug: "pixel-dungeon"
+description: "Popular mobile roguelike featuring pixel art graphics, simplified controls optimized for touchscreens, and traditional roguelike mechanics adapted for casual mobile gaming."
+release_date: "2012-12-12"
+latest_version: "1.9.2a"
+developers:
+  - "Watabou"
+publishers:
+  - "Watabou"
+platforms:
+  - "Android"
+  - "iOS"
+  - "Windows"
+  - "macOS"
+  - "Linux"
+classification:
+  primary_type: "mobile"
+  subgenres:
+    - "casual"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "touch_controls"
+    - "simplified_mechanics"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  notable_forks:
+    - "shattered-pixel-dungeon"
+    - "sprouted-pixel-dungeon"
+  fork_type: "mobile_adaptation"
+links:
+  official_website: "http://pixeldungeon.watabou.ru/"
+  google_play: "https://play.google.com/store/apps/details?id=com.watabou.pixeldungeon"
+  source_code: "https://github.com/watabou/pixel-dungeon"
+community:
+  active_development: false
+  open_source: true
+  license: "GPLv3"
+  community_size: "massive"
+technical:
+  source_language: "Java"
+  engine: "LibGDX"
+  system_requirements:
+    minimum_ram: "1GB"
+    storage_space: "50MB"
+tags:
+  - "mobile"
+  - "pixel-art"
+  - "casual"
+  - "touchscreen"
+  - "2012"
+  - "popular"
+notes: "Breakthrough mobile roguelike with over 10 million downloads across platforms. Spawned numerous forks and variants, establishing roguelikes as viable mobile genre. Open source with active modding community."
+last_updated: "2025-01-30"

@@ -1,0 +1,57 @@
+name: "Darkest Dungeon"
+slug: "darkest-dungeon"
+description: "Turn-based RPG with roguelike elements featuring stress and affliction mechanics, challenging tactical combat, and distinctive gothic art style. Emphasizes psychological horror and party management."
+release_date: "2016-01-19"
+latest_version: "24787"
+developers:
+  - "Red Hook Studios"
+publishers:
+  - "Red Hook Studios"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "PlayStation"
+  - "Xbox"
+  - "Nintendo Switch"
+  - "iOS"
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "horror"
+    - "gothic"
+  gameplay_features:
+    - "turn_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "story_driven"
+    - "character_classes"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "xcom"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://www.darkestdungeon.com"
+  steam_page: "https://store.steampowered.com/app/262060/Darkest_Dungeon/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "2GB"
+tags:
+  - "stress-mechanics"
+  - "psychological-horror"
+  - "gothic"
+  - "party-management"
+  - "indie-hit"
+  - "2016"
+notes: "Over 5 million copies sold. Revolutionary stress and affliction system that affects character behavior. Distinctive hand-drawn art style and narrator. Sequel released in 2023."
+last_updated: "2025-01-30"

@@ -1,0 +1,56 @@
+name: "Neon Abyss"
+slug: "neon-abyss"
+description: "Fast-paced bullet hell roguelite featuring weapons with stacking modifiers, pet system, destructible environments, and cyberpunk aesthetic with intense action gameplay."
+release_date: "2020-07-14"
+latest_version: "1.3.1.2"
+developers:
+  - "Veewo Games"
+publishers:
+  - "Team17"
+platforms:
+  - "Windows"
+  - "PlayStation 4"
+  - "Xbox One"
+  - "Nintendo Switch"
+  - "Steam"
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "bullet_hell"
+    - "action"
+  gameplay_features:
+    - "real_time"
+    - "2d_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "weapon_modifiers"
+    - "destructible_environments"
+    - "pet_system"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "the-binding-of-isaac"
+    - "enter-the-gungeon"
+  fork_type: "inspired_by"
+links:
+  steam_page: "https://store.steampowered.com/app/788100/Neon_Abyss/"
+  official_website: "https://www.neonabyss.com/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "1GB"
+tags:
+  - "bullet-hell"
+  - "cyberpunk"
+  - "fast-paced"
+  - "modifiers"
+  - "2020"
+  - "action"
+notes: "'Very Positive' Steam reviews (83%) with regular content updates and DLC expansions. Features extensive weapon modification system and pet collection mechanics with high replay value."
+last_updated: "2025-01-30"

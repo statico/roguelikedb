@@ -1,0 +1,50 @@
+name: "Crazyband"
+slug: "crazyband"
+description: "Deliberately chaotic Angband variant with randomized gameplay elements, unpredictable mechanics, and intentionally unbalanced features designed for experimental and humorous play."
+release_date: "2003-01-01"
+latest_version: "1.0.0"
+developers:
+  - "Various Contributors"
+publishers:
+  - "Open Source Community"
+platforms:
+  - "Windows"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "angband_variant"
+    - "experimental"
+  gameplay_features:
+    - "turn_based"
+    - "ascii_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "chaos"
+    - "randomized_mechanics"
+  difficulty: "chaotic"
+lineage:
+  parent_games:
+    - "angband"
+  fork_type: "experimental_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Crazyband"
+community:
+  active_development: false
+  open_source: true
+  license: "Angband license"
+  community_size: "tiny"
+technical:
+  source_language: "C"
+  engine: "Heavily modified Angband engine"
+  system_requirements:
+    minimum_ram: "8MB"
+    storage_space: "10MB"
+tags:
+  - "angband-variant"
+  - "chaos"
+  - "experimental"
+  - "2003"
+  - "unbalanced"
+notes: "Designed as a testing ground for extreme modifications to Angband mechanics. Known for unpredictable gameplay where normal strategies often fail due to intentionally chaotic design elements."
+last_updated: "2025-01-30"

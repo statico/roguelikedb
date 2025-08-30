@@ -1,0 +1,52 @@
+name: "Etrian Mystery Dungeon"
+slug: "etrian-mystery-dungeon"
+description: "Crossover between Etrian Odyssey and Mystery Dungeon series combining party-based exploration, character customization, and traditional roguelike dungeon mechanics."
+release_date: "2015-03-05"
+latest_version: "1.0"
+developers:
+  - "Atlus"
+  - "Spike Chunsoft"
+publishers:
+  - "Atlus"
+platforms:
+  - "Nintendo 3DS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "mystery_dungeon"
+    - "etrian_odyssey"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "party_based"
+    - "character_classes"
+    - "skill_trees"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "etrian-odyssey"
+    - "shiren-the-wanderer"
+  fork_type: "crossover_adaptation"
+links:
+  official_website: "https://www.atlus.com/etrian-mystery-dungeon/"
+  wiki: "https://en.wikipedia.org/wiki/Etrian_Mystery_Dungeon"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Custom 3DS engine"
+  system_requirements:
+    storage_space: "2GB"
+tags:
+  - "etrian-odyssey"
+  - "mystery-dungeon"
+  - "atlus"
+  - "3ds"
+  - "2015"
+  - "crossover"
+notes: "Unique fusion of two beloved dungeon-crawling series with deep character customization and challenging roguelike mechanics. Featured up to 4-person parties with extensive skill system."
+last_updated: "2025-01-30"

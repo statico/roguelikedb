@@ -1,0 +1,52 @@
+name: "Pokémon Mystery Dungeon: Explorers of Sky"
+slug: "pokemon-mystery-dungeon-explorers-of-sky"
+description: "Definitive version of Explorers series with additional storylines, expanded post-game content, and refined mechanics. Features five special episodes exploring backstories of key characters."
+release_date: "2009-04-18"
+latest_version: "1.0"
+developers:
+  - "Chunsoft"
+publishers:
+  - "Nintendo"
+  - "The Pokémon Company"
+platforms:
+  - "Nintendo DS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "mystery_dungeon"
+    - "pokemon"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "story_driven"
+    - "team_based"
+    - "weather_effects"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "pokemon-mystery-dungeon-explorers-of-time"
+  fork_type: "enhanced_edition"
+links:
+  official_website: "https://www.pokemon.com/us/pokemon-video-games/"
+  wiki: "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Sky"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Enhanced Mystery Dungeon DS engine"
+  system_requirements:
+    storage_space: "512Mbit"
+tags:
+  - "pokemon"
+  - "mystery-dungeon"
+  - "enhanced-edition"
+  - "nintendo-ds"
+  - "2009"
+  - "explorers"
+notes: "Considered the pinnacle of Pokémon Mystery Dungeon series with most content and refined gameplay. Featured comprehensive post-game dungeons and character development through special episodes."
+last_updated: "2025-01-30"

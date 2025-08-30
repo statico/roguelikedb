@@ -1,0 +1,57 @@
+name: "Tales of Maj'Eyal"
+slug: "tales-of-maj-eyal"
+description: "Feature-rich modern roguelike evolved from ToME with deep character customization, extensive skill trees, rich lore, and polished graphical presentation while maintaining traditional mechanics."
+release_date: "2012-12-31"
+latest_version: "1.7.7"
+developers:
+  - "Nicolas Casalini (DarkGod)"
+publishers:
+  - "Te4.org"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "Steam"
+classification:
+  primary_type: "modern"
+  subgenres:
+    - "fantasy"
+    - "tactical"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "character_classes"
+    - "skill_trees"
+    - "story_driven"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "tome"
+    - "angband"
+  fork_type: "spiritual_successor"
+links:
+  official_website: "https://te4.org/"
+  steam_page: "https://store.steampowered.com/app/259680/Tales_of_MajEyal/"
+  wiki: "https://en.wikipedia.org/wiki/Tales_of_Maj%27Eyal"
+community:
+  active_development: true
+  open_source: true
+  license: "GPLv3"
+  community_size: "large"
+technical:
+  engine: "T-Engine4"
+  source_language: "Lua/C"
+  system_requirements:
+    minimum_ram: "1GB"
+    storage_space: "1GB"
+tags:
+  - "tome-successor"
+  - "deep-customization"
+  - "skill-trees"
+  - "polished"
+  - "2012"
+  - "modern"
+notes: "Highly acclaimed modern roguelike with 'Very Positive' Steam reviews (91%). Free base game with optional paid DLC expansions. Over 1 million players and active modding community with comprehensive documentation."
+last_updated: "2025-01-30"

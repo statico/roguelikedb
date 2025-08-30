@@ -1,0 +1,52 @@
+name: "Spelunky"
+slug: "spelunky"
+description: "Influential platform roguelike that popularized the roguelite genre. Features precise platforming, procedural cave generation, and emergent gameplay through environmental interactions."
+release_date: "2008-12-21"
+latest_version: "HD (2012)"
+developers:
+  - "Derek Yu"
+publishers:
+  - "Mossmouth"
+platforms:
+  - "Windows"
+  - "Xbox"
+  - "PlayStation"
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "action"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "lode-runner"
+  notable_forks:
+    - "spelunky-2"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://spelunkyworld.com"
+  steam_page: "https://store.steampowered.com/app/239350/Spelunky/"
+community:
+  active_development: false
+  open_source: true
+  license: "Spelunky User License"
+  community_size: "large"
+technical:
+  engine: "Game Maker (original), C++ (HD)"
+  system_requirements:
+    minimum_ram: "512MB"
+    storage_space: "200MB"
+tags:
+  - "platformer"
+  - "influential"
+  - "emergent"
+  - "derek-yu"
+  - "2008"
+  - "genre-defining"
+notes: "Hugely influential in popularizing roguelike mechanics beyond traditional ASCII games. Free original version and commercial HD remake. Over 2 million copies sold. Defined the modern roguelite genre."
+last_updated: "2025-01-30"

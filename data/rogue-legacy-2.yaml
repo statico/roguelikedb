@@ -1,0 +1,56 @@
+name: "Rogue Legacy 2"
+slug: "rogue-legacy-2"
+description: "Enhanced sequel to genealogical roguelite featuring expanded trait system, improved combat mechanics, new biomes, and refined meta-progression with modern visual upgrades."
+release_date: "2022-08-18"
+latest_version: "1.1.2"
+developers:
+  - "Cellar Door Games"
+publishers:
+  - "Cellar Door Games"
+platforms:
+  - "Windows"
+  - "Xbox One"
+  - "Xbox Series X/S"
+  - "PlayStation 4"
+  - "PlayStation 5"
+  - "Nintendo Switch"
+  - "Steam"
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "platformer"
+    - "metroidvania"
+  gameplay_features:
+    - "real_time"
+    - "2d_graphics"
+    - "procedural_generation"
+    - "meta_progression"
+    - "genetic_traits"
+    - "enhanced_combat"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue-legacy"
+  fork_type: "direct_sequel"
+links:
+  official_website: "https://www.cellardoor.games/rogue-legacy-2/"
+  steam_page: "https://store.steampowered.com/app/1253920/Rogue_Legacy_2/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "1GB"
+tags:
+  - "sequel"
+  - "genealogical"
+  - "platformer"
+  - "enhanced"
+  - "2022"
+  - "modern"
+notes: "Highly acclaimed sequel with 'Overwhelmingly Positive' Steam reviews (95%) and Game Pass inclusion. Featured expanded class system, new biomes, and refined gameplay mechanics building on original's innovations."
+last_updated: "2025-01-30"

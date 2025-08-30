@@ -1,0 +1,56 @@
+name: "Jupiter Hell"
+slug: "jupiter-hell"
+description: "Modern sci-fi roguelike inspired by classic Doom aesthetics featuring turn-based tactical combat, 3D graphics, destructible environments, and heavy metal soundtrack."
+release_date: "2021-08-12"
+latest_version: "1.7.0"
+developers:
+  - "ChaosForge"
+publishers:
+  - "Hyperstrange"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "Steam"
+classification:
+  primary_type: "modern"
+  subgenres:
+    - "sci_fi"
+    - "tactical"
+  gameplay_features:
+    - "turn_based"
+    - "3d_graphics"
+    - "destructible_environments"
+    - "procedural_generation"
+    - "permadeath"
+    - "character_classes"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "doom-the-roguelike"
+    - "rogue"
+  fork_type: "spiritual_successor"
+links:
+  official_website: "https://jupiterhell.com/"
+  steam_page: "https://store.steampowered.com/app/811320/Jupiter_Hell/"
+  wiki: "https://en.wikipedia.org/wiki/Jupiter_Hell"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Custom 3D engine"
+  source_language: "Pascal"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "2GB"
+tags:
+  - "sci-fi"
+  - "3d-graphics"
+  - "doom-inspired"
+  - "chaosforge"
+  - "2021"
+  - "modern"
+notes: "Critically acclaimed modern roguelike with 'Very Positive' Steam reviews (92%). Won Excellence in Design at Independent Games Festival 2022. Successfully funded via Kickstarter with over $100,000 raised."
+last_updated: "2025-01-30"

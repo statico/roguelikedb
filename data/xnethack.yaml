@@ -1,0 +1,53 @@
+name: "xNetHack"
+slug: "xnethack"
+description: "Extended NetHack variant from early 2000s featuring X11 GUI with tile-based interface and mouse support. Native X Window System implementation with modern interface elements."
+release_date: "2000"
+developers:
+  - "Curtis Olson (Oreh)"
+  - "xNetHack Contributors"
+platforms:
+  - "Unix"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "pets_companions"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "nethack"
+  parent_games:
+    - "nethack"
+  fork_type: "major_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/XNetHack"
+community:
+  active_development: false
+  open_source: true
+  license: "NetHack General Public License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64MB"
+    storage_space: "50MB"
+    notes: "X Window System required"
+tags:
+  - "nethack-variant"
+  - "x11-gui"
+  - "tile-based"
+  - "mouse-support"
+  - "2000"
+  - "obsolete"
+notes: "Early attempt at GUI NetHack using X11 with tile-based interface and mouse support. Similar to NetHack tiles but native X implementation. Development ceased around 2010."
+last_updated: "2025-01-30"

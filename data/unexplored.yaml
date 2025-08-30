@@ -1,0 +1,55 @@
+name: "UnExplored"
+slug: "unexplored"
+description: "Modern roguelike featuring innovative level generation technology creating interconnected dungeon layouts with logical structure, real-time combat, and polished presentation."
+release_date: "2017-02-23"
+latest_version: "1.3.6"
+developers:
+  - "Ludomotion"
+publishers:
+  - "Ludomotion"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "Steam"
+  - "iOS"
+  - "Android"
+classification:
+  primary_type: "modern"
+  subgenres:
+    - "action"
+    - "fantasy"
+  gameplay_features:
+    - "real_time"
+    - "tile_graphics"
+    - "innovative_generation"
+    - "permadeath"
+    - "interconnected_levels"
+    - "logical_structure"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://www.ludomotion.com/unexplored/"
+  steam_page: "https://store.steampowered.com/app/506200/UnExplored/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Custom 2D engine"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "200MB"
+tags:
+  - "innovative-generation"
+  - "real-time"
+  - "interconnected"
+  - "2017"
+  - "modern"
+  - "polished"
+notes: "'Very Positive' Steam reviews (84%) and praised for revolutionary dungeon generation technology creating believable underground complexes. Featured in academic papers on procedural generation techniques."
+last_updated: "2025-01-30"

@@ -1,0 +1,58 @@
+name: "Wayward"
+slug: "wayward"
+description: "Survival-focused roguelike featuring realistic crafting systems, detailed environmental simulation, and emphasis on resource management in wilderness survival scenarios."
+release_date: "2013-03-01"
+latest_version: "2.11.0"
+developers:
+  - "Unlok"
+  - "Wayward Game Studio"
+publishers:
+  - "Wayward Game Studio"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "Steam"
+classification:
+  primary_type: "modern"
+  subgenres:
+    - "survival"
+    - "crafting"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "crafting"
+    - "survival"
+    - "resource_management"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "unreal-world"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://www.waywardgame.com/"
+  steam_page: "https://store.steampowered.com/app/379210/Wayward/"
+  source_code: "https://github.com/WaywardGame/wayward"
+community:
+  active_development: true
+  open_source: true
+  license: "Unlicense"
+  community_size: "medium"
+technical:
+  source_language: "TypeScript"
+  engine: "Custom HTML5/Canvas engine"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "500MB"
+tags:
+  - "survival"
+  - "crafting"
+  - "typescript"
+  - "html5"
+  - "2013"
+  - "simulation"
+notes: "Detailed survival roguelike with complex crafting and environmental systems. 'Very Positive' Steam reviews (83%) and active development with regular updates. Open source with comprehensive modding support."
+last_updated: "2025-01-30"

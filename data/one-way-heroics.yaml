@@ -1,0 +1,52 @@
+name: "One Way Heroics"
+slug: "one-way-heroics"
+description: "Innovative roguelike with unique horizontal-scrolling world mechanic where darkness constantly advances from left, forcing continuous forward movement and creating time pressure."
+release_date: "2014-02-28"
+latest_version: "2.06"
+developers:
+  - "Smoking WOLF"
+publishers:
+  - "Playism"
+platforms:
+  - "Windows"
+  - "Steam"
+classification:
+  primary_type: "modern"
+  subgenres:
+    - "innovative"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "horizontal_scrolling"
+    - "time_pressure"
+    - "character_classes"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  steam_page: "https://store.steampowered.com/app/266210/One_Way_Heroics/"
+  wiki: "https://en.wikipedia.org/wiki/One_Way_Heroics"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "RPG Maker VX Ace"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "200MB"
+tags:
+  - "innovative"
+  - "horizontal"
+  - "time-pressure"
+  - "japanese"
+  - "2014"
+  - "unique"
+notes: "Highly innovative roguelike with 'Very Positive' Steam reviews (88%). Created by Japanese developer and praised for unique gameplay mechanic that revolutionizes traditional roguelike pacing and strategy."
+last_updated: "2025-01-30"

@@ -1,0 +1,52 @@
+name: "Red Rogue"
+slug: "red-rogue"
+description: "Flash-based roguelike featuring unique dual-character gameplay where player controls both warrior and companion creature simultaneously with coordinated movement and combat."
+release_date: "2011-09-01"
+latest_version: "1.0"
+developers:
+  - "Rich Grillotti"
+  - "Aaron Steed"
+publishers:
+  - "Independent"
+platforms:
+  - "Browser"
+  - "Flash"
+classification:
+  primary_type: "browser"
+  subgenres:
+    - "innovative"
+    - "flash"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "dual_character"
+    - "coordinated_movement"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  play_online: "http://redrogue.com/"
+  newgrounds: "https://www.newgrounds.com/portal/view/578140"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "small"
+technical:
+  engine: "Adobe Flash"
+  system_requirements:
+    minimum_ram: "512MB"
+    browser_plugin: "Flash Player"
+tags:
+  - "flash"
+  - "browser"
+  - "dual-character"
+  - "innovative"
+  - "2011"
+  - "unique"
+notes: "Innovative Flash roguelike with unique dual-character control system. Featured on multiple gaming platforms and praised for creative approach to traditional roguelike mechanics through coordinated character control."
+last_updated: "2025-01-30"

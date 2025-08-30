@@ -1,0 +1,52 @@
+name: "Gumband"
+slug: "gumband"
+description: "Humorous Angband variant featuring cartoon-like monsters, silly item names, and lighthearted gameplay while maintaining traditional roguelike mechanics and challenge."
+release_date: "2000-01-01"
+latest_version: "2.0.4"
+developers:
+  - "ZapM"
+  - "Gumband Development Team"
+publishers:
+  - "Open Source Community"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "angband_variant"
+    - "humor"
+  gameplay_features:
+    - "turn_based"
+    - "ascii_graphics"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "humor"
+  difficulty: "extreme"
+lineage:
+  parent_games:
+    - "angband"
+  fork_type: "thematic_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Gumband"
+community:
+  active_development: false
+  open_source: true
+  license: "Angband license"
+  community_size: "small"
+technical:
+  source_language: "C"
+  engine: "Modified Angband engine"
+  system_requirements:
+    minimum_ram: "8MB"
+    storage_space: "12MB"
+tags:
+  - "angband-variant"
+  - "humor"
+  - "cartoon"
+  - "2000"
+  - "lighthearted"
+notes: "Known for its whimsical approach to traditional Angband gameplay with silly monster names, humorous descriptions, and cartoon-inspired aesthetics while retaining challenging gameplay."
+last_updated: "2025-01-30"

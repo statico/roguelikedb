@@ -1,0 +1,50 @@
+name: "Ragnarok Tactics"
+slug: "ragnarok-tactics"
+description: "Tactical roguelike blending JRPG elements with roguelike mechanics, featuring anime-inspired graphics, team-based combat, and procedural dungeon generation."
+release_date: "2011-07-21"
+latest_version: "1.0"
+developers:
+  - "GungHo Online Entertainment"
+publishers:
+  - "GungHo Online Entertainment"
+platforms:
+  - "PlayStation Portable"
+classification:
+  primary_type: "tactical"
+  subgenres:
+    - "jrpg"
+    - "anime"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "tactical_combat"
+    - "story_driven"
+    - "character_classes"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "final-fantasy-tactics"
+    - "rogue"
+  fork_type: "tactical_adaptation"
+links:
+  wiki: "https://en.wikipedia.org/wiki/Ragnarok_Tactics"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "small"
+technical:
+  engine: "Custom PSP engine"
+  system_requirements:
+    storage_space: "UMD"
+tags:
+  - "tactical"
+  - "jrpg"
+  - "psp"
+  - "gungho"
+  - "2011"
+  - "ragnarok"
+notes: "Unique blend of roguelike mechanics with tactical JRPG gameplay set in Ragnarok Online universe. Featured isometric tactical combat with procedural elements and character customization."
+last_updated: "2025-01-30"

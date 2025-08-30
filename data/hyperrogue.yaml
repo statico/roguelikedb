@@ -1,0 +1,57 @@
+name: "HyperRogue"
+slug: "hyperrogue"
+description: "Unique mathematical roguelike played on hyperbolic plane with non-Euclidean geometry, infinite procedural world, and educational value in demonstrating advanced mathematical concepts."
+release_date: "2011-08-01"
+latest_version: "13.0n"
+developers:
+  - "Zeno Rogue"
+publishers:
+  - "Zeno Rogue"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "Steam"
+  - "Android"
+  - "iOS"
+classification:
+  primary_type: "experimental"
+  subgenres:
+    - "mathematical"
+    - "educational"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "infinite_world"
+    - "hyperbolic_geometry"
+    - "puzzle_elements"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://www.roguetemple.com/z/hyper/"
+  steam_page: "https://store.steampowered.com/app/342610/HyperRogue/"
+  wiki: "https://en.wikipedia.org/wiki/HyperRogue"
+community:
+  active_development: true
+  open_source: true
+  license: "GPLv2"
+  community_size: "medium"
+technical:
+  source_language: "C++"
+  engine: "Custom hyperbolic graphics engine"
+  system_requirements:
+    minimum_ram: "512MB"
+    storage_space: "200MB"
+tags:
+  - "hyperbolic"
+  - "mathematical"
+  - "educational"
+  - "infinite"
+  - "2011"
+  - "unique"
+notes: "Groundbreaking roguelike that uses hyperbolic geometry for unique gameplay experience. Winner of multiple awards and featured in mathematical education contexts. Over 100 different lands with distinct mechanics and challenges."
+last_updated: "2025-01-30"

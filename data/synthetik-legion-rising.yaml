@@ -1,0 +1,52 @@
+name: "SYNTHETIK: Legion Rising"
+slug: "synthetik-legion-rising"
+description: "Top-down shooter roguelite featuring realistic weapon handling mechanics, tactical combat, extensive weapon customization, and challenging AI enemies in cyberpunk setting."
+release_date: "2018-03-16"
+latest_version: "31.5"
+developers:
+  - "Flow Fire Games"
+publishers:
+  - "Flow Fire Games"
+platforms:
+  - "Windows"
+  - "Steam"
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "shooter"
+    - "tactical"
+  gameplay_features:
+    - "real_time"
+    - "2d_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "weapon_handling"
+    - "tactical_combat"
+    - "weapon_customization"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  steam_page: "https://store.steampowered.com/app/528230/SYNTHETIK_Legion_Rising/"
+  official_website: "https://www.synthetikgame.com/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "2GB"
+tags:
+  - "tactical-shooter"
+  - "weapon-handling"
+  - "cyberpunk"
+  - "challenging"
+  - "2018"
+  - "realistic"
+notes: "'Very Positive' Steam reviews (91%) with praise for unique weapon mechanics requiring manual reloading, ejecting, and unjamming. Features over 90 weapons with realistic ballistics and tactical depth."
+last_updated: "2025-01-30"

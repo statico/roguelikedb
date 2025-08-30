@@ -1,0 +1,56 @@
+name: "Curse of the Dead Gods"
+slug: "curse-of-the-dead-gods"
+description: "Dark fantasy action roguelite featuring curse mechanics, Mesoamerican mythology themes, challenging combat requiring mastery of timing, and atmospheric presentation."
+release_date: "2021-02-23"
+latest_version: "1.25.2.11"
+developers:
+  - "Passtech Games"
+publishers:
+  - "Focus Entertainment"
+platforms:
+  - "Windows"
+  - "PlayStation 4"
+  - "Xbox One"
+  - "Nintendo Switch"
+  - "Steam"
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "action"
+    - "dark_fantasy"
+  gameplay_features:
+    - "real_time"
+    - "2d_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "curse_mechanics"
+    - "timing_combat"
+    - "atmospheric"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "dark-souls"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://www.curseofthedeadgods.com/"
+  steam_page: "https://store.steampowered.com/app/1123770/Curse_of_the_Dead_Gods/"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "2GB"
+tags:
+  - "curse-mechanics"
+  - "mesoamerican"
+  - "dark-fantasy"
+  - "challenging"
+  - "2021"
+  - "atmospheric"
+notes: "'Very Positive' Steam reviews (86%) with praise for unique curse system and challenging but fair combat. Featured distinctive art style inspired by Mesoamerican cultures and mythology."
+last_updated: "2025-01-30"

@@ -1,0 +1,56 @@
+name: "Cardinal Quest"
+slug: "cardinal-quest"
+description: "Streamlined roguelike designed for quick gameplay sessions featuring simplified mechanics, three character classes, and colorful pixel art presentation optimized for mobile devices."
+release_date: "2011-05-01"
+latest_version: "1.5"
+developers:
+  - "Ido Yehieli"
+  - "Tametick"
+publishers:
+  - "Tametick"
+platforms:
+  - "Browser"
+  - "Android"
+  - "iOS"
+  - "Windows"
+classification:
+  primary_type: "casual"
+  subgenres:
+    - "streamlined"
+    - "fantasy"
+  gameplay_features:
+    - "real_time"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "three_classes"
+    - "quick_sessions"
+  difficulty: "easy"
+lineage:
+  parent_games:
+    - "rogue"
+  notable_forks:
+    - "cardinal-quest-2"
+  fork_type: "inspired_by"
+links:
+  official_website: "http://cardinalquest.com/"
+  kongregate: "https://www.kongregate.com/games/tametick/cardinal-quest"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Flash/HTML5"
+  system_requirements:
+    minimum_ram: "512MB"
+    storage_space: "50MB"
+tags:
+  - "casual"
+  - "streamlined"
+  - "browser"
+  - "quick-play"
+  - "2011"
+  - "accessible"
+notes: "Successful casual roguelike that helped introduce the genre to broader audiences. Featured on Kongregate with millions of plays and praised for making roguelike mechanics accessible to newcomers."
+last_updated: "2025-01-30"

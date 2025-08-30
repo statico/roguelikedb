@@ -1,0 +1,54 @@
+name: "GruntHack"
+slug: "grunthack"
+description: "NetHack variant featuring harder Sokoban variants, redesigned quest levels, new artifacts and monster variants. Incorporates color alchemy, gem alchemy, and advanced dungeon features."
+release_date: "2015"
+latest_version: "0.3.0"
+developers:
+  - "Jason McIntosh (grunt)"
+  - "GruntHack Contributors"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "pets_companions"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  parent_games:
+    - "nethack"
+    - "dynahack"
+    - "unnethack"
+  fork_type: "major_variant"
+links:
+  github_repo: "https://github.com/grunt663/grunthack"
+community:
+  active_development: true
+  open_source: true
+  license: "NetHack General Public License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64MB"
+    storage_space: "100MB"
+tags:
+  - "nethack-variant"
+  - "harder-sokoban"
+  - "redesigned-quests"
+  - "alchemy"
+  - "2015"
+notes: "Features enhanced Sokoban variants and redesigned quest levels including Knight and Caveman jungle areas. Incorporates advanced alchemy systems and specialized level compiler options."
+last_updated: "2025-01-30"

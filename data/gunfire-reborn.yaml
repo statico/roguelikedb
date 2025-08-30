@@ -1,0 +1,56 @@
+name: "Gunfire Reborn"
+slug: "gunfire-reborn"
+description: "First-person shooter roguelite featuring anthropomorphic animal characters, elemental weapon system, co-op multiplayer, and RPG progression elements with Chinese development origins."
+release_date: "2021-05-27"
+latest_version: "R8.2.0"
+developers:
+  - "Duoyi Games"
+publishers:
+  - "Duoyi Games"
+platforms:
+  - "Windows"
+  - "Xbox One"
+  - "PlayStation 4"
+  - "Nintendo Switch"
+  - "Steam"
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "fps"
+    - "action"
+  gameplay_features:
+    - "real_time"
+    - "3d_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "multiplayer"
+    - "elemental_system"
+    - "character_progression"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+    - "borderlands"
+  fork_type: "inspired_by"
+links:
+  steam_page: "https://store.steampowered.com/app/1217060/Gunfire_Reborn/"
+  official_website: "https://gunfirereborn.com/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "8GB"
+    storage_space: "8GB"
+tags:
+  - "fps"
+  - "multiplayer"
+  - "elemental"
+  - "chinese"
+  - "2021"
+  - "co-op"
+notes: "'Very Positive' Steam reviews (91%) with over 4 million copies sold. Popular in both Eastern and Western markets with active multiplayer community and regular content updates."
+last_updated: "2025-01-30"

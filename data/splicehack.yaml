@@ -1,0 +1,52 @@
+name: "SpliceHack"
+slug: "splicehack"
+description: "NetHack variant featuring new magic system, spell rebalancing, fused monster abilities, and combined features from NetHack Plus and UnNetHack."
+release_date: "2009"
+developers:
+  - "Theo Tsagkarakis (Splice)"
+platforms:
+  - "Linux"
+  - "Windows"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "dungeon_crawler"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "pets_companions"
+    - "character_classes"
+    - "magic_system"
+    - "open_source"
+  difficulty: "extreme"
+lineage:
+  forked_from: "nethack"
+  parent_games:
+    - "nethack"
+    - "unnethack"
+  fork_type: "major_variant"
+links:
+  github_repo: "https://github.com/splicedhack/splicehack"
+  roguebasin: "https://www.roguebasin.com/index.php/SpliceHack"
+community:
+  active_development: false
+  open_source: true
+  license: "NetHack General Public License"
+  community_size: "small"
+technical:
+  source_language: "C"
+  system_requirements:
+    minimum_ram: "64MB"
+    storage_space: "50MB"
+tags:
+  - "nethack-variant"
+  - "magic-rebalanced"
+  - "fused-features"
+  - "spell-system"
+  - "2009"
+notes: "NetHack variant focusing on magic system improvements and spell rebalancing. Combined features from multiple NetHack variants with unique monster ability fusion mechanics."
+last_updated: "2025-01-30"

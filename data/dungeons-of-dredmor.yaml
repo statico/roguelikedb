@@ -1,0 +1,56 @@
+name: "Dungeons of Dredmor"
+slug: "dungeons-of-dredmor"
+description: "Humorous modern roguelike featuring extensive skill trees, crafting system, and cartoon-like graphics with Steam Workshop mod support and achievement integration."
+release_date: "2011-07-13"
+latest_version: "1.1.5"
+developers:
+  - "Gaslamp Games"
+publishers:
+  - "Gaslamp Games"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "Steam"
+classification:
+  primary_type: "modern"
+  subgenres:
+    - "humor"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "skill_trees"
+    - "crafting"
+    - "mod_support"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  official_website: "http://www.gaslampgames.com/games/dungeons-of-dredmor/"
+  steam_page: "https://store.steampowered.com/app/98800/Dungeons_of_Dredmor/"
+  wiki: "https://en.wikipedia.org/wiki/Dungeons_of_Dredmor"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Custom 2D engine"
+  system_requirements:
+    minimum_ram: "1GB"
+    storage_space: "500MB"
+tags:
+  - "humor"
+  - "steam"
+  - "crafting"
+  - "skill-trees"
+  - "2011"
+  - "modern"
+notes: "One of the first successful commercial roguelikes on Steam with 'Very Positive' reviews (90%). Over 750,000 copies sold with extensive Steam Workshop modding community and multiple DLC expansions."
+last_updated: "2025-01-30"

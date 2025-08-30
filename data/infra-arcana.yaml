@@ -1,0 +1,55 @@
+name: "Infra Arcana"
+slug: "infra-arcana"
+description: "Horror-themed roguelike inspired by H.P. Lovecraft featuring sanity mechanics, atmospheric ASCII graphics, and psychological terror elements in early 20th century setting."
+release_date: "2011-01-01"
+latest_version: "21.1.0"
+developers:
+  - "Martin Tornqvist"
+publishers:
+  - "Open Source Community"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+classification:
+  primary_type: "modern"
+  subgenres:
+    - "horror"
+    - "lovecraftian"
+  gameplay_features:
+    - "turn_based"
+    - "ascii_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "sanity_system"
+    - "atmospheric"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://sites.google.com/site/infraarcana/"
+  source_code: "https://github.com/martin-tornqvist/ia"
+  roguebasin: "https://www.roguebasin.com/index.php/Infra_Arcana"
+community:
+  active_development: true
+  open_source: true
+  license: "GPLv3"
+  community_size: "medium"
+technical:
+  source_language: "C++"
+  engine: "Custom SDL engine"
+  system_requirements:
+    minimum_ram: "256MB"
+    storage_space: "50MB"
+tags:
+  - "horror"
+  - "lovecraft"
+  - "sanity"
+  - "atmospheric"
+  - "2011"
+  - "open-source"
+notes: "Acclaimed horror roguelike with unique sanity mechanics and atmospheric presentation. Featured in numerous 'best roguelikes' lists and praised for faithful adaptation of Lovecraftian themes into roguelike gameplay."
+last_updated: "2025-01-30"

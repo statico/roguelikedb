@@ -1,0 +1,55 @@
+name: "Elona"
+slug: "elona"
+description: "Japanese roguelike known for its bizarre humor, anime-inspired graphics, pet system, and mix of traditional roguelike mechanics with sandbox elements and absurd situations."
+release_date: "2006-08-18"
+latest_version: "1.22"
+developers:
+  - "Noa"
+publishers:
+  - "Independent"
+platforms:
+  - "Windows"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "humor"
+    - "japanese"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "pet_system"
+    - "sandbox"
+    - "humor"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  notable_forks:
+    - "elona-plus"
+  fork_type: "inspired_by"
+links:
+  official_website: "http://ylvania.org/en/"
+  wiki: "https://en.wikipedia.org/wiki/Elona"
+community:
+  active_development: false
+  open_source: false
+  license: "Freeware"
+  community_size: "large"
+technical:
+  source_language: "C++"
+  engine: "Custom 2D engine"
+  system_requirements:
+    minimum_ram: "512MB"
+    storage_space: "200MB"
+tags:
+  - "japanese"
+  - "humor"
+  - "pets"
+  - "sandbox"
+  - "2006"
+  - "cult-classic"
+notes: "Cult classic Japanese roguelike with devoted international fanbase. Known for its unique blend of serious roguelike mechanics with absurd humor and situations. Spawned numerous mods and translations."
+last_updated: "2025-01-30"

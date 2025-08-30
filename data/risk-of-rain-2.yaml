@@ -1,0 +1,56 @@
+name: "Risk of Rain 2"
+slug: "risk-of-rain-2"
+description: "3D multiplayer roguelike sequel featuring four-player co-op, circular level design, scaling difficulty over time, and hundreds of items creating emergent build combinations."
+release_date: "2020-08-11"
+latest_version: "1.2.4.1"
+developers:
+  - "Hopoo Games"
+publishers:
+  - "Gearbox Publishing"
+platforms:
+  - "Windows"
+  - "PlayStation 4"
+  - "Xbox One"
+  - "Nintendo Switch"
+  - "Steam"
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "action"
+    - "3d"
+  gameplay_features:
+    - "real_time"
+    - "3d_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "multiplayer"
+    - "item_stacking"
+    - "scaling_difficulty"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "risk-of-rain"
+  fork_type: "direct_sequel"
+links:
+  official_website: "https://riskofrain2.com/"
+  steam_page: "https://store.steampowered.com/app/632360/Risk_of_Rain_2/"
+  wiki: "https://en.wikipedia.org/wiki/Risk_of_Rain_2"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "massive"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "4GB"
+tags:
+  - "3d"
+  - "multiplayer"
+  - "sequel"
+  - "hopoo-games"
+  - "2020"
+  - "popular"
+notes: "Massively successful sequel with 'Overwhelmingly Positive' Steam reviews (96%) and over 15 million copies sold. Featured in major gaming events and esports tournaments with active competitive scene."
+last_updated: "2025-01-30"

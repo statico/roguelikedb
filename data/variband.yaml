@@ -1,0 +1,51 @@
+name: "Variband"
+slug: "variband"
+description: "Highly experimental Angband variant featuring random dungeon themes, variable game rules, and dynamic gameplay systems that change between sessions for maximum replayability."
+release_date: "2005-01-01"
+latest_version: "2.0.0"
+developers:
+  - "Jim Lyon"
+  - "Variband Development Team"
+publishers:
+  - "Open Source Community"
+platforms:
+  - "Windows"
+  - "Linux"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "angband_variant"
+    - "experimental"
+  gameplay_features:
+    - "turn_based"
+    - "ascii_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "variable_rules"
+    - "dynamic_themes"
+  difficulty: "extreme"
+lineage:
+  parent_games:
+    - "angband"
+  fork_type: "experimental_variant"
+links:
+  roguebasin: "https://www.roguebasin.com/index.php/Variband"
+community:
+  active_development: false
+  open_source: true
+  license: "Angband license"
+  community_size: "small"
+technical:
+  source_language: "C"
+  engine: "Heavily modified Angband engine"
+  system_requirements:
+    minimum_ram: "32MB"
+    storage_space: "25MB"
+tags:
+  - "angband-variant"
+  - "experimental"
+  - "variable-rules"
+  - "2005"
+  - "innovative"
+notes: "Known for its experimental approach to roguelike design with constantly changing gameplay rules and themes. Each game session could feature different magic systems, monster behaviors, and dungeon layouts."
+last_updated: "2025-01-30"

@@ -1,0 +1,57 @@
+name: "Wizard of Legend"
+slug: "wizard-of-legend"
+description: "Fast-paced magic-focused action roguelite featuring extensive spell customization, combo system, pixel art graphics, and cooperative multiplayer with emphasis on magical combat."
+release_date: "2018-05-15"
+latest_version: "1.33f"
+developers:
+  - "Contingent99"
+publishers:
+  - "Humble Games"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "PlayStation 4"
+  - "Xbox One"
+  - "Nintendo Switch"
+  - "Steam"
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "action"
+    - "magic"
+  gameplay_features:
+    - "real_time"
+    - "2d_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "spell_customization"
+    - "combo_system"
+    - "multiplayer"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://wizardoflegend.com/"
+  steam_page: "https://store.steampowered.com/app/445980/Wizard_of_Legend/"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "1GB"
+tags:
+  - "magic"
+  - "spell-combo"
+  - "pixel-art"
+  - "co-op"
+  - "2018"
+  - "indie"
+notes: "'Very Positive' Steam reviews (87%) with over 2 million copies sold across platforms. Praised for deep magic system with over 100 spells and fluid combat mechanics. Strong speedrunning community."
+last_updated: "2025-01-30"

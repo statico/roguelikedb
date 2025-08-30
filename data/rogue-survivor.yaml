@@ -1,0 +1,51 @@
+name: "Rogue Survivor"
+slug: "rogue-survivor"
+description: "Modern zombie apocalypse roguelike featuring real-time gameplay, persistent world simulation, NPCs with AI behavior, and day/night cycles in urban environments."
+release_date: "2010-04-01"
+latest_version: "1.2.1"
+developers:
+  - "Roguekek"
+publishers:
+  - "Independent"
+platforms:
+  - "Windows"
+classification:
+  primary_type: "modern"
+  subgenres:
+    - "survival"
+    - "zombie"
+  gameplay_features:
+    - "real_time"
+    - "persistent_world"
+    - "npc_ai"
+    - "day_night_cycle"
+    - "urban_setting"
+    - "crafting"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  official_website: "http://roguesurvivor.blogspot.com/"
+  roguebasin: "https://www.roguebasin.com/index.php/Rogue_Survivor"
+community:
+  active_development: false
+  open_source: false
+  license: "Freeware"
+  community_size: "medium"
+technical:
+  source_language: "C#"
+  engine: "Custom .NET engine"
+  system_requirements:
+    minimum_ram: "512MB"
+    storage_space: "100MB"
+tags:
+  - "zombie"
+  - "survival"
+  - "real-time"
+  - "urban"
+  - "2010"
+  - "ai-npcs"
+notes: "Innovative roguelike that combined traditional mechanics with zombie survival themes and real-time gameplay. Featured complex NPC behavior and persistent world simulation with hundreds of AI-controlled survivors and zombies."
+last_updated: "2025-01-30"

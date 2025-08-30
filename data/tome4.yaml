@@ -1,0 +1,55 @@
+name: "ToME4 (T-Engine4)"
+slug: "tome4"
+description: "Modern engine and game framework built for creating roguelikes, serving as foundation for Tales of Maj'Eyal and other games with comprehensive modding support."
+release_date: "2010-01-01"
+latest_version: "1.7.7"
+developers:
+  - "Nicolas Casalini (DarkGod)"
+publishers:
+  - "Te4.org"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+classification:
+  primary_type: "engine"
+  subgenres:
+    - "framework"
+    - "modding_platform"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "modding_support"
+    - "scripting_engine"
+    - "cross_platform"
+  difficulty: "variable"
+lineage:
+  parent_games:
+    - "tome"
+  notable_forks:
+    - "tales-of-maj-eyal"
+  fork_type: "engine_rewrite"
+links:
+  official_website: "https://te4.org/"
+  documentation: "https://te4.org/wiki/index.php?title=ToME4_Engine"
+  source_code: "https://github.com/tome4/tome4"
+community:
+  active_development: true
+  open_source: true
+  license: "GPLv3"
+  community_size: "large"
+technical:
+  source_language: "Lua/C"
+  engine: "T-Engine4"
+  system_requirements:
+    minimum_ram: "512MB"
+    storage_space: "500MB"
+tags:
+  - "engine"
+  - "framework"
+  - "lua"
+  - "modding"
+  - "2010"
+  - "open-source"
+notes: "Comprehensive roguelike engine with extensive documentation and modding capabilities. Powers multiple commercial and open-source games with active developer community and plugin ecosystem."
+last_updated: "2025-01-30"

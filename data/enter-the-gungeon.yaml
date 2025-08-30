@@ -1,0 +1,54 @@
+name: "Enter the Gungeon"
+slug: "enter-the-gungeon"
+description: "Bullet-hell roguelike shooter featuring procedural dungeons, diverse weaponry, and gun-themed humor. Players navigate through increasingly difficult floors while dodging elaborate bullet patterns."
+release_date: "2016-04-05"
+latest_version: "2.1.9"
+developers:
+  - "Dodge Roll"
+publishers:
+  - "Devolver Digital"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "PlayStation"
+  - "Xbox"
+  - "Nintendo Switch"
+classification:
+  primary_type: "action"
+  subgenres:
+    - "dungeon_crawler"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "character_classes"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "the-binding-of-isaac"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://enterthegungeon.com"
+  steam_page: "https://store.steampowered.com/app/311690/Enter_the_Gungeon/"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "2GB"
+tags:
+  - "bullet-hell"
+  - "guns"
+  - "humor"
+  - "pixel-art"
+  - "dodge-roll"
+  - "2016"
+notes: "Over 3 million copies sold with Overwhelmingly Positive Steam reviews (95%). Features local 2-player co-op, extensive weapon variety, and gun-themed puns throughout. Major influence on bullet-hell roguelike genre."
+last_updated: "2025-01-30"

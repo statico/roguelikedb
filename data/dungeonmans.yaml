@@ -1,0 +1,56 @@
+name: "Dungeonmans"
+slug: "dungeonmans"
+description: "Humorous modern roguelike featuring colorful pixel graphics, persistent world between characters, and comedic writing style while maintaining traditional turn-based mechanics."
+release_date: "2014-10-02"
+latest_version: "1.2.17"
+developers:
+  - "Jim Shepard"
+  - "Adventurepro Games"
+publishers:
+  - "Adventurepro Games"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "Steam"
+classification:
+  primary_type: "modern"
+  subgenres:
+    - "humor"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "persistent_world"
+    - "humor"
+    - "spell_crafting"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  official_website: "http://www.dungeonmans.com/"
+  steam_page: "https://store.steampowered.com/app/288120/Dungeonmans/"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Custom 2D engine"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "500MB"
+tags:
+  - "humor"
+  - "pixel-art"
+  - "persistent"
+  - "spell-crafting"
+  - "2014"
+  - "indie"
+notes: "Well-received indie roguelike with 'Very Positive' Steam reviews (88%). Featured innovative spell crafting system and persistent world elements where dead characters leave behind academies to train new heroes."
+last_updated: "2025-01-30"

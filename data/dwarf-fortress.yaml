@@ -1,0 +1,57 @@
+name: "Dwarf Fortress"
+slug: "dwarf-fortress"
+description: "Complex simulation game with Adventure Mode providing traditional roguelike gameplay. Features incredibly detailed world simulation, procedural generation, and ASCII graphics with optional tile support."
+release_date: "2006-08-08"
+latest_version: "50.14"
+developers:
+  - "Tarn Adams"
+  - "Zach Adams"
+publishers:
+  - "Bay 12 Games"
+  - "Kitfox Games"
+platforms:
+  - "Windows"
+  - "Linux"
+  - "macOS"
+  - "Steam"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "simulation"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "ascii_graphics"
+    - "tile_graphics"
+    - "sandbox"
+    - "character_classes"
+  difficulty: "extreme"
+lineage:
+  parent_games:
+    - "rogue"
+    - "nethack"
+  fork_type: "inspired_by"
+links:
+  official_website: "http://www.bay12games.com/dwarves/"
+  steam_page: "https://store.steampowered.com/app/975370/Dwarf_Fortress/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "massive"
+technical:
+  source_language: "C++"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "1GB"
+tags:
+  - "simulation"
+  - "complex"
+  - "adventure-mode"
+  - "legendary"
+  - "tarn-adams"
+  - "ascii"
+notes: "Legendary for its incredible complexity and depth. Adventure Mode provides traditional roguelike gameplay in a fully simulated world. Steam version released in 2022 with graphics and UI improvements."
+last_updated: "2025-01-30"

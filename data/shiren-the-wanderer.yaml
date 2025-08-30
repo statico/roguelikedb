@@ -1,0 +1,60 @@
+name: "Mystery Dungeon: Shiren the Wanderer"
+slug: "shiren-the-wanderer"
+description: "Acclaimed Mystery Dungeon game featuring original character Shiren in feudal Japan setting. Considered one of the finest traditional roguelikes, balancing accessibility with depth and challenge."
+release_date: "1995-12-01"
+latest_version: "Multiple versions"
+developers:
+  - "Chunsoft"
+publishers:
+  - "Chunsoft"
+  - "Spike Chunsoft"
+platforms:
+  - "Super Famicom"
+  - "Nintendo DS"
+  - "Wii"
+  - "PlayStation Vita"
+  - "Nintendo Switch"
+  - "Windows"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "mystery_dungeon"
+    - "historical"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "story_driven"
+    - "crafting"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "torneko-no-daibouken"
+    - "rogue"
+  notable_forks:
+    - "shiren-the-wanderer-2"
+    - "shiren-the-wanderer-3"
+  fork_type: "direct_sequel"
+links:
+  official_website: "https://www.spike-chunsoft.com/games/shiren-the-wanderer/"
+  wiki: "https://en.wikipedia.org/wiki/Mystery_Dungeon:_Shiren_the_Wanderer"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Custom engines per platform"
+  system_requirements:
+    storage_space: "Varies by platform"
+tags:
+  - "mystery-dungeon"
+  - "shiren"
+  - "feudal-japan"
+  - "acclaimed"
+  - "1995"
+  - "series"
+notes: "Widely regarded as one of the best roguelikes ever made. Multiple versions and sequels across different platforms. Strong cult following and critical acclaim for perfect balance of challenge and accessibility."
+last_updated: "2025-01-30"

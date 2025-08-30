@@ -1,0 +1,55 @@
+name: "Pokémon Mystery Dungeon: Explorers of Time"
+slug: "pokemon-mystery-dungeon-explorers-of-time"
+description: "Enhanced sequel to Red/Blue Rescue Team featuring time travel storyline, expanded Pokémon roster from four generations, refined dungeon mechanics with weather effects and traps."
+release_date: "2007-09-13"
+latest_version: "1.0"
+developers:
+  - "Chunsoft"
+publishers:
+  - "Nintendo"
+  - "The Pokémon Company"
+platforms:
+  - "Nintendo DS"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "mystery_dungeon"
+    - "pokemon"
+  gameplay_features:
+    - "turn_based"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "story_driven"
+    - "team_based"
+    - "weather_effects"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "pokemon-mystery-dungeon-red-rescue-team"
+  notable_forks:
+    - "pokemon-mystery-dungeon-explorers-of-darkness"
+    - "pokemon-mystery-dungeon-explorers-of-sky"
+  fork_type: "direct_sequel"
+links:
+  official_website: "https://www.pokemon.com/us/pokemon-video-games/"
+  wiki: "https://en.wikipedia.org/wiki/Pok%C3%A9mon_Mystery_Dungeon:_Explorers_of_Time_and_Explorers_of_Darkness"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "Enhanced Mystery Dungeon DS engine"
+  system_requirements:
+    storage_space: "256Mbit"
+tags:
+  - "pokemon"
+  - "mystery-dungeon"
+  - "time-travel"
+  - "nintendo-ds"
+  - "2007"
+  - "explorers"
+notes: "Widely considered the best Pokémon Mystery Dungeon game with acclaimed storyline and refined gameplay mechanics. Featured 491 Pokémon and innovative weather system affecting dungeon exploration."
+last_updated: "2025-01-30"

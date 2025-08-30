@@ -1,0 +1,55 @@
+name: "Nuclear Throne"
+slug: "nuclear-throne"
+description: "Fast-paced top-down shooter roguelike set in post-apocalyptic wasteland. Features eight playable mutants with unique abilities, procedural levels, scrap weapon crafting, and local co-op."
+release_date: "2015-12-05"
+latest_version: "1.0"
+developers:
+  - "Vlambeer"
+publishers:
+  - "Vlambeer"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "PlayStation"
+  - "Nintendo Switch"
+classification:
+  primary_type: "action"
+  subgenres:
+    - "post-apocalyptic"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "tile_graphics"
+    - "multiplayer"
+    - "character_classes"
+    - "crafting"
+  difficulty: "hard"
+lineage:
+  parent_games:
+    - "rogue"
+    - "robotron"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://nuclearthrone.com"
+  steam_page: "https://store.steampowered.com/app/242680/Nuclear_Throne/"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "large"
+technical:
+  engine: "GameMaker Studio"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "500MB"
+tags:
+  - "twin-stick"
+  - "post-apocalyptic"
+  - "mutants"
+  - "co-op"
+  - "vlambeer"
+  - "2015"
+notes: "Over 300,000 copies sold with Overwhelmingly Positive Steam reviews (97%). Features tight bullet-hell combat with mutation-based progression. Strong speedrunning community with active leaderboards."
+last_updated: "2025-01-30"

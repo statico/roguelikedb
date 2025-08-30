@@ -1,0 +1,58 @@
+name: "Shattered Pixel Dungeon"
+slug: "shattered-pixel-dungeon"
+description: "Enhanced fork of Pixel Dungeon with rebalanced gameplay, new content, bug fixes, and continued active development. Most popular Pixel Dungeon variant with millions of players."
+release_date: "2014-08-26"
+latest_version: "2.7.1"
+developers:
+  - "Evan Debenham (00-Evan)"
+publishers:
+  - "Shattered Pixel"
+platforms:
+  - "Android"
+  - "iOS"
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "Steam"
+classification:
+  primary_type: "mobile"
+  subgenres:
+    - "casual"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "tile_graphics"
+    - "procedural_generation"
+    - "permadeath"
+    - "touch_controls"
+    - "balanced_gameplay"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "pixel-dungeon"
+  fork_type: "enhanced_fork"
+links:
+  official_website: "https://shatteredpixel.com/"
+  steam_page: "https://store.steampowered.com/app/1769170/Shattered_Pixel_Dungeon/"
+  google_play: "https://play.google.com/store/apps/details?id=com.shatteredpixel.shatteredpixeldungeon"
+  source_code: "https://github.com/00-Evan/shattered-pixel-dungeon"
+community:
+  active_development: true
+  open_source: true
+  license: "GPLv3"
+  community_size: "massive"
+technical:
+  source_language: "Java"
+  engine: "LibGDX"
+  system_requirements:
+    minimum_ram: "1GB"
+    storage_space: "100MB"
+tags:
+  - "mobile"
+  - "pixel-dungeon-fork"
+  - "active-development"
+  - "balanced"
+  - "2014"
+  - "popular"
+notes: "Most successful Pixel Dungeon fork with over 5 million downloads. Regular updates with new content and balance improvements. 'Very Positive' Steam reviews (95%) and featured in Google Play's Indie Games Accelerator program."
+last_updated: "2025-01-30"
