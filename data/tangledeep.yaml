@@ -1,0 +1,110 @@
+name: "Tangledeep"
+slug: "tangledeep"
+description: "**The 16-bit JRPG roguelike love letter** - Impact Gameworks' beautifully crafted homage to **classic Super Nintendo JRPGs** with **traditional roguelike depth**, featuring **gorgeous pixel art** and **JRPG job system**.
+
+**16-bit Authenticity & Visual Excellence:**
+- **Authentic 16-bit art style** - Hand-crafted sprites matching SNES classics
+- **Vibrant pixel animation** - Smooth character and enemy animations
+- **Classic JRPG atmosphere** - Nostalgic color palettes and visual design
+- **Environmental variety** - Multiple themed areas with distinct aesthetics
+- **UI polish** - Interface designed to evoke classic JRPG menus
+
+**Deep JRPG Systems Integration:**
+- **14 unique job classes** - Each with distinct abilities and progression paths
+- **Job switching system** - Change classes mid-game with carried-over abilities
+- **Skill trees and customization** - Deep character development options
+- **Equipment variety** - Extensive weapon and armor sets with meaningful differences
+- **Monster taming** - Capture and train creatures as companions
+
+**Roguelike Design Excellence:**
+- **Procedurally generated floors** - 15+ areas with unique challenges
+- **Traditional permadeath** - Optional adventure mode for accessibility
+- **Strategic turn-based combat** - Every move matters tactically
+- **Item identification and management** - Classic roguelike inventory systems
+- **Multiple victory paths** - Different approaches to endgame progression
+
+**Musical & Audio Excellence:**
+- **Professional soundtrack** - Composed specifically for 16-bit nostalgia
+- **Sound effect authenticity** - Audio matching classic JRPG era
+- **Musical variety** - Different themes for various areas and situations
+- **Audio feedback** - Clear combat and interaction audio cues
+
+**Commercial & Critical Reception:**
+- **Positive critical reviews** - Praised for successful JRPG-roguelike fusion
+- **Strong indie performance** - Successful across multiple platforms
+- **Community appreciation** - JRPG fans embraced roguelike mechanics
+- **Accessibility options** - Adventure mode for players wanting story focus
+
+**Technical Achievement:**
+- **Unity engine optimization** - Smooth performance across all platforms
+- **Cross-platform development** - PC, Switch, mobile versions
+- **Save system flexibility** - Both permadeath and persistent save options
+- **Mod support** - Community content creation capabilities
+
+**Cultural Impact & Innovation:**
+- **JRPG-roguelike template** - Showed how to merge genres authentically
+- **Nostalgia marketing success** - Appealed to both JRPG and roguelike fans
+- **Accessibility advancement** - Adventure mode brought roguelikes to JRPG audiences
+- **Visual standard setting** - Established high bar for pixel art in roguelikes
+
+**Community & Longevity:**
+- **Dedicated fanbase** - Players who appreciate both genres
+- **Strategy sharing** - Complex job system creates discussion
+- **Modding community** - Active content creation and customization
+- **Educational tool** - Introduction to roguelikes for JRPG fans
+
+**Legacy Impact:** Successfully demonstrated that **classic JRPG aesthetics** and **systems** could enhance rather than compromise **traditional roguelike depth**, creating a template for **genre fusion** that respects both source genres."
+release_date: "2018-02-01"
+latest_version: "1.45"
+developers:
+  - "Impact Gameworks"
+publishers:
+  - "Impact Gameworks"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "Nintendo Switch"
+  - "iOS"
+  - "Android"
+classification:
+  primary_type: "traditional"
+  subgenres:
+    - "jrpg"
+    - "fantasy"
+  gameplay_features:
+    - "turn_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "pixel_art"
+    - "job_system"
+    - "monster_taming"
+    - "story_mode"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+    - "final-fantasy-tactics"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://www.impactgameworks.com/tangledeep/"
+  steam_page: "https://store.steampowered.com/app/628770/Tangledeep/"
+community:
+  active_development: true
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "2GB"
+    storage_space: "1GB"
+tags:
+  - "jrpg"
+  - "16-bit"
+  - "pixel-art"
+  - "job-system"
+  - "nostalgic"
+  - "2018"
+notes: "Beautiful 16-bit JRPG-inspired roguelike with deep job system and traditional roguelike mechanics. Successfully bridges JRPG nostalgia with roguelike depth through authentic visual design and systems integration."
+last_updated: "2025-01-30"

@@ -1,6 +1,23 @@
 name: "pedit5"
 slug: "pedit5"
-description: "One of the earliest dungeon-crawling games and direct precursor to the roguelike genre, created on the PLATO system in 1975 with real-time multiplayer dungeon exploration and character progression."
+description: "**The first computer dungeon crawl** - Created in late 1975 by Reginald 'Rusty' Rutherford at University of Illinois Urbana-Champaign on the **PLATO system** as a solo programming project in **TUTOR language** over 4-6 weeks.
+
+**Historical Significance:**
+- **First computer role-playing game** with dungeon exploration
+- **Pioneered procedural generation** for monster encounters and treasure placement
+- **Established permadeath mechanics** with save-and-resume between sessions
+- **Direct influence** on subsequent PLATO titles like dnd and orthanc
+- **Founded key roguelike tropes** still used today
+
+**Technical Innovation:** Ran on **PLATO graphical terminals** connected to networked IBM and CDC mainframes, supporting up to **20 saved characters** and rendering a single-level dungeon of **40-50 rooms** using on-screen character graphics. Used fixed map layouts due to storage constraints but procedural monster/treasure generation.
+
+**Gameplay Mechanics:**
+- **Integrated class system** - Combined fighter, magic user, and cleric abilities into one character
+- **Turn-based combat** resolved automatically after player action
+- **D&D-inspired mechanics** - Hit points, levels, experience system
+- **Simple control scheme** - Fight (F), cast Spells (S), or Run (R) in encounters
+
+**Preservation Status:** **Strong preservation** within PLATO emulator communities (Cyber1), with reconstructed source code from PLATO archives enabling play on modern systems. File stored in fifth program slot of Rutherford's PLATO group, giving rise to the name 'pedit5'."
 release_date: "1975"
 developers:
   - "Rusty Rutherford"

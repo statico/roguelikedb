@@ -1,6 +1,20 @@
 name: "Rogue"
 slug: "rogue"
-description: "The foundational game that defined the roguelike genre, created in 1980 featuring procedurally generated dungeons, turn-based movement, ASCII graphics, and permanent character death. Established virtually all conventions of roguelike gaming."
+description: "**The foundational game that defined the roguelike genre** - Created by Michael Toy and Glenn Wichman (later Ken Arnold and Jon Lane) at UC Berkeley, included in **4BSD UNIX manuals in November 1980** as a C program leveraging the curses library (~50 KB source).
+
+**Revolutionary Innovations:**
+- **Permadeath** - First game to make character death permanent and meaningful
+- **Procedurally generated multi-level dungeons** - Every playthrough unique
+- **ASCII-based TUI** with iconic @ symbol for player character  
+- **Turn-based tactical combat** with strategic positioning
+- **vi editor movement keys** (h,j,k,l) that became roguelike standard
+- **Item identification mechanics** requiring experimentation
+
+**Technical Achievement:** Implemented sophisticated algorithms for dungeon generation, line-of-sight, and game state management within ~32-64 KB RAM constraints on Unix minicomputers.
+
+**Historical Impact:** **Named and defined the entire roguelike genre**, directly inspiring Hack (1982), Moria (1983), and countless successors. Commercial ports by **Epyx** (North America) and **Mastertronic** (Europe) brought roguelikes to home computers with added graphical tiles.
+
+**Legacy:** Established virtually every convention still used in modern roguelikes - from @ player symbol to procedural generation philosophy. Modern open-source ports preserve the original source code under permissive licenses, ensuring continued accessibility."
 release_date: "1980"
 developers:
   - "Michael Toy"

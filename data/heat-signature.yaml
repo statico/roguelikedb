@@ -1,0 +1,110 @@
+name: "Heat Signature"
+slug: "heat-signature"
+description: "**The spaceship infiltration roguelike** - Suspicious Developments' innovative **stealth-action** game featuring **procedural spaceship infiltration**, **emergent storytelling**, and **creative problem-solving** in deep space environments.
+
+**Revolutionary Stealth-Roguelike Design:**
+- **Procedural spaceship layouts** - Every mission features unique ship designs
+- **Real-time stealth mechanics** - Pause-and-plan tactical infiltration
+- **Emergent storytelling** - Player actions create memorable narrative moments
+- **Creative problem solving** - Multiple solutions for every infiltration challenge
+- **Spaceship hijacking** - Steal vessels and use them for future missions
+
+**Innovative Mission Structure:**
+- **Procedural contracts** - Randomly generated objectives and constraints
+- **Target variety** - Rescue missions, assassinations, theft, sabotage
+- **Ship complexity scaling** - From simple shuttles to massive battle cruisers
+- **Dynamic enemy AI** - Guards with realistic behavior patterns and communication
+- **Environmental interaction** - Use ship systems, airlocks, and gravity against enemies
+
+**Developer Pedigree:**
+- **Suspicious Developments** - Creators of Gunpoint
+- **Tom Francis design** - Known for innovative indie game mechanics
+- **Steam Deck optimization** - Verified compatibility with portable play
+- **Linux and Mac support** - Full cross-platform development
+
+**Emergent Gameplay Excellence:**
+- **Improvised solutions** - Plans rarely survive contact with reality
+- **Comedic failures** - Mistakes create hilarious and memorable moments
+- **Tool creativity** - Weapons and gadgets used in unexpected ways
+- **Player agency** - Complete freedom in approach and execution
+- **Replay variety** - Same objectives played completely differently
+
+**Technical Innovation:**
+- **Seamless ship-to-ship movement** - Smooth transitions between vessels
+- **Realistic space physics** - Zero-gravity movement and momentum
+- **Dynamic lighting** - Shadows and visibility affecting stealth gameplay
+- **Modular ship generation** - Procedural layouts that feel hand-crafted
+- **Performance optimization** - Complex systems running smoothly
+
+**Community & Cultural Impact:**
+- **Streaming phenomenon** - Perfect for content creation with dramatic moments
+- **GIF culture** - Short clips of creative solutions went viral
+- **Developer transparency** - Open development blogs sharing design insights
+- **Educational value** - Teaches systems thinking and creative problem-solving
+
+**Critical Reception:**
+- **Positive reviews** - Praised for innovation and emergent gameplay
+- **Indie game awards** - Recognition for creative mechanics and design
+- **Cult following** - Dedicated community appreciating unique mechanics
+- **Developer communication** - Active engagement with player feedback
+
+**Unique Selling Points:**
+- **No two missions identical** - Procedural generation ensures constant novelty
+- **Pause-and-plan combat** - Tactical depth without requiring quick reflexes  
+- **Narrative emergence** - Stories arise from player actions, not scripted events
+- **Creative encouragement** - Game rewards unconventional thinking
+- **Accessibility through difficulty** - Pause system accommodates different skill levels
+
+**Legacy Impact:** Demonstrated that **stealth mechanics** could be successfully integrated with **roguelike generation** to create **emergent narrative experiences**, inspiring developers to explore **systematic approaches** to **procedural storytelling**."
+release_date: "2017-09-21"
+latest_version: "1.16"
+developers:
+  - "Suspicious Developments"
+publishers:
+  - "Suspicious Developments"
+platforms:
+  - "Windows"
+  - "macOS"
+  - "Linux"
+  - "Steam"
+classification:
+  primary_type: "roguelike"
+  subgenres:
+    - "stealth"
+    - "action"
+    - "space"
+  gameplay_features:
+    - "real_time"
+    - "procedural_generation"
+    - "permadeath"
+    - "stealth"
+    - "emergent_narrative"
+    - "pause_and_plan"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+    - "gunpoint"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://www.suspicious.games/heat-signature/"
+  steam_page: "https://store.steampowered.com/app/268130/Heat_Signature/"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "2GB"
+tags:
+  - "stealth"
+  - "spaceship"
+  - "emergent"
+  - "creative"
+  - "indie"
+  - "2017"
+notes: "Innovative stealth-roguelike featuring procedural spaceship infiltration with emergent storytelling. Created by the developers of Gunpoint and praised for creative problem-solving mechanics."
+last_updated: "2025-01-30"

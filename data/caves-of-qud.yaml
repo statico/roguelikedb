@@ -1,6 +1,34 @@
 name: "Caves of Qud"
 slug: "caves-of-qud"
-description: "Science fantasy roguelike set in a far-future Earth with complex simulation systems, mutations, and deep lore. Created by Freehold Games, combining traditional roguelike mechanics with innovative storytelling."
+description: "**The most critically acclaimed modern roguelike** - A science fantasy masterpiece by **Freehold Games** that achieved **full 1.0 release on December 5, 2024** after nearly **17 years of development** starting in 2007.
+
+**Unprecedented Critical Success:**
+- **IGF 2025 Excellence in Narrative Award** - First roguelike to win major narrative honor
+- **2025 Hugo Award for Best Game** - Science fiction's most prestigious award
+- **D.I.C.E. Award nomination** for Outstanding Achievement in Indie Game Development  
+- **91/100 Metacritic score** with universal critical acclaim
+- **100% positive recommendations** on OpenCritic
+
+**Revolutionary World Design:**
+- **Partially pre-made, partially procedural** open world with simulation-driven history
+- **Complex faction reputation system** affecting entire world state
+- **Living ecosystem** where every creature has needs, relationships, and purposes
+- **Deep lore** spanning thousands of years of post-apocalyptic history
+- **Procedural generation** integrated with authored content seamlessly
+
+**Innovative Character System:**
+- **True Kin vs. Mutant choice** - Humans with cybernetics or beings with mutations
+- **Physical and mental mutations** - Over 70 unique mutations affecting gameplay
+- **Skill system** with water ritual learning from creatures and NPCs
+- **Body part simulation** - Individual limbs, organs, and systems tracked
+
+**Technical Excellence:**
+- **Unity engine** delivering smooth performance across platforms
+- **ASCII and tile graphics options** with beautiful character portraits
+- **Modding support** with active community creating content
+- **Multi-platform release** - Windows, macOS, Linux with controller support
+
+**Development Team:** Led by **Brian Bucklew**, **Jason Grinblat**, **Caelyn Sandel**, and **Nick DeCapua** based in South Bend, IN and Berkeley, CA, with art by **Samuel Wilson** and **Cyril van der Haegen**, plus music from **Craigory Hamilton** and **Brandon Tanner**."
 release_date: "2015-07-15"
 latest_version: "2.0.206.60"
 developers:

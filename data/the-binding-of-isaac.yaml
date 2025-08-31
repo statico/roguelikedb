@@ -1,6 +1,32 @@
 name: "The Binding of Isaac"
 slug: "the-binding-of-isaac"
-description: "Top-down shooter roguelike with dark religious themes and twisted narrative. Features procedurally generated rooms, permanent upgrades, and psychological horror elements in a basement setting."
+description: "**Genre-defining twin-stick roguelike shooter** - Created by Edmund McMillen and Florian Himsl as a **two-person indie team**, launching September 28, 2011, and catalyzing the entire roguelite boom.
+
+**Commercial Phenomenon:**
+- **Over 5 million lifetime sales** across all versions by 2024
+- **2+ million copies sold** by April 2013 of original release alone
+- **450,000+ units** sold before first expansion
+- **Metacritic score of 84/100** with widespread critical acclaim
+
+**Revolutionary Design:**
+- **300+ items and synergies** creating billions of build combinations
+- **Procedurally generated dungeons** with permadeath mechanics
+- **Twin-stick shooting** combined with roguelike progression
+- **Dark religious themes** and psychological horror narrative
+- **Flash engine implementation** requiring minimal system specs
+
+**Massive Expansion Program:**
+- **The Wrath of the Lamb** (2012) - First major expansion
+- **Rebirth** (2014) - Complete remake in C++
+- **Afterbirth** (2015), **Afterbirth+** (2017), **Repentance** (2021), **Repentance+** (2024)
+
+**Community Impact:**
+- **1,000+ Steam Workshop mods** with extensive API support
+- **Active Discord/Reddit communities** with 10,000+ daily players in 2025
+- **Thriving speedrunning scene** on Twitch and leaderboards
+- **Viral Let's Play coverage** driving organic growth
+
+**Industry Influence:** Directly inspired major roguelites like **Enter the Gungeon** and **Dead Cells**, demonstrating commercial viability of item-driven roguelikes and establishing the modern roguelite template. Regular balance patches and free content updates continued through 2024."
 release_date: "2011-09-28"
 latest_version: "Rebirth (2014)"
 developers:

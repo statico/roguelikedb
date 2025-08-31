@@ -1,6 +1,85 @@
 name: "UnAngband"
 slug: "unangband"
-description: "Expanded Angband variant featuring multiple dungeons, surface wilderness, and significantly enlarged game world. One of the most ambitious expansions of the Angband formula."
+description: "**The scope expansion masterpiece** - Andrew Doull's **ambitious achievement** that created **one of the most expanded Angband variants**, featuring **multiple dungeons**, **surface wilderness exploration**, and **significantly enlarged game world** proving that **traditional roguelike mechanics** could **support massive scope** while **maintaining tactical depth** and **creating unprecedented exploration opportunities**.
+
+**Scope Expansion Revolution (2007):**
+- **Multiple dungeon systems** - Revolutionary departure from single-dungeon Angband formula
+- **Surface wilderness exploration** - Overworld travel and outdoor adventure beyond traditional underground focus
+- **Significantly enlarged game world** - Massive scope expansion creating unprecedented exploration opportunities
+- **Most ambitious Angband variant** - Genre-pushing scope and complexity within traditional framework
+- **Sandbox elements** - Open-world exploration freedom within structured roguelike progression
+
+**World Design Innovation:**
+- **Multiple dungeon integration** - Diverse underground locations each with unique challenges and themes
+- **Wilderness complexity** - Surface exploration featuring varied terrains and environmental challenges
+- **Interconnected systems** - Multiple locations connected through coherent world design
+- **Exploration variety** - Different areas requiring adaptive strategies and tactical approaches
+- **Geographic authenticity** - Realistic world structure supporting believable exploration experiences
+
+**Technical Achievement Excellence:**
+- **C programming mastery** - Complex world systems implemented within sophisticated Angband codebase
+- **Memory management** - 64MB requirements supporting massive world content and multiple dungeon systems
+- **Performance optimization** - Smooth gameplay despite unprecedented scope and complexity
+- **Cross-platform stability** - Windows, Linux, and macOS versions ensuring broad accessibility
+- **Version development** - Active development reaching version 0.6.2 with ongoing improvements
+
+**Angband Framework Extension:**
+- **Major variant classification** - Fundamental expansion beyond traditional Angband limitations
+- **Extreme difficulty preservation** - Multiple challenges maintaining Angband's tactical depth requirements
+- **Traditional mechanics** - Core turn-based grid-based gameplay supporting expanded exploration
+- **Character progression** - Class and magic systems adapted for larger-scope adventure
+- **Permadeath stakes** - Meaningful consequences across expanded world encouraging strategic planning
+
+**Wilderness Integration:**
+- **Surface exploration mechanics** - Overworld travel systems creating new strategic considerations
+- **Environmental diversity** - Varied outdoor terrains each with unique challenges and opportunities
+- **Weather and conditions** - Environmental factors affecting exploration and survival strategies
+- **Resource management** - Extended journeys requiring careful planning and supply management
+- **Navigation complexity** - Large world requiring spatial awareness and exploration strategy
+
+**Multiple Dungeon Design:**
+- **Diverse underground experiences** - Each dungeon featuring unique themes, creatures, and challenges
+- **Strategic choice** - Multiple locations requiring player decisions about exploration priorities
+- **Difficulty progression** - Varied challenge levels accommodating different character development stages
+- **Thematic variety** - Different dungeon atmospheres and design philosophies within unified world
+- **Interconnected exploration** - Dungeons related through world lore and strategic progression
+
+**Community Impact:**
+- **Scope precedent** - Demonstrating viability of massive expansion within roguelike frameworks
+- **Angband evolution** - Pushing boundaries of traditional single-dungeon roguelike design
+- **Open source contribution** - Angband License enabling community study of world expansion techniques
+- **Development inspiration** - Encouraging other developers to explore large-scope roguelike design
+- **Educational resource** - Complete example of ambitious world expansion within established framework
+
+**Design Philosophy:**
+- **Exploration emphasis** - World design prioritizing discovery and adventure across varied environments
+- **Scope ambition** - Willingness to fundamentally expand traditional roguelike boundaries
+- **Tactical preservation** - Maintaining strategic depth while supporting massive world exploration
+- **Player agency** - Multiple locations and paths enabling personalized adventure experiences
+- **World coherence** - Unified design vision across diverse environments and challenges
+
+**Cultural Gaming Impact:**
+- **Scope validation** - Proving roguelike mechanics could support massive world exploration
+- **Wilderness integration** - Demonstrating potential for outdoor adventure within roguelike frameworks
+- **Exploration innovation** - Contributing to roguelike recognition as platform for diverse adventure types
+- **Community ambition** - Inspiring other developers to attempt large-scope roguelike projects
+- **Genre boundary expansion** - Pushing traditional dungeon-focused roguelike limitations
+
+**Open Source Legacy:**
+- **World expansion techniques** - Methods for creating large-scope exploration within roguelike frameworks
+- **Multiple dungeon implementation** - Technical approaches to diverse underground location systems
+- **Wilderness programming** - Outdoor environment creation and management systems
+- **Community enhancement** - Code availability enabling study and further large-scope development
+- **Educational preservation** - Maintaining access to ambitious world expansion roguelike design
+
+**Educational Value:**
+- **Large-scope roguelike design** - Complete example of massive world expansion within traditional frameworks
+- **World building techniques** - Methods for creating coherent exploration across diverse environments
+- **Multiple system integration** - Approaches to combining dungeon and wilderness exploration
+- **Scope management** - Techniques for maintaining quality across ambitious project scope
+- **Community development** - Collaborative approaches to large-scale roguelike enhancement
+
+**Legacy Achievement:** **UnAngband** demonstrates that **roguelike mechanics** can **support massive scope**, proving that **multiple dungeons** and **wilderness exploration** can create **unprecedented adventure experiences** while **maintaining tactical depth** and **inspiring ambitious development** within **traditional roguelike frameworks**."
 release_date: "2007"
 latest_version: "0.6.2"
 developers:

@@ -1,6 +1,49 @@
 name: "Moria"
 slug: "moria"
-description: "Seminal 1983 roguelike set in Tolkien's Mines of Moria, featuring the first literary adaptation in roguelikes and establishing the foundation for the entire Angband family of games."
+description: "**The foundational Angband ancestor** - Robert Alan Koeneke's groundbreaking **1983 literary roguelike** that brought **Tolkien's Middle-earth** to the genre, establishing the **template for modern depth-based dungeon exploration** and spawning the entire **Angband family lineage**.
+
+**Revolutionary Literary Adaptation:**
+- **First Tolkien roguelike** - Authentic Middle-earth setting in Mines of Moria
+- **Literary depth integration** - Proper names, locations, and lore from The Lord of the Rings
+- **Atmospheric dungeon design** - 50 levels descending into the ancient dwarven kingdom
+- **Balrog final boss** - Epic confrontation with Tolkien's flame demon
+- **Canonical monsters** - Orcs, trolls, and creatures from Tolkien's works
+
+**Technical Innovation for 1983:**
+- **Pascal on VMS** - Originally developed on Digital Equipment Corporation systems
+- **50-level depth** - Unprecedented dungeon scale for early roguelikes
+- **Equipment complexity** - Advanced armor and weapon systems
+- **Magic item variety** - Rings, wands, potions with complex interactions
+- **Character statistics** - Six core stats affecting gameplay mechanics
+
+**Historical Significance:**
+- **Angband lineage founder** - Direct ancestor to dozens of variants
+- **Unix preservation** - Ported from VMS Pascal to C for broader accessibility
+- **Academic origins** - Developed at University of Oklahoma computing center
+- **Source code legacy** - Open source foundation enabling community development
+- **80s roguelike explosion** - Inspired wave of Tolkien-themed dungeon crawlers
+
+**Gameplay Foundations:**
+- **Turn-based exploration** - Methodical dungeon navigation and combat
+- **ASCII representation** - Character-based graphics defining early roguelike aesthetics
+- **Permadeath consequences** - Single life creating high-stakes gameplay
+- **Procedural generation** - Randomized dungeon layouts ensuring replayability
+- **Resource management** - Food, light sources, and equipment durability
+
+**Community & Preservation:**
+- **Version 4.87 final** - Last official release maintaining original design
+- **Historical preservation** - Available through academic and hobbyist archives
+- **Angband community respect** - Recognized as spiritual grandfather of variants
+- **Documentation completeness** - Well-documented codebase and gameplay mechanics
+- **Educational value** - Studied for early roguelike design principles
+
+**Cultural Impact:**
+- **Literary gaming pioneer** - Proved licensed properties could enhance roguelike depth
+- **Family tree patriarch** - Every Angband variant traces lineage to Moria
+- **Academic respectability** - Demonstrated roguelikes as serious computer science projects
+- **Preservation efforts** - Maintained by dedicated community historians
+
+**Development Legacy:** Created by **Robert Alan Koeneke** as a **university project**, Moria demonstrated that **literary depth** and **complex systems** could coexist in **ASCII games**, establishing **design principles** that would influence **decades of roguelike development** and proving **collaborative development** could preserve and extend **foundational games**."
 release_date: "1983"
 latest_version: "4.87"
 developers:

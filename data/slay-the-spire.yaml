@@ -1,6 +1,41 @@
 name: "Slay the Spire"
 slug: "slay-the-spire"
-description: "A roguelike deck-building game that combines card-based combat with roguelike progression. Players ascend a spire of multiple floors, building and customizing their deck as they battle enemies and bosses."
+description: "**The game that created roguelike deckbuilders** - Mega Crit's revolutionary fusion of **card-based strategy** and **roguelike progression** that **sold over 5 million copies** and spawned an entire subgenre.
+
+**Commercial Phenomenon & Critical Success:**
+- **5+ million copies sold** across all platforms by 2024
+- **'Overwhelmingly Positive' Steam reviews** (97% positive from 100k+ reviews)
+- **Multiple indie game awards** including IGF Excellence in Design
+- **Perfect Metacritic scores** across multiple platforms (89-90/100)
+
+**Genre-Defining Innovation:**
+- **First successful roguelike deckbuilder** - Created entirely new subgenre
+- **Perfect mechanical fusion** - Card synergies with roguelike permadeath
+- **Three unique character classes** - Ironclad, Silent, Defect (+ Watcher DLC)
+- **500+ cards** with complex interaction systems and synergies
+- **Dynamic difficulty scaling** through Ascension levels 1-20
+
+**Design Excellence:**
+- **LibGDX Java engine** ensuring smooth cross-platform performance
+- **Intuitive UI/UX** making complex systems accessible
+- **Perfect information gameplay** - No hidden mechanics or RNG frustration
+- **Endless replayability** through card combinations and build paths
+
+**Massive Cultural Impact:**
+- **Inspired 100+ deckbuilder games** including Monster Train, Griftlands, Dicey Dungeons
+- **Twitch/YouTube phenomenon** with millions of hours of content creation
+- **Speedrunning community** with competitive scene and world records
+- **Modding support** through Steam Workshop with hundreds of custom characters
+
+**Content Depth:**
+- **The Watcher character** - Major free DLC adding fourth class
+- **Daily Climbs** - Competitive challenges with leaderboards
+- **Custom mode** - Modify rules and difficulty for unique experiences
+- **Achievement system** encouraging diverse strategies and builds
+
+**Educational Impact:** Studied in game design courses as **perfect example of mechanical synthesis**, showing how two disparate genres (card games + roguelikes) could create something greater than the sum of their parts.
+
+**Legacy:** Single-handedly proved **deckbuilders** could be standalone game genres, not just digital adaptations of physical card games. Established template for **roguelike deckbuilder** that dozens of games now follow."
 release_date: "2019-01-23"
 latest_version: "2.3.17"
 developers:

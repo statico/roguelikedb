@@ -1,0 +1,114 @@
+name: "Crown Trick"
+slug: "crown-trick"
+description: "**The Korean roguelike with time-manipulation mastery** - NExT Studios' innovative **real-time grid-based combat** system where **time only moves when you move**, creating **perfect tactical precision** in beautiful hand-drawn environments.
+
+**Revolutionary Time Mechanics:**
+- **Time moves only when you move** - Every action is perfectly calculated
+- **Real-time grid combat** - Fluid movement with tactical turn-based precision
+- **Predictable enemy patterns** - All attacks telegraphed for strategic planning
+- **Perfect information gameplay** - No hidden mechanics or unfair surprises
+- **Tactical positioning** - Every step matters for optimal combat outcomes
+
+**Korean Development Excellence:**
+- **NExT Studios creation** - Showcasing Korean indie game development
+- **International success** - Korean game achieving global recognition
+- **Cultural fusion** - Eastern design philosophy with Western roguelike mechanics
+- **High production values** - AAA-quality art and animation in indie package
+
+**Stunning Visual Design:**
+- **Hand-drawn 2D art** - Beautiful illustrated environments and characters
+- **Smooth animation** - Fluid character movement and spell effects
+- **Distinctive art style** - Unique visual identity setting it apart from competitors
+- **Environmental storytelling** - Rich world-building through visual design
+- **UI polish** - Clean, intuitive interface design
+
+**Deep Mechanical Systems:**
+- **Weapon variety** - Multiple weapon types with unique movesets and timing
+- **Spell synchronization** - Magic attacks perfectly integrated with movement system
+- **Familiar bonds** - Companion creatures providing abilities and tactical options
+- **Room-based encounters** - Each chamber presents unique tactical puzzles
+- **Status effect mastery** - Complex buff/debuff systems with timing considerations
+
+**Strategic Combat Depth:**
+- **Perfect timing challenges** - Mastery requires understanding enemy attack patterns
+- **Positioning puzzles** - Room layouts create tactical decision points
+- **Resource management** - Health, mana, and abilities must be carefully managed
+- **Build variety** - Different weapon and spell combinations create diverse playstyles
+- **Difficulty scaling** - Progressive challenges that teach advanced techniques
+
+**Commercial & Critical Success:**
+- **Positive critical reception** - Praised for innovative mechanics and visual design
+- **Steam success** - Strong sales and community engagement
+- **International recognition** - Featured at major gaming conventions
+- **Awards consideration** - Nominated for indie game excellence awards
+
+**Cultural Impact:**
+- **Time mechanics innovation** - Influenced other developers exploring similar systems
+- **Korean indie spotlight** - Helped showcase Korean game development talent
+- **Grid-based evolution** - Advanced the tactical roguelike subgenre
+- **Accessibility model** - Perfect information gameplay reducing roguelike frustration
+
+**Technical Achievement:**
+- **Smooth performance** - Flawless execution of complex timing systems
+- **Cross-platform optimization** - Consistent experience across platforms
+- **Engine optimization** - Custom systems for precise timing calculations
+- **User experience design** - Intuitive controls for complex mechanics
+
+**Community & Longevity:**
+- **Strategy communities** - Players sharing optimal tactical approaches
+- **Speedrunning potential** - Perfect timing enables competitive optimization
+- **Educational value** - Teaches tactical thinking through clear mechanics
+- **Replay encouragement** - Mastery-focused design promotes repeated play
+
+**Innovation Legacy:** Proved that **perfect information** and **time manipulation** could create **deeply strategic roguelike combat** without sacrificing the excitement of real-time action, establishing new possibilities for **tactical roguelike design**."
+release_date: "2021-02-18"
+latest_version: "1.2.4"
+developers:
+  - "NExT Studios"
+publishers:
+  - "NExT Studios"
+platforms:
+  - "Windows"
+  - "Nintendo Switch"
+  - "PlayStation 4"
+  - "Xbox One"
+classification:
+  primary_type: "roguelite"
+  subgenres:
+    - "tactical"
+    - "action"
+  gameplay_features:
+    - "real_time"
+    - "grid_based"
+    - "procedural_generation"
+    - "permadeath"
+    - "time_manipulation"
+    - "perfect_information"
+    - "tactical_combat"
+  difficulty: "moderate"
+lineage:
+  parent_games:
+    - "rogue"
+  fork_type: "inspired_by"
+links:
+  official_website: "https://www.crown-trick.com/"
+  steam_page: "https://store.steampowered.com/app/1000010/Crown_Trick/"
+community:
+  active_development: false
+  open_source: false
+  license: "Proprietary"
+  community_size: "medium"
+technical:
+  engine: "Unity"
+  system_requirements:
+    minimum_ram: "4GB"
+    storage_space: "2GB"
+tags:
+  - "korean"
+  - "time-manipulation"
+  - "tactical"
+  - "hand-drawn"
+  - "innovative"
+  - "2021"
+notes: "Innovative Korean roguelike featuring unique time mechanics where time only moves when you move, creating perfect tactical precision. Beautiful hand-drawn art and smooth real-time grid combat."
+last_updated: "2025-01-30"

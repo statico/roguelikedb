@@ -1,6 +1,46 @@
 name: "FTL: Faster Than Light"
 slug: "ftl-faster-than-light"
-description: "Real-time strategy roguelike spaceship simulation where players manage crew, systems, and resources while exploring a hostile galaxy. Features permadeath, procedural encounters, and tactical combat."
+description: "**The Kickstarter phenomenon that proved indie roguelikes could be massive hits** - Subset Games' spaceship management masterpiece that **raised $200,000 on Kickstarter** and **sold over 2.5 million copies**.
+
+**Kickstarter Success & Commercial Impact:**
+- **$200,542 raised** on Kickstarter in September 2011 (2000% funded)
+- **2.5+ million copies sold** across all platforms
+- **One of the highest-grossing indie games** of the early 2010s
+- **Proved commercial viability** of complex indie roguelikes
+
+**Revolutionary Gameplay Design:**
+- **Real-time spaceship management** with pause-and-plan tactical combat
+- **8 unique starship layouts** each requiring different strategies
+- **Complex crew management** - Humans, Engi, Mantis, Rockmen, Zoltan, Crystals
+- **System-based damage model** - Target engines, weapons, oxygen, shields
+- **Procedural galaxy exploration** with branching narrative encounters
+
+**Technical Achievement:**
+- **Custom C++ engine** optimized for real-time systems simulation
+- **Elegant UI design** making complex management accessible
+- **Cross-platform success** - Windows, macOS, Linux, iOS
+- **Minimal system requirements** enabling wide accessibility
+
+**Advanced Edition Expansion (2014):**
+- **Free major content update** adding massive new systems
+- **New alien races** - Lanius species with unique abilities
+- **Mind control and hacking systems** - Additional tactical options
+- **Clone bay alternative** to medical bay for crew revival
+- **New weapons, drones, and encounters** doubling content
+
+**Cultural & Industry Impact:**
+- **Defined 'spaceship management' subgenre** inspiring countless imitators
+- **Mainstream media coverage** - Featured in major gaming publications
+- **Influenced AAA development** - Mechanics adopted by larger studios
+- **Academic study subject** for procedural narrative design
+
+**Design Philosophy:**
+- **'Failure is fun'** - Deaths tell interesting stories
+- **Perfect information** - No hidden mechanics, pure strategy
+- **Emergent storytelling** through procedural encounters
+- **Accessibility through depth** - Simple to learn, impossible to master
+
+**Legacy Impact:** Demonstrated that **complex indie roguelikes** could achieve mainstream commercial success, paving the way for the indie roguelike boom of the 2010s. Established **Kickstarter as viable funding** for innovative game concepts."
 release_date: "2012-09-14"
 latest_version: "1.6.14"
 developers:
