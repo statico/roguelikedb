@@ -1,77 +1,78 @@
 name: "Dungeons of Dredmor"
 slug: "dungeons-of-dredmor"
-description: "**The Steam roguelike breakthrough** - Gaslamp Games' **commercial roguelike revolution** that proved **traditional roguelike depth** could achieve **mainstream Steam success**, featuring **750,000+ copies sold**, **brilliant humor integration**, and **extensive modding support** while establishing the **template for modern commercial roguelike design**.
-
-**Commercial Success Pioneer:**
-- **750,000+ copies sold** - Massive commercial success proving roguelike market viability on Steam
-- **'Very Positive' Steam reviews** - 90% positive rating demonstrating broad audience appeal
-- **Steam integration excellence** - Achievements, trading cards, and Workshop support from day one
-- **Multiple DLC expansions** - Conquest of the Wizardlands, You Have to Name the Expansion Pack
-- **Indie development inspiration** - Proved small studios could achieve major commercial success
-
-**Humor Integration Mastery:**
-- **Witty item descriptions** - Every piece of equipment featuring clever, memorable flavor text
-- **Absurdist skill trees** - Skills like 'Fungal Arts', 'Emomancy', and 'Archaeology' with hilarious abilities
-- **Pop culture references** - Clever nods to gaming, internet culture, and genre conventions
-- **Self-aware design** - Meta-humor about roguelike tropes and game development
-- **Character naming system** - Ridiculous randomly generated names adding personality to equipment
-
-**Skill System Innovation:**
-- **7 skill tree selection** - Players choosing from dozens of unique skill combinations
-- **Cross-skill synergies** - Abilities from different trees combining for powerful effects
-- **Build experimentation** - Thousands of viable character combinations encouraging replay
-- **Progression depth** - Each skill tree offering meaningful advancement and specialization options
-- **Accessibility design** - Complex systems made approachable through clear UI and descriptions
-
-**Steam Workshop Revolution:**
-- **Comprehensive modding support** - Tools and documentation enabling extensive community content
-- **Thousands of mods** - Community creating new skills, items, monsters, and complete overhauls
-- **Workshop integration** - Seamless mod discovery and installation through Steam platform
-- **Developer encouragement** - Gaslamp Games actively supporting and promoting community content
-- **Educational resources** - Modding tutorials and documentation helping creators learn game development
-
-**Visual & Audio Excellence:**
-- **Distinctive art style** - Cartoon-like 2D graphics creating memorable visual identity
-- **Animation quality** - Smooth character movement and spell effects enhancing gameplay experience
-- **Atmospheric music** - Soundtrack perfectly matching dungeon exploration and combat tension
-- **UI design mastery** - Clear, functional interface making complex systems accessible
-- **Visual feedback** - Excellent communication of game state through visual and audio cues
-
-**Technical Achievement:**
-- **Cross-platform success** - Windows, macOS, and Linux versions with consistent experience
-- **Performance optimization** - Smooth gameplay across wide range of hardware specifications
-- **Save system reliability** - Robust character preservation with multiple backup options
-- **Crash prevention** - Stable gameplay crucial for roguelike permadeath consequences
-- **Memory management** - Efficient resource usage supporting complex dungeon generation
-
-**Community Building:**
-- **Forum engagement** - Active developer participation in community discussions and feedback
-- **Strategy sharing** - Players discovering and documenting optimal skill combinations
-- **Content creation** - Streamers and YouTubers showcasing gameplay and strategies
-- **Educational content** - Community guides helping newcomers learn complex systems
-- **Long-term support** - Continued bug fixes and compatibility updates years after release
-
-**Genre Bridge Building:**
-- **Traditional roguelike respect** - Maintaining core mechanics while adding accessibility features
-- **Modern gaming integration** - Steam features without compromising roguelike authenticity
-- **Casual player welcome** - Lower difficulty options making genre accessible to newcomers
-- **Hardcore depth preservation** - Advanced systems satisfying traditional roguelike players
-- **Marketing success** - Effective promotion introducing roguelikes to mainstream audiences
-
-**Cultural Impact:**
-- **Steam roguelike validation** - Proved digital distribution could support traditional genres
-- **Indie development model** - Demonstrated small team success through quality and humor
-- **Modding community template** - Established standards for community content support
-- **Humor in games** - Showed comedy could enhance rather than undermine serious gameplay
-- **Genre accessibility** - Made roguelikes approachable without sacrificing depth
-
-**Educational Legacy:**
-- **Commercial development lessons** - Case study in successful indie game marketing and distribution
-- **Community management** - Model for developer-player relationships and content support
-- **Game design balance** - Balancing accessibility with traditional roguelike complexity
-- **Modding architecture** - Technical framework enabling extensive community content creation
-
-**Ultimate Achievement:** **Dungeons of Dredmor** proved that **traditional roguelike mechanics** could achieve **massive commercial success** when combined with **exceptional humor**, **modern platform integration**, and **comprehensive community support**, establishing the **blueprint for successful commercial roguelike development** in the **digital distribution era**."
+description: |
+  **The Steam roguelike breakthrough** - Gaslamp Games' **commercial roguelike revolution** that proved **traditional roguelike depth** could achieve **mainstream Steam success**, featuring **750,000+ copies sold**, **brilliant humor integration**, and **extensive modding support** while establishing the **template for modern commercial roguelike design**.
+  
+  **Commercial Success Pioneer:**
+  - **750,000+ copies sold** - Massive commercial success proving roguelike market viability on Steam
+  - **'Very Positive' Steam reviews** - 90% positive rating demonstrating broad audience appeal
+  - **Steam integration excellence** - Achievements, trading cards, and Workshop support from day one
+  - **Multiple DLC expansions** - Conquest of the Wizardlands, You Have to Name the Expansion Pack
+  - **Indie development inspiration** - Proved small studios could achieve major commercial success
+  
+  **Humor Integration Mastery:**
+  - **Witty item descriptions** - Every piece of equipment featuring clever, memorable flavor text
+  - **Absurdist skill trees** - Skills like 'Fungal Arts', 'Emomancy', and 'Archaeology' with hilarious abilities
+  - **Pop culture references** - Clever nods to gaming, internet culture, and genre conventions
+  - **Self-aware design** - Meta-humor about roguelike tropes and game development
+  - **Character naming system** - Ridiculous randomly generated names adding personality to equipment
+  
+  **Skill System Innovation:**
+  - **7 skill tree selection** - Players choosing from dozens of unique skill combinations
+  - **Cross-skill synergies** - Abilities from different trees combining for powerful effects
+  - **Build experimentation** - Thousands of viable character combinations encouraging replay
+  - **Progression depth** - Each skill tree offering meaningful advancement and specialization options
+  - **Accessibility design** - Complex systems made approachable through clear UI and descriptions
+  
+  **Steam Workshop Revolution:**
+  - **Comprehensive modding support** - Tools and documentation enabling extensive community content
+  - **Thousands of mods** - Community creating new skills, items, monsters, and complete overhauls
+  - **Workshop integration** - Seamless mod discovery and installation through Steam platform
+  - **Developer encouragement** - Gaslamp Games actively supporting and promoting community content
+  - **Educational resources** - Modding tutorials and documentation helping creators learn game development
+  
+  **Visual & Audio Excellence:**
+  - **Distinctive art style** - Cartoon-like 2D graphics creating memorable visual identity
+  - **Animation quality** - Smooth character movement and spell effects enhancing gameplay experience
+  - **Atmospheric music** - Soundtrack perfectly matching dungeon exploration and combat tension
+  - **UI design mastery** - Clear, functional interface making complex systems accessible
+  - **Visual feedback** - Excellent communication of game state through visual and audio cues
+  
+  **Technical Achievement:**
+  - **Cross-platform success** - Windows, macOS, and Linux versions with consistent experience
+  - **Performance optimization** - Smooth gameplay across wide range of hardware specifications
+  - **Save system reliability** - Robust character preservation with multiple backup options
+  - **Crash prevention** - Stable gameplay crucial for roguelike permadeath consequences
+  - **Memory management** - Efficient resource usage supporting complex dungeon generation
+  
+  **Community Building:**
+  - **Forum engagement** - Active developer participation in community discussions and feedback
+  - **Strategy sharing** - Players discovering and documenting optimal skill combinations
+  - **Content creation** - Streamers and YouTubers showcasing gameplay and strategies
+  - **Educational content** - Community guides helping newcomers learn complex systems
+  - **Long-term support** - Continued bug fixes and compatibility updates years after release
+  
+  **Genre Bridge Building:**
+  - **Traditional roguelike respect** - Maintaining core mechanics while adding accessibility features
+  - **Modern gaming integration** - Steam features without compromising roguelike authenticity
+  - **Casual player welcome** - Lower difficulty options making genre accessible to newcomers
+  - **Hardcore depth preservation** - Advanced systems satisfying traditional roguelike players
+  - **Marketing success** - Effective promotion introducing roguelikes to mainstream audiences
+  
+  **Cultural Impact:**
+  - **Steam roguelike validation** - Proved digital distribution could support traditional genres
+  - **Indie development model** - Demonstrated small team success through quality and humor
+  - **Modding community template** - Established standards for community content support
+  - **Humor in games** - Showed comedy could enhance rather than undermine serious gameplay
+  - **Genre accessibility** - Made roguelikes approachable without sacrificing depth
+  
+  **Educational Legacy:**
+  - **Commercial development lessons** - Case study in successful indie game marketing and distribution
+  - **Community management** - Model for developer-player relationships and content support
+  - **Game design balance** - Balancing accessibility with traditional roguelike complexity
+  - **Modding architecture** - Technical framework enabling extensive community content creation
+  
+  **Ultimate Achievement:** **Dungeons of Dredmor** proved that **traditional roguelike mechanics** could achieve **massive commercial success** when combined with **exceptional humor**, **modern platform integration**, and **comprehensive community support**, establishing the **blueprint for successful commercial roguelike development** in the **digital distribution era**.
 release_date: "2011-07-13"
 latest_version: "1.1.5"
 developers:

@@ -1,92 +1,93 @@
 name: "Kamband"
 slug: "kamband"
-description: "**The Japanese Angband evolution** - Kawazoe Nobuhiro and the Japanese Angband Community's **cultural achievement** that created a **uniquely Japanese Angband variant** featuring **enhanced monster AI**, **improved graphics support**, and **gameplay mechanics influenced by Japanese RPG design philosophy** proving that **regional communities** can **adapt traditional roguelikes** while **preserving authenticity** and **contributing innovative enhancements** to **global development**.
-
-**Japanese Community Innovation (2002):**
-- **Regional variant development** - Japanese community creating culturally-influenced Angband adaptation
-- **Kawazoe Nobuhiro leadership** - Dedicated developer coordinating Japanese community contributions
-- **Version 2.1.3 evolution** - Continued development refining Japanese design elements
-- **Cultural design influence** - Japanese RPG traditions integrated into traditional Angband framework
-- **Community collaboration** - Japanese Angband community working together for collective enhancement
-
-**Enhanced AI Excellence:**
-- **Unique monster AI** - Advanced creature behavior systems beyond traditional Angband implementations
-- **Intelligent enemy tactics** - Monsters exhibiting strategic thinking and adaptive behaviors
-- **Combat sophistication** - AI opponents providing varied and challenging tactical encounters
-- **Behavioral unpredictability** - Enhanced AI creating diverse and engaging combat experiences
-- **Strategic depth** - Advanced AI requiring players to develop sophisticated tactical approaches
-
-**Graphics Enhancement Innovation:**
-- **Enhanced graphics support** - Improved visual presentation options beyond standard ASCII
-- **Tile graphics integration** - Visual alternatives to traditional text-based presentation
-- **Japanese aesthetic elements** - Visual design reflecting Japanese gaming culture and preferences
-- **Interface improvements** - Graphics enhancements supporting better information display
-- **Cultural presentation** - Visual elements respecting both Angband tradition and Japanese design sensibilities
-
-**Japanese RPG Philosophy Integration:**
-- **Design philosophy adaptation** - Japanese RPG traditions thoughtfully integrated into roguelike framework
-- **Character development elements** - Japanese RPG advancement concepts enhancing traditional progression
-- **Narrative consideration** - Story elements and world-building influenced by Japanese gaming traditions
-- **Player experience focus** - Japanese design emphasis on player enjoyment and engagement
-- **Cultural authenticity** - Japanese gaming sensibilities respected while maintaining Angband core
-
-**Technical Achievement:**
-- **C programming excellence** - Complex AI and graphics systems implemented within Angband architecture
-- **Modified Angband engine** - Sophisticated enhancements while maintaining core compatibility
-- **Cross-platform support** - Windows and Linux versions ensuring broad accessibility
-- **Memory efficiency** - 16MB requirements supporting enhanced features within minimal constraints
-- **Performance optimization** - Smooth gameplay despite AI and graphics improvements
-
-**Regional Community Development:**
-- **Japanese Angband community** - Dedicated regional players contributing to variant development
-- **Cultural gaming bridge** - Connecting Japanese gaming culture with Western roguelike traditions
-- **Community collaboration** - Shared development efforts within Japanese roguelike scene
-- **Regional innovation** - Local community contributing unique perspectives to global Angband development
-- **Cultural preservation** - Maintaining Japanese gaming traditions within roguelike framework
-
-**Cultural Design Elements:**
-- **Japanese RPG influence** - Game design elements reflecting Japanese role-playing game traditions
-- **Regional preferences** - Features appealing to Japanese gaming sensibilities and expectations
-- **Cultural adaptation** - Angband mechanics adapted for Japanese gaming culture
-- **Aesthetic integration** - Visual and mechanical elements reflecting Japanese design philosophy
-- **Community values** - Development priorities reflecting Japanese gaming community preferences
-
-**Community Impact:**
-- **Small dedicated community** - Focused Japanese player base supporting variant development
-- **Cultural contribution** - Japanese perspectives enriching global Angband variant ecosystem
-- **Development cessation** - Project ending but contributing lasting innovations to community
-- **Open source legacy** - Angband license ensuring continued access to Japanese innovations
-- **Educational value** - Teaching regional adaptation and cultural integration techniques
-
-**AI Innovation Legacy:**
-- **Monster behavior advancement** - Enhanced AI techniques influencing later roguelike development
-- **Strategic complexity** - AI improvements raising standards for roguelike combat intelligence
-- **Tactical variety** - Advanced behaviors creating diverse and engaging encounters
-- **Development methodology** - AI enhancement techniques available for community study
-- **Innovation inspiration** - AI improvements encouraging other developers to explore creature intelligence
-
-**Cultural Gaming Impact:**
-- **Regional development validation** - Proving value of culturally-specific variant development
-- **Japanese gaming integration** - Successful fusion of Japanese RPG elements with Western roguelike tradition
-- **Community empowerment** - Demonstrating potential for regional communities to contribute meaningfully
-- **Cultural bridge building** - Connecting different gaming traditions through respectful adaptation
-- **Design diversity** - Contributing Japanese perspectives to global roguelike development
-
-**Open Source Excellence:**
-- **Angband license** - Community access enabling study of Japanese development approaches
-- **Cultural code sharing** - Japanese innovations available for global community learning
-- **Educational resource** - Complete example of regional variant development and cultural adaptation
-- **Innovation preservation** - AI and graphics techniques maintained for community benefit
-- **Development transparency** - Open process supporting understanding of cultural integration methods
-
-**Educational Value:**
-- **Regional variant development** - Methods for culturally-sensitive roguelike adaptation
-- **Enhanced AI implementation** - Techniques for advanced monster behavior programming
-- **Cultural gaming integration** - Approaches to respectful fusion of different gaming traditions
-- **Community development** - Regional community coordination and collaborative programming
-- **Cross-cultural design** - Balancing cultural elements with established gaming frameworks
-
-**Legacy Achievement:** **Kamband** demonstrates that **regional communities** can **meaningfully enhance** global gaming traditions, proving that **cultural perspectives** and **technical innovation** can create **valuable contributions** that **respect original frameworks** while **adding unique elements** that **enrich global development** and **inspire cross-cultural gaming collaboration**."
+description: |
+  **The Japanese Angband evolution** - Kawazoe Nobuhiro and the Japanese Angband Community's **cultural achievement** that created a **uniquely Japanese Angband variant** featuring **enhanced monster AI**, **improved graphics support**, and **gameplay mechanics influenced by Japanese RPG design philosophy** proving that **regional communities** can **adapt traditional roguelikes** while **preserving authenticity** and **contributing innovative enhancements** to **global development**.
+  
+  **Japanese Community Innovation (2002):**
+  - **Regional variant development** - Japanese community creating culturally-influenced Angband adaptation
+  - **Kawazoe Nobuhiro leadership** - Dedicated developer coordinating Japanese community contributions
+  - **Version 2.1.3 evolution** - Continued development refining Japanese design elements
+  - **Cultural design influence** - Japanese RPG traditions integrated into traditional Angband framework
+  - **Community collaboration** - Japanese Angband community working together for collective enhancement
+  
+  **Enhanced AI Excellence:**
+  - **Unique monster AI** - Advanced creature behavior systems beyond traditional Angband implementations
+  - **Intelligent enemy tactics** - Monsters exhibiting strategic thinking and adaptive behaviors
+  - **Combat sophistication** - AI opponents providing varied and challenging tactical encounters
+  - **Behavioral unpredictability** - Enhanced AI creating diverse and engaging combat experiences
+  - **Strategic depth** - Advanced AI requiring players to develop sophisticated tactical approaches
+  
+  **Graphics Enhancement Innovation:**
+  - **Enhanced graphics support** - Improved visual presentation options beyond standard ASCII
+  - **Tile graphics integration** - Visual alternatives to traditional text-based presentation
+  - **Japanese aesthetic elements** - Visual design reflecting Japanese gaming culture and preferences
+  - **Interface improvements** - Graphics enhancements supporting better information display
+  - **Cultural presentation** - Visual elements respecting both Angband tradition and Japanese design sensibilities
+  
+  **Japanese RPG Philosophy Integration:**
+  - **Design philosophy adaptation** - Japanese RPG traditions thoughtfully integrated into roguelike framework
+  - **Character development elements** - Japanese RPG advancement concepts enhancing traditional progression
+  - **Narrative consideration** - Story elements and world-building influenced by Japanese gaming traditions
+  - **Player experience focus** - Japanese design emphasis on player enjoyment and engagement
+  - **Cultural authenticity** - Japanese gaming sensibilities respected while maintaining Angband core
+  
+  **Technical Achievement:**
+  - **C programming excellence** - Complex AI and graphics systems implemented within Angband architecture
+  - **Modified Angband engine** - Sophisticated enhancements while maintaining core compatibility
+  - **Cross-platform support** - Windows and Linux versions ensuring broad accessibility
+  - **Memory efficiency** - 16MB requirements supporting enhanced features within minimal constraints
+  - **Performance optimization** - Smooth gameplay despite AI and graphics improvements
+  
+  **Regional Community Development:**
+  - **Japanese Angband community** - Dedicated regional players contributing to variant development
+  - **Cultural gaming bridge** - Connecting Japanese gaming culture with Western roguelike traditions
+  - **Community collaboration** - Shared development efforts within Japanese roguelike scene
+  - **Regional innovation** - Local community contributing unique perspectives to global Angband development
+  - **Cultural preservation** - Maintaining Japanese gaming traditions within roguelike framework
+  
+  **Cultural Design Elements:**
+  - **Japanese RPG influence** - Game design elements reflecting Japanese role-playing game traditions
+  - **Regional preferences** - Features appealing to Japanese gaming sensibilities and expectations
+  - **Cultural adaptation** - Angband mechanics adapted for Japanese gaming culture
+  - **Aesthetic integration** - Visual and mechanical elements reflecting Japanese design philosophy
+  - **Community values** - Development priorities reflecting Japanese gaming community preferences
+  
+  **Community Impact:**
+  - **Small dedicated community** - Focused Japanese player base supporting variant development
+  - **Cultural contribution** - Japanese perspectives enriching global Angband variant ecosystem
+  - **Development cessation** - Project ending but contributing lasting innovations to community
+  - **Open source legacy** - Angband license ensuring continued access to Japanese innovations
+  - **Educational value** - Teaching regional adaptation and cultural integration techniques
+  
+  **AI Innovation Legacy:**
+  - **Monster behavior advancement** - Enhanced AI techniques influencing later roguelike development
+  - **Strategic complexity** - AI improvements raising standards for roguelike combat intelligence
+  - **Tactical variety** - Advanced behaviors creating diverse and engaging encounters
+  - **Development methodology** - AI enhancement techniques available for community study
+  - **Innovation inspiration** - AI improvements encouraging other developers to explore creature intelligence
+  
+  **Cultural Gaming Impact:**
+  - **Regional development validation** - Proving value of culturally-specific variant development
+  - **Japanese gaming integration** - Successful fusion of Japanese RPG elements with Western roguelike tradition
+  - **Community empowerment** - Demonstrating potential for regional communities to contribute meaningfully
+  - **Cultural bridge building** - Connecting different gaming traditions through respectful adaptation
+  - **Design diversity** - Contributing Japanese perspectives to global roguelike development
+  
+  **Open Source Excellence:**
+  - **Angband license** - Community access enabling study of Japanese development approaches
+  - **Cultural code sharing** - Japanese innovations available for global community learning
+  - **Educational resource** - Complete example of regional variant development and cultural adaptation
+  - **Innovation preservation** - AI and graphics techniques maintained for community benefit
+  - **Development transparency** - Open process supporting understanding of cultural integration methods
+  
+  **Educational Value:**
+  - **Regional variant development** - Methods for culturally-sensitive roguelike adaptation
+  - **Enhanced AI implementation** - Techniques for advanced monster behavior programming
+  - **Cultural gaming integration** - Approaches to respectful fusion of different gaming traditions
+  - **Community development** - Regional community coordination and collaborative programming
+  - **Cross-cultural design** - Balancing cultural elements with established gaming frameworks
+  
+  **Legacy Achievement:** **Kamband** demonstrates that **regional communities** can **meaningfully enhance** global gaming traditions, proving that **cultural perspectives** and **technical innovation** can create **valuable contributions** that **respect original frameworks** while **adding unique elements** that **enrich global development** and **inspire cross-cultural gaming collaboration**.
 release_date: "2002-01-01"
 latest_version: "2.1.3"
 developers:

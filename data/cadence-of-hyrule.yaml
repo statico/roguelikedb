@@ -1,54 +1,55 @@
 name: "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda"
 slug: "cadence-of-hyrule"
-description: "**Nintendo's official roguelike crossover masterpiece** - Brace Yourself Games' rhythm-based roguelike that combines **The Legend of Zelda** with **Crypt of the NecroDancer** mechanics, creating the first major **Nintendo-published roguelike**.
-
-**Historic Nintendo Collaboration:**
-- **First Nintendo-published roguelike** - Marked Nintendo's entry into the genre
-- **Official Zelda license** - Full access to characters, music, and lore
-- **Brace Yourself Games development** - Creators of original NecroDancer
-- **Nintendo Switch exclusive** - Showcase title for the platform
-- **Zelda 35th anniversary** celebration game
-
-**Revolutionary Rhythm-Roguelike Design:**
-- **Move to the beat** - All actions synchronized to Zelda music remixes
-- **Procedurally generated Hyrule** - Classic Zelda overworld with roguelike generation
-- **Multiple playable characters** - Link, Zelda, and NecroDancer protagonists  
-- **Zelda item progression** - Boomerang, bow, hookshot with rhythm mechanics
-- **Boss battles** - Classic Zelda bosses reimagined with rhythm combat
-
-**Musical Excellence:**
-- **Danny Baranowsky compositions** - NecroDancer composer remixing Zelda classics
-- **25+ Zelda song remixes** - Iconic tracks adapted for rhythm gameplay
-- **Dynamic music system** - Tempo changes based on player performance
-- **Instrument variety** - Different musical styles for various areas
-- **Audio-visual synchronization** - Perfect marriage of sight and sound
-
-**Commercial & Critical Success:**
-- **Nintendo marketing support** - Featured in major Nintendo Direct presentations
-- **'Very Positive' critical reception** - Praised for innovative crossover design
-- **Awards recognition** - Multiple indie and innovation awards
-- **Strong sales performance** - Exceeded expectations for niche crossover
-
-**Zelda Integration Mastery:**
-- **Authentic Zelda exploration** - Dungeons, secrets, and progression systems
-- **Familiar enemies** - Octoroks, Moblins, Lynels with rhythm-based AI
-- **Classic items and weapons** - Zelda arsenal adapted to rhythm mechanics
-- **Story integration** - Ganon threatening Hyrule with musical corruption
-- **Environmental design** - Recognizable Zelda locations with procedural layouts
-
-**Technical Innovation:**
-- **Flawless rhythm engine** - Precise timing detection and feedback
-- **Nintendo Switch optimization** - Perfect performance in handheld and docked
-- **Accessibility options** - Rhythm assistance for players with different abilities
-- **Visual polish** - Pixel art matching both franchises' aesthetics
-
-**Cultural Significance:**
-- **Crossover precedent** - Showed potential for major franchise roguelike adaptations
-- **Rhythm-roguelike validation** - Proved subgenre viability to major publishers
-- **Nintendo genre expansion** - Broadened Nintendo's genre portfolio
-- **Community bridging** - Introduced Zelda fans to roguelikes and vice versa
-
-**Legacy Impact:** Demonstrated that **major franchises** could successfully adopt **roguelike mechanics** without losing their essential character, paving the way for future licensed roguelikes and showing Nintendo's willingness to experiment with the genre."
+description: |
+  **Nintendo's official roguelike crossover masterpiece** - Brace Yourself Games' rhythm-based roguelike that combines **The Legend of Zelda** with **Crypt of the NecroDancer** mechanics, creating the first major **Nintendo-published roguelike**.
+  
+  **Historic Nintendo Collaboration:**
+  - **First Nintendo-published roguelike** - Marked Nintendo's entry into the genre
+  - **Official Zelda license** - Full access to characters, music, and lore
+  - **Brace Yourself Games development** - Creators of original NecroDancer
+  - **Nintendo Switch exclusive** - Showcase title for the platform
+  - **Zelda 35th anniversary** celebration game
+  
+  **Revolutionary Rhythm-Roguelike Design:**
+  - **Move to the beat** - All actions synchronized to Zelda music remixes
+  - **Procedurally generated Hyrule** - Classic Zelda overworld with roguelike generation
+  - **Multiple playable characters** - Link, Zelda, and NecroDancer protagonists  
+  - **Zelda item progression** - Boomerang, bow, hookshot with rhythm mechanics
+  - **Boss battles** - Classic Zelda bosses reimagined with rhythm combat
+  
+  **Musical Excellence:**
+  - **Danny Baranowsky compositions** - NecroDancer composer remixing Zelda classics
+  - **25+ Zelda song remixes** - Iconic tracks adapted for rhythm gameplay
+  - **Dynamic music system** - Tempo changes based on player performance
+  - **Instrument variety** - Different musical styles for various areas
+  - **Audio-visual synchronization** - Perfect marriage of sight and sound
+  
+  **Commercial & Critical Success:**
+  - **Nintendo marketing support** - Featured in major Nintendo Direct presentations
+  - **'Very Positive' critical reception** - Praised for innovative crossover design
+  - **Awards recognition** - Multiple indie and innovation awards
+  - **Strong sales performance** - Exceeded expectations for niche crossover
+  
+  **Zelda Integration Mastery:**
+  - **Authentic Zelda exploration** - Dungeons, secrets, and progression systems
+  - **Familiar enemies** - Octoroks, Moblins, Lynels with rhythm-based AI
+  - **Classic items and weapons** - Zelda arsenal adapted to rhythm mechanics
+  - **Story integration** - Ganon threatening Hyrule with musical corruption
+  - **Environmental design** - Recognizable Zelda locations with procedural layouts
+  
+  **Technical Innovation:**
+  - **Flawless rhythm engine** - Precise timing detection and feedback
+  - **Nintendo Switch optimization** - Perfect performance in handheld and docked
+  - **Accessibility options** - Rhythm assistance for players with different abilities
+  - **Visual polish** - Pixel art matching both franchises' aesthetics
+  
+  **Cultural Significance:**
+  - **Crossover precedent** - Showed potential for major franchise roguelike adaptations
+  - **Rhythm-roguelike validation** - Proved subgenre viability to major publishers
+  - **Nintendo genre expansion** - Broadened Nintendo's genre portfolio
+  - **Community bridging** - Introduced Zelda fans to roguelikes and vice versa
+  
+  **Legacy Impact:** Demonstrated that **major franchises** could successfully adopt **roguelike mechanics** without losing their essential character, paving the way for future licensed roguelikes and showing Nintendo's willingness to experiment with the genre.
 release_date: "2019-06-13"
 latest_version: "3.1.0"
 developers:

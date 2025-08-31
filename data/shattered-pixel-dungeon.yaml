@@ -1,77 +1,78 @@
 name: "Shattered Pixel Dungeon"
 slug: "shattered-pixel-dungeon"
-description: "**The definitive Pixel Dungeon evolution** - Evan Debenham's **masterpiece enhancement** that transformed the **original mobile roguelike** into a **perfectly balanced masterwork**, featuring **continuous active development**, **5+ million downloads**, and **95% positive Steam reviews** while becoming the **gold standard for mobile roguelike design**.
-
-**Game Balance Mastery:**
-- **Complete rebalancing** - Every item, enemy, and mechanic refined through years of community feedback
-- **Strategic depth enhancement** - Meaningful choices in every upgrade, equipment, and progression decision
-- **Difficulty curve perfection** - Smooth progression from accessible early game to challenging endgame
-- **Build diversity** - Multiple viable character strategies and item combination paths
-- **Risk-reward optimization** - High-stakes decisions with clear strategic tradeoffs
-
-**Content Expansion Excellence:**
-- **New dungeon regions** - Additional areas beyond original game's 25 levels
-- **Alchemy system** - Complex crafting mechanics adding strategic resource management
-- **Weapon and armor variety** - Expanded equipment options with unique enchantments and curses
-- **Monster behavior improvements** - Enhanced AI making encounters more tactical and engaging
-- **Boss fight refinements** - Epic encounters requiring specific strategies and preparation
-
-**Active Development Culture:**
-- **Monthly updates** - Regular content additions and balance improvements since 2014
-- **Community engagement** - Developer actively responding to player feedback and suggestions
-- **Bug fixing dedication** - Rapid response to issues with comprehensive testing procedures
-- **Feature development** - New systems added based on community requests and game design insights
-- **Transparency commitment** - Open communication about development decisions and future plans
-
-**Cross-Platform Excellence:**
-- **Steam integration** - Professional PC release with achievements and Steam Workshop support
-- **iOS optimization** - Smooth performance across iPhone and iPad devices
-- **Android leadership** - Flagship example of premium mobile gaming experience
-- **Desktop versions** - Windows, macOS, and Linux releases with enhanced UI scaling
-- **Cloud synchronization** - Progress preservation across all platforms and devices
-
-**Commercial Success Achievement:**
-- **5+ million downloads** - Massive player base across all platforms
-- **95% positive Steam reviews** - Near-universal critical and player acclaim
-- **Google Play Awards** - Recognition as exemplary mobile gaming experience
-- **App Store featuring** - Prominently showcased in mobile platform recommendations
-- **Indie Games Festival** - Multiple nominations and recognition for excellence
-
-**Technical Innovation:**
-- **LibGDX mastery** - Expert utilization of Java framework for optimal cross-platform performance
-- **Save system reliability** - Bulletproof progress preservation with corruption protection
-- **Performance optimization** - Smooth gameplay across wide range of hardware specifications
-- **Memory management** - Efficient resource usage enabling complex game systems
-- **Localization excellence** - Professional translations expanding global accessibility
-
-**Community Building:**
-- **Reddit community** - Active discussion forum with developer participation
-- **Wiki documentation** - Comprehensive community-maintained strategy guides and information
-- **YouTube presence** - Content creators showcasing gameplay and strategies
-- **Educational content** - Guides helping new players understand complex mechanics
-- **Modding support** - Tools and documentation enabling community content creation
-
-**Design Philosophy Revolution:**
-- **Quality over quantity** - Every addition carefully considered for game balance impact
-- **Player respect** - Game design that values player time and intelligence
-- **Accessibility without compromise** - Complex systems made approachable without losing depth
-- **Long-term sustainability** - Development practices ensuring project longevity
-- **Community partnership** - Players as collaborators in ongoing game improvement
-
-**Cultural Impact:**
-- **Mobile roguelike standard** - Benchmark against which other mobile roguelikes are measured
-- **Development model** - Demonstrates sustainable indie game development practices
-- **Community collaboration** - Template for developer-player partnership in game evolution
-- **Platform credibility** - Proved mobile platforms could support complex, evolving games
-- **Genre advancement** - Pushed mobile roguelike design to new levels of sophistication
-
-**Educational Legacy:**
-- **Game design analysis** - Studied in academic contexts for balance and progression design
-- **Community management** - Model for sustainable developer-community relationships
-- **Cross-platform development** - Technical achievement in multi-platform game deployment
-- **Long-term maintenance** - Example of successful ongoing game support and evolution
-
-**Ultimate Achievement:** **Evan Debenham's Shattered Pixel Dungeon** proves that **community feedback**, **continuous development**, and **passionate craftsmanship** can transform **good games into masterpieces**, creating the **definitive mobile roguelike experience** that **honors the original vision** while **exceeding every expectation** through **decade-long dedication** to **perfection**."
+description: |
+  **The definitive Pixel Dungeon evolution** - Evan Debenham's **masterpiece enhancement** that transformed the **original mobile roguelike** into a **perfectly balanced masterwork**, featuring **continuous active development**, **5+ million downloads**, and **95% positive Steam reviews** while becoming the **gold standard for mobile roguelike design**.
+  
+  **Game Balance Mastery:**
+  - **Complete rebalancing** - Every item, enemy, and mechanic refined through years of community feedback
+  - **Strategic depth enhancement** - Meaningful choices in every upgrade, equipment, and progression decision
+  - **Difficulty curve perfection** - Smooth progression from accessible early game to challenging endgame
+  - **Build diversity** - Multiple viable character strategies and item combination paths
+  - **Risk-reward optimization** - High-stakes decisions with clear strategic tradeoffs
+  
+  **Content Expansion Excellence:**
+  - **New dungeon regions** - Additional areas beyond original game's 25 levels
+  - **Alchemy system** - Complex crafting mechanics adding strategic resource management
+  - **Weapon and armor variety** - Expanded equipment options with unique enchantments and curses
+  - **Monster behavior improvements** - Enhanced AI making encounters more tactical and engaging
+  - **Boss fight refinements** - Epic encounters requiring specific strategies and preparation
+  
+  **Active Development Culture:**
+  - **Monthly updates** - Regular content additions and balance improvements since 2014
+  - **Community engagement** - Developer actively responding to player feedback and suggestions
+  - **Bug fixing dedication** - Rapid response to issues with comprehensive testing procedures
+  - **Feature development** - New systems added based on community requests and game design insights
+  - **Transparency commitment** - Open communication about development decisions and future plans
+  
+  **Cross-Platform Excellence:**
+  - **Steam integration** - Professional PC release with achievements and Steam Workshop support
+  - **iOS optimization** - Smooth performance across iPhone and iPad devices
+  - **Android leadership** - Flagship example of premium mobile gaming experience
+  - **Desktop versions** - Windows, macOS, and Linux releases with enhanced UI scaling
+  - **Cloud synchronization** - Progress preservation across all platforms and devices
+  
+  **Commercial Success Achievement:**
+  - **5+ million downloads** - Massive player base across all platforms
+  - **95% positive Steam reviews** - Near-universal critical and player acclaim
+  - **Google Play Awards** - Recognition as exemplary mobile gaming experience
+  - **App Store featuring** - Prominently showcased in mobile platform recommendations
+  - **Indie Games Festival** - Multiple nominations and recognition for excellence
+  
+  **Technical Innovation:**
+  - **LibGDX mastery** - Expert utilization of Java framework for optimal cross-platform performance
+  - **Save system reliability** - Bulletproof progress preservation with corruption protection
+  - **Performance optimization** - Smooth gameplay across wide range of hardware specifications
+  - **Memory management** - Efficient resource usage enabling complex game systems
+  - **Localization excellence** - Professional translations expanding global accessibility
+  
+  **Community Building:**
+  - **Reddit community** - Active discussion forum with developer participation
+  - **Wiki documentation** - Comprehensive community-maintained strategy guides and information
+  - **YouTube presence** - Content creators showcasing gameplay and strategies
+  - **Educational content** - Guides helping new players understand complex mechanics
+  - **Modding support** - Tools and documentation enabling community content creation
+  
+  **Design Philosophy Revolution:**
+  - **Quality over quantity** - Every addition carefully considered for game balance impact
+  - **Player respect** - Game design that values player time and intelligence
+  - **Accessibility without compromise** - Complex systems made approachable without losing depth
+  - **Long-term sustainability** - Development practices ensuring project longevity
+  - **Community partnership** - Players as collaborators in ongoing game improvement
+  
+  **Cultural Impact:**
+  - **Mobile roguelike standard** - Benchmark against which other mobile roguelikes are measured
+  - **Development model** - Demonstrates sustainable indie game development practices
+  - **Community collaboration** - Template for developer-player partnership in game evolution
+  - **Platform credibility** - Proved mobile platforms could support complex, evolving games
+  - **Genre advancement** - Pushed mobile roguelike design to new levels of sophistication
+  
+  **Educational Legacy:**
+  - **Game design analysis** - Studied in academic contexts for balance and progression design
+  - **Community management** - Model for sustainable developer-community relationships
+  - **Cross-platform development** - Technical achievement in multi-platform game deployment
+  - **Long-term maintenance** - Example of successful ongoing game support and evolution
+  
+  **Ultimate Achievement:** **Evan Debenham's Shattered Pixel Dungeon** proves that **community feedback**, **continuous development**, and **passionate craftsmanship** can transform **good games into masterpieces**, creating the **definitive mobile roguelike experience** that **honors the original vision** while **exceeding every expectation** through **decade-long dedication** to **perfection**.
 release_date: "2014-08-26"
 latest_version: "2.7.1"
 developers:

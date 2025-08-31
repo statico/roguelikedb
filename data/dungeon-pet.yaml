@@ -1,78 +1,79 @@
 name: "DUNGEON (PET)"
 slug: "dungeon-pet"
-description: "**The commercial adaptation pioneer** - Brian Sawyer's **significant achievement** that successfully translated **mainframe dungeon concepts** to the **Commodore PET** in 1979, creating **one of the earliest commercial roguelike attempts** and proving that **sophisticated dungeon crawling** could **transition from academic mainframes** to **consumer personal computers** while **establishing commercial viability** for **procedural dungeon exploration**.
-
-**Commercial Gaming Innovation (1979):**
-- **Earliest commercial roguelike attempt** - Revolutionary translation of academic gaming concepts for retail markets
-- **Commodore PET adaptation** - Successful implementation on popular business/educational personal computer
-- **Mainframe-to-microcomputer bridge** - Professional adaptation of sophisticated mainframe gaming for consumers
-- **Market validation** - Early demonstration of commercial appetite for complex dungeon crawling experiences
-- **Retail accessibility** - Bringing university-level gaming sophistication to home computer owners
-
-**Commodore PET Technical Excellence:**
-- **BASIC programming mastery** - Complex dungeon systems implemented in accessible development language
-- **32KB memory optimization** - Sophisticated gameplay within personal computer memory constraints
-- **ASCII graphics innovation** - Professional visual presentation on early personal computer display
-- **PET hardware utilization** - Maximum gaming potential extracted from Commodore's business computer
-- **Performance efficiency** - Smooth gameplay despite limited processing power and memory
-
-**Mainframe Heritage Preservation:**
-- **Dungeon and D&D PLATO influence** - Direct inspiration from foundational mainframe gaming experiences
-- **Academic concept translation** - University gaming ideas adapted for commercial personal computer market
-- **Sophisticated mechanics** - Complex gameplay systems preserving mainframe gaming depth
-- **Turn-based tactical thinking** - Strategic decision-making inherited from academic gaming tradition
-- **Procedural generation** - Random dungeon creation maintaining mainframe gaming variety
-
-**Personal Computer Market Pioneer:**
-- **Home computer gaming validation** - Proving personal computers could support sophisticated entertainment
-- **Consumer education** - Teaching personal computer owners about complex gaming possibilities
-- **Market expansion** - Extending dungeon crawling beyond academic and technical communities
-- **Commercial precedent** - Establishing template for academic-to-commercial gaming translation
-- **Industry influence** - Encouraging other developers to explore personal computer gaming potential
-
-**Design Innovation:**
-- **Accessibility balance** - Complex mechanics presented through approachable personal computer interfaces
-- **Commercial appeal** - Academic gaming concepts adapted for broader consumer audiences
-- **Platform optimization** - Dungeon crawling specifically designed for PET hardware capabilities
-- **User experience focus** - Personal computer gaming conventions applied to sophisticated gameplay
-- **Educational value** - Complex systems teaching strategic thinking and planning skills
-
-**Cultural Gaming Impact:**
-- **Academic-commercial bridge** - Successfully connecting university gaming culture with consumer markets
-- **Personal computer legitimacy** - Contributing to recognition of microcomputers as serious gaming platforms
-- **Genre establishment** - Helping establish roguelike gaming outside academic environments
-- **Commercial inspiration** - Encouraging other developers to explore personal computer gaming markets
-- **Consumer empowerment** - Bringing sophisticated gaming experiences to individual computer owners
-
-**Historical Significance:**
-- **Early commercial precedent** - Foundational example of academic gaming concepts entering retail markets
-- **Personal computer milestone** - Important step in personal computer entertainment evolution
-- **Preservation importance** - Critical artifact representing early commercial computer gaming
-- **Educational legacy** - Teaching commercial adaptation of academic gaming innovations
-- **Industry foundation** - Contributing to establishment of personal computer gaming industry
-
-**Technical Achievement:**
-- **BASIC optimization** - Efficient programming creating complex systems within accessible language
-- **Hardware adaptation** - Maximum gameplay complexity achieved within PET computer limitations
-- **Memory management** - Sophisticated resource usage supporting complex dungeon systems
-- **User interface design** - Personal computer controls adapted for dungeon exploration gameplay
-- **Performance engineering** - Smooth gaming experience despite early personal computer constraints
-
-**Business Innovation:**
-- **Academic-to-commercial translation** - Successful adaptation of university concepts for retail markets
-- **Personal computer market development** - Contributing to establishment of home computer gaming industry
-- **Commercial viability demonstration** - Proving market demand for sophisticated personal computer gaming
-- **Distribution innovation** - Early approaches to personal computer game marketing and sales
-- **Consumer education** - Teaching personal computer owners about complex gaming potential
-
-**Educational Value:**
-- **Commercial adaptation techniques** - Methods for translating academic concepts for consumer markets
-- **BASIC programming mastery** - Personal computer game development using accessible languages
-- **Historical computing** - Understanding early personal computer capabilities and applications
-- **Business development** - Early commercial approaches to personal computer gaming markets
-- **Preservation methodology** - Maintaining access to foundational commercial gaming artifacts
-
-**Legacy Achievement:** **DUNGEON (PET)** demonstrates that **academic innovation** and **commercial vision** can **create market opportunities**, proving that **mainframe sophistication** and **personal computer accessibility** can **establish new industries** while **bringing complex gaming** to **individual consumers** and **inspiring commercial development** of **personal computer entertainment**."
+description: |
+  **The commercial adaptation pioneer** - Brian Sawyer's **significant achievement** that successfully translated **mainframe dungeon concepts** to the **Commodore PET** in 1979, creating **one of the earliest commercial roguelike attempts** and proving that **sophisticated dungeon crawling** could **transition from academic mainframes** to **consumer personal computers** while **establishing commercial viability** for **procedural dungeon exploration**.
+  
+  **Commercial Gaming Innovation (1979):**
+  - **Earliest commercial roguelike attempt** - Revolutionary translation of academic gaming concepts for retail markets
+  - **Commodore PET adaptation** - Successful implementation on popular business/educational personal computer
+  - **Mainframe-to-microcomputer bridge** - Professional adaptation of sophisticated mainframe gaming for consumers
+  - **Market validation** - Early demonstration of commercial appetite for complex dungeon crawling experiences
+  - **Retail accessibility** - Bringing university-level gaming sophistication to home computer owners
+  
+  **Commodore PET Technical Excellence:**
+  - **BASIC programming mastery** - Complex dungeon systems implemented in accessible development language
+  - **32KB memory optimization** - Sophisticated gameplay within personal computer memory constraints
+  - **ASCII graphics innovation** - Professional visual presentation on early personal computer display
+  - **PET hardware utilization** - Maximum gaming potential extracted from Commodore's business computer
+  - **Performance efficiency** - Smooth gameplay despite limited processing power and memory
+  
+  **Mainframe Heritage Preservation:**
+  - **Dungeon and D&D PLATO influence** - Direct inspiration from foundational mainframe gaming experiences
+  - **Academic concept translation** - University gaming ideas adapted for commercial personal computer market
+  - **Sophisticated mechanics** - Complex gameplay systems preserving mainframe gaming depth
+  - **Turn-based tactical thinking** - Strategic decision-making inherited from academic gaming tradition
+  - **Procedural generation** - Random dungeon creation maintaining mainframe gaming variety
+  
+  **Personal Computer Market Pioneer:**
+  - **Home computer gaming validation** - Proving personal computers could support sophisticated entertainment
+  - **Consumer education** - Teaching personal computer owners about complex gaming possibilities
+  - **Market expansion** - Extending dungeon crawling beyond academic and technical communities
+  - **Commercial precedent** - Establishing template for academic-to-commercial gaming translation
+  - **Industry influence** - Encouraging other developers to explore personal computer gaming potential
+  
+  **Design Innovation:**
+  - **Accessibility balance** - Complex mechanics presented through approachable personal computer interfaces
+  - **Commercial appeal** - Academic gaming concepts adapted for broader consumer audiences
+  - **Platform optimization** - Dungeon crawling specifically designed for PET hardware capabilities
+  - **User experience focus** - Personal computer gaming conventions applied to sophisticated gameplay
+  - **Educational value** - Complex systems teaching strategic thinking and planning skills
+  
+  **Cultural Gaming Impact:**
+  - **Academic-commercial bridge** - Successfully connecting university gaming culture with consumer markets
+  - **Personal computer legitimacy** - Contributing to recognition of microcomputers as serious gaming platforms
+  - **Genre establishment** - Helping establish roguelike gaming outside academic environments
+  - **Commercial inspiration** - Encouraging other developers to explore personal computer gaming markets
+  - **Consumer empowerment** - Bringing sophisticated gaming experiences to individual computer owners
+  
+  **Historical Significance:**
+  - **Early commercial precedent** - Foundational example of academic gaming concepts entering retail markets
+  - **Personal computer milestone** - Important step in personal computer entertainment evolution
+  - **Preservation importance** - Critical artifact representing early commercial computer gaming
+  - **Educational legacy** - Teaching commercial adaptation of academic gaming innovations
+  - **Industry foundation** - Contributing to establishment of personal computer gaming industry
+  
+  **Technical Achievement:**
+  - **BASIC optimization** - Efficient programming creating complex systems within accessible language
+  - **Hardware adaptation** - Maximum gameplay complexity achieved within PET computer limitations
+  - **Memory management** - Sophisticated resource usage supporting complex dungeon systems
+  - **User interface design** - Personal computer controls adapted for dungeon exploration gameplay
+  - **Performance engineering** - Smooth gaming experience despite early personal computer constraints
+  
+  **Business Innovation:**
+  - **Academic-to-commercial translation** - Successful adaptation of university concepts for retail markets
+  - **Personal computer market development** - Contributing to establishment of home computer gaming industry
+  - **Commercial viability demonstration** - Proving market demand for sophisticated personal computer gaming
+  - **Distribution innovation** - Early approaches to personal computer game marketing and sales
+  - **Consumer education** - Teaching personal computer owners about complex gaming potential
+  
+  **Educational Value:**
+  - **Commercial adaptation techniques** - Methods for translating academic concepts for consumer markets
+  - **BASIC programming mastery** - Personal computer game development using accessible languages
+  - **Historical computing** - Understanding early personal computer capabilities and applications
+  - **Business development** - Early commercial approaches to personal computer gaming markets
+  - **Preservation methodology** - Maintaining access to foundational commercial gaming artifacts
+  
+  **Legacy Achievement:** **DUNGEON (PET)** demonstrates that **academic innovation** and **commercial vision** can **create market opportunities**, proving that **mainframe sophistication** and **personal computer accessibility** can **establish new industries** while **bringing complex gaming** to **individual consumers** and **inspiring commercial development** of **personal computer entertainment**.
 release_date: "1979"
 developers:
   - "Brian Sawyer"

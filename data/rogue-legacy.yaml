@@ -1,92 +1,93 @@
 name: "Rogue Legacy"
 slug: "rogue-legacy"
-description: "**The genealogical innovation masterpiece** - Cellar Door Games' **revolutionary achievement** that created the **first genealogical roguelite platformer** featuring **hereditary progression**, **unique genetic traits**, **inherited castle upgrades**, **Metroidvania exploration**, and **over 1.2 million sales** proving that **meta-progression innovation** can **transform roguelike mechanics** while **creating accessible yet challenging experiences** that **define new subgenres**.
-
-**Genealogical Innovation Revolution (2013):**
-- **Hereditary progression invention** - Revolutionary meta-progression system where death creates family lineage continuation
-- **June 27, 2013 release** - Launch establishing new standards for accessible roguelike progression mechanics  
-- **Cellar Door Games creativity** - Independent developers creating genre-defining innovation through unique design vision
-- **Large community formation** - Over 1.2 million players embracing innovative progression and platform adventure
-- **Genre definition** - Game establishing template for genealogical roguelike development and family-based progression
-
-**Genetic Traits System Excellence:**
-- **Unique descendant characteristics** - Each family member featuring distinct genetic conditions affecting gameplay
-- **Trait variety** - Diverse genetic conditions including colorblindness, gigantism, dwarfism, and other hereditary attributes
-- **Gameplay impact** - Genetic traits meaningfully affecting exploration, combat, and puzzle-solving approaches
-- **Character personality** - Traits creating emotional connection and narrative investment in family lineage
-- **Strategic adaptation** - Players adapting playstyle to accommodate different genetic conditions and abilities
-
-**Meta-Progression Mastery:**
-- **Persistent castle upgrades** - Permanent improvements surviving death and benefiting entire family lineage
-- **Gold inheritance system** - Currency carrying between generations enabling continuous character progression
-- **Equipment permanence** - Gear and abilities acquired through castle expansion rather than temporary dungeon finds
-- **Progressive empowerment** - Each death contributing to family strength and exploration capability
-- **Long-term investment** - Meta-progression creating meaningful advancement despite permadeath mechanics
-
-**Metroidvania Integration:**
-- **Castle exploration** - Large interconnected castle requiring progressive ability unlocks for full access
-- **Ability-gated progression** - Classic Metroidvania mechanics integrated with roguelike death and rebirth
-- **Map persistence** - Castle layout remaining constant while providing procedural enemy and treasure placement
-- **Exploration reward** - Discovery and progression incentivized through permanent upgrades and family advancement
-- **Backtracking value** - Previously inaccessible areas becoming available through genetic trait combinations
-
-**Platform Adventure Excellence:**
-- **Precise platforming** - Tight controls and responsive movement enabling skillful navigation and combat
-- **Combat variety** - Multiple weapon types and abilities creating diverse tactical approaches
-- **Environmental challenge** - Castle obstacles requiring skill, timing, and strategic thinking to overcome
-- **Boss encounters** - Memorable boss fights providing significant challenge and progression milestones
-- **Skill progression** - Player skill development complementing character stat advancement
-
-**Commercial Success Achievement:**
-- **Over 1.2 million copies sold** - Exceptional success demonstrating market demand for innovative roguelike mechanics
-- **Very Positive Steam reviews** - 91% positive rating indicating strong player satisfaction and engagement
-- **Cross-platform success** - Releases across PC, PlayStation, Xbox, and Vita platforms reaching diverse audiences
-- **Cultural impact** - Game inspiring numerous imitators and establishing genealogical progression as viable mechanic
-- **Indie game validation** - Proving small developers could create genre-defining innovations with global impact
-
-**Technical Achievement:**
-- **C#/XNA development** - Professional programming delivering smooth platforming and reliable progression systems
-- **Cross-platform excellence** - Consistent experience across Windows, macOS, Linux, and multiple console platforms
-- **2GB RAM efficiency** - Comprehensive gameplay within accessible system requirements
-- **200MB storage optimization** - Complete adventure experience within minimal installation footprint
-- **Performance consistency** - Stable gameplay supporting complex trait interactions and castle exploration
-
-**Design Philosophy:**
-- **Accessibility through progression** - Meta-advancement making challenging content gradually more approachable
-- **Death as advancement** - Reframing failure as family continuation and progression opportunity
-- **Player agency** - Meaningful choices in character development and exploration approach
-- **Narrative integration** - Genealogical system creating emergent storytelling through family lineage
-- **Skill and progression balance** - Combining player improvement with character stat advancement
-
-**Cellar Door Games Excellence:**
-- **Creative vision** - Original design concept executed with technical competence and artistic flair
-- **Independent innovation** - Small team creating genre-defining mechanics through creative problem-solving
-- **Quality commitment** - Polished final product meeting professional standards despite independent development
-- **Community engagement** - Active developer communication and response to player feedback
-- **Version 1.2.0b refinement** - Post-launch support addressing community requests and optimization
-
-**Community Impact:**
-- **Large dedicated community** - Players sharing family lineages, trait combinations, and exploration discoveries
-- **Speedrunning culture** - Game becoming popular in speedrunning communities due to skill-based progression
-- **Streaming appeal** - Perfect game for content creation due to trait variety and emergent storytelling
-- **Educational inspiration** - Game teaching innovative design approaches to aspiring developers
-- **Genre influence** - Inspiring other developers to explore meta-progression and genealogical mechanics
-
-**Cultural Gaming Impact:**
-- **Roguelike accessibility** - Making traditionally hardcore genre approachable through persistent progression
-- **Meta-progression evolution** - Establishing new standards for meaningful character advancement across deaths
-- **Indie game recognition** - Contributing to recognition of independent developers as sources of innovation
-- **Genre boundary expansion** - Proving roguelike mechanics could enhance rather than conflict with exploration games
-- **Development inspiration** - Encouraging creative approaches to traditional gaming conventions
-
-**Educational Value:**
-- **Meta-progression design** - Methods for creating meaningful advancement systems that persist across gameplay sessions
-- **Genealogical mechanics** - Implementing family lineage systems that enhance rather than complicate gameplay
-- **Genre fusion techniques** - Combining roguelike, platformer, and Metroidvania elements harmoniously
-- **Independent development** - Small team approaches to creating genre-defining innovations
-- **Community building** - Developing games that foster positive player engagement and content creation
-
-**Legacy Achievement:** **Rogue Legacy** demonstrates that **innovative progression systems** can **revolutionize established genres**, proving that **creative meta-mechanics** and **accessible design** can **make challenging games approachable** while **establishing new subgenres** and **inspiring global development communities** through **meaningful mechanical innovation**."
+description: |
+  **The genealogical innovation masterpiece** - Cellar Door Games' **revolutionary achievement** that created the **first genealogical roguelite platformer** featuring **hereditary progression**, **unique genetic traits**, **inherited castle upgrades**, **Metroidvania exploration**, and **over 1.2 million sales** proving that **meta-progression innovation** can **transform roguelike mechanics** while **creating accessible yet challenging experiences** that **define new subgenres**.
+  
+  **Genealogical Innovation Revolution (2013):**
+  - **Hereditary progression invention** - Revolutionary meta-progression system where death creates family lineage continuation
+  - **June 27, 2013 release** - Launch establishing new standards for accessible roguelike progression mechanics  
+  - **Cellar Door Games creativity** - Independent developers creating genre-defining innovation through unique design vision
+  - **Large community formation** - Over 1.2 million players embracing innovative progression and platform adventure
+  - **Genre definition** - Game establishing template for genealogical roguelike development and family-based progression
+  
+  **Genetic Traits System Excellence:**
+  - **Unique descendant characteristics** - Each family member featuring distinct genetic conditions affecting gameplay
+  - **Trait variety** - Diverse genetic conditions including colorblindness, gigantism, dwarfism, and other hereditary attributes
+  - **Gameplay impact** - Genetic traits meaningfully affecting exploration, combat, and puzzle-solving approaches
+  - **Character personality** - Traits creating emotional connection and narrative investment in family lineage
+  - **Strategic adaptation** - Players adapting playstyle to accommodate different genetic conditions and abilities
+  
+  **Meta-Progression Mastery:**
+  - **Persistent castle upgrades** - Permanent improvements surviving death and benefiting entire family lineage
+  - **Gold inheritance system** - Currency carrying between generations enabling continuous character progression
+  - **Equipment permanence** - Gear and abilities acquired through castle expansion rather than temporary dungeon finds
+  - **Progressive empowerment** - Each death contributing to family strength and exploration capability
+  - **Long-term investment** - Meta-progression creating meaningful advancement despite permadeath mechanics
+  
+  **Metroidvania Integration:**
+  - **Castle exploration** - Large interconnected castle requiring progressive ability unlocks for full access
+  - **Ability-gated progression** - Classic Metroidvania mechanics integrated with roguelike death and rebirth
+  - **Map persistence** - Castle layout remaining constant while providing procedural enemy and treasure placement
+  - **Exploration reward** - Discovery and progression incentivized through permanent upgrades and family advancement
+  - **Backtracking value** - Previously inaccessible areas becoming available through genetic trait combinations
+  
+  **Platform Adventure Excellence:**
+  - **Precise platforming** - Tight controls and responsive movement enabling skillful navigation and combat
+  - **Combat variety** - Multiple weapon types and abilities creating diverse tactical approaches
+  - **Environmental challenge** - Castle obstacles requiring skill, timing, and strategic thinking to overcome
+  - **Boss encounters** - Memorable boss fights providing significant challenge and progression milestones
+  - **Skill progression** - Player skill development complementing character stat advancement
+  
+  **Commercial Success Achievement:**
+  - **Over 1.2 million copies sold** - Exceptional success demonstrating market demand for innovative roguelike mechanics
+  - **Very Positive Steam reviews** - 91% positive rating indicating strong player satisfaction and engagement
+  - **Cross-platform success** - Releases across PC, PlayStation, Xbox, and Vita platforms reaching diverse audiences
+  - **Cultural impact** - Game inspiring numerous imitators and establishing genealogical progression as viable mechanic
+  - **Indie game validation** - Proving small developers could create genre-defining innovations with global impact
+  
+  **Technical Achievement:**
+  - **C#/XNA development** - Professional programming delivering smooth platforming and reliable progression systems
+  - **Cross-platform excellence** - Consistent experience across Windows, macOS, Linux, and multiple console platforms
+  - **2GB RAM efficiency** - Comprehensive gameplay within accessible system requirements
+  - **200MB storage optimization** - Complete adventure experience within minimal installation footprint
+  - **Performance consistency** - Stable gameplay supporting complex trait interactions and castle exploration
+  
+  **Design Philosophy:**
+  - **Accessibility through progression** - Meta-advancement making challenging content gradually more approachable
+  - **Death as advancement** - Reframing failure as family continuation and progression opportunity
+  - **Player agency** - Meaningful choices in character development and exploration approach
+  - **Narrative integration** - Genealogical system creating emergent storytelling through family lineage
+  - **Skill and progression balance** - Combining player improvement with character stat advancement
+  
+  **Cellar Door Games Excellence:**
+  - **Creative vision** - Original design concept executed with technical competence and artistic flair
+  - **Independent innovation** - Small team creating genre-defining mechanics through creative problem-solving
+  - **Quality commitment** - Polished final product meeting professional standards despite independent development
+  - **Community engagement** - Active developer communication and response to player feedback
+  - **Version 1.2.0b refinement** - Post-launch support addressing community requests and optimization
+  
+  **Community Impact:**
+  - **Large dedicated community** - Players sharing family lineages, trait combinations, and exploration discoveries
+  - **Speedrunning culture** - Game becoming popular in speedrunning communities due to skill-based progression
+  - **Streaming appeal** - Perfect game for content creation due to trait variety and emergent storytelling
+  - **Educational inspiration** - Game teaching innovative design approaches to aspiring developers
+  - **Genre influence** - Inspiring other developers to explore meta-progression and genealogical mechanics
+  
+  **Cultural Gaming Impact:**
+  - **Roguelike accessibility** - Making traditionally hardcore genre approachable through persistent progression
+  - **Meta-progression evolution** - Establishing new standards for meaningful character advancement across deaths
+  - **Indie game recognition** - Contributing to recognition of independent developers as sources of innovation
+  - **Genre boundary expansion** - Proving roguelike mechanics could enhance rather than conflict with exploration games
+  - **Development inspiration** - Encouraging creative approaches to traditional gaming conventions
+  
+  **Educational Value:**
+  - **Meta-progression design** - Methods for creating meaningful advancement systems that persist across gameplay sessions
+  - **Genealogical mechanics** - Implementing family lineage systems that enhance rather than complicate gameplay
+  - **Genre fusion techniques** - Combining roguelike, platformer, and Metroidvania elements harmoniously
+  - **Independent development** - Small team approaches to creating genre-defining innovations
+  - **Community building** - Developing games that foster positive player engagement and content creation
+  
+  **Legacy Achievement:** **Rogue Legacy** demonstrates that **innovative progression systems** can **revolutionize established genres**, proving that **creative meta-mechanics** and **accessible design** can **make challenging games approachable** while **establishing new subgenres** and **inspiring global development communities** through **meaningful mechanical innovation**.
 release_date: "2013-06-27"
 latest_version: "1.2.0b"
 developers:

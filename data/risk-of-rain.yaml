@@ -1,59 +1,60 @@
 name: "Risk of Rain"
 slug: "risk-of-rain"
-description: "**The roguelike that perfected time pressure mechanics** - Hopoo Games' innovative 2D platformer that **sold over 1.8 million copies** and revolutionized how roguelikes handle pacing and difficulty scaling.
-
-**Revolutionary Time-Pressure System:**
-- **Difficulty increases over time** - Not by floors, but by actual time elapsed
-- **Risk vs. Reward core loop** - Spend time looting vs. advancing quickly
-- **Dynamic scaling** - Every second makes enemies stronger and more numerous
-- **Perfect tension balance** - Creates constant strategic decision-making
-- **Tempo-based gameplay** unlike any previous roguelike
-
-**Commercial Success & Critical Acclaim:**
-- **1.8+ million copies sold** across all platforms
-- **'Very Positive' Steam reviews** (94% positive) with passionate fanbase
-- **Chucklefish publishing success** - Major indie publisher breakthrough
-- **Spawned successful franchise** with Risk of Rain 2 selling 15+ million
-
-**Innovative Multiplayer Design:**
-- **4-player local and online co-op** - Seamless drop-in/drop-out
-- **Shared item pool** encouraging cooperation over competition
-- **Scaling difficulty** adjusts automatically for player count
-- **Synchronized progression** keeping all players engaged
-- **No friendly fire** - Pure cooperative focus
-
-**Deep Item Synergy System:**
-- **100+ items** with complex interaction possibilities
-- **Exponential power scaling** through smart item combinations
-- **Build discovery** - Players constantly find new synergies
-- **RNG mitigation** through multiple item sources per run
-- **Emergent gameplay** from unexpected item interactions
-
-**Technical Achievement:**
-- **Custom C++ SDL engine** optimized for smooth 60fps action
-- **Pixel art excellence** with detailed animations and effects
-- **Cross-platform multiplayer** working flawlessly on all systems
-- **Minimal system requirements** (512MB RAM) ensuring accessibility
-
-**Character Variety:**
-- **12 unlockable characters** each with completely unique playstyles
-- **Commando** - Balanced starter with reliable damage
-- **Huntress** - Mobile archer with seeking projectiles
-- **Engineer** - Turret-based defensive specialist
-- **Miner** - High-risk melee character with drill mechanics
-
-**Cultural Impact & Legacy:**
-- **Established time-pressure subgenre** - Copied by dozens of games
-- **Streaming phenomenon** - Perfect for content creation with dramatic moments
-- **Speedrunning community** - Competitive scene with world record attempts
-- **Modding support** - Active community creating new content
-
-**Music & Atmosphere:**
-- **Chris Christodoulou soundtrack** - Acclaimed electronic/rock fusion
-- **Environmental storytelling** through item logs and world design
-- **Sci-fi aesthetic** perfectly matching frantic gameplay pace
-
-**Industry Influence:** Proved that **time-based difficulty scaling** could create entirely new strategic layers in roguelikes, inspiring games like Dead Cells and many others to experiment with alternative progression systems."
+description: |
+  **The roguelike that perfected time pressure mechanics** - Hopoo Games' innovative 2D platformer that **sold over 1.8 million copies** and revolutionized how roguelikes handle pacing and difficulty scaling.
+  
+  **Revolutionary Time-Pressure System:**
+  - **Difficulty increases over time** - Not by floors, but by actual time elapsed
+  - **Risk vs. Reward core loop** - Spend time looting vs. advancing quickly
+  - **Dynamic scaling** - Every second makes enemies stronger and more numerous
+  - **Perfect tension balance** - Creates constant strategic decision-making
+  - **Tempo-based gameplay** unlike any previous roguelike
+  
+  **Commercial Success & Critical Acclaim:**
+  - **1.8+ million copies sold** across all platforms
+  - **'Very Positive' Steam reviews** (94% positive) with passionate fanbase
+  - **Chucklefish publishing success** - Major indie publisher breakthrough
+  - **Spawned successful franchise** with Risk of Rain 2 selling 15+ million
+  
+  **Innovative Multiplayer Design:**
+  - **4-player local and online co-op** - Seamless drop-in/drop-out
+  - **Shared item pool** encouraging cooperation over competition
+  - **Scaling difficulty** adjusts automatically for player count
+  - **Synchronized progression** keeping all players engaged
+  - **No friendly fire** - Pure cooperative focus
+  
+  **Deep Item Synergy System:**
+  - **100+ items** with complex interaction possibilities
+  - **Exponential power scaling** through smart item combinations
+  - **Build discovery** - Players constantly find new synergies
+  - **RNG mitigation** through multiple item sources per run
+  - **Emergent gameplay** from unexpected item interactions
+  
+  **Technical Achievement:**
+  - **Custom C++ SDL engine** optimized for smooth 60fps action
+  - **Pixel art excellence** with detailed animations and effects
+  - **Cross-platform multiplayer** working flawlessly on all systems
+  - **Minimal system requirements** (512MB RAM) ensuring accessibility
+  
+  **Character Variety:**
+  - **12 unlockable characters** each with completely unique playstyles
+  - **Commando** - Balanced starter with reliable damage
+  - **Huntress** - Mobile archer with seeking projectiles
+  - **Engineer** - Turret-based defensive specialist
+  - **Miner** - High-risk melee character with drill mechanics
+  
+  **Cultural Impact & Legacy:**
+  - **Established time-pressure subgenre** - Copied by dozens of games
+  - **Streaming phenomenon** - Perfect for content creation with dramatic moments
+  - **Speedrunning community** - Competitive scene with world record attempts
+  - **Modding support** - Active community creating new content
+  
+  **Music & Atmosphere:**
+  - **Chris Christodoulou soundtrack** - Acclaimed electronic/rock fusion
+  - **Environmental storytelling** through item logs and world design
+  - **Sci-fi aesthetic** perfectly matching frantic gameplay pace
+  
+  **Industry Influence:** Proved that **time-based difficulty scaling** could create entirely new strategic layers in roguelikes, inspiring games like Dead Cells and many others to experiment with alternative progression systems.
 release_date: "2013-11-08"
 latest_version: "1.2.2"
 developers:

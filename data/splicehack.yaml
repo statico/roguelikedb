@@ -1,92 +1,93 @@
 name: "SpliceHack"
 slug: "splicehack"
-description: "**The magic system masterpiece** - Theo Tsagkarakis (Splice)'s **innovative achievement** that created a **magic-focused NetHack variant** featuring **revolutionary spell rebalancing**, **fused monster abilities**, **advanced magic systems**, and **combined features** from **NetHack Plus** and **UnNetHack** proving that **magical mechanics** can **transform traditional roguelikes** while **maintaining tactical authenticity** and **creating unique strategic depth**.
-
-**Magic System Revolution (2009):**
-- **Revolutionary spell rebalancing** - Comprehensive magic system overhaul creating more viable and interesting spellcasting
-- **Advanced magic mechanics** - New systems expanding magical gameplay beyond traditional NetHack limitations
-- **Spellcasting viability** - Magic made competitive with traditional physical combat approaches
-- **Strategic magical depth** - Complex spell interactions requiring deep understanding and planning
-- **Magic-focused design** - All systems designed to support and enhance magical gameplay experiences
-
-**Fused Monster Innovation:**
-- **Monster ability fusion** - Creatures combining abilities creating unpredictable and challenging encounters
-- **Behavioral complexity** - Advanced monster AI systems with combined creature capabilities
-- **Tactical unpredictability** - Fused abilities requiring adaptive strategic thinking and preparation
-- **Challenge variety** - Different monster combinations creating diverse tactical scenarios
-- **Strategic depth** - Enhanced creatures demanding greater player skill and adaptability
-
-**Feature Integration Excellence:**
-- **NetHack Plus incorporation** - Best features from NetHack Plus seamlessly integrated
-- **UnNetHack elements** - Proven enhancements from UnNetHack included in cohesive experience
-- **Variant synthesis** - Multiple successful modifications combined into unified vision
-- **Feature harmony** - Different variant elements working together without conflicts
-- **Best-of-compilation** - Curated selection of most successful NetHack enhancements
-
-**Spell Rebalancing Achievement:**
-- **Comprehensive spell overhaul** - Every spell evaluated and improved for strategic value
-- **Magic competitiveness** - Spellcasting made viable alternative to physical combat
-- **Strategic spell use** - Magic requiring tactical planning and resource management
-- **Spell combination systems** - Complex interactions between different magical effects
-- **Balance maintenance** - Magical enhancement without overwhelming other gameplay approaches
-
-**Technical Implementation:**
-- **C programming excellence** - Complex magical systems implemented within NetHack architecture
-- **Cross-platform compatibility** - Linux and Windows versions with consistent magical functionality
-- **Memory efficiency** - 64MB requirements supporting enhanced magic and monster systems
-- **Performance optimization** - Smooth gameplay despite complex magical calculations and monster behaviors
-- **GitHub development** - Modern version control supporting collaborative magical enhancement
-
-**Monster Ability Design:**
-- **Ability combination logic** - Sophisticated systems for merging different creature capabilities
-- **Power level balance** - Fused abilities creating challenge without becoming overwhelming
-- **Tactical variety** - Different fusion combinations requiring varied strategic approaches
-- **Encounter unpredictability** - Monster combinations ensuring fresh tactical challenges
-- **Strategic adaptation** - Players forced to develop flexible combat and magical strategies
-
-**Community Impact:**
-- **Small dedicated community** - Players attracted to enhanced magical gameplay and fused challenges
-- **Development cessation** - Project ending but code remaining available for study and adaptation
-- **Magic advocacy** - Demonstrating potential for magical enhancement in traditional roguelikes
-- **Feature preservation** - Successful magical modifications available for other projects
-- **Educational legacy** - Complete example of comprehensive magical system enhancement
-
-**Design Philosophy:**
-- **Magic empowerment** - Design decisions prioritizing magical gameplay viability and interest
-- **Tactical complexity** - Systems requiring strategic thinking and adaptive planning
-- **Feature integration** - Combining best elements from multiple variants into cohesive experience
-- **Balance preservation** - Enhanced magic without compromising other gameplay approaches
-- **Innovation courage** - Bold experimentation with fundamental NetHack systems
-
-**Magical Gameplay Enhancement:**
-- **Spellcaster viability** - Magic users competitive with traditional warrior approaches
-- **Spell combination depth** - Complex interactions between different magical schools and effects
-- **Resource management** - Magical systems requiring careful planning and resource conservation
-- **Strategic diversity** - Multiple viable magical approaches and character development paths
-- **Tactical adaptation** - Magic requiring response to different situations and challenges
-
-**Cultural Gaming Impact:**
-- **Magic system validation** - Proving magical enhancement could improve traditional roguelike experiences
-- **Variant integration** - Demonstrating successful combination of features from multiple projects
-- **Design innovation** - Contributing new approaches to magical system development
-- **Community inspiration** - Encouraging other projects to explore comprehensive magical enhancement
-- **Genre advancement** - Pushing boundaries of traditional roguelike magical systems
-
-**Open Source Legacy:**
-- **NetHack GPL** - Community access enabling study of magical enhancement and fusion techniques
-- **GitHub preservation** - Source code available for learning and adaptation
-- **Educational resource** - Complete example of comprehensive magical system overhaul
-- **Feature availability** - Successful enhancements available for incorporation into other projects
-- **Development transparency** - Open process supporting community understanding of magical enhancement
-
-**Educational Value:**
-- **Magic system design** - Methods for comprehensive magical enhancement within roguelike frameworks
-- **Feature integration** - Techniques for combining elements from multiple variant projects
-- **Monster ability fusion** - Approaches to creating complex creature behaviors and challenges
-- **Balance maintenance** - Preserving gameplay fairness while implementing significant enhancements
-- **Variant development** - Collaborative approaches to roguelike enhancement and modification
-
-**Legacy Achievement:** **SpliceHack** demonstrates that **magical systems** can **transform traditional experiences**, proving that **comprehensive spell enhancement** and **creative monster design** can **create unique gameplay** while **integrating proven features** and **inspiring continued magical innovation** within **roguelike development**."
+description: |
+  **The magic system masterpiece** - Theo Tsagkarakis (Splice)'s **innovative achievement** that created a **magic-focused NetHack variant** featuring **revolutionary spell rebalancing**, **fused monster abilities**, **advanced magic systems**, and **combined features** from **NetHack Plus** and **UnNetHack** proving that **magical mechanics** can **transform traditional roguelikes** while **maintaining tactical authenticity** and **creating unique strategic depth**.
+  
+  **Magic System Revolution (2009):**
+  - **Revolutionary spell rebalancing** - Comprehensive magic system overhaul creating more viable and interesting spellcasting
+  - **Advanced magic mechanics** - New systems expanding magical gameplay beyond traditional NetHack limitations
+  - **Spellcasting viability** - Magic made competitive with traditional physical combat approaches
+  - **Strategic magical depth** - Complex spell interactions requiring deep understanding and planning
+  - **Magic-focused design** - All systems designed to support and enhance magical gameplay experiences
+  
+  **Fused Monster Innovation:**
+  - **Monster ability fusion** - Creatures combining abilities creating unpredictable and challenging encounters
+  - **Behavioral complexity** - Advanced monster AI systems with combined creature capabilities
+  - **Tactical unpredictability** - Fused abilities requiring adaptive strategic thinking and preparation
+  - **Challenge variety** - Different monster combinations creating diverse tactical scenarios
+  - **Strategic depth** - Enhanced creatures demanding greater player skill and adaptability
+  
+  **Feature Integration Excellence:**
+  - **NetHack Plus incorporation** - Best features from NetHack Plus seamlessly integrated
+  - **UnNetHack elements** - Proven enhancements from UnNetHack included in cohesive experience
+  - **Variant synthesis** - Multiple successful modifications combined into unified vision
+  - **Feature harmony** - Different variant elements working together without conflicts
+  - **Best-of-compilation** - Curated selection of most successful NetHack enhancements
+  
+  **Spell Rebalancing Achievement:**
+  - **Comprehensive spell overhaul** - Every spell evaluated and improved for strategic value
+  - **Magic competitiveness** - Spellcasting made viable alternative to physical combat
+  - **Strategic spell use** - Magic requiring tactical planning and resource management
+  - **Spell combination systems** - Complex interactions between different magical effects
+  - **Balance maintenance** - Magical enhancement without overwhelming other gameplay approaches
+  
+  **Technical Implementation:**
+  - **C programming excellence** - Complex magical systems implemented within NetHack architecture
+  - **Cross-platform compatibility** - Linux and Windows versions with consistent magical functionality
+  - **Memory efficiency** - 64MB requirements supporting enhanced magic and monster systems
+  - **Performance optimization** - Smooth gameplay despite complex magical calculations and monster behaviors
+  - **GitHub development** - Modern version control supporting collaborative magical enhancement
+  
+  **Monster Ability Design:**
+  - **Ability combination logic** - Sophisticated systems for merging different creature capabilities
+  - **Power level balance** - Fused abilities creating challenge without becoming overwhelming
+  - **Tactical variety** - Different fusion combinations requiring varied strategic approaches
+  - **Encounter unpredictability** - Monster combinations ensuring fresh tactical challenges
+  - **Strategic adaptation** - Players forced to develop flexible combat and magical strategies
+  
+  **Community Impact:**
+  - **Small dedicated community** - Players attracted to enhanced magical gameplay and fused challenges
+  - **Development cessation** - Project ending but code remaining available for study and adaptation
+  - **Magic advocacy** - Demonstrating potential for magical enhancement in traditional roguelikes
+  - **Feature preservation** - Successful magical modifications available for other projects
+  - **Educational legacy** - Complete example of comprehensive magical system enhancement
+  
+  **Design Philosophy:**
+  - **Magic empowerment** - Design decisions prioritizing magical gameplay viability and interest
+  - **Tactical complexity** - Systems requiring strategic thinking and adaptive planning
+  - **Feature integration** - Combining best elements from multiple variants into cohesive experience
+  - **Balance preservation** - Enhanced magic without compromising other gameplay approaches
+  - **Innovation courage** - Bold experimentation with fundamental NetHack systems
+  
+  **Magical Gameplay Enhancement:**
+  - **Spellcaster viability** - Magic users competitive with traditional warrior approaches
+  - **Spell combination depth** - Complex interactions between different magical schools and effects
+  - **Resource management** - Magical systems requiring careful planning and resource conservation
+  - **Strategic diversity** - Multiple viable magical approaches and character development paths
+  - **Tactical adaptation** - Magic requiring response to different situations and challenges
+  
+  **Cultural Gaming Impact:**
+  - **Magic system validation** - Proving magical enhancement could improve traditional roguelike experiences
+  - **Variant integration** - Demonstrating successful combination of features from multiple projects
+  - **Design innovation** - Contributing new approaches to magical system development
+  - **Community inspiration** - Encouraging other projects to explore comprehensive magical enhancement
+  - **Genre advancement** - Pushing boundaries of traditional roguelike magical systems
+  
+  **Open Source Legacy:**
+  - **NetHack GPL** - Community access enabling study of magical enhancement and fusion techniques
+  - **GitHub preservation** - Source code available for learning and adaptation
+  - **Educational resource** - Complete example of comprehensive magical system overhaul
+  - **Feature availability** - Successful enhancements available for incorporation into other projects
+  - **Development transparency** - Open process supporting community understanding of magical enhancement
+  
+  **Educational Value:**
+  - **Magic system design** - Methods for comprehensive magical enhancement within roguelike frameworks
+  - **Feature integration** - Techniques for combining elements from multiple variant projects
+  - **Monster ability fusion** - Approaches to creating complex creature behaviors and challenges
+  - **Balance maintenance** - Preserving gameplay fairness while implementing significant enhancements
+  - **Variant development** - Collaborative approaches to roguelike enhancement and modification
+  
+  **Legacy Achievement:** **SpliceHack** demonstrates that **magical systems** can **transform traditional experiences**, proving that **comprehensive spell enhancement** and **creative monster design** can **create unique gameplay** while **integrating proven features** and **inspiring continued magical innovation** within **roguelike development**.
 release_date: "2009"
 developers:
   - "Theo Tsagkarakis (Splice)"

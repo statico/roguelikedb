@@ -1,78 +1,79 @@
 name: "Rogue Survivor"
 slug: "rogue-survivor"
-description: "**The zombie apocalypse simulation** - Roguekek's **groundbreaking fusion** of **traditional roguelike mechanics** with **real-time zombie survival**, featuring **complex NPC AI**, **persistent urban simulation**, and **day/night cycles** that created **entirely new possibilities** for **survival roguelike design** through **innovative AI systems**.
-
-**Revolutionary Real-Time Integration:**
-- **Hybrid turn-based/real-time** - Traditional roguelike precision combined with survival game urgency
-- **Time-based consequences** - Actions requiring time investment creating resource management decisions
-- **Dynamic pacing control** - Players able to pause and plan while maintaining action game tension
-- **Survival pressure mechanics** - Food, sleep, and health degrading in real-time creating constant tension
-- **Strategic time management** - Balance between careful planning and urgent survival needs
-
-**Complex NPC AI Innovation:**
-- **Hundreds of AI survivors** - Multiple human NPCs with individual personalities and behaviors
-- **Faction dynamics** - Different survivor groups with varying goals and relationships
-- **Social interaction systems** - Trading, cooperation, and conflict between AI characters
-- **Individual AI needs** - NPCs requiring food, sleep, and safety independently of player actions
-- **Emergent community behavior** - Survivor groups forming, splitting, and evolving organically
-
-**Persistent Urban Simulation:**
-- **Living city environment** - Urban landscape continuing to evolve independent of player presence
-- **Resource scarcity progression** - Supplies gradually depleting as survivor populations consume them
-- **Infrastructure degradation** - Buildings and services breaking down over time without maintenance
-- **Zombie population dynamics** - Undead numbers and behavior changing based on environmental factors
-- **Long-term consequence systems** - Player actions affecting world state permanently
-
-**Zombie Apocalypse Authenticity:**
-- **Realistic survival needs** - Hunger, thirst, fatigue, and injury systems requiring constant attention
-- **Scavenging mechanics** - Resource gathering in dangerous environments with limited supplies
-- **Fortification systems** - Base building and defensive preparation against zombie threats
-- **Group survival dynamics** - Managing relationships and resources within survivor communities
-- **Psychological pressure** - Constant threat creating tension and strategic decision-making
-
-**Technical Achievement (2010):**
-- **C# .NET implementation** - Advanced programming framework enabling complex AI and simulation
-- **Real-time simulation engine** - Sophisticated systems managing hundreds of entities simultaneously
-- **Pathfinding algorithms** - Complex AI movement systems navigating urban environments
-- **Save system complexity** - Preserving vast amounts of world state and character data
-- **Memory optimization** - Efficient resource usage despite enormous simulation complexity
-
-**Urban Environment Design:**
-- **Realistic city layouts** - Street grids, buildings, and infrastructure reflecting authentic urban planning
-- **Building interior complexity** - Multi-room structures with realistic layouts and resource distribution
-- **Neighborhood variety** - Different urban zones with unique characteristics and survival opportunities
-- **Infrastructure systems** - Power grids, water systems, and communication networks affecting gameplay
-- **Environmental storytelling** - Urban decay and abandonment conveying apocalypse narrative
-
-**Day/Night Cycle Innovation:**
-- **Circadian survival rhythms** - Sleep requirements and fatigue systems following natural patterns
-- **Visibility limitations** - Darkness creating tactical challenges and strategic considerations
-- **Activity pattern changes** - Zombie and NPC behavior variations between day and night
-- **Resource availability shifts** - Different opportunities and dangers at different times
-- **Strategic timing decisions** - Planning activities around optimal day/night conditions
-
-**Community & Cultural Impact:**
-- **Zombie survival template** - Established design patterns for zombie-themed roguelikes
-- **Real-time roguelike validation** - Proved traditional mechanics could work with real-time elements
-- **AI development influence** - Complex NPC systems inspiring other developers
-- **Survival genre bridging** - Connected roguelike and survival game communities
-- **Freeware accessibility** - Complete game available free demonstrating pure passion project
-
-**Educational Game Design Value:**
-- **AI programming instruction** - Complex NPC behavior systems serving as educational examples
-- **Real-time integration techniques** - Methods for combining turn-based and real-time elements
-- **Urban simulation modeling** - City-scale environment design and management
-- **Community dynamics** - Social systems and faction relationship programming
-- **Emergency scenario design** - Apocalypse survival scenario creation and balance
-
-**Innovative Design Philosophy:**
-- **Simulation over simplification** - Complex systems prioritized over accessible mechanics
-- **Emergent narrative focus** - Stories arising naturally from AI interaction and simulation
-- **Player agency in chaos** - Individual choice and consequence within larger uncontrolled systems
-- **Authentic survival pressure** - Real constraints creating genuine tension and decision-making
-- **Community-driven survival** - Individual success dependent on larger social dynamics
-
-**Legacy Achievement:** **Rogue Survivor** demonstrated that **traditional roguelike depth** could be **successfully combined** with **real-time elements** and **complex AI systems**, proving that **zombie apocalypse themes** could support **sophisticated simulation gameplay** while creating **entirely new categories** of **survival roguelike experiences** through **innovative technical achievement**."
+description: |
+  **The zombie apocalypse simulation** - Roguekek's **groundbreaking fusion** of **traditional roguelike mechanics** with **real-time zombie survival**, featuring **complex NPC AI**, **persistent urban simulation**, and **day/night cycles** that created **entirely new possibilities** for **survival roguelike design** through **innovative AI systems**.
+  
+  **Revolutionary Real-Time Integration:**
+  - **Hybrid turn-based/real-time** - Traditional roguelike precision combined with survival game urgency
+  - **Time-based consequences** - Actions requiring time investment creating resource management decisions
+  - **Dynamic pacing control** - Players able to pause and plan while maintaining action game tension
+  - **Survival pressure mechanics** - Food, sleep, and health degrading in real-time creating constant tension
+  - **Strategic time management** - Balance between careful planning and urgent survival needs
+  
+  **Complex NPC AI Innovation:**
+  - **Hundreds of AI survivors** - Multiple human NPCs with individual personalities and behaviors
+  - **Faction dynamics** - Different survivor groups with varying goals and relationships
+  - **Social interaction systems** - Trading, cooperation, and conflict between AI characters
+  - **Individual AI needs** - NPCs requiring food, sleep, and safety independently of player actions
+  - **Emergent community behavior** - Survivor groups forming, splitting, and evolving organically
+  
+  **Persistent Urban Simulation:**
+  - **Living city environment** - Urban landscape continuing to evolve independent of player presence
+  - **Resource scarcity progression** - Supplies gradually depleting as survivor populations consume them
+  - **Infrastructure degradation** - Buildings and services breaking down over time without maintenance
+  - **Zombie population dynamics** - Undead numbers and behavior changing based on environmental factors
+  - **Long-term consequence systems** - Player actions affecting world state permanently
+  
+  **Zombie Apocalypse Authenticity:**
+  - **Realistic survival needs** - Hunger, thirst, fatigue, and injury systems requiring constant attention
+  - **Scavenging mechanics** - Resource gathering in dangerous environments with limited supplies
+  - **Fortification systems** - Base building and defensive preparation against zombie threats
+  - **Group survival dynamics** - Managing relationships and resources within survivor communities
+  - **Psychological pressure** - Constant threat creating tension and strategic decision-making
+  
+  **Technical Achievement (2010):**
+  - **C# .NET implementation** - Advanced programming framework enabling complex AI and simulation
+  - **Real-time simulation engine** - Sophisticated systems managing hundreds of entities simultaneously
+  - **Pathfinding algorithms** - Complex AI movement systems navigating urban environments
+  - **Save system complexity** - Preserving vast amounts of world state and character data
+  - **Memory optimization** - Efficient resource usage despite enormous simulation complexity
+  
+  **Urban Environment Design:**
+  - **Realistic city layouts** - Street grids, buildings, and infrastructure reflecting authentic urban planning
+  - **Building interior complexity** - Multi-room structures with realistic layouts and resource distribution
+  - **Neighborhood variety** - Different urban zones with unique characteristics and survival opportunities
+  - **Infrastructure systems** - Power grids, water systems, and communication networks affecting gameplay
+  - **Environmental storytelling** - Urban decay and abandonment conveying apocalypse narrative
+  
+  **Day/Night Cycle Innovation:**
+  - **Circadian survival rhythms** - Sleep requirements and fatigue systems following natural patterns
+  - **Visibility limitations** - Darkness creating tactical challenges and strategic considerations
+  - **Activity pattern changes** - Zombie and NPC behavior variations between day and night
+  - **Resource availability shifts** - Different opportunities and dangers at different times
+  - **Strategic timing decisions** - Planning activities around optimal day/night conditions
+  
+  **Community & Cultural Impact:**
+  - **Zombie survival template** - Established design patterns for zombie-themed roguelikes
+  - **Real-time roguelike validation** - Proved traditional mechanics could work with real-time elements
+  - **AI development influence** - Complex NPC systems inspiring other developers
+  - **Survival genre bridging** - Connected roguelike and survival game communities
+  - **Freeware accessibility** - Complete game available free demonstrating pure passion project
+  
+  **Educational Game Design Value:**
+  - **AI programming instruction** - Complex NPC behavior systems serving as educational examples
+  - **Real-time integration techniques** - Methods for combining turn-based and real-time elements
+  - **Urban simulation modeling** - City-scale environment design and management
+  - **Community dynamics** - Social systems and faction relationship programming
+  - **Emergency scenario design** - Apocalypse survival scenario creation and balance
+  
+  **Innovative Design Philosophy:**
+  - **Simulation over simplification** - Complex systems prioritized over accessible mechanics
+  - **Emergent narrative focus** - Stories arising naturally from AI interaction and simulation
+  - **Player agency in chaos** - Individual choice and consequence within larger uncontrolled systems
+  - **Authentic survival pressure** - Real constraints creating genuine tension and decision-making
+  - **Community-driven survival** - Individual success dependent on larger social dynamics
+  
+  **Legacy Achievement:** **Rogue Survivor** demonstrated that **traditional roguelike depth** could be **successfully combined** with **real-time elements** and **complex AI systems**, proving that **zombie apocalypse themes** could support **sophisticated simulation gameplay** while creating **entirely new categories** of **survival roguelike experiences** through **innovative technical achievement**.
 release_date: "2010-04-01"
 latest_version: "1.2.1"
 developers:

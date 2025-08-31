@@ -1,99 +1,100 @@
 name: "xNetHack"
 slug: "xnethack"
-description: "**The GUI pioneer** - Curtis Olson (Oreh) and xNetHack Contributors' **visionary achievement** that created an **early GUI NetHack variant** featuring **native X11 interface**, **tile-based graphics**, and **mouse support** proving that **traditional roguelikes** could **embrace graphical interfaces** while **preserving tactical depth** and **establishing precedents** for **future GUI development**.
-
-**GUI Interface Innovation (2000):**
-- **Native X11 implementation** - Professional graphical interface built specifically for Unix/Linux systems
-- **Tile-based graphics** - Visual presentation replacing ASCII with graphical tile system
-- **Mouse support integration** - Point-and-click interaction alongside traditional keyboard controls
-- **Early 2000s GUI pioneering** - Groundbreaking graphical approach to traditional text-based roguelike
-- **Modern interface elements** - Contemporary GUI design principles applied to classic gameplay
-
-**X Window System Mastery:**
-- **Native X11 programming** - Direct implementation using X Window System libraries and protocols
-- **Platform integration** - Seamless integration with Unix/Linux desktop environments
-- **Graphics optimization** - Efficient tile rendering and display management
-- **Window management** - Professional windowing behavior and desktop integration
-- **System resource usage** - 64MB requirements supporting graphical interface within reasonable limitations
-
-**Tile Graphics Implementation:**
-- **Visual clarity enhancement** - Graphical tiles improving game element recognition and clarity
-- **Artistic presentation** - Visual aesthetics making NetHack more appealing to graphical interface users
-- **Information density** - Tile system maintaining NetHack's information-rich display
-- **Accessibility improvement** - Visual presentation reducing learning curve for new players
-- **Traditional compatibility** - Graphical interface preserving all NetHack tactical mechanics
-
-**Mouse Integration:**
-- **Point-and-click gameplay** - Mouse interaction enabling intuitive command execution
-- **Interface accessibility** - Reduced reliance on keyboard command memorization
-- **Modern interaction** - Contemporary input methods familiar to graphical interface users
-- **Precision control** - Mouse-based targeting and selection improving gameplay precision
-- **Hybrid input support** - Both mouse and keyboard interaction accommodated
-
-**Technical Achievement:**
-- **C programming with X11** - Complex graphical systems implemented within NetHack architecture
-- **Graphics programming** - Tile rendering and display management systems
-- **Cross-platform Unix** - Compatibility across different Unix and Linux distributions
-- **Performance optimization** - Smooth graphical gameplay despite complex underlying systems
-- **Memory management** - Efficient resource usage supporting both graphics and game logic
-
-**Early GUI Precedent:**
-- **Graphical roguelike validation** - Proving GUI interfaces could enhance rather than compromise roguelike gameplay
-- **Development methodology** - Establishing approaches to graphical adaptation of text-based games
-- **Interface design** - Early exploration of GUI principles within roguelike contexts
-- **Accessibility advancement** - Making traditional roguelikes more approachable through visual presentation
-- **Innovation courage** - Bold departure from established ASCII roguelike traditions
-
-**Historical Significance:**
-- **GUI roguelike pioneer** - Early example of successful graphical adaptation of traditional roguelike
-- **Development precedent** - Establishing techniques for GUI implementation within roguelike frameworks
-- **Interface evolution** - Contributing to roguelike recognition as viable for graphical presentation
-- **Technology bridge** - Connecting traditional roguelike mechanics with modern interface expectations
-- **Preservation importance** - Historical artifact representing early roguelike GUI development
-
-**Community Impact:**
-- **Small dedicated community** - Players attracted to graphical NetHack experience
-- **Development cessation (2010)** - Project ending due to maintenance challenges and platform evolution
-- **Educational legacy** - Complete example of early roguelike GUI implementation
-- **Influence documentation** - Techniques and approaches inspiring later graphical roguelike projects
-- **Historical preservation** - Maintaining access to early GUI roguelike innovation
-
-**Design Philosophy:**
-- **Visual enhancement** - Graphical presentation improving accessibility without compromising depth
-- **Interface modernization** - Contemporary GUI standards applied to traditional gameplay
-- **Player accessibility** - Reducing barriers to NetHack entry through familiar interface paradigms
-- **Authenticity preservation** - Maintaining all NetHack mechanics while enhancing presentation
-- **Innovation balance** - Graphical improvements respecting traditional roguelike values
-
-**Development Challenges:**
-- **X11 complexity** - Native windowing system programming requiring specialized expertise
-- **Maintenance burden** - Graphical systems requiring ongoing updates and platform compatibility
-- **Community size** - Limited developer base making long-term maintenance difficult
-- **Platform evolution** - Changing X11 and desktop environments creating compatibility challenges
-- **Resource requirements** - Graphical interface increasing system requirements and complexity
-
-**Cultural Gaming Impact:**
-- **GUI validation** - Demonstrating potential for graphical roguelike interfaces
-- **Accessibility advancement** - Making traditional roguelikes more approachable through visual presentation
-- **Development inspiration** - Encouraging later projects to explore graphical roguelike adaptation
-- **Interface precedent** - Establishing design patterns for roguelike GUI development
-- **Genre expansion** - Contributing to roguelike recognition as adaptable to diverse presentation styles
-
-**Open Source Legacy:**
-- **NetHack GPL** - Community access enabling study of GUI implementation techniques
-- **X11 programming education** - Complete example of windowing system integration with game development
-- **Historical preservation** - Source code maintaining access to early GUI roguelike approaches
-- **Educational resource** - Teaching graphical adaptation of traditional text-based games
-- **Development transparency** - Open process supporting community understanding of GUI implementation
-
-**Educational Value:**
-- **GUI roguelike development** - Methods for graphical adaptation of traditional text-based games
-- **X11 programming techniques** - Native windowing system development for game applications
-- **Tile graphics implementation** - Visual presentation systems for roguelike games
-- **Interface design principles** - GUI adaptation while preserving gameplay authenticity
-- **Historical development** - Understanding early approaches to roguelike graphical interfaces
-
-**Legacy Achievement:** **xNetHack** demonstrates that **traditional roguelikes** can **successfully embrace graphical interfaces**, proving that **visual enhancement** and **modern interaction** can **improve accessibility** while **preserving authentic gameplay** and **establishing foundations** for **future GUI roguelike development**."
+description: |
+  **The GUI pioneer** - Curtis Olson (Oreh) and xNetHack Contributors' **visionary achievement** that created an **early GUI NetHack variant** featuring **native X11 interface**, **tile-based graphics**, and **mouse support** proving that **traditional roguelikes** could **embrace graphical interfaces** while **preserving tactical depth** and **establishing precedents** for **future GUI development**.
+  
+  **GUI Interface Innovation (2000):**
+  - **Native X11 implementation** - Professional graphical interface built specifically for Unix/Linux systems
+  - **Tile-based graphics** - Visual presentation replacing ASCII with graphical tile system
+  - **Mouse support integration** - Point-and-click interaction alongside traditional keyboard controls
+  - **Early 2000s GUI pioneering** - Groundbreaking graphical approach to traditional text-based roguelike
+  - **Modern interface elements** - Contemporary GUI design principles applied to classic gameplay
+  
+  **X Window System Mastery:**
+  - **Native X11 programming** - Direct implementation using X Window System libraries and protocols
+  - **Platform integration** - Seamless integration with Unix/Linux desktop environments
+  - **Graphics optimization** - Efficient tile rendering and display management
+  - **Window management** - Professional windowing behavior and desktop integration
+  - **System resource usage** - 64MB requirements supporting graphical interface within reasonable limitations
+  
+  **Tile Graphics Implementation:**
+  - **Visual clarity enhancement** - Graphical tiles improving game element recognition and clarity
+  - **Artistic presentation** - Visual aesthetics making NetHack more appealing to graphical interface users
+  - **Information density** - Tile system maintaining NetHack's information-rich display
+  - **Accessibility improvement** - Visual presentation reducing learning curve for new players
+  - **Traditional compatibility** - Graphical interface preserving all NetHack tactical mechanics
+  
+  **Mouse Integration:**
+  - **Point-and-click gameplay** - Mouse interaction enabling intuitive command execution
+  - **Interface accessibility** - Reduced reliance on keyboard command memorization
+  - **Modern interaction** - Contemporary input methods familiar to graphical interface users
+  - **Precision control** - Mouse-based targeting and selection improving gameplay precision
+  - **Hybrid input support** - Both mouse and keyboard interaction accommodated
+  
+  **Technical Achievement:**
+  - **C programming with X11** - Complex graphical systems implemented within NetHack architecture
+  - **Graphics programming** - Tile rendering and display management systems
+  - **Cross-platform Unix** - Compatibility across different Unix and Linux distributions
+  - **Performance optimization** - Smooth graphical gameplay despite complex underlying systems
+  - **Memory management** - Efficient resource usage supporting both graphics and game logic
+  
+  **Early GUI Precedent:**
+  - **Graphical roguelike validation** - Proving GUI interfaces could enhance rather than compromise roguelike gameplay
+  - **Development methodology** - Establishing approaches to graphical adaptation of text-based games
+  - **Interface design** - Early exploration of GUI principles within roguelike contexts
+  - **Accessibility advancement** - Making traditional roguelikes more approachable through visual presentation
+  - **Innovation courage** - Bold departure from established ASCII roguelike traditions
+  
+  **Historical Significance:**
+  - **GUI roguelike pioneer** - Early example of successful graphical adaptation of traditional roguelike
+  - **Development precedent** - Establishing techniques for GUI implementation within roguelike frameworks
+  - **Interface evolution** - Contributing to roguelike recognition as viable for graphical presentation
+  - **Technology bridge** - Connecting traditional roguelike mechanics with modern interface expectations
+  - **Preservation importance** - Historical artifact representing early roguelike GUI development
+  
+  **Community Impact:**
+  - **Small dedicated community** - Players attracted to graphical NetHack experience
+  - **Development cessation (2010)** - Project ending due to maintenance challenges and platform evolution
+  - **Educational legacy** - Complete example of early roguelike GUI implementation
+  - **Influence documentation** - Techniques and approaches inspiring later graphical roguelike projects
+  - **Historical preservation** - Maintaining access to early GUI roguelike innovation
+  
+  **Design Philosophy:**
+  - **Visual enhancement** - Graphical presentation improving accessibility without compromising depth
+  - **Interface modernization** - Contemporary GUI standards applied to traditional gameplay
+  - **Player accessibility** - Reducing barriers to NetHack entry through familiar interface paradigms
+  - **Authenticity preservation** - Maintaining all NetHack mechanics while enhancing presentation
+  - **Innovation balance** - Graphical improvements respecting traditional roguelike values
+  
+  **Development Challenges:**
+  - **X11 complexity** - Native windowing system programming requiring specialized expertise
+  - **Maintenance burden** - Graphical systems requiring ongoing updates and platform compatibility
+  - **Community size** - Limited developer base making long-term maintenance difficult
+  - **Platform evolution** - Changing X11 and desktop environments creating compatibility challenges
+  - **Resource requirements** - Graphical interface increasing system requirements and complexity
+  
+  **Cultural Gaming Impact:**
+  - **GUI validation** - Demonstrating potential for graphical roguelike interfaces
+  - **Accessibility advancement** - Making traditional roguelikes more approachable through visual presentation
+  - **Development inspiration** - Encouraging later projects to explore graphical roguelike adaptation
+  - **Interface precedent** - Establishing design patterns for roguelike GUI development
+  - **Genre expansion** - Contributing to roguelike recognition as adaptable to diverse presentation styles
+  
+  **Open Source Legacy:**
+  - **NetHack GPL** - Community access enabling study of GUI implementation techniques
+  - **X11 programming education** - Complete example of windowing system integration with game development
+  - **Historical preservation** - Source code maintaining access to early GUI roguelike approaches
+  - **Educational resource** - Teaching graphical adaptation of traditional text-based games
+  - **Development transparency** - Open process supporting community understanding of GUI implementation
+  
+  **Educational Value:**
+  - **GUI roguelike development** - Methods for graphical adaptation of traditional text-based games
+  - **X11 programming techniques** - Native windowing system development for game applications
+  - **Tile graphics implementation** - Visual presentation systems for roguelike games
+  - **Interface design principles** - GUI adaptation while preserving gameplay authenticity
+  - **Historical development** - Understanding early approaches to roguelike graphical interfaces
+  
+  **Legacy Achievement:** **xNetHack** demonstrates that **traditional roguelikes** can **successfully embrace graphical interfaces**, proving that **visual enhancement** and **modern interaction** can **improve accessibility** while **preserving authentic gameplay** and **establishing foundations** for **future GUI roguelike development**.
 release_date: "2000"
 developers:
   - "Curtis Olson (Oreh)"

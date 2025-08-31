@@ -1,78 +1,79 @@
 name: "Wayward"
 slug: "wayward"
-description: "**The wilderness survival masterpiece** - Unlok's **12-year passion project** combining **scientific realism** with **roguelike depth**, featuring **TypeScript innovation**, **83% positive Steam reviews**, and **open source excellence** that proves **authentic survival simulation** can create **extraordinary gameplay experiences** through **meticulous environmental detail** and **realistic crafting complexity**.
-
-**Survival Realism Excellence:**
-- **Biological needs simulation** - Hunger, thirst, stamina, and temperature affecting every gameplay decision
-- **Seasonal environment cycles** - Weather patterns and resource availability changing with time progression
-- **Injury system complexity** - Detailed health mechanics with bleeding, infection, and healing requirements
-- **Sleep cycle management** - Fatigue and rest affecting character performance and cognitive abilities
-- **Disease and wellness** - Illness mechanics requiring treatment and prevention strategies
-
-**Comprehensive Crafting Innovation:**
-- **400+ craftable items** - From basic tools to advanced survival equipment with realistic requirements
-- **Multi-stage production chains** - Complex manufacturing processes requiring planning and resource allocation
-- **Tool quality systems** - Item condition affecting performance with maintenance and upgrade mechanics
-- **Recipe discovery progression** - Learning new crafting techniques through experimentation and experience
-- **Material authenticity** - Realistic resource properties and behavior based on scientific accuracy
-
-**Environmental Simulation Depth:**
-- **Dynamic ecosystem modeling** - Flora and fauna responding to player actions and environmental changes
-- **Terrain modification** - Landscape alteration through mining, construction, and environmental interaction
-- **Water system complexity** - Rivers, lakes, and ocean with realistic fluid dynamics and resource distribution
-- **Fire propagation mechanics** - Realistic combustion systems with tactical fire management applications
-- **Weather impact systems** - Storms, temperature, and precipitation affecting survival strategies
-
-**Open Source Technical Innovation:**
-- **TypeScript development** - Modern programming language bringing type safety and maintainability
-- **HTML5 Canvas engine** - Custom-built system optimized for complex tile-based rendering
-- **Cross-platform excellence** - Native performance across Windows, macOS, and Linux platforms
-- **Modding architecture** - Comprehensive tools enabling community content creation and modification
-- **Unlicense freedom** - Public domain licensing ensuring maximum community accessibility and modification rights
-
-**Community Development Excellence:**
-- **12+ years active development** - Continuous improvement with regular updates and feature additions
-- **Community feedback integration** - Player suggestions directly incorporated into development roadmap
-- **Open source collaboration** - Multiple contributors enhancing game systems and content
-- **Educational transparency** - Complete source code availability for learning and modification
-- **Bug reporting culture** - Active community participation in quality assurance and testing
-
-**Steam Success Achievement:**
-- **Commercial viability** - Successful Steam release proving survival roguelike market demand
-- **83% positive reviews** - Strong player satisfaction demonstrating quality and engagement
-- **Regular update delivery** - Consistent content additions maintaining long-term player interest
-- **Workshop integration** - Steam community features supporting mod sharing and discovery
-- **Achievement system** - Recognition milestones encouraging exploration and mastery
-
-**Educational & Research Value:**
-- **Survival knowledge teaching** - Realistic techniques applicable to actual wilderness scenarios
-- **Environmental science** - Ecosystem interactions demonstrating real-world biological relationships
-- **Programming education** - TypeScript codebase serving as learning resource for developers
-- **Game design methodology** - Open development process teaching sustainable project management
-- **Simulation accuracy** - Scientific authenticity useful for educational and research applications
-
-**Wilderness Philosophy Integration:**
-- **Leave No Trace principles** - Environmental responsibility concepts woven into gameplay mechanics
-- **Sustainable resource management** - Long-term thinking required for ecosystem preservation
-- **Traditional survival skills** - Historical techniques represented with cultural authenticity
-- **Modern survival science** - Contemporary knowledge integrated with traditional methods
-- **Environmental awareness** - Ecological consciousness developed through gameplay experience
-
-**Technical Achievement:**
-- **Performance optimization** - Smooth gameplay despite complex environmental simulation
-- **Save system reliability** - Robust character and world state preservation across sessions
-- **Memory management** - Efficient resource usage supporting vast procedural worlds
-- **Network architecture** - Multiplayer systems enabling collaborative survival experiences
-- **Platform compatibility** - Consistent experience across diverse hardware specifications
-
-**Community & Cultural Impact:**
-- **Survival gaming standard** - Benchmark for authenticity and depth in survival simulation
-- **Open source gaming** - Model for successful community-driven development practices
-- **Educational adoption** - Used in outdoor education programs and survival skill development
-- **Developer inspiration** - Influenced indie developers toward more realistic survival mechanics
-- **Academic recognition** - Referenced in game design courses for simulation authenticity
-
-**Legacy Achievement:** **Wayward** demonstrates that **scientific accuracy** and **open source collaboration** can create **survival experiences** of **unprecedented authenticity**, proving that **educational value** and **entertainment quality** can achieve **perfect synthesis** while building **sustainable development communities** through **transparent processes** and **realistic environmental simulation**."
+description: |
+  **The wilderness survival masterpiece** - Unlok's **12-year passion project** combining **scientific realism** with **roguelike depth**, featuring **TypeScript innovation**, **83% positive Steam reviews**, and **open source excellence** that proves **authentic survival simulation** can create **extraordinary gameplay experiences** through **meticulous environmental detail** and **realistic crafting complexity**.
+  
+  **Survival Realism Excellence:**
+  - **Biological needs simulation** - Hunger, thirst, stamina, and temperature affecting every gameplay decision
+  - **Seasonal environment cycles** - Weather patterns and resource availability changing with time progression
+  - **Injury system complexity** - Detailed health mechanics with bleeding, infection, and healing requirements
+  - **Sleep cycle management** - Fatigue and rest affecting character performance and cognitive abilities
+  - **Disease and wellness** - Illness mechanics requiring treatment and prevention strategies
+  
+  **Comprehensive Crafting Innovation:**
+  - **400+ craftable items** - From basic tools to advanced survival equipment with realistic requirements
+  - **Multi-stage production chains** - Complex manufacturing processes requiring planning and resource allocation
+  - **Tool quality systems** - Item condition affecting performance with maintenance and upgrade mechanics
+  - **Recipe discovery progression** - Learning new crafting techniques through experimentation and experience
+  - **Material authenticity** - Realistic resource properties and behavior based on scientific accuracy
+  
+  **Environmental Simulation Depth:**
+  - **Dynamic ecosystem modeling** - Flora and fauna responding to player actions and environmental changes
+  - **Terrain modification** - Landscape alteration through mining, construction, and environmental interaction
+  - **Water system complexity** - Rivers, lakes, and ocean with realistic fluid dynamics and resource distribution
+  - **Fire propagation mechanics** - Realistic combustion systems with tactical fire management applications
+  - **Weather impact systems** - Storms, temperature, and precipitation affecting survival strategies
+  
+  **Open Source Technical Innovation:**
+  - **TypeScript development** - Modern programming language bringing type safety and maintainability
+  - **HTML5 Canvas engine** - Custom-built system optimized for complex tile-based rendering
+  - **Cross-platform excellence** - Native performance across Windows, macOS, and Linux platforms
+  - **Modding architecture** - Comprehensive tools enabling community content creation and modification
+  - **Unlicense freedom** - Public domain licensing ensuring maximum community accessibility and modification rights
+  
+  **Community Development Excellence:**
+  - **12+ years active development** - Continuous improvement with regular updates and feature additions
+  - **Community feedback integration** - Player suggestions directly incorporated into development roadmap
+  - **Open source collaboration** - Multiple contributors enhancing game systems and content
+  - **Educational transparency** - Complete source code availability for learning and modification
+  - **Bug reporting culture** - Active community participation in quality assurance and testing
+  
+  **Steam Success Achievement:**
+  - **Commercial viability** - Successful Steam release proving survival roguelike market demand
+  - **83% positive reviews** - Strong player satisfaction demonstrating quality and engagement
+  - **Regular update delivery** - Consistent content additions maintaining long-term player interest
+  - **Workshop integration** - Steam community features supporting mod sharing and discovery
+  - **Achievement system** - Recognition milestones encouraging exploration and mastery
+  
+  **Educational & Research Value:**
+  - **Survival knowledge teaching** - Realistic techniques applicable to actual wilderness scenarios
+  - **Environmental science** - Ecosystem interactions demonstrating real-world biological relationships
+  - **Programming education** - TypeScript codebase serving as learning resource for developers
+  - **Game design methodology** - Open development process teaching sustainable project management
+  - **Simulation accuracy** - Scientific authenticity useful for educational and research applications
+  
+  **Wilderness Philosophy Integration:**
+  - **Leave No Trace principles** - Environmental responsibility concepts woven into gameplay mechanics
+  - **Sustainable resource management** - Long-term thinking required for ecosystem preservation
+  - **Traditional survival skills** - Historical techniques represented with cultural authenticity
+  - **Modern survival science** - Contemporary knowledge integrated with traditional methods
+  - **Environmental awareness** - Ecological consciousness developed through gameplay experience
+  
+  **Technical Achievement:**
+  - **Performance optimization** - Smooth gameplay despite complex environmental simulation
+  - **Save system reliability** - Robust character and world state preservation across sessions
+  - **Memory management** - Efficient resource usage supporting vast procedural worlds
+  - **Network architecture** - Multiplayer systems enabling collaborative survival experiences
+  - **Platform compatibility** - Consistent experience across diverse hardware specifications
+  
+  **Community & Cultural Impact:**
+  - **Survival gaming standard** - Benchmark for authenticity and depth in survival simulation
+  - **Open source gaming** - Model for successful community-driven development practices
+  - **Educational adoption** - Used in outdoor education programs and survival skill development
+  - **Developer inspiration** - Influenced indie developers toward more realistic survival mechanics
+  - **Academic recognition** - Referenced in game design courses for simulation authenticity
+  
+  **Legacy Achievement:** **Wayward** demonstrates that **scientific accuracy** and **open source collaboration** can create **survival experiences** of **unprecedented authenticity**, proving that **educational value** and **entertainment quality** can achieve **perfect synthesis** while building **sustainable development communities** through **transparent processes** and **realistic environmental simulation**.
 release_date: "2013-03-01"
 latest_version: "2.11.0"
 developers:

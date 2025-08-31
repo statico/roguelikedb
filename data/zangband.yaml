@@ -1,85 +1,86 @@
 name: "ZAngband"
 slug: "zangband"
-description: "**The Angband expansion masterpiece** - Topi Ylinen's **foundational variant** that **revolutionized Angband development**, featuring **massive content expansion**, **innovative race/class combinations**, and **influential design patterns** that served as the **genetic foundation** for **ToME and dozens of variants**, proving **community development** could **exponentially expand** roguelike scope and depth.
-
-**Massive Content Expansion Excellence:**
-- **Hundreds of new monsters** - Dramatically expanded bestiary with creatures from multiple fantasy sources
-- **New races and classes** - Character options multiplying gameplay variety and strategic approaches
-- **Extended dungeon depth** - Deeper levels with progressively challenging encounters and rewards
-- **Equipment variety explosion** - Vastly increased item types and magical properties
-- **Spell system enhancement** - Expanded magic schools and spell combinations
-
-**Foundational Variant Innovation:**
-- **ToME genetic base** - Direct ancestor providing codebase foundation for Tales of Middle-earth
-- **Variant development template** - Established patterns for major Angband modification and expansion
-- **Multi-developer collaboration** - Community development model enabling sustained enhancement
-- **Modular expansion approach** - Systems designed to accommodate further community modifications
-- **Open source contribution** - Angband License enabling free community development and distribution
-
-**Character System Revolution:**
-- **Race-class combinations** - Complex interactions between character origin and profession choices
-- **Statistical variety** - Diverse character builds with meaningful mechanical differences
-- **Progression depth** - Character development systems supporting long-term play and mastery
-- **Specialization paths** - Multiple viable approaches to character advancement and optimization
-- **Build diversity** - Hundreds of possible character configurations encouraging experimentation
-
-**Technical Achievement (1994):**
-- **C programming excellence** - Advanced language usage enabling complex feature implementation
-- **Cross-platform compatibility** - DOS, Windows, and Linux versions maintaining consistent functionality
-- **Memory management** - Efficient resource usage despite vastly expanded content and systems
-- **Save system reliability** - Robust character preservation across complex variant features
-- **Performance optimization** - Smooth gameplay despite dramatically increased game complexity
-
-**Community Development Model:**
-- **Collaborative enhancement** - Multiple developers contributing features and improvements
-- **Version control coordination** - Managed development process enabling sustained community contribution
-- **Feature integration** - Community suggestions and modifications incorporated into main codebase
-- **Quality assurance** - Community testing and bug reporting ensuring stability
-- **Documentation culture** - Comprehensive information sharing about features and mechanics
-
-**Cultural Impact on Angband Family:**
-- **Variant explosion catalyst** - Inspired dozens of other major Angband modifications
-- **Development methodology** - Established collaborative development practices for roguelike variants
-- **Content creation precedent** - Demonstrated potential for massive game expansion through community effort
-- **Innovation testing ground** - Platform for experimenting with new roguelike mechanics and features
-- **Historical preservation** - Maintained availability ensuring continued play and study
-
-**Fantasy Source Integration:**
-- **Tolkien expansion beyond Angband** - Additional Middle-earth content while respecting source material
-- **Multi-universe inclusion** - Creatures and concepts from various fantasy literature and gaming
-- **Thematic coherence maintenance** - Expanded content integrated seamlessly with original design
-- **Cultural authenticity** - Respectful adaptation of fantasy source materials
-- **Creative synthesis** - Original content creation inspired by established fantasy traditions
-
-**Technical Innovation:**
-- **Feature flag systems** - Modular code architecture enabling selective feature activation
-- **Configuration flexibility** - Player options for customizing game experience and difficulty
-- **Debugging tools** - Developer utilities facilitating community contribution and maintenance
-- **Platform abstraction** - Code organization supporting multiple operating system targets
-- **Extensibility architecture** - Framework design enabling future enhancement and modification
-
-**Educational & Development Value:**
-- **Open source learning** - Complete codebase available for studying advanced roguelike implementation
-- **Community development methods** - Model for collaborative free software game development
-- **Version management** - Practices for maintaining complex software projects across multiple contributors
-- **Feature integration techniques** - Methods for adding major functionality to existing codebases
-- **Quality assurance processes** - Community testing and validation methodologies
-
-**Historical Significance:**
-- **Variant development milestone** - Major step in Angband family evolution and diversification
-- **Community empowerment** - Demonstrated player communities could significantly enhance games
-- **Open source gaming** - Early example of successful collaborative game development
-- **Genre expansion** - Showed how existing games could be dramatically enhanced through modification
-- **Cultural preservation** - Maintained classic roguelike traditions while enabling innovation
-
-**Legacy & Influence:**
-- **ToME foundation** - Direct genetic contribution to one of most successful commercial roguelikes
-- **Variant inspiration** - Design patterns adopted by numerous other Angband modifications
-- **Community development** - Model for sustainable collaborative enhancement of classic games
-- **Content creation** - Demonstrated potential for massive community-driven game expansion
-- **Historical documentation** - Preserved important stage in roguelike evolution and community development
-
-**Cultural Achievement:** **ZAngband** demonstrates that **community collaboration** can **exponentially expand** game scope while **preserving authentic depth**, proving that **open source development** can create **foundational platforms** for **entire families** of **enhanced gaming experiences** through **sustained community dedication** and **collaborative technical excellence**."
+description: |
+  **The Angband expansion masterpiece** - Topi Ylinen's **foundational variant** that **revolutionized Angband development**, featuring **massive content expansion**, **innovative race/class combinations**, and **influential design patterns** that served as the **genetic foundation** for **ToME and dozens of variants**, proving **community development** could **exponentially expand** roguelike scope and depth.
+  
+  **Massive Content Expansion Excellence:**
+  - **Hundreds of new monsters** - Dramatically expanded bestiary with creatures from multiple fantasy sources
+  - **New races and classes** - Character options multiplying gameplay variety and strategic approaches
+  - **Extended dungeon depth** - Deeper levels with progressively challenging encounters and rewards
+  - **Equipment variety explosion** - Vastly increased item types and magical properties
+  - **Spell system enhancement** - Expanded magic schools and spell combinations
+  
+  **Foundational Variant Innovation:**
+  - **ToME genetic base** - Direct ancestor providing codebase foundation for Tales of Middle-earth
+  - **Variant development template** - Established patterns for major Angband modification and expansion
+  - **Multi-developer collaboration** - Community development model enabling sustained enhancement
+  - **Modular expansion approach** - Systems designed to accommodate further community modifications
+  - **Open source contribution** - Angband License enabling free community development and distribution
+  
+  **Character System Revolution:**
+  - **Race-class combinations** - Complex interactions between character origin and profession choices
+  - **Statistical variety** - Diverse character builds with meaningful mechanical differences
+  - **Progression depth** - Character development systems supporting long-term play and mastery
+  - **Specialization paths** - Multiple viable approaches to character advancement and optimization
+  - **Build diversity** - Hundreds of possible character configurations encouraging experimentation
+  
+  **Technical Achievement (1994):**
+  - **C programming excellence** - Advanced language usage enabling complex feature implementation
+  - **Cross-platform compatibility** - DOS, Windows, and Linux versions maintaining consistent functionality
+  - **Memory management** - Efficient resource usage despite vastly expanded content and systems
+  - **Save system reliability** - Robust character preservation across complex variant features
+  - **Performance optimization** - Smooth gameplay despite dramatically increased game complexity
+  
+  **Community Development Model:**
+  - **Collaborative enhancement** - Multiple developers contributing features and improvements
+  - **Version control coordination** - Managed development process enabling sustained community contribution
+  - **Feature integration** - Community suggestions and modifications incorporated into main codebase
+  - **Quality assurance** - Community testing and bug reporting ensuring stability
+  - **Documentation culture** - Comprehensive information sharing about features and mechanics
+  
+  **Cultural Impact on Angband Family:**
+  - **Variant explosion catalyst** - Inspired dozens of other major Angband modifications
+  - **Development methodology** - Established collaborative development practices for roguelike variants
+  - **Content creation precedent** - Demonstrated potential for massive game expansion through community effort
+  - **Innovation testing ground** - Platform for experimenting with new roguelike mechanics and features
+  - **Historical preservation** - Maintained availability ensuring continued play and study
+  
+  **Fantasy Source Integration:**
+  - **Tolkien expansion beyond Angband** - Additional Middle-earth content while respecting source material
+  - **Multi-universe inclusion** - Creatures and concepts from various fantasy literature and gaming
+  - **Thematic coherence maintenance** - Expanded content integrated seamlessly with original design
+  - **Cultural authenticity** - Respectful adaptation of fantasy source materials
+  - **Creative synthesis** - Original content creation inspired by established fantasy traditions
+  
+  **Technical Innovation:**
+  - **Feature flag systems** - Modular code architecture enabling selective feature activation
+  - **Configuration flexibility** - Player options for customizing game experience and difficulty
+  - **Debugging tools** - Developer utilities facilitating community contribution and maintenance
+  - **Platform abstraction** - Code organization supporting multiple operating system targets
+  - **Extensibility architecture** - Framework design enabling future enhancement and modification
+  
+  **Educational & Development Value:**
+  - **Open source learning** - Complete codebase available for studying advanced roguelike implementation
+  - **Community development methods** - Model for collaborative free software game development
+  - **Version management** - Practices for maintaining complex software projects across multiple contributors
+  - **Feature integration techniques** - Methods for adding major functionality to existing codebases
+  - **Quality assurance processes** - Community testing and validation methodologies
+  
+  **Historical Significance:**
+  - **Variant development milestone** - Major step in Angband family evolution and diversification
+  - **Community empowerment** - Demonstrated player communities could significantly enhance games
+  - **Open source gaming** - Early example of successful collaborative game development
+  - **Genre expansion** - Showed how existing games could be dramatically enhanced through modification
+  - **Cultural preservation** - Maintained classic roguelike traditions while enabling innovation
+  
+  **Legacy & Influence:**
+  - **ToME foundation** - Direct genetic contribution to one of most successful commercial roguelikes
+  - **Variant inspiration** - Design patterns adopted by numerous other Angband modifications
+  - **Community development** - Model for sustainable collaborative enhancement of classic games
+  - **Content creation** - Demonstrated potential for massive community-driven game expansion
+  - **Historical documentation** - Preserved important stage in roguelike evolution and community development
+  
+  **Cultural Achievement:** **ZAngband** demonstrates that **community collaboration** can **exponentially expand** game scope while **preserving authentic depth**, proving that **open source development** can create **foundational platforms** for **entire families** of **enhanced gaming experiences** through **sustained community dedication** and **collaborative technical excellence**.
 release_date: "1994"
 latest_version: "2.7.5c"
 developers:

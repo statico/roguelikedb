@@ -1,85 +1,86 @@
 name: "Infra Arcana"
 slug: "infra-arcana"
-description: "**The Lovecraftian horror masterpiece** - Martin Tornqvist's **atmospheric achievement** that authentically captures **H.P. Lovecraft's cosmic horror** through **revolutionary sanity mechanics**, **psychological terror**, and **early 20th century authenticity** that proves **literature and gaming** can achieve **perfect thematic synthesis** through **innovative mechanical design**.
-
-**Revolutionary Sanity System:**
-- **Psychological deterioration mechanics** - Mental state affecting perception, decision-making, and character capabilities
-- **Cosmic horror representation** - Sanity loss from witnessing incomprehensible alien entities and phenomena
-- **Fear and panic systems** - Terror responses creating tactical consequences and strategic considerations
-- **Mental recovery methods** - Rest, medication, and environmental factors affecting psychological healing
-- **Insanity consequences** - Permanent mental alterations changing character abilities and world perception
-
-**Authentic Lovecraftian Atmosphere:**
-- **Early 20th century setting** - Period-appropriate weapons, technology, and cultural references
-- **Cosmic horror themes** - Ancient entities, forbidden knowledge, and reality-warping phenomena
-- **Academic protagonist** - Character background reflecting Lovecraft's typical educated protagonists
-- **New England geography** - Dungeon designs inspired by Lovecraft's familiar regional settings
-- **Literary authenticity** - Faithful adaptation of source material themes and narrative elements
-
-**Atmospheric ASCII Excellence:**
-- **Visual horror communication** - Character-based graphics creating psychological tension and dread
-- **Color usage mastery** - Strategic color palette enhancing mood and atmospheric immersion
-- **Screen layout design** - Interface elements contributing to overall atmospheric presentation
-- **Visual clarity** - Clear representation of complex horror themes through minimalist graphics
-- **Artistic restraint** - ASCII limitations turned into atmospheric advantages through creative design
-
-**Open Source Development:**
-- **GPLv3 licensing** - Complete source code available for community study and enhancement
-- **GitHub collaboration** - Modern development practices enabling community contributions
-- **Martin Tornqvist leadership** - Single developer maintaining consistent artistic vision
-- **Community feedback integration** - Player suggestions incorporated while preserving thematic integrity
-- **Educational transparency** - Implementation details accessible for studying horror game design
-
-**Psychological Horror Innovation:**
-- **Terror over violence** - Emphasis on fear and dread rather than explicit gore or combat
-- **Atmospheric storytelling** - Environmental design conveying narrative through spatial arrangement
-- **Investigative gameplay** - Mystery-solving elements reflecting Lovecraft's detective fiction influences
-- **Forbidden knowledge themes** - Learning dangerous information with mechanical consequences
-- **Reality distortion effects** - Sanity loss affecting player perception of game world
-
-**Academic & Critical Recognition:**
-- **Best roguelikes lists** - Featured prominently in gaming press recommendations and awards
-- **Horror gaming excellence** - Recognized as premier example of effective horror in roguelike design
-- **Literary adaptation success** - Praised for faithful translation of literary themes into interactive medium
-- **Atmospheric design recognition** - Acknowledged for creating immersive horror through minimalist presentation
-- **Educational adoption** - Used in courses studying horror game design and literary adaptation
-
-**Technical Achievement:**
-- **Custom SDL engine** - Purpose-built system optimized for atmospheric ASCII presentation
-- **Cross-platform compatibility** - Windows, Linux, and macOS versions maintaining consistent atmosphere
-- **Performance optimization** - Smooth gameplay despite complex psychological and atmospheric systems
-- **Save system reliability** - Progress preservation supporting extended horror narrative experience
-- **Memory efficiency** - Optimized resource usage enabling complex atmospheric calculations
-
-**Character Development Depth:**
-- **Skill progression authenticity** - Advancement reflecting period-appropriate knowledge and abilities
-- **Equipment period accuracy** - Weapons and tools consistent with early 20th century technology
-- **Inventory realism** - Item carrying and usage reflecting physical and practical limitations
-- **Character background integration** - Starting attributes and abilities reflecting academic protagonist
-- **Progressive revelation** - Character learning and adapting to cosmic horror realities
-
-**Community & Cultural Impact:**
-- **Horror gaming influence** - Inspiring other developers to explore psychological terror in roguelikes
-- **Literary gaming bridge** - Connecting literature enthusiasts with roguelike gaming community
-- **Atmospheric design template** - Establishing patterns for effective horror atmosphere creation
-- **Open source horror** - Demonstrating successful collaborative development of atmospheric games
-- **Educational value** - Teaching effective horror design through accessible implementation
-
-**Narrative Integration Excellence:**
-- **Environmental storytelling** - Locations and scenarios conveying Lovecraftian narrative themes
-- **Procedural horror** - Randomized elements maintaining atmospheric consistency and terror
-- **Character agency** - Player choices affecting psychological state and narrative progression
-- **Cosmic scale representation** - Individual human insignificance conveyed through mechanical design
-- **Knowledge as danger** - Learning about horrors creating mechanical disadvantages and consequences
-
-**Design Philosophy:**
-- **Atmosphere over mechanics** - Game systems serving thematic goals rather than traditional optimization
-- **Literary authenticity** - Faithful representation of source material themes and tone
-- **Psychological realism** - Mental health systems based on authentic understanding of trauma
-- **Player vulnerability** - Characters genuinely threatened by psychological rather than physical dangers
-- **Cosmic insignificance** - Mechanics reinforcing themes of human powerlessness and ignorance
-
-**Cultural Legacy:** **Infra Arcana** demonstrates that **literary horror** can be **perfectly translated** into **interactive gaming experiences**, proving that **atmospheric design** and **psychological mechanics** can create **authentic terror** while preserving **thematic integrity** and **educational value** through **collaborative open source development** and **uncompromising artistic vision**."
+description: |
+  **The Lovecraftian horror masterpiece** - Martin Tornqvist's **atmospheric achievement** that authentically captures **H.P. Lovecraft's cosmic horror** through **revolutionary sanity mechanics**, **psychological terror**, and **early 20th century authenticity** that proves **literature and gaming** can achieve **perfect thematic synthesis** through **innovative mechanical design**.
+  
+  **Revolutionary Sanity System:**
+  - **Psychological deterioration mechanics** - Mental state affecting perception, decision-making, and character capabilities
+  - **Cosmic horror representation** - Sanity loss from witnessing incomprehensible alien entities and phenomena
+  - **Fear and panic systems** - Terror responses creating tactical consequences and strategic considerations
+  - **Mental recovery methods** - Rest, medication, and environmental factors affecting psychological healing
+  - **Insanity consequences** - Permanent mental alterations changing character abilities and world perception
+  
+  **Authentic Lovecraftian Atmosphere:**
+  - **Early 20th century setting** - Period-appropriate weapons, technology, and cultural references
+  - **Cosmic horror themes** - Ancient entities, forbidden knowledge, and reality-warping phenomena
+  - **Academic protagonist** - Character background reflecting Lovecraft's typical educated protagonists
+  - **New England geography** - Dungeon designs inspired by Lovecraft's familiar regional settings
+  - **Literary authenticity** - Faithful adaptation of source material themes and narrative elements
+  
+  **Atmospheric ASCII Excellence:**
+  - **Visual horror communication** - Character-based graphics creating psychological tension and dread
+  - **Color usage mastery** - Strategic color palette enhancing mood and atmospheric immersion
+  - **Screen layout design** - Interface elements contributing to overall atmospheric presentation
+  - **Visual clarity** - Clear representation of complex horror themes through minimalist graphics
+  - **Artistic restraint** - ASCII limitations turned into atmospheric advantages through creative design
+  
+  **Open Source Development:**
+  - **GPLv3 licensing** - Complete source code available for community study and enhancement
+  - **GitHub collaboration** - Modern development practices enabling community contributions
+  - **Martin Tornqvist leadership** - Single developer maintaining consistent artistic vision
+  - **Community feedback integration** - Player suggestions incorporated while preserving thematic integrity
+  - **Educational transparency** - Implementation details accessible for studying horror game design
+  
+  **Psychological Horror Innovation:**
+  - **Terror over violence** - Emphasis on fear and dread rather than explicit gore or combat
+  - **Atmospheric storytelling** - Environmental design conveying narrative through spatial arrangement
+  - **Investigative gameplay** - Mystery-solving elements reflecting Lovecraft's detective fiction influences
+  - **Forbidden knowledge themes** - Learning dangerous information with mechanical consequences
+  - **Reality distortion effects** - Sanity loss affecting player perception of game world
+  
+  **Academic & Critical Recognition:**
+  - **Best roguelikes lists** - Featured prominently in gaming press recommendations and awards
+  - **Horror gaming excellence** - Recognized as premier example of effective horror in roguelike design
+  - **Literary adaptation success** - Praised for faithful translation of literary themes into interactive medium
+  - **Atmospheric design recognition** - Acknowledged for creating immersive horror through minimalist presentation
+  - **Educational adoption** - Used in courses studying horror game design and literary adaptation
+  
+  **Technical Achievement:**
+  - **Custom SDL engine** - Purpose-built system optimized for atmospheric ASCII presentation
+  - **Cross-platform compatibility** - Windows, Linux, and macOS versions maintaining consistent atmosphere
+  - **Performance optimization** - Smooth gameplay despite complex psychological and atmospheric systems
+  - **Save system reliability** - Progress preservation supporting extended horror narrative experience
+  - **Memory efficiency** - Optimized resource usage enabling complex atmospheric calculations
+  
+  **Character Development Depth:**
+  - **Skill progression authenticity** - Advancement reflecting period-appropriate knowledge and abilities
+  - **Equipment period accuracy** - Weapons and tools consistent with early 20th century technology
+  - **Inventory realism** - Item carrying and usage reflecting physical and practical limitations
+  - **Character background integration** - Starting attributes and abilities reflecting academic protagonist
+  - **Progressive revelation** - Character learning and adapting to cosmic horror realities
+  
+  **Community & Cultural Impact:**
+  - **Horror gaming influence** - Inspiring other developers to explore psychological terror in roguelikes
+  - **Literary gaming bridge** - Connecting literature enthusiasts with roguelike gaming community
+  - **Atmospheric design template** - Establishing patterns for effective horror atmosphere creation
+  - **Open source horror** - Demonstrating successful collaborative development of atmospheric games
+  - **Educational value** - Teaching effective horror design through accessible implementation
+  
+  **Narrative Integration Excellence:**
+  - **Environmental storytelling** - Locations and scenarios conveying Lovecraftian narrative themes
+  - **Procedural horror** - Randomized elements maintaining atmospheric consistency and terror
+  - **Character agency** - Player choices affecting psychological state and narrative progression
+  - **Cosmic scale representation** - Individual human insignificance conveyed through mechanical design
+  - **Knowledge as danger** - Learning about horrors creating mechanical disadvantages and consequences
+  
+  **Design Philosophy:**
+  - **Atmosphere over mechanics** - Game systems serving thematic goals rather than traditional optimization
+  - **Literary authenticity** - Faithful representation of source material themes and tone
+  - **Psychological realism** - Mental health systems based on authentic understanding of trauma
+  - **Player vulnerability** - Characters genuinely threatened by psychological rather than physical dangers
+  - **Cosmic insignificance** - Mechanics reinforcing themes of human powerlessness and ignorance
+  
+  **Cultural Legacy:** **Infra Arcana** demonstrates that **literary horror** can be **perfectly translated** into **interactive gaming experiences**, proving that **atmospheric design** and **psychological mechanics** can create **authentic terror** while preserving **thematic integrity** and **educational value** through **collaborative open source development** and **uncompromising artistic vision**.
 release_date: "2011-01-01"
 latest_version: "21.1.0"
 developers:

@@ -1,92 +1,93 @@
 name: "GruntHack"
 slug: "grunthack"
-description: "**The challenge enhancement masterpiece** - Jason McIntosh (grunt) and GruntHack Contributors' **ambitious achievement** that created a **harder NetHack variant** featuring **challenging Sokoban variants**, **redesigned quest levels**, **color alchemy**, **gem alchemy**, and **advanced dungeon features** proving that **systematic difficulty enhancement** can **deepen beloved roguelikes** while **maintaining fairness** and **inspiring dedicated communities**.
-
-**Difficulty Enhancement Excellence (2015):**
-- **Harder challenge philosophy** - Systematic approach to increasing NetHack difficulty without compromising fairness
-- **Sokoban variant complexity** - Enhanced puzzle chambers creating more demanding strategic challenges
-- **Quest level redesign** - Knight and Caveman jungle areas completely reimagined with increased complexity
-- **Version 0.3.0 evolution** - Active development with careful incremental challenge improvements
-- **Community feedback integration** - Player testing ensuring enhanced difficulty remains enjoyable
-
-**Sokoban Innovation:**
-- **Puzzle variant system** - Multiple Sokoban configurations creating unpredictable challenge variety
-- **Strategic complexity** - Enhanced box-pushing puzzles requiring deeper analysis and planning
-- **Challenge scaling** - Difficulty progression ensuring appropriate challenge for character development
-- **Creative level design** - Innovative puzzle mechanics exploring new Sokoban possibilities
-- **Frustration prevention** - Hard but fair puzzle design avoiding cheap or impossible situations
-
-**Quest Level Redesign:**
-- **Knight quest enhancement** - Completely reimagined areas with increased tactical complexity
-- **Caveman jungle innovation** - New environmental challenges and atmospheric exploration
-- **Narrative integration** - Enhanced quest areas supporting character class themes and stories
-- **Strategic diversity** - Different approaches viable for completing enhanced quest challenges
-- **Exploration variety** - Redesigned areas encouraging thorough investigation and discovery
-
-**Alchemy System Innovation:**
-- **Color alchemy mechanics** - New magical systems based on color theory and combination
-- **Gem alchemy complexity** - Sophisticated precious stone transmutation and enhancement systems
-- **Strategic depth** - Alchemy systems adding layers of preparation and resource management
-- **Discovery excitement** - Complex alchemical recipes encouraging experimentation and learning
-- **Balance integration** - Alchemy power balanced against increased game difficulty
-
-**Technical Achievement:**
-- **C programming mastery** - Complex enhancement systems implemented within sophisticated NetHack architecture
-- **Cross-platform stability** - Windows, Linux, and macOS versions with consistent functionality
-- **Memory efficiency** - 64MB requirements supporting extensive content and alchemy systems
-- **Performance optimization** - Smooth gameplay despite complex enhancement and challenge systems
-- **GitHub development** - Modern version control supporting collaborative enhancement
-
-**Advanced Dungeon Features:**
-- **Level compiler options** - Enhanced tools for creating sophisticated challenge areas
-- **Procedural enhancement** - Advanced generation systems creating varied challenging experiences
-- **Monster variant complexity** - Enhanced creature behaviors and strategic interactions
-- **Artifact diversity** - New powerful items balanced against increased difficulty
-- **Environmental challenges** - Advanced dungeon mechanics creating tactical complexity
-
-**Challenge Design Philosophy:**
-- **Fair difficulty enhancement** - Increased challenge without cheap deaths or impossible situations
-- **Strategic depth** - Hard content requiring skill and planning rather than luck
-- **Player agency** - Difficult situations providing multiple solution approaches
-- **Learning encouragement** - Challenge systems teaching advanced NetHack strategies
-- **Community testing** - Player feedback ensuring difficulty enhancements remain enjoyable
-
-**Community Impact:**
-- **Small dedicated community** - Focused player base seeking enhanced challenge experiences
-- **Active development** - Ongoing improvements responding to community feedback and testing
-- **Challenge advocacy** - Demonstrating demand for more difficult roguelike experiences
-- **Design inspiration** - Encouraging other projects to explore systematic difficulty enhancement
-- **Educational resource** - Teaching advanced NetHack strategies through increased complexity
-
-**Monster Variant Innovation:**
-- **Enhanced creature behaviors** - More sophisticated monster AI and tactical interactions
-- **Strategic variety** - Different monsters requiring varied tactical approaches and preparation
-- **Challenge progression** - Monster difficulty scaling appropriately with enhanced game complexity
-- **Behavioral complexity** - Advanced AI systems creating unpredictable and engaging encounters
-- **Balance maintenance** - Enhanced monsters remaining fair while providing increased challenge
-
-**Cultural Gaming Impact:**
-- **Difficulty validation** - Proving market demand for challenging roguelike experiences
-- **Enhancement methodology** - Establishing approaches to systematic difficulty improvement
-- **Community building** - Creating spaces for players seeking advanced roguelike challenges
-- **Design precedent** - Demonstrating viable methods for enhancing established games
-- **Challenge culture** - Contributing to communities valuing skill development and mastery
-
-**Open Source Excellence:**
-- **NetHack GPL** - Community access enabling study of difficulty enhancement techniques
-- **GitHub transparency** - Complete development process visible and accessible to community
-- **Educational resource** - Challenge design techniques available for learning and adaptation
-- **Community contribution** - Open development enabling ongoing participation and improvement
-- **Development documentation** - Enhancement implementation details supporting understanding
-
-**Educational Value:**
-- **Difficulty enhancement design** - Methods for systematically increasing game challenge
-- **Alchemy system implementation** - Complex magical systems integration within roguelike frameworks
-- **Quest redesign techniques** - Approaches to enhancing existing content while preserving authenticity
-- **Community development** - Collaborative practices for challenge-focused game enhancement
-- **Balance maintenance** - Preserving fairness while significantly increasing difficulty
-
-**Legacy Achievement:** **GruntHack** demonstrates that **systematic challenge enhancement** can **deepen beloved experiences**, proving that **fair difficulty increase** and **complex systems** can **create rewarding experiences** for **dedicated players** while **inspiring continued exploration** of **advanced roguelike challenge design**."
+description: |
+  **The challenge enhancement masterpiece** - Jason McIntosh (grunt) and GruntHack Contributors' **ambitious achievement** that created a **harder NetHack variant** featuring **challenging Sokoban variants**, **redesigned quest levels**, **color alchemy**, **gem alchemy**, and **advanced dungeon features** proving that **systematic difficulty enhancement** can **deepen beloved roguelikes** while **maintaining fairness** and **inspiring dedicated communities**.
+  
+  **Difficulty Enhancement Excellence (2015):**
+  - **Harder challenge philosophy** - Systematic approach to increasing NetHack difficulty without compromising fairness
+  - **Sokoban variant complexity** - Enhanced puzzle chambers creating more demanding strategic challenges
+  - **Quest level redesign** - Knight and Caveman jungle areas completely reimagined with increased complexity
+  - **Version 0.3.0 evolution** - Active development with careful incremental challenge improvements
+  - **Community feedback integration** - Player testing ensuring enhanced difficulty remains enjoyable
+  
+  **Sokoban Innovation:**
+  - **Puzzle variant system** - Multiple Sokoban configurations creating unpredictable challenge variety
+  - **Strategic complexity** - Enhanced box-pushing puzzles requiring deeper analysis and planning
+  - **Challenge scaling** - Difficulty progression ensuring appropriate challenge for character development
+  - **Creative level design** - Innovative puzzle mechanics exploring new Sokoban possibilities
+  - **Frustration prevention** - Hard but fair puzzle design avoiding cheap or impossible situations
+  
+  **Quest Level Redesign:**
+  - **Knight quest enhancement** - Completely reimagined areas with increased tactical complexity
+  - **Caveman jungle innovation** - New environmental challenges and atmospheric exploration
+  - **Narrative integration** - Enhanced quest areas supporting character class themes and stories
+  - **Strategic diversity** - Different approaches viable for completing enhanced quest challenges
+  - **Exploration variety** - Redesigned areas encouraging thorough investigation and discovery
+  
+  **Alchemy System Innovation:**
+  - **Color alchemy mechanics** - New magical systems based on color theory and combination
+  - **Gem alchemy complexity** - Sophisticated precious stone transmutation and enhancement systems
+  - **Strategic depth** - Alchemy systems adding layers of preparation and resource management
+  - **Discovery excitement** - Complex alchemical recipes encouraging experimentation and learning
+  - **Balance integration** - Alchemy power balanced against increased game difficulty
+  
+  **Technical Achievement:**
+  - **C programming mastery** - Complex enhancement systems implemented within sophisticated NetHack architecture
+  - **Cross-platform stability** - Windows, Linux, and macOS versions with consistent functionality
+  - **Memory efficiency** - 64MB requirements supporting extensive content and alchemy systems
+  - **Performance optimization** - Smooth gameplay despite complex enhancement and challenge systems
+  - **GitHub development** - Modern version control supporting collaborative enhancement
+  
+  **Advanced Dungeon Features:**
+  - **Level compiler options** - Enhanced tools for creating sophisticated challenge areas
+  - **Procedural enhancement** - Advanced generation systems creating varied challenging experiences
+  - **Monster variant complexity** - Enhanced creature behaviors and strategic interactions
+  - **Artifact diversity** - New powerful items balanced against increased difficulty
+  - **Environmental challenges** - Advanced dungeon mechanics creating tactical complexity
+  
+  **Challenge Design Philosophy:**
+  - **Fair difficulty enhancement** - Increased challenge without cheap deaths or impossible situations
+  - **Strategic depth** - Hard content requiring skill and planning rather than luck
+  - **Player agency** - Difficult situations providing multiple solution approaches
+  - **Learning encouragement** - Challenge systems teaching advanced NetHack strategies
+  - **Community testing** - Player feedback ensuring difficulty enhancements remain enjoyable
+  
+  **Community Impact:**
+  - **Small dedicated community** - Focused player base seeking enhanced challenge experiences
+  - **Active development** - Ongoing improvements responding to community feedback and testing
+  - **Challenge advocacy** - Demonstrating demand for more difficult roguelike experiences
+  - **Design inspiration** - Encouraging other projects to explore systematic difficulty enhancement
+  - **Educational resource** - Teaching advanced NetHack strategies through increased complexity
+  
+  **Monster Variant Innovation:**
+  - **Enhanced creature behaviors** - More sophisticated monster AI and tactical interactions
+  - **Strategic variety** - Different monsters requiring varied tactical approaches and preparation
+  - **Challenge progression** - Monster difficulty scaling appropriately with enhanced game complexity
+  - **Behavioral complexity** - Advanced AI systems creating unpredictable and engaging encounters
+  - **Balance maintenance** - Enhanced monsters remaining fair while providing increased challenge
+  
+  **Cultural Gaming Impact:**
+  - **Difficulty validation** - Proving market demand for challenging roguelike experiences
+  - **Enhancement methodology** - Establishing approaches to systematic difficulty improvement
+  - **Community building** - Creating spaces for players seeking advanced roguelike challenges
+  - **Design precedent** - Demonstrating viable methods for enhancing established games
+  - **Challenge culture** - Contributing to communities valuing skill development and mastery
+  
+  **Open Source Excellence:**
+  - **NetHack GPL** - Community access enabling study of difficulty enhancement techniques
+  - **GitHub transparency** - Complete development process visible and accessible to community
+  - **Educational resource** - Challenge design techniques available for learning and adaptation
+  - **Community contribution** - Open development enabling ongoing participation and improvement
+  - **Development documentation** - Enhancement implementation details supporting understanding
+  
+  **Educational Value:**
+  - **Difficulty enhancement design** - Methods for systematically increasing game challenge
+  - **Alchemy system implementation** - Complex magical systems integration within roguelike frameworks
+  - **Quest redesign techniques** - Approaches to enhancing existing content while preserving authenticity
+  - **Community development** - Collaborative practices for challenge-focused game enhancement
+  - **Balance maintenance** - Preserving fairness while significantly increasing difficulty
+  
+  **Legacy Achievement:** **GruntHack** demonstrates that **systematic challenge enhancement** can **deepen beloved experiences**, proving that **fair difficulty increase** and **complex systems** can **create rewarding experiences** for **dedicated players** while **inspiring continued exploration** of **advanced roguelike challenge design**.
 release_date: "2015"
 latest_version: "0.3.0"
 developers:

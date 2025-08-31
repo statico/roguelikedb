@@ -1,85 +1,86 @@
 name: "ToME4 (T-Engine4)"
 slug: "tome4"
-description: "**The roguelike engine revolution** - DarkGod's **comprehensive framework** that **democratized roguelike development**, powering **Tales of Maj'Eyal** and **multiple commercial games**, featuring **Lua scripting excellence**, **extensive documentation**, and **active community** that proves **powerful engines** can **transform genre development** through **accessibility and modularity**.
-
-**Comprehensive Engine Architecture:**
-- **Lua scripting integration** - High-level programming language making game logic accessible to non-programmers
-- **Modular system design** - Component-based architecture enabling easy customization and expansion
-- **Cross-platform deployment** - Windows, macOS, and Linux support with consistent performance
-- **Graphics pipeline flexibility** - Support for ASCII, tiles, and custom visual presentations
-- **Audio system integration** - Professional sound and music capabilities built into framework
-
-**Developer Accessibility Excellence:**
-- **Extensive documentation** - Comprehensive guides, tutorials, and API references
-- **Community support systems** - Active forums and Discord channels for developer assistance
-- **Example projects included** - Complete games demonstrating framework capabilities and best practices
-- **Plugin architecture** - Modular extension system enabling community contributions
-- **Educational resources** - Tutorials teaching roguelike development through practical examples
-
-**Technical Innovation:**
-- **GPLv3 open source** - Complete engine source code available for community study and improvement
-- **Performance optimization** - Efficient systems supporting complex games with smooth gameplay
-- **Memory management** - Sophisticated resource handling enabling large-scale game worlds
-- **Save system framework** - Robust persistence architecture for complex game states
-- **Networking capabilities** - Built-in support for multiplayer and online features
-
-**Commercial Success Enablement:**
-- **Tales of Maj'Eyal foundation** - Powers one of the most successful commercial roguelikes
-- **Multiple shipped games** - Several developers using engine for commercial releases
-- **Flexible licensing** - Open source model enabling both free and commercial game development
-- **Professional quality output** - Engine capable of producing AAA-quality gaming experiences
-- **Market validation** - Proven commercial viability through successful game releases
-
-**Modding & Community Ecosystem:**
-- **Comprehensive modding tools** - Complete systems for community content creation
-- **Active developer community** - Hundreds of contributors improving engine and creating content
-- **Plugin marketplace** - Community sharing systems and modifications
-- **Educational community** - Experienced developers mentoring newcomers
-- **Collaborative development** - Open source model enabling community engine improvements
-
-**Game Development Democratization:**
-- **Lowered barrier to entry** - Complex roguelike development made accessible to smaller teams
-- **Rapid prototyping** - Quick iteration and testing of game concepts and mechanics
-- **Educational platform** - Teaching game development through practical roguelike creation
-- **Creative empowerment** - Artists and designers able to create games without deep programming knowledge
-- **Indie development support** - Tools and resources specifically designed for small developer teams
-
-**DarkGod Leadership Excellence:**
-- **Single vision maintenance** - Consistent architectural decisions across years of development
-- **Community engagement** - Active participation in developer community and feedback integration
-- **Educational commitment** - Extensive documentation and tutorial creation
-- **Open source philosophy** - Commitment to community benefit over commercial advantage
-- **Long-term sustainability** - Development practices ensuring engine longevity and evolution
-
-**Framework Capabilities:**
-- **Advanced AI systems** - Built-in artificial intelligence frameworks for NPCs and monsters
-- **Complex UI generation** - Sophisticated interface creation tools and components
-- **Procedural content** - Integrated systems for random generation and content creation
-- **Animation systems** - Professional-quality sprite and effect animation tools
-- **Data management** - Comprehensive systems for game content organization and modification
-
-**Educational & Research Impact:**
-- **Academic adoption** - Used in educational institutions for teaching game development
-- **Research platform** - Academic studies utilizing engine for experimental game design
-- **Industry recognition** - Professional acknowledgment of technical excellence and innovation
-- **Developer education** - Training ground for future professional game developers
-- **Open source contribution** - Advancing entire field of game development through shared knowledge
-
-**Community Success Metrics:**
-- **Large active community** - Hundreds of developers using engine for various projects
-- **GitHub engagement** - Active development with regular commits and community contributions
-- **Forum participation** - Extensive developer discussions and mutual support
-- **Tutorial creation** - Community-generated educational content expanding documentation
-- **Plugin development** - Third-party extensions enhancing engine capabilities
-
-**Technical Excellence:**
-- **Clean code architecture** - Well-organized codebase enabling easy understanding and modification
-- **Version control integration** - Professional development practices and release management
-- **Bug tracking systems** - Comprehensive issue management and community reporting
-- **Continuous integration** - Automated testing and build systems ensuring quality
-- **Platform compatibility** - Consistent behavior across different operating systems
-
-**Cultural Legacy:** **T-Engine4** demonstrates that **high-quality game engines** can **successfully balance** **professional capabilities** with **community accessibility**, proving that **open source development** can create **commercial-grade tools** while **fostering educational communities** and **democratizing game development** for **entire genres**."
+description: |
+  **The roguelike engine revolution** - DarkGod's **comprehensive framework** that **democratized roguelike development**, powering **Tales of Maj'Eyal** and **multiple commercial games**, featuring **Lua scripting excellence**, **extensive documentation**, and **active community** that proves **powerful engines** can **transform genre development** through **accessibility and modularity**.
+  
+  **Comprehensive Engine Architecture:**
+  - **Lua scripting integration** - High-level programming language making game logic accessible to non-programmers
+  - **Modular system design** - Component-based architecture enabling easy customization and expansion
+  - **Cross-platform deployment** - Windows, macOS, and Linux support with consistent performance
+  - **Graphics pipeline flexibility** - Support for ASCII, tiles, and custom visual presentations
+  - **Audio system integration** - Professional sound and music capabilities built into framework
+  
+  **Developer Accessibility Excellence:**
+  - **Extensive documentation** - Comprehensive guides, tutorials, and API references
+  - **Community support systems** - Active forums and Discord channels for developer assistance
+  - **Example projects included** - Complete games demonstrating framework capabilities and best practices
+  - **Plugin architecture** - Modular extension system enabling community contributions
+  - **Educational resources** - Tutorials teaching roguelike development through practical examples
+  
+  **Technical Innovation:**
+  - **GPLv3 open source** - Complete engine source code available for community study and improvement
+  - **Performance optimization** - Efficient systems supporting complex games with smooth gameplay
+  - **Memory management** - Sophisticated resource handling enabling large-scale game worlds
+  - **Save system framework** - Robust persistence architecture for complex game states
+  - **Networking capabilities** - Built-in support for multiplayer and online features
+  
+  **Commercial Success Enablement:**
+  - **Tales of Maj'Eyal foundation** - Powers one of the most successful commercial roguelikes
+  - **Multiple shipped games** - Several developers using engine for commercial releases
+  - **Flexible licensing** - Open source model enabling both free and commercial game development
+  - **Professional quality output** - Engine capable of producing AAA-quality gaming experiences
+  - **Market validation** - Proven commercial viability through successful game releases
+  
+  **Modding & Community Ecosystem:**
+  - **Comprehensive modding tools** - Complete systems for community content creation
+  - **Active developer community** - Hundreds of contributors improving engine and creating content
+  - **Plugin marketplace** - Community sharing systems and modifications
+  - **Educational community** - Experienced developers mentoring newcomers
+  - **Collaborative development** - Open source model enabling community engine improvements
+  
+  **Game Development Democratization:**
+  - **Lowered barrier to entry** - Complex roguelike development made accessible to smaller teams
+  - **Rapid prototyping** - Quick iteration and testing of game concepts and mechanics
+  - **Educational platform** - Teaching game development through practical roguelike creation
+  - **Creative empowerment** - Artists and designers able to create games without deep programming knowledge
+  - **Indie development support** - Tools and resources specifically designed for small developer teams
+  
+  **DarkGod Leadership Excellence:**
+  - **Single vision maintenance** - Consistent architectural decisions across years of development
+  - **Community engagement** - Active participation in developer community and feedback integration
+  - **Educational commitment** - Extensive documentation and tutorial creation
+  - **Open source philosophy** - Commitment to community benefit over commercial advantage
+  - **Long-term sustainability** - Development practices ensuring engine longevity and evolution
+  
+  **Framework Capabilities:**
+  - **Advanced AI systems** - Built-in artificial intelligence frameworks for NPCs and monsters
+  - **Complex UI generation** - Sophisticated interface creation tools and components
+  - **Procedural content** - Integrated systems for random generation and content creation
+  - **Animation systems** - Professional-quality sprite and effect animation tools
+  - **Data management** - Comprehensive systems for game content organization and modification
+  
+  **Educational & Research Impact:**
+  - **Academic adoption** - Used in educational institutions for teaching game development
+  - **Research platform** - Academic studies utilizing engine for experimental game design
+  - **Industry recognition** - Professional acknowledgment of technical excellence and innovation
+  - **Developer education** - Training ground for future professional game developers
+  - **Open source contribution** - Advancing entire field of game development through shared knowledge
+  
+  **Community Success Metrics:**
+  - **Large active community** - Hundreds of developers using engine for various projects
+  - **GitHub engagement** - Active development with regular commits and community contributions
+  - **Forum participation** - Extensive developer discussions and mutual support
+  - **Tutorial creation** - Community-generated educational content expanding documentation
+  - **Plugin development** - Third-party extensions enhancing engine capabilities
+  
+  **Technical Excellence:**
+  - **Clean code architecture** - Well-organized codebase enabling easy understanding and modification
+  - **Version control integration** - Professional development practices and release management
+  - **Bug tracking systems** - Comprehensive issue management and community reporting
+  - **Continuous integration** - Automated testing and build systems ensuring quality
+  - **Platform compatibility** - Consistent behavior across different operating systems
+  
+  **Cultural Legacy:** **T-Engine4** demonstrates that **high-quality game engines** can **successfully balance** **professional capabilities** with **community accessibility**, proving that **open source development** can create **commercial-grade tools** while **fostering educational communities** and **democratizing game development** for **entire genres**.
 release_date: "2010-01-01"
 latest_version: "1.7.7"
 developers:

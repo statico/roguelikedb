@@ -1,92 +1,93 @@
 name: "Variband"
 slug: "variband"
-description: "**The experimental innovation masterpiece** - Jim Lyon and the Variband Development Team's **revolutionary achievement** that created the **most experimental Angband variant**, featuring **random dungeon themes**, **variable game rules**, **dynamic gameplay systems**, and **constantly changing mechanics** that **transform between sessions** proving that **procedural design** can **extend beyond content** to **fundamental game systems** while **creating unprecedented replayability**.
-
-**Experimental Design Revolution (2005):**
-- **Highly experimental approach** - Revolutionary departure from traditional static roguelike design
-- **Variable game rules** - Core mechanics changing between gameplay sessions for maximum variety
-- **Dynamic gameplay systems** - Fundamental game systems adapting and evolving during play
-- **Version 2.0.0 evolution** - Continued development refining experimental concepts
-- **Maximum replayability** - Every session potentially featuring different core gameplay experiences
-
-**Variable Rules Innovation:**
-- **Changing magic systems** - Spell mechanics varying between sessions creating diverse strategic approaches
-- **Dynamic monster behaviors** - Creature AI and abilities adapting creating unpredictable encounters
-- **Evolving dungeon layouts** - Structural generation patterns changing between playthroughs
-- **Adaptive difficulty** - Challenge systems responding to player performance and choices
-- **System unpredictability** - Players unable to rely on memorized strategies or optimal approaches
-
-**Random Theme Implementation:**
-- **Procedural theme generation** - Dungeon atmospheres and settings varying dramatically between sessions
-- **Thematic coherence** - Random elements maintaining internal logic and consistency
-- **Atmospheric variety** - Different themes creating diverse exploration and combat experiences
-- **Visual theme integration** - ASCII presentation adapting to support varied thematic elements
-- **Immersive randomization** - Procedural themes enhancing rather than disrupting gameplay experience
-
-**Dynamic System Architecture:**
-- **Heavily modified Angband engine** - Extensive technical modifications supporting experimental features
-- **Adaptive game mechanics** - Core systems designed to accommodate variable rule implementation
-- **Rule engine flexibility** - Architecture supporting diverse gameplay system combinations
-- **Session independence** - Each playthrough potentially featuring entirely different rule sets
-- **Experimental framework** - Technical foundation enabling ongoing innovation and modification
-
-**Replayability Excellence:**
-- **Unprecedented variety** - Session-to-session changes ensuring no two games play identically
-- **Strategic adaptation** - Players required to adapt to new rule sets and system behaviors
-- **Discovery excitement** - Each session revealing new mechanics and strategic possibilities
-- **Long-term engagement** - Variability maintaining interest across extended play periods
-- **Learning challenge** - Constant adaptation preventing strategy memorization and staleness
-
-**Technical Innovation:**
-- **C programming mastery** - Complex experimental systems implemented within Angband architecture
-- **Cross-platform compatibility** - Windows and Linux versions supporting experimental features
-- **Memory efficiency** - 32MB requirements supporting variable systems within reasonable limitations
-- **Performance optimization** - Smooth gameplay despite complex adaptive and variable systems
-- **Engine modification** - Extensive Angband engine changes enabling experimental functionality
-
-**Community Impact:**
-- **Small experimental community** - Dedicated players appreciating innovative and challenging design
-- **Open source contribution** - Angband license enabling community study of experimental techniques
-- **Development cessation** - Project ending but code remaining available for study and adaptation
-- **Innovation inspiration** - Experimental approaches inspiring other developers to explore variable design
-- **Educational legacy** - Complete example of experimental roguelike development and rule variation
-
-**Experimental Philosophy:**
-- **Constant innovation** - Development approach prioritizing experimentation over conventional design
-- **Player adaptation** - Gameplay requiring flexibility and creative problem-solving
-- **System creativity** - Rules designed to surprise and challenge rather than provide comfort
-- **Variety emphasis** - Maximum diversity prioritized over predictable optimization paths
-- **Innovation courage** - Willingness to experiment with fundamental roguelike assumptions
-
-**Rule Variation Mechanics:**
-- **Magic system diversity** - Spellcasting varying dramatically between sessions
-- **Combat mechanics variation** - Fighting systems adapting creating diverse tactical challenges
-- **Character progression changes** - Advancement systems varying between playthroughs
-- **Item system adaptation** - Equipment mechanics changing affecting strategic planning
-- **Environmental interaction** - Dungeon interaction rules varying creating exploration uncertainty
-
-**Cultural Gaming Impact:**
-- **Experimental validation** - Proving market demand for innovative and variable gaming experiences
-- **Design boundary pushing** - Challenging traditional roguelike design assumptions and conventions
-- **Procedural evolution** - Extending procedural generation concepts to fundamental game systems
-- **Innovation inspiration** - Encouraging other developers to explore experimental and adaptive design
-- **Genre advancement** - Contributing to roguelike recognition as platform for creative experimentation
-
-**Open Source Legacy:**
-- **Angband license** - Community access enabling study of experimental and variable system techniques
-- **Educational resource** - Complete source demonstrating advanced experimental development approaches
-- **Innovation preservation** - Experimental techniques available for learning and adaptation
-- **Community enhancement** - Code availability enabling ongoing study of variable design methods
-- **Development transparency** - Open process supporting community understanding of experimental techniques
-
-**Educational Value:**
-- **Experimental roguelike development** - Methods for creating variable and adaptive game systems
-- **Rule variation implementation** - Technical approaches to changing fundamental game mechanics
-- **Procedural system design** - Extending procedural generation beyond content to core gameplay
-- **Engine modification techniques** - Extensive Angband engine adaptation for experimental features
-- **Community development** - Approaches to experimental project development and sharing
-
-**Legacy Achievement:** **Variband** demonstrates that **experimental innovation** can **transform gaming fundamentals**, proving that **variable systems** and **adaptive mechanics** can **create unprecedented experiences** that **challenge player assumptions** while **inspiring continued exploration** of **procedural design possibilities** and **experimental game development**."
+description: |
+  **The experimental innovation masterpiece** - Jim Lyon and the Variband Development Team's **revolutionary achievement** that created the **most experimental Angband variant**, featuring **random dungeon themes**, **variable game rules**, **dynamic gameplay systems**, and **constantly changing mechanics** that **transform between sessions** proving that **procedural design** can **extend beyond content** to **fundamental game systems** while **creating unprecedented replayability**.
+  
+  **Experimental Design Revolution (2005):**
+  - **Highly experimental approach** - Revolutionary departure from traditional static roguelike design
+  - **Variable game rules** - Core mechanics changing between gameplay sessions for maximum variety
+  - **Dynamic gameplay systems** - Fundamental game systems adapting and evolving during play
+  - **Version 2.0.0 evolution** - Continued development refining experimental concepts
+  - **Maximum replayability** - Every session potentially featuring different core gameplay experiences
+  
+  **Variable Rules Innovation:**
+  - **Changing magic systems** - Spell mechanics varying between sessions creating diverse strategic approaches
+  - **Dynamic monster behaviors** - Creature AI and abilities adapting creating unpredictable encounters
+  - **Evolving dungeon layouts** - Structural generation patterns changing between playthroughs
+  - **Adaptive difficulty** - Challenge systems responding to player performance and choices
+  - **System unpredictability** - Players unable to rely on memorized strategies or optimal approaches
+  
+  **Random Theme Implementation:**
+  - **Procedural theme generation** - Dungeon atmospheres and settings varying dramatically between sessions
+  - **Thematic coherence** - Random elements maintaining internal logic and consistency
+  - **Atmospheric variety** - Different themes creating diverse exploration and combat experiences
+  - **Visual theme integration** - ASCII presentation adapting to support varied thematic elements
+  - **Immersive randomization** - Procedural themes enhancing rather than disrupting gameplay experience
+  
+  **Dynamic System Architecture:**
+  - **Heavily modified Angband engine** - Extensive technical modifications supporting experimental features
+  - **Adaptive game mechanics** - Core systems designed to accommodate variable rule implementation
+  - **Rule engine flexibility** - Architecture supporting diverse gameplay system combinations
+  - **Session independence** - Each playthrough potentially featuring entirely different rule sets
+  - **Experimental framework** - Technical foundation enabling ongoing innovation and modification
+  
+  **Replayability Excellence:**
+  - **Unprecedented variety** - Session-to-session changes ensuring no two games play identically
+  - **Strategic adaptation** - Players required to adapt to new rule sets and system behaviors
+  - **Discovery excitement** - Each session revealing new mechanics and strategic possibilities
+  - **Long-term engagement** - Variability maintaining interest across extended play periods
+  - **Learning challenge** - Constant adaptation preventing strategy memorization and staleness
+  
+  **Technical Innovation:**
+  - **C programming mastery** - Complex experimental systems implemented within Angband architecture
+  - **Cross-platform compatibility** - Windows and Linux versions supporting experimental features
+  - **Memory efficiency** - 32MB requirements supporting variable systems within reasonable limitations
+  - **Performance optimization** - Smooth gameplay despite complex adaptive and variable systems
+  - **Engine modification** - Extensive Angband engine changes enabling experimental functionality
+  
+  **Community Impact:**
+  - **Small experimental community** - Dedicated players appreciating innovative and challenging design
+  - **Open source contribution** - Angband license enabling community study of experimental techniques
+  - **Development cessation** - Project ending but code remaining available for study and adaptation
+  - **Innovation inspiration** - Experimental approaches inspiring other developers to explore variable design
+  - **Educational legacy** - Complete example of experimental roguelike development and rule variation
+  
+  **Experimental Philosophy:**
+  - **Constant innovation** - Development approach prioritizing experimentation over conventional design
+  - **Player adaptation** - Gameplay requiring flexibility and creative problem-solving
+  - **System creativity** - Rules designed to surprise and challenge rather than provide comfort
+  - **Variety emphasis** - Maximum diversity prioritized over predictable optimization paths
+  - **Innovation courage** - Willingness to experiment with fundamental roguelike assumptions
+  
+  **Rule Variation Mechanics:**
+  - **Magic system diversity** - Spellcasting varying dramatically between sessions
+  - **Combat mechanics variation** - Fighting systems adapting creating diverse tactical challenges
+  - **Character progression changes** - Advancement systems varying between playthroughs
+  - **Item system adaptation** - Equipment mechanics changing affecting strategic planning
+  - **Environmental interaction** - Dungeon interaction rules varying creating exploration uncertainty
+  
+  **Cultural Gaming Impact:**
+  - **Experimental validation** - Proving market demand for innovative and variable gaming experiences
+  - **Design boundary pushing** - Challenging traditional roguelike design assumptions and conventions
+  - **Procedural evolution** - Extending procedural generation concepts to fundamental game systems
+  - **Innovation inspiration** - Encouraging other developers to explore experimental and adaptive design
+  - **Genre advancement** - Contributing to roguelike recognition as platform for creative experimentation
+  
+  **Open Source Legacy:**
+  - **Angband license** - Community access enabling study of experimental and variable system techniques
+  - **Educational resource** - Complete source demonstrating advanced experimental development approaches
+  - **Innovation preservation** - Experimental techniques available for learning and adaptation
+  - **Community enhancement** - Code availability enabling ongoing study of variable design methods
+  - **Development transparency** - Open process supporting community understanding of experimental techniques
+  
+  **Educational Value:**
+  - **Experimental roguelike development** - Methods for creating variable and adaptive game systems
+  - **Rule variation implementation** - Technical approaches to changing fundamental game mechanics
+  - **Procedural system design** - Extending procedural generation beyond content to core gameplay
+  - **Engine modification techniques** - Extensive Angband engine adaptation for experimental features
+  - **Community development** - Approaches to experimental project development and sharing
+  
+  **Legacy Achievement:** **Variband** demonstrates that **experimental innovation** can **transform gaming fundamentals**, proving that **variable systems** and **adaptive mechanics** can **create unprecedented experiences** that **challenge player assumptions** while **inspiring continued exploration** of **procedural design possibilities** and **experimental game development**.
 release_date: "2005-01-01"
 latest_version: "2.0.0"
 developers:

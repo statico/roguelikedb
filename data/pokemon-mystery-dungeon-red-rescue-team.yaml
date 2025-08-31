@@ -1,71 +1,72 @@
 name: "Pokémon Mystery Dungeon: Red Rescue Team"
 slug: "pokemon-mystery-dungeon-red-rescue-team"
-description: "**The franchise roguelike breakthrough** - Chunsoft's **revolutionary achievement** that successfully merged **beloved Pokémon characters** with **authentic roguelike mechanics**, creating **accessible dungeon crawling** through **modified permadeath**, **rescue systems**, and **mainstream appeal** that proved **complex genres** could **reach massive audiences** while **preserving strategic depth** and **procedural challenge**.
-
-**Mainstream Roguelike Revolution (2005):**
-- **First major licensed roguelike** - Successful adaptation of niche genre for mainstream franchise
-- **5.25+ million copies sold** - Commercial validation of roguelike mechanics for general audiences  
-- **Game Boy Advance accessibility** - Portable roguelike experience reaching unprecedented player numbers
-- **Franchise respect** - Authentic Pokémon integration maintaining both series' integrity
-- **Genre gateway** - Introduction of roguelike concepts to millions of new players
-
-**Accessibility Innovation Excellence:**
-- **Modified permadeath system** - Rescue mechanics reducing frustration while preserving stakes
-- **Player rescue network** - Community cooperation enabling recovery from dungeon failures
-- **Difficulty scaling** - Gradual complexity introduction making roguelike mechanics learnable
-- **Story integration** - Narrative context providing motivation and emotional investment
-- **Character familiarity** - Pokémon knowledge reducing learning barriers for new players
-
-**Pokémon Integration Mastery:**
-- **Authentic species mechanics** - Each Pokémon retaining unique abilities and characteristics
-- **Type effectiveness systems** - Battle mechanics preserving Pokémon strategic elements
-- **Evolution progression** - Character development following established franchise rules
-- **Move learning** - Skill acquisition matching Pokémon game traditions
-- **World consistency** - Dungeon environments respecting Pokémon universe logic
-
-**Mystery Dungeon Foundation:**
-- **Chunsoft expertise** - Built on proven Shiren and Dragon Quest Mystery Dungeon experience  
-- **Procedural generation excellence** - Varied dungeon layouts ensuring unique exploration experiences
-- **Turn-based tactical combat** - Strategic positioning and planning within familiar framework
-- **Resource management** - Hunger, item durability, and PP systems adding survival elements
-- **Grid-based movement** - Classic roguelike navigation with Pokémon context
-
-**Commercial Gaming Achievement:**
-- **The Pokémon Company partnership** - Major publisher investment in roguelike mechanics
-- **Nintendo distribution** - First-party support bringing roguelikes to mainstream platform
-- **Marketing success** - Effective promotion introducing roguelike concepts to general audiences
-- **Critical reception** - Positive reviews validating quality and accessibility balance
-- **Legacy foundation** - Establishing viable template for franchise roguelike adaptations
-
-**Community Impact:**
-- **Large community formation** - Unprecedented roguelike player base through franchise appeal
-- **Rescue culture** - Cooperative gameplay encouraging community interaction and assistance
-- **Educational gateway** - Teaching roguelike appreciation to previously unfamiliar audiences
-- **Social gaming** - Password rescue system creating shared experiences and connections
-- **Long-term engagement** - Replayability maintaining player interest across years
-
-**Design Philosophy Innovation:**
-- **Accessibility with depth** - Simplifying complexity without sacrificing strategic gameplay
-- **Community cooperation** - Systems encouraging player assistance and social interaction
-- **Franchise authenticity** - Respecting source material while adapting for roguelike context
-- **Progressive challenge** - Difficulty curves enabling skill development and mastery
-- **Emotional investment** - Story elements creating attachment to characters and outcomes
-
-**Technical Excellence:**
-- **GBA optimization** - Maximum roguelike complexity within portable hardware limitations
-- **Save system innovation** - Rescue mechanics requiring sophisticated data management
-- **Performance efficiency** - Smooth gameplay despite complex procedural systems
-- **User interface design** - Intuitive controls adapted for handheld gaming
-- **Memory management** - Efficient resource usage supporting extensive content
-
-**Cultural Impact:**
-- **Genre mainstream introduction** - Bringing roguelike mechanics to unprecedented audiences
-- **Franchise expansion validation** - Proving beloved characters could support diverse gameplay styles
-- **Portable gaming evolution** - Demonstrating complex games could thrive on handheld platforms
-- **Community cooperation culture** - Establishing social support systems within competitive gaming
-- **Educational gaming** - Teaching strategic thinking and planning through familiar characters
-
-**Legacy Achievement:** **Pokémon Mystery Dungeon: Red Rescue Team** demonstrates that **franchise authenticity** and **accessibility innovation** can **introduce complex genres** to **mainstream audiences**, proving that **beloved characters** and **community cooperation** can **preserve strategic depth** while **creating inclusive gaming experiences** that **bridge casual and hardcore players**."
+description: |
+  **The franchise roguelike breakthrough** - Chunsoft's **revolutionary achievement** that successfully merged **beloved Pokémon characters** with **authentic roguelike mechanics**, creating **accessible dungeon crawling** through **modified permadeath**, **rescue systems**, and **mainstream appeal** that proved **complex genres** could **reach massive audiences** while **preserving strategic depth** and **procedural challenge**.
+  
+  **Mainstream Roguelike Revolution (2005):**
+  - **First major licensed roguelike** - Successful adaptation of niche genre for mainstream franchise
+  - **5.25+ million copies sold** - Commercial validation of roguelike mechanics for general audiences  
+  - **Game Boy Advance accessibility** - Portable roguelike experience reaching unprecedented player numbers
+  - **Franchise respect** - Authentic Pokémon integration maintaining both series' integrity
+  - **Genre gateway** - Introduction of roguelike concepts to millions of new players
+  
+  **Accessibility Innovation Excellence:**
+  - **Modified permadeath system** - Rescue mechanics reducing frustration while preserving stakes
+  - **Player rescue network** - Community cooperation enabling recovery from dungeon failures
+  - **Difficulty scaling** - Gradual complexity introduction making roguelike mechanics learnable
+  - **Story integration** - Narrative context providing motivation and emotional investment
+  - **Character familiarity** - Pokémon knowledge reducing learning barriers for new players
+  
+  **Pokémon Integration Mastery:**
+  - **Authentic species mechanics** - Each Pokémon retaining unique abilities and characteristics
+  - **Type effectiveness systems** - Battle mechanics preserving Pokémon strategic elements
+  - **Evolution progression** - Character development following established franchise rules
+  - **Move learning** - Skill acquisition matching Pokémon game traditions
+  - **World consistency** - Dungeon environments respecting Pokémon universe logic
+  
+  **Mystery Dungeon Foundation:**
+  - **Chunsoft expertise** - Built on proven Shiren and Dragon Quest Mystery Dungeon experience  
+  - **Procedural generation excellence** - Varied dungeon layouts ensuring unique exploration experiences
+  - **Turn-based tactical combat** - Strategic positioning and planning within familiar framework
+  - **Resource management** - Hunger, item durability, and PP systems adding survival elements
+  - **Grid-based movement** - Classic roguelike navigation with Pokémon context
+  
+  **Commercial Gaming Achievement:**
+  - **The Pokémon Company partnership** - Major publisher investment in roguelike mechanics
+  - **Nintendo distribution** - First-party support bringing roguelikes to mainstream platform
+  - **Marketing success** - Effective promotion introducing roguelike concepts to general audiences
+  - **Critical reception** - Positive reviews validating quality and accessibility balance
+  - **Legacy foundation** - Establishing viable template for franchise roguelike adaptations
+  
+  **Community Impact:**
+  - **Large community formation** - Unprecedented roguelike player base through franchise appeal
+  - **Rescue culture** - Cooperative gameplay encouraging community interaction and assistance
+  - **Educational gateway** - Teaching roguelike appreciation to previously unfamiliar audiences
+  - **Social gaming** - Password rescue system creating shared experiences and connections
+  - **Long-term engagement** - Replayability maintaining player interest across years
+  
+  **Design Philosophy Innovation:**
+  - **Accessibility with depth** - Simplifying complexity without sacrificing strategic gameplay
+  - **Community cooperation** - Systems encouraging player assistance and social interaction
+  - **Franchise authenticity** - Respecting source material while adapting for roguelike context
+  - **Progressive challenge** - Difficulty curves enabling skill development and mastery
+  - **Emotional investment** - Story elements creating attachment to characters and outcomes
+  
+  **Technical Excellence:**
+  - **GBA optimization** - Maximum roguelike complexity within portable hardware limitations
+  - **Save system innovation** - Rescue mechanics requiring sophisticated data management
+  - **Performance efficiency** - Smooth gameplay despite complex procedural systems
+  - **User interface design** - Intuitive controls adapted for handheld gaming
+  - **Memory management** - Efficient resource usage supporting extensive content
+  
+  **Cultural Impact:**
+  - **Genre mainstream introduction** - Bringing roguelike mechanics to unprecedented audiences
+  - **Franchise expansion validation** - Proving beloved characters could support diverse gameplay styles
+  - **Portable gaming evolution** - Demonstrating complex games could thrive on handheld platforms
+  - **Community cooperation culture** - Establishing social support systems within competitive gaming
+  - **Educational gaming** - Teaching strategic thinking and planning through familiar characters
+  
+  **Legacy Achievement:** **Pokémon Mystery Dungeon: Red Rescue Team** demonstrates that **franchise authenticity** and **accessibility innovation** can **introduce complex genres** to **mainstream audiences**, proving that **beloved characters** and **community cooperation** can **preserve strategic depth** while **creating inclusive gaming experiences** that **bridge casual and hardcore players**.
 release_date: "2005-11-17"
 developers:
   - "Chunsoft"

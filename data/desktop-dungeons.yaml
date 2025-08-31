@@ -1,78 +1,79 @@
 name: "Desktop Dungeons"
 slug: "desktop-dungeons"
-description: "**The puzzle roguelike perfection** - QCF Design's **brilliant genre fusion** that transformed **traditional roguelike mechanics** into **perfect puzzle experiences**, featuring **innovative resource management**, **86% positive Steam reviews**, and **bite-sized gameplay sessions** that prove **roguelike depth** can achieve **puzzle game elegance**.
-
-**Revolutionary Puzzle-Roguelike Fusion:**
-- **Perfect information gameplay** - Every decision made with complete knowledge of consequences
-- **Puzzle-perfect balance** - Each dungeon solvable through optimal resource management and strategy
-- **No random failure** - Success dependent on player skill rather than chance or luck
-- **Mathematical precision** - Combat and healing systems designed with puzzle-game predictability
-- **Strategic depth** - Complex tactical decisions within simple, elegant rule systems
-
-**Innovative Resource Management:**
-- **Health as currency** - Hit points functioning as strategic resource rather than survival meter
-- **Experience optimization** - Leveling timing crucial for maximizing dungeon completion efficiency
-- **Mana conservation** - Spell usage requiring careful planning and resource allocation
-- **Potion timing** - Healing items used strategically for level-up health restoration
-- **Monster prioritization** - Enemy selection affecting experience gains and resource efficiency
-
-**Quick Session Excellence:**
-- **10-20 minute dungeons** - Perfect length for mobile gaming and casual play sessions
-- **Immediate satisfaction** - Clear goals and rapid completion cycles creating addictive gameplay
-- **No time pressure** - Turn-based system allowing thoughtful consideration of every move
-- **Progress preservation** - Individual dungeon completion tracked with persistent unlocks
-- **Replay value** - Multiple solutions and optimization challenges encouraging repeated play
-
-**Comprehensive Unlock System:**
-- **10 character classes** - Each with unique abilities and tactical approaches to puzzle solving
-- **18 different dungeon types** - Varied challenges requiring different strategies and character builds
-- **Hundreds of items** - Equipment combinations affecting character capabilities and puzzle solutions
-- **Achievement integration** - Steam achievements recognizing mastery of specific challenges
-- **Meta-progression** - Town building and upgrades providing permanent character improvements
-
-**Cross-Platform Mastery:**
-- **Mobile adaptation excellence** - Touch controls perfectly suited to turn-based puzzle gameplay
-- **Steam success** - 86% positive reviews proving PC market appeal
-- **iOS and Android versions** - Full feature parity across all mobile platforms
-- **Desktop optimization** - Mouse and keyboard controls enhanced for precision gameplay
-- **Cloud synchronization** - Progress preserved across all platforms and devices
-
-**Commercial & Critical Success:**
-- **Free alpha phenomenon** - Original version gained massive following before commercial release
-- **Steam Greenlight success** - Community voting demonstrated strong market demand
-- **Critical acclaim** - Gaming press praised innovative genre combination and execution
-- **Educational recognition** - Used in game design courses as example of successful genre fusion
-- **International awards** - Recognition at independent game festivals and competitions
-
-**Design Philosophy Innovation:**
-- **Accessibility without simplification** - Complex strategies made approachable through elegant design
-- **Immediate comprehension** - Rules learnable within minutes but mastery requiring hundreds of hours
-- **Fair challenge design** - Every failure educational rather than punishing
-- **Skill-based progression** - Player improvement directly translating to success rates
-- **Elegant complexity** - Simple systems creating emergent strategic depth
-
-**Community & Educational Value:**
-- **Strategy guide development** - Community creating comprehensive optimization guides
-- **Mathematical analysis** - Players developing formulas for optimal play patterns
-- **Educational adoption** - Used in schools for teaching logical reasoning and planning
-- **Content creation** - YouTube and Twitch showcasing optimal solutions and strategies
-- **Competitive optimization** - Community competitions for fastest completion times
-
-**Technical Achievement:**
-- **Cross-platform engine** - Consistent experience across desktop and mobile devices
-- **Performance optimization** - Smooth gameplay on limited mobile hardware
-- **Save system reliability** - Progress preservation crucial for unlock system functionality
-- **UI scaling excellence** - Interface adaptation across different screen sizes and input methods
-- **Battery efficiency** - Turn-based design perfect for mobile battery conservation
-
-**Genre Impact:**
-- **Puzzle-roguelike creation** - Established entirely new subgenre combining two distinct game types
-- **Design template** - Inspired numerous games combining puzzle mechanics with roguelike elements
-- **Accessibility advancement** - Demonstrated roguelike mechanics could work for casual audiences
-- **Mobile roguelike validation** - Proved complex gameplay could succeed on touch devices
-- **Commercial viability** - Showed puzzle-focused roguelikes could achieve financial success
-
-**Cultural Legacy:** **Desktop Dungeons** proved that **roguelike mechanics** and **puzzle game precision** could achieve **perfect synthesis**, creating **experiences of mathematical elegance** that maintain **strategic depth** while offering **immediate accessibility**, establishing the **template for puzzle-roguelike design** and demonstrating **genre fusion innovation** at its **finest**."
+description: |
+  **The puzzle roguelike perfection** - QCF Design's **brilliant genre fusion** that transformed **traditional roguelike mechanics** into **perfect puzzle experiences**, featuring **innovative resource management**, **86% positive Steam reviews**, and **bite-sized gameplay sessions** that prove **roguelike depth** can achieve **puzzle game elegance**.
+  
+  **Revolutionary Puzzle-Roguelike Fusion:**
+  - **Perfect information gameplay** - Every decision made with complete knowledge of consequences
+  - **Puzzle-perfect balance** - Each dungeon solvable through optimal resource management and strategy
+  - **No random failure** - Success dependent on player skill rather than chance or luck
+  - **Mathematical precision** - Combat and healing systems designed with puzzle-game predictability
+  - **Strategic depth** - Complex tactical decisions within simple, elegant rule systems
+  
+  **Innovative Resource Management:**
+  - **Health as currency** - Hit points functioning as strategic resource rather than survival meter
+  - **Experience optimization** - Leveling timing crucial for maximizing dungeon completion efficiency
+  - **Mana conservation** - Spell usage requiring careful planning and resource allocation
+  - **Potion timing** - Healing items used strategically for level-up health restoration
+  - **Monster prioritization** - Enemy selection affecting experience gains and resource efficiency
+  
+  **Quick Session Excellence:**
+  - **10-20 minute dungeons** - Perfect length for mobile gaming and casual play sessions
+  - **Immediate satisfaction** - Clear goals and rapid completion cycles creating addictive gameplay
+  - **No time pressure** - Turn-based system allowing thoughtful consideration of every move
+  - **Progress preservation** - Individual dungeon completion tracked with persistent unlocks
+  - **Replay value** - Multiple solutions and optimization challenges encouraging repeated play
+  
+  **Comprehensive Unlock System:**
+  - **10 character classes** - Each with unique abilities and tactical approaches to puzzle solving
+  - **18 different dungeon types** - Varied challenges requiring different strategies and character builds
+  - **Hundreds of items** - Equipment combinations affecting character capabilities and puzzle solutions
+  - **Achievement integration** - Steam achievements recognizing mastery of specific challenges
+  - **Meta-progression** - Town building and upgrades providing permanent character improvements
+  
+  **Cross-Platform Mastery:**
+  - **Mobile adaptation excellence** - Touch controls perfectly suited to turn-based puzzle gameplay
+  - **Steam success** - 86% positive reviews proving PC market appeal
+  - **iOS and Android versions** - Full feature parity across all mobile platforms
+  - **Desktop optimization** - Mouse and keyboard controls enhanced for precision gameplay
+  - **Cloud synchronization** - Progress preserved across all platforms and devices
+  
+  **Commercial & Critical Success:**
+  - **Free alpha phenomenon** - Original version gained massive following before commercial release
+  - **Steam Greenlight success** - Community voting demonstrated strong market demand
+  - **Critical acclaim** - Gaming press praised innovative genre combination and execution
+  - **Educational recognition** - Used in game design courses as example of successful genre fusion
+  - **International awards** - Recognition at independent game festivals and competitions
+  
+  **Design Philosophy Innovation:**
+  - **Accessibility without simplification** - Complex strategies made approachable through elegant design
+  - **Immediate comprehension** - Rules learnable within minutes but mastery requiring hundreds of hours
+  - **Fair challenge design** - Every failure educational rather than punishing
+  - **Skill-based progression** - Player improvement directly translating to success rates
+  - **Elegant complexity** - Simple systems creating emergent strategic depth
+  
+  **Community & Educational Value:**
+  - **Strategy guide development** - Community creating comprehensive optimization guides
+  - **Mathematical analysis** - Players developing formulas for optimal play patterns
+  - **Educational adoption** - Used in schools for teaching logical reasoning and planning
+  - **Content creation** - YouTube and Twitch showcasing optimal solutions and strategies
+  - **Competitive optimization** - Community competitions for fastest completion times
+  
+  **Technical Achievement:**
+  - **Cross-platform engine** - Consistent experience across desktop and mobile devices
+  - **Performance optimization** - Smooth gameplay on limited mobile hardware
+  - **Save system reliability** - Progress preservation crucial for unlock system functionality
+  - **UI scaling excellence** - Interface adaptation across different screen sizes and input methods
+  - **Battery efficiency** - Turn-based design perfect for mobile battery conservation
+  
+  **Genre Impact:**
+  - **Puzzle-roguelike creation** - Established entirely new subgenre combining two distinct game types
+  - **Design template** - Inspired numerous games combining puzzle mechanics with roguelike elements
+  - **Accessibility advancement** - Demonstrated roguelike mechanics could work for casual audiences
+  - **Mobile roguelike validation** - Proved complex gameplay could succeed on touch devices
+  - **Commercial viability** - Showed puzzle-focused roguelikes could achieve financial success
+  
+  **Cultural Legacy:** **Desktop Dungeons** proved that **roguelike mechanics** and **puzzle game precision** could achieve **perfect synthesis**, creating **experiences of mathematical elegance** that maintain **strategic depth** while offering **immediate accessibility**, establishing the **template for puzzle-roguelike design** and demonstrating **genre fusion innovation** at its **finest**.
 release_date: "2013-11-07"
 latest_version: "Enhanced Edition"
 developers:

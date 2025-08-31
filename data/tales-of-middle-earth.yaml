@@ -1,71 +1,72 @@
 name: "Tales of Middle Earth (ToME)"
 slug: "tales-of-middle-earth"
-description: "**The Tolkien masterpiece** - Nicolas Casalini's **legendary achievement** that created the **most authentic Middle-earth gaming experience**, evolving from **Angband variant** to **independent masterwork** with **revolutionary skill systems**, **faithful Tolkien adaptation**, and **community-driven excellence** proving that **literary respect** and **innovative mechanics** can create **beloved gaming experiences** spanning **decades of dedicated development**.
-
-**Tolkien Authenticity Excellence:**
-- **Faithful Middle-earth recreation** - Respectful adaptation of Tolkien's world with geographic and cultural accuracy
-- **Authentic character races** - Elves, Dwarves, Hobbits, and Men with lore-accurate abilities and characteristics
-- **Canonical locations** - Moria, Isengard, Mount Doom, and other iconic Middle-earth destinations
-- **Literary atmosphere preservation** - Maintaining Tolkien's tone, themes, and narrative depth
-- **Cultural respect** - Development prioritizing authenticity over gameplay convenience
-
-**Revolutionary Skill System Innovation:**
-- **Flexible character development** - Complex skill trees enabling unprecedented customization
-- **Multiple victory conditions** - Various paths to success reflecting diverse heroic journeys
-- **Classless progression** - Character growth based on actions and choices rather than rigid classes
-- **Mastery specialization** - Deep skill investment creating meaningful character differentiation
-- **Balanced complexity** - Sophisticated systems remaining accessible to new players
-
-**Community Development Excellence (1998-Present):**
-- **Nicolas Casalini (DarkGod) leadership** - Visionary development creating consistent artistic vision
-- **Long-term active development** - Version 4.10.0+ releases with continuous improvements
-- **Community contributor integration** - Collaborative development incorporating player feedback
-- **Open source commitment** - GPL licensing ensuring perpetual community access
-- **Quality maintenance** - Rigorous standards maintaining game stability and balance
-
-**Technical Achievement Evolution:**
-- **ZAngband foundation to independence** - Evolution from variant to standalone masterpiece
-- **T-Engine4 development** - Custom game engine created specifically for ToME needs
-- **Cross-platform excellence** - Windows, Linux, and macOS versions with identical functionality
-- **Graphics evolution** - Both ASCII and tile graphics supporting diverse player preferences
-- **Modding support** - Extensible architecture enabling community content creation
-
-**Gameplay Innovation:**
-- **Multiple victory paths** - Destroying the Ring, becoming King, or achieving various heroic goals
-- **Tactical combat depth** - Strategic planning and positioning creating meaningful tactical decisions
-- **Resource management** - Food, light, and equipment durability adding survival elements
-- **Exploration variety** - Diverse locations each with unique challenges and atmospheric elements
-- **Character mortality** - Permadeath consequences creating emotional investment and strategic thinking
-
-**Cultural Gaming Impact:**
-- **Literary adaptation model** - Establishing standards for respectful source material treatment
-- **Long-term project sustainability** - Demonstrating viable approaches to decade-spanning development
-- **Community building** - Creating dedicated player base through quality and authenticity
-- **Open source success** - Proving collaborative development can create commercial-quality experiences
-- **Educational value** - Teaching Tolkien lore through interactive exploration and discovery
-
-**Design Philosophy Achievement:**
-- **Literary fidelity** - Prioritizing Tolkien authenticity over gameplay convenience
-- **Player agency** - Multiple paths and approaches enabling personalized heroic journeys
-- **Complexity with accessibility** - Deep systems presented through learnable, intuitive interfaces
-- **Community service** - Development motivated by desire to share excellent Middle-earth experience
-- **Long-term vision** - Decisions made with decades of sustainability and improvement in mind
-
-**Educational & Cultural Value:**
-- **Tolkien lore education** - Interactive learning about Middle-earth geography, cultures, and history
-- **Literary appreciation** - Deepening understanding and love of Tolkien's works through gameplay
-- **Open source development** - Teaching collaborative programming and project management
-- **Cultural preservation** - Maintaining access to authentic Middle-earth gaming experiences
-- **Community building** - Fostering shared appreciation for Tolkien's literary legacy
-
-**Technical Excellence:**
-- **Engine optimization** - T-Engine4 providing stable, efficient gameplay across platforms
-- **Save system reliability** - Robust character preservation across complex system interactions
-- **Performance scalability** - Smooth gameplay from minimal hardware to modern systems
-- **User interface design** - Intuitive controls and information presentation
-- **Code maintainability** - Clean architecture supporting ongoing development and enhancement
-
-**Legacy Achievement:** **Tales of Middle Earth** demonstrates that **literary authenticity** and **innovative game design** can create **lasting masterpieces**, proving that **community dedication** and **technical excellence** can **honor beloved source material** while **pioneering new gameplay possibilities** and **inspiring decades of passionate development**."
+description: |
+  **The Tolkien masterpiece** - Nicolas Casalini's **legendary achievement** that created the **most authentic Middle-earth gaming experience**, evolving from **Angband variant** to **independent masterwork** with **revolutionary skill systems**, **faithful Tolkien adaptation**, and **community-driven excellence** proving that **literary respect** and **innovative mechanics** can create **beloved gaming experiences** spanning **decades of dedicated development**.
+  
+  **Tolkien Authenticity Excellence:**
+  - **Faithful Middle-earth recreation** - Respectful adaptation of Tolkien's world with geographic and cultural accuracy
+  - **Authentic character races** - Elves, Dwarves, Hobbits, and Men with lore-accurate abilities and characteristics
+  - **Canonical locations** - Moria, Isengard, Mount Doom, and other iconic Middle-earth destinations
+  - **Literary atmosphere preservation** - Maintaining Tolkien's tone, themes, and narrative depth
+  - **Cultural respect** - Development prioritizing authenticity over gameplay convenience
+  
+  **Revolutionary Skill System Innovation:**
+  - **Flexible character development** - Complex skill trees enabling unprecedented customization
+  - **Multiple victory conditions** - Various paths to success reflecting diverse heroic journeys
+  - **Classless progression** - Character growth based on actions and choices rather than rigid classes
+  - **Mastery specialization** - Deep skill investment creating meaningful character differentiation
+  - **Balanced complexity** - Sophisticated systems remaining accessible to new players
+  
+  **Community Development Excellence (1998-Present):**
+  - **Nicolas Casalini (DarkGod) leadership** - Visionary development creating consistent artistic vision
+  - **Long-term active development** - Version 4.10.0+ releases with continuous improvements
+  - **Community contributor integration** - Collaborative development incorporating player feedback
+  - **Open source commitment** - GPL licensing ensuring perpetual community access
+  - **Quality maintenance** - Rigorous standards maintaining game stability and balance
+  
+  **Technical Achievement Evolution:**
+  - **ZAngband foundation to independence** - Evolution from variant to standalone masterpiece
+  - **T-Engine4 development** - Custom game engine created specifically for ToME needs
+  - **Cross-platform excellence** - Windows, Linux, and macOS versions with identical functionality
+  - **Graphics evolution** - Both ASCII and tile graphics supporting diverse player preferences
+  - **Modding support** - Extensible architecture enabling community content creation
+  
+  **Gameplay Innovation:**
+  - **Multiple victory paths** - Destroying the Ring, becoming King, or achieving various heroic goals
+  - **Tactical combat depth** - Strategic planning and positioning creating meaningful tactical decisions
+  - **Resource management** - Food, light, and equipment durability adding survival elements
+  - **Exploration variety** - Diverse locations each with unique challenges and atmospheric elements
+  - **Character mortality** - Permadeath consequences creating emotional investment and strategic thinking
+  
+  **Cultural Gaming Impact:**
+  - **Literary adaptation model** - Establishing standards for respectful source material treatment
+  - **Long-term project sustainability** - Demonstrating viable approaches to decade-spanning development
+  - **Community building** - Creating dedicated player base through quality and authenticity
+  - **Open source success** - Proving collaborative development can create commercial-quality experiences
+  - **Educational value** - Teaching Tolkien lore through interactive exploration and discovery
+  
+  **Design Philosophy Achievement:**
+  - **Literary fidelity** - Prioritizing Tolkien authenticity over gameplay convenience
+  - **Player agency** - Multiple paths and approaches enabling personalized heroic journeys
+  - **Complexity with accessibility** - Deep systems presented through learnable, intuitive interfaces
+  - **Community service** - Development motivated by desire to share excellent Middle-earth experience
+  - **Long-term vision** - Decisions made with decades of sustainability and improvement in mind
+  
+  **Educational & Cultural Value:**
+  - **Tolkien lore education** - Interactive learning about Middle-earth geography, cultures, and history
+  - **Literary appreciation** - Deepening understanding and love of Tolkien's works through gameplay
+  - **Open source development** - Teaching collaborative programming and project management
+  - **Cultural preservation** - Maintaining access to authentic Middle-earth gaming experiences
+  - **Community building** - Fostering shared appreciation for Tolkien's literary legacy
+  
+  **Technical Excellence:**
+  - **Engine optimization** - T-Engine4 providing stable, efficient gameplay across platforms
+  - **Save system reliability** - Robust character preservation across complex system interactions
+  - **Performance scalability** - Smooth gameplay from minimal hardware to modern systems
+  - **User interface design** - Intuitive controls and information presentation
+  - **Code maintainability** - Clean architecture supporting ongoing development and enhancement
+  
+  **Legacy Achievement:** **Tales of Middle Earth** demonstrates that **literary authenticity** and **innovative game design** can create **lasting masterpieces**, proving that **community dedication** and **technical excellence** can **honor beloved source material** while **pioneering new gameplay possibilities** and **inspiring decades of passionate development**.
 release_date: "1998"
 latest_version: "4.10.0"
 developers:

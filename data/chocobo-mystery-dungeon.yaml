@@ -1,92 +1,93 @@
 name: "Chocobo's Mystery Dungeon"
 slug: "chocobo-mystery-dungeon"
-description: "**The Final Fantasy roguelike pioneer** - Square's **groundbreaking achievement** that created the **first PlayStation Mystery Dungeon game** featuring **beloved Chocobo mascot**, integrating **Final Fantasy job classes**, **magic systems**, and **colorful presentation** with **traditional roguelike mechanics** proving that **major RPG publishers** could **embrace dungeon crawling** while **preserving franchise authenticity** and **creating accessible gaming experiences**.
-
-**PlayStation Roguelike Innovation (1997):**
-- **First PlayStation Mystery Dungeon** - Revolutionary adaptation of roguelike mechanics for 32-bit console
-- **Square's roguelike debut** - Major JRPG publisher entering Mystery Dungeon genre
-- **December 23, 1997 release** - Holiday launch bringing roguelike concepts to PlayStation audiences  
-- **CD-ROM storage utilization** - Full audio, graphics, and content within optical disc format
-- **Custom PlayStation engine** - Professional console development optimized for 3D-capable hardware
-
-**Final Fantasy Integration Excellence:**
-- **Chocobo protagonist charm** - Iconic Final Fantasy mascot creating instant franchise recognition
-- **Job system implementation** - Classic Final Fantasy advancement mechanics within roguelike framework
-- **Magic system authenticity** - Final Fantasy spells and abilities preserved in dungeon exploration
-- **Character progression** - Job classes enabling diverse tactical approaches and character customization
-- **Franchise respect** - Final Fantasy universe elements integrated without compromising roguelike authenticity
-
-**Job System Innovation:**
-- **Class-based character development** - Multiple job options creating varied gameplay approaches
-- **Skill progression** - Job advancement providing meaningful character growth and specialization
-- **Tactical diversity** - Different classes requiring distinct strategic planning and execution
-- **Final Fantasy tradition** - Job mechanics maintaining series conventions while supporting roguelike gameplay
-- **Replayability enhancement** - Multiple classes encouraging repeated playthroughs and experimentation
-
-**Visual Presentation Excellence:**
-- **Colorful PlayStation graphics** - Bright, appealing visual design making roguelike mechanics accessible
-- **3D character modeling** - Enhanced presentation utilizing PlayStation's graphical capabilities
-- **Final Fantasy aesthetic** - Art style consistent with Square's established visual traditions
-- **Animation quality** - Smooth character movement and combat animations
-- **Interface design** - Console-optimized menus and controls for television gaming
-
-**Mystery Dungeon Formula Adaptation:**
-- **Traditional roguelike mechanics** - Turn-based combat, permadeath, and procedural generation preserved
-- **Console accessibility** - Complex roguelike systems presented through familiar console interface
-- **Moderate difficulty** - Challenge level balancing roguelike authenticity with mainstream appeal
-- **Story integration** - Narrative elements providing context without overwhelming gameplay
-- **Grid-based movement** - Classic roguelike navigation adapted for PlayStation controller
-
-**Square Production Values:**
-- **Professional development** - Major publisher quality standards applied to niche genre
-- **Audio excellence** - Full soundtrack and sound effects enhancing dungeon atmosphere
-- **Localization quality** - Professional translation bringing Japanese roguelike to international audiences
-- **Marketing support** - Square's promotional power introducing roguelike concepts to JRPG fans
-- **Quality assurance** - Polished final product meeting Square's reputation for excellence
-
-**Cultural Gaming Bridge:**
-- **JRPG-roguelike fusion** - Successful combination of Japanese RPG traditions with dungeon crawling
-- **Franchise expansion** - Demonstrating Final Fantasy universe adaptability to diverse genres
-- **Console roguelike validation** - Proving roguelike mechanics could succeed on home gaming systems
-- **Accessibility achievement** - Making complex genre approachable for mainstream console audiences
-- **Cross-cultural gaming** - Japanese development reaching international roguelike and Final Fantasy communities
-
-**Technical Achievement:**
-- **PlayStation engine optimization** - Custom development maximizing console capabilities for roguelike gameplay
-- **CD-ROM content** - Full utilization of optical storage for enhanced audio, graphics, and content
-- **Performance consistency** - Smooth gameplay despite complex procedural and progression systems
-- **Controller adaptation** - Roguelike controls optimized for PlayStation gamepad interface
-- **Memory management** - Efficient resource usage supporting detailed graphics and audio
-
-**Community Impact:**
-- **Medium community formation** - Dedicated player base appreciating Final Fantasy roguelike fusion
-- **Franchise validation** - Success proving viability of character-based Mystery Dungeon games
-- **Publisher precedent** - Encouraging other major developers to explore roguelike adaptations
-- **WonderSwan Color port** - Success enabling additional platform releases and audience expansion
-- **Series foundation** - Establishing template for future Chocobo Mystery Dungeon development
-
-**Licensed Adaptation Excellence:**
-- **Character authenticity** - Chocobo maintaining personality and charm within roguelike context
-- **Universe consistency** - Final Fantasy elements integrated without compromising world coherence
-- **Franchise respect** - Development honoring Square's intellectual property and fan expectations
-- **Creative adaptation** - Original roguelike content utilizing Final Fantasy framework
-- **Commercial success** - Licensed content supporting viable business model for publisher
-
-**Design Philosophy:**
-- **Franchise authenticity** - Final Fantasy elements preserved while embracing roguelike innovation
-- **Accessibility focus** - Complex mechanics presented through colorful, approachable design
-- **Quality commitment** - Square's development standards applied to experimental genre fusion
-- **Player engagement** - Systems designed to maintain long-term interest and replayability
-- **Cultural bridge** - Connecting JRPG and roguelike traditions through beloved character
-
-**Educational Value:**
-- **Licensed roguelike adaptation** - Methods for respectful franchise integration within genre framework
-- **Console roguelike development** - PlayStation-specific adaptation techniques and optimization
-- **Job system implementation** - Final Fantasy advancement mechanics within roguelike structure
-- **Major publisher development** - Commercial approaches to niche genre exploration
-- **Cross-cultural gaming** - International distribution of Japanese roguelike innovations
-
-**Legacy Achievement:** **Chocobo's Mystery Dungeon** demonstrates that **beloved franchises** and **roguelike innovation** can **create successful fusion**, proving that **major publishers** and **character authenticity** can **introduce complex genres** to **mainstream audiences** while **preserving franchise integrity** and **establishing templates** for **licensed roguelike development**."
+description: |
+  **The Final Fantasy roguelike pioneer** - Square's **groundbreaking achievement** that created the **first PlayStation Mystery Dungeon game** featuring **beloved Chocobo mascot**, integrating **Final Fantasy job classes**, **magic systems**, and **colorful presentation** with **traditional roguelike mechanics** proving that **major RPG publishers** could **embrace dungeon crawling** while **preserving franchise authenticity** and **creating accessible gaming experiences**.
+  
+  **PlayStation Roguelike Innovation (1997):**
+  - **First PlayStation Mystery Dungeon** - Revolutionary adaptation of roguelike mechanics for 32-bit console
+  - **Square's roguelike debut** - Major JRPG publisher entering Mystery Dungeon genre
+  - **December 23, 1997 release** - Holiday launch bringing roguelike concepts to PlayStation audiences  
+  - **CD-ROM storage utilization** - Full audio, graphics, and content within optical disc format
+  - **Custom PlayStation engine** - Professional console development optimized for 3D-capable hardware
+  
+  **Final Fantasy Integration Excellence:**
+  - **Chocobo protagonist charm** - Iconic Final Fantasy mascot creating instant franchise recognition
+  - **Job system implementation** - Classic Final Fantasy advancement mechanics within roguelike framework
+  - **Magic system authenticity** - Final Fantasy spells and abilities preserved in dungeon exploration
+  - **Character progression** - Job classes enabling diverse tactical approaches and character customization
+  - **Franchise respect** - Final Fantasy universe elements integrated without compromising roguelike authenticity
+  
+  **Job System Innovation:**
+  - **Class-based character development** - Multiple job options creating varied gameplay approaches
+  - **Skill progression** - Job advancement providing meaningful character growth and specialization
+  - **Tactical diversity** - Different classes requiring distinct strategic planning and execution
+  - **Final Fantasy tradition** - Job mechanics maintaining series conventions while supporting roguelike gameplay
+  - **Replayability enhancement** - Multiple classes encouraging repeated playthroughs and experimentation
+  
+  **Visual Presentation Excellence:**
+  - **Colorful PlayStation graphics** - Bright, appealing visual design making roguelike mechanics accessible
+  - **3D character modeling** - Enhanced presentation utilizing PlayStation's graphical capabilities
+  - **Final Fantasy aesthetic** - Art style consistent with Square's established visual traditions
+  - **Animation quality** - Smooth character movement and combat animations
+  - **Interface design** - Console-optimized menus and controls for television gaming
+  
+  **Mystery Dungeon Formula Adaptation:**
+  - **Traditional roguelike mechanics** - Turn-based combat, permadeath, and procedural generation preserved
+  - **Console accessibility** - Complex roguelike systems presented through familiar console interface
+  - **Moderate difficulty** - Challenge level balancing roguelike authenticity with mainstream appeal
+  - **Story integration** - Narrative elements providing context without overwhelming gameplay
+  - **Grid-based movement** - Classic roguelike navigation adapted for PlayStation controller
+  
+  **Square Production Values:**
+  - **Professional development** - Major publisher quality standards applied to niche genre
+  - **Audio excellence** - Full soundtrack and sound effects enhancing dungeon atmosphere
+  - **Localization quality** - Professional translation bringing Japanese roguelike to international audiences
+  - **Marketing support** - Square's promotional power introducing roguelike concepts to JRPG fans
+  - **Quality assurance** - Polished final product meeting Square's reputation for excellence
+  
+  **Cultural Gaming Bridge:**
+  - **JRPG-roguelike fusion** - Successful combination of Japanese RPG traditions with dungeon crawling
+  - **Franchise expansion** - Demonstrating Final Fantasy universe adaptability to diverse genres
+  - **Console roguelike validation** - Proving roguelike mechanics could succeed on home gaming systems
+  - **Accessibility achievement** - Making complex genre approachable for mainstream console audiences
+  - **Cross-cultural gaming** - Japanese development reaching international roguelike and Final Fantasy communities
+  
+  **Technical Achievement:**
+  - **PlayStation engine optimization** - Custom development maximizing console capabilities for roguelike gameplay
+  - **CD-ROM content** - Full utilization of optical storage for enhanced audio, graphics, and content
+  - **Performance consistency** - Smooth gameplay despite complex procedural and progression systems
+  - **Controller adaptation** - Roguelike controls optimized for PlayStation gamepad interface
+  - **Memory management** - Efficient resource usage supporting detailed graphics and audio
+  
+  **Community Impact:**
+  - **Medium community formation** - Dedicated player base appreciating Final Fantasy roguelike fusion
+  - **Franchise validation** - Success proving viability of character-based Mystery Dungeon games
+  - **Publisher precedent** - Encouraging other major developers to explore roguelike adaptations
+  - **WonderSwan Color port** - Success enabling additional platform releases and audience expansion
+  - **Series foundation** - Establishing template for future Chocobo Mystery Dungeon development
+  
+  **Licensed Adaptation Excellence:**
+  - **Character authenticity** - Chocobo maintaining personality and charm within roguelike context
+  - **Universe consistency** - Final Fantasy elements integrated without compromising world coherence
+  - **Franchise respect** - Development honoring Square's intellectual property and fan expectations
+  - **Creative adaptation** - Original roguelike content utilizing Final Fantasy framework
+  - **Commercial success** - Licensed content supporting viable business model for publisher
+  
+  **Design Philosophy:**
+  - **Franchise authenticity** - Final Fantasy elements preserved while embracing roguelike innovation
+  - **Accessibility focus** - Complex mechanics presented through colorful, approachable design
+  - **Quality commitment** - Square's development standards applied to experimental genre fusion
+  - **Player engagement** - Systems designed to maintain long-term interest and replayability
+  - **Cultural bridge** - Connecting JRPG and roguelike traditions through beloved character
+  
+  **Educational Value:**
+  - **Licensed roguelike adaptation** - Methods for respectful franchise integration within genre framework
+  - **Console roguelike development** - PlayStation-specific adaptation techniques and optimization
+  - **Job system implementation** - Final Fantasy advancement mechanics within roguelike structure
+  - **Major publisher development** - Commercial approaches to niche genre exploration
+  - **Cross-cultural gaming** - International distribution of Japanese roguelike innovations
+  
+  **Legacy Achievement:** **Chocobo's Mystery Dungeon** demonstrates that **beloved franchises** and **roguelike innovation** can **create successful fusion**, proving that **major publishers** and **character authenticity** can **introduce complex genres** to **mainstream audiences** while **preserving franchise integrity** and **establishing templates** for **licensed roguelike development**.
 release_date: "1997-12-23"
 latest_version: "1.0"
 developers:

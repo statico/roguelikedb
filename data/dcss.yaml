@@ -1,61 +1,62 @@
 name: "Dungeon Crawl Stone Soup"
 slug: "dcss"
-description: "**The most balanced and accessible traditional roguelike** - Born from Linley's Dungeon Crawl in 2006, DCSS became **the gold standard** for modern roguelike design by **removing tedium while preserving depth**.
-
-**Design Philosophy - 'Remove Bad Parts':**
-- **No grinding** - Experience from exploration, not repetitive actions
-- **No starvation clock** - Removed arbitrary time pressure
-- **No item destruction** - Items don't break from use or environmental effects
-- **Streamlined inventory** - No weight limits or complex item management
-- **Clear information** - All mechanics transparent to players
-
-**Community Excellence & Recognition:**
-- **Roguelike of the Year 2008** - Community voted best roguelike
-- **Consistently top-ranked** - Regular appearances in 'best roguelikes' lists  
-- **Active tournament scene** - Annual competitions with global participation
-- **Web-playable** - Accessible instantly through any browser
-- **18+ years of active development** with regular releases
-
-**Technical Innovation:**
-- **Webtiles interface** - Revolutionary browser-based play with tiles
-- **Simultaneous ASCII and tiles** - Players can switch modes seamlessly
-- **C++ engine** optimized for complex tactical calculations
-- **Cross-platform perfection** - Windows, Linux, macOS, Web, Android
-- **GPL-2.0 open source** with transparent development process
-
-**Strategic Depth:**
-- **27+ character species** with unique racial abilities and restrictions
-- **27 backgrounds** defining starting equipment and skills
-- **26 skill categories** with XP-based progression system
-- **Complex spell system** - 100+ spells across multiple schools
-- **Tactical positioning** - Every move matters in combat
-
-**Dungeon Design Excellence:**
-- **15+ unique branches** each with distinct themes and challenges
-- **Rune system** - Collect 3 of 15 runes to access final areas
-- **Branch order flexibility** - Multiple valid progression paths
-- **Intelligent monster AI** - Enemies use tactics and teamwork
-- **Vaults and special rooms** - Hand-crafted encounters in procedural world
-
-**Community & Accessibility:**
-- **Online play servers** - CAO, CBRO, CUE, CXC with persistent characters
-- **Extensive documentation** - Comprehensive wiki and guides
-- **New player support** - Built-in tutorial and advice system
-- **Tournament organization** - Regular competitions fostering community
-
-**Massive Content:**
-- **800+ monster types** with unique behaviors and abilities
-- **400+ spells and abilities** creating diverse character builds
-- **Artifact weapons** - Unique items with special properties
-- **God system** - 20+ deities offering different gameplay paths
-- **Multiple victory conditions** - Standard 3-rune, 15-rune, or speedrun goals
-
-**Educational Impact:**
-- **Game design case study** - Studied for UI/UX excellence
-- **Open source development model** - Example of successful community project
-- **Academic research** - Used in AI and game theory studies
-
-**Cultural Legacy:** Proved that **traditional roguelikes could be modernized** without losing their essential character, establishing template for how to make complex games accessible while maintaining strategic depth."
+description: |
+  **The most balanced and accessible traditional roguelike** - Born from Linley's Dungeon Crawl in 2006, DCSS became **the gold standard** for modern roguelike design by **removing tedium while preserving depth**.
+  
+  **Design Philosophy - 'Remove Bad Parts':**
+  - **No grinding** - Experience from exploration, not repetitive actions
+  - **No starvation clock** - Removed arbitrary time pressure
+  - **No item destruction** - Items don't break from use or environmental effects
+  - **Streamlined inventory** - No weight limits or complex item management
+  - **Clear information** - All mechanics transparent to players
+  
+  **Community Excellence & Recognition:**
+  - **Roguelike of the Year 2008** - Community voted best roguelike
+  - **Consistently top-ranked** - Regular appearances in 'best roguelikes' lists  
+  - **Active tournament scene** - Annual competitions with global participation
+  - **Web-playable** - Accessible instantly through any browser
+  - **18+ years of active development** with regular releases
+  
+  **Technical Innovation:**
+  - **Webtiles interface** - Revolutionary browser-based play with tiles
+  - **Simultaneous ASCII and tiles** - Players can switch modes seamlessly
+  - **C++ engine** optimized for complex tactical calculations
+  - **Cross-platform perfection** - Windows, Linux, macOS, Web, Android
+  - **GPL-2.0 open source** with transparent development process
+  
+  **Strategic Depth:**
+  - **27+ character species** with unique racial abilities and restrictions
+  - **27 backgrounds** defining starting equipment and skills
+  - **26 skill categories** with XP-based progression system
+  - **Complex spell system** - 100+ spells across multiple schools
+  - **Tactical positioning** - Every move matters in combat
+  
+  **Dungeon Design Excellence:**
+  - **15+ unique branches** each with distinct themes and challenges
+  - **Rune system** - Collect 3 of 15 runes to access final areas
+  - **Branch order flexibility** - Multiple valid progression paths
+  - **Intelligent monster AI** - Enemies use tactics and teamwork
+  - **Vaults and special rooms** - Hand-crafted encounters in procedural world
+  
+  **Community & Accessibility:**
+  - **Online play servers** - CAO, CBRO, CUE, CXC with persistent characters
+  - **Extensive documentation** - Comprehensive wiki and guides
+  - **New player support** - Built-in tutorial and advice system
+  - **Tournament organization** - Regular competitions fostering community
+  
+  **Massive Content:**
+  - **800+ monster types** with unique behaviors and abilities
+  - **400+ spells and abilities** creating diverse character builds
+  - **Artifact weapons** - Unique items with special properties
+  - **God system** - 20+ deities offering different gameplay paths
+  - **Multiple victory conditions** - Standard 3-rune, 15-rune, or speedrun goals
+  
+  **Educational Impact:**
+  - **Game design case study** - Studied for UI/UX excellence
+  - **Open source development model** - Example of successful community project
+  - **Academic research** - Used in AI and game theory studies
+  
+  **Cultural Legacy:** Proved that **traditional roguelikes could be modernized** without losing their essential character, establishing template for how to make complex games accessible while maintaining strategic depth.
 release_date: "2006-09-19"
 latest_version: "0.32.0"
 developers:

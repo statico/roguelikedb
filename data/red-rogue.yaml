@@ -1,77 +1,78 @@
 name: "Red Rogue"
 slug: "red-rogue"
-description: "**The dual-character innovation** - Rich Grillotti and Aaron Steed's **groundbreaking Flash roguelike** that revolutionized **traditional single-character gameplay** through **coordinated dual-character control**, creating **entirely new tactical possibilities** and proving **browser-based roguelikes** could achieve **unprecedented mechanical innovation**.
-
-**Revolutionary Dual-Character System:**
-- **Simultaneous character control** - Player managing warrior and companion creature as unified tactical unit
-- **Coordinated movement mechanics** - Both characters moving together requiring strategic positioning planning
-- **Complementary ability systems** - Warrior and companion having distinct capabilities enhancing combined effectiveness
-- **Tactical formation strategies** - Character positioning creating emergent tactical depth and combat options
-- **Shared fate consequences** - Both characters vulnerable, requiring protection and coordination planning
-
-**Flash Platform Innovation:**
-- **Browser accessibility excellence** - No download or installation required for immediate gameplay
-- **Cross-platform compatibility** - Playable on any computer with Flash Player support
-- **Newgrounds community integration** - Featured on major Flash gaming platform reaching massive audiences
-- **Viral distribution potential** - Easy sharing and embedding enabling widespread community adoption
-- **Technical optimization** - Smooth performance despite Flash platform limitations and constraints
-
-**Coordinated Combat Excellence:**
-- **Dual-target engagement** - Ability to attack multiple enemies simultaneously through character coordination
-- **Formation-based tactics** - Character positioning affecting combat effectiveness and defensive capabilities
-- **Synergistic abilities** - Warrior and companion powers combining for enhanced combat outcomes
-- **Risk distribution** - Threat management across two characters creating complex tactical decisions
-- **Retreat coordination** - Both characters requiring escape route planning and execution
-
-**Unique Gameplay Innovation:**
-- **Traditional roguelike respect** - Maintaining core genre elements while adding revolutionary mechanics
-- **Turn-based precision** - Coordinated movement requiring careful planning and execution
-- **Procedural dungeon exploration** - Randomized environments adapted for dual-character navigation
-- **Permadeath stakes** - Loss of either character ending run, increasing tactical tension
-- **Item management** - Equipment and inventory systems designed for two-character coordination
-
-**Community & Critical Recognition:**
-- **Gaming platform featuring** - Prominently showcased on Newgrounds and other Flash gaming portals
-- **Innovation praise** - Gaming press recognizing unique approach to roguelike character control
-- **Player community engagement** - Dedicated fans creating strategies and guides for dual-character mastery
-- **Educational value** - Used as example of creative mechanical innovation within established genres
-- **Accessibility achievement** - Complex systems made approachable through browser-based distribution
-
-**Technical Achievement in Flash:**
-- **Performance optimization** - Smooth gameplay despite Flash runtime limitations and overhead
-- **Memory management** - Efficient resource usage supporting complex dual-character simulation
-- **Input handling innovation** - Control schemes adapted for managing two characters simultaneously
-- **Visual clarity** - Clear graphics ensuring both characters remain visually distinct and trackable
-- **Save system reliability** - Progress preservation within Flash security and storage constraints
-
-**Design Philosophy Revolution:**
-- **Mechanical innovation focus** - Single revolutionary feature transforming entire gameplay experience
-- **Complexity through coordination** - Deep strategy emerging from character interaction rather than system multiplication
-- **Accessibility maintenance** - Innovation not compromising approachability or genre accessibility
-- **Traditional foundation respect** - Revolutionary mechanics built on solid roguelike fundamentals
-- **Player agency enhancement** - New control options expanding rather than limiting strategic possibilities
-
-**Cultural Impact:**
-- **Mechanical innovation inspiration** - Influenced other developers to experiment with character control systems
-- **Flash gaming legitimacy** - Demonstrated browser platforms could support serious roguelike innovation
-- **Genre boundary expansion** - Proved roguelikes could accommodate radical mechanical changes successfully
-- **Educational design value** - Case study in successful genre evolution and mechanical creativity
-- **Community sharing** - Easy browser access enabling widespread gameplay experience sharing
-
-**Browser Gaming Legacy:**
-- **Platform accessibility** - Demonstrated potential for complex gaming within web browsers
-- **Distribution revolution** - No-barrier access encouraging experimentation and community growth
-- **Viral potential utilization** - Easy sharing mechanics enabling organic community growth and adoption
-- **Technical boundary pushing** - Advanced gameplay achieved within platform limitations
-- **Preservation challenges** - Flash deprecation creating conservation efforts for historically significant work
-
-**Educational Game Design Value:**
-- **Innovation methodology** - Example of successful radical mechanical change within established genres
-- **Constraint creativity** - Demonstrating innovation possibilities within technical limitations
-- **Community distribution** - Model for independent game distribution before modern platforms
-- **Mechanical focus** - Single strong innovation creating memorable and unique gaming experiences
-
-**Cultural Legacy:** **Red Rogue** proves that **single mechanical innovations** can **revolutionize established genres**, demonstrating that **browser platforms** could support **sophisticated gameplay experiments** while showing that **coordinated character control** could create **entirely new categories** of **tactical roguelike experiences** through **creative constraint utilization**."
+description: |
+  **The dual-character innovation** - Rich Grillotti and Aaron Steed's **groundbreaking Flash roguelike** that revolutionized **traditional single-character gameplay** through **coordinated dual-character control**, creating **entirely new tactical possibilities** and proving **browser-based roguelikes** could achieve **unprecedented mechanical innovation**.
+  
+  **Revolutionary Dual-Character System:**
+  - **Simultaneous character control** - Player managing warrior and companion creature as unified tactical unit
+  - **Coordinated movement mechanics** - Both characters moving together requiring strategic positioning planning
+  - **Complementary ability systems** - Warrior and companion having distinct capabilities enhancing combined effectiveness
+  - **Tactical formation strategies** - Character positioning creating emergent tactical depth and combat options
+  - **Shared fate consequences** - Both characters vulnerable, requiring protection and coordination planning
+  
+  **Flash Platform Innovation:**
+  - **Browser accessibility excellence** - No download or installation required for immediate gameplay
+  - **Cross-platform compatibility** - Playable on any computer with Flash Player support
+  - **Newgrounds community integration** - Featured on major Flash gaming platform reaching massive audiences
+  - **Viral distribution potential** - Easy sharing and embedding enabling widespread community adoption
+  - **Technical optimization** - Smooth performance despite Flash platform limitations and constraints
+  
+  **Coordinated Combat Excellence:**
+  - **Dual-target engagement** - Ability to attack multiple enemies simultaneously through character coordination
+  - **Formation-based tactics** - Character positioning affecting combat effectiveness and defensive capabilities
+  - **Synergistic abilities** - Warrior and companion powers combining for enhanced combat outcomes
+  - **Risk distribution** - Threat management across two characters creating complex tactical decisions
+  - **Retreat coordination** - Both characters requiring escape route planning and execution
+  
+  **Unique Gameplay Innovation:**
+  - **Traditional roguelike respect** - Maintaining core genre elements while adding revolutionary mechanics
+  - **Turn-based precision** - Coordinated movement requiring careful planning and execution
+  - **Procedural dungeon exploration** - Randomized environments adapted for dual-character navigation
+  - **Permadeath stakes** - Loss of either character ending run, increasing tactical tension
+  - **Item management** - Equipment and inventory systems designed for two-character coordination
+  
+  **Community & Critical Recognition:**
+  - **Gaming platform featuring** - Prominently showcased on Newgrounds and other Flash gaming portals
+  - **Innovation praise** - Gaming press recognizing unique approach to roguelike character control
+  - **Player community engagement** - Dedicated fans creating strategies and guides for dual-character mastery
+  - **Educational value** - Used as example of creative mechanical innovation within established genres
+  - **Accessibility achievement** - Complex systems made approachable through browser-based distribution
+  
+  **Technical Achievement in Flash:**
+  - **Performance optimization** - Smooth gameplay despite Flash runtime limitations and overhead
+  - **Memory management** - Efficient resource usage supporting complex dual-character simulation
+  - **Input handling innovation** - Control schemes adapted for managing two characters simultaneously
+  - **Visual clarity** - Clear graphics ensuring both characters remain visually distinct and trackable
+  - **Save system reliability** - Progress preservation within Flash security and storage constraints
+  
+  **Design Philosophy Revolution:**
+  - **Mechanical innovation focus** - Single revolutionary feature transforming entire gameplay experience
+  - **Complexity through coordination** - Deep strategy emerging from character interaction rather than system multiplication
+  - **Accessibility maintenance** - Innovation not compromising approachability or genre accessibility
+  - **Traditional foundation respect** - Revolutionary mechanics built on solid roguelike fundamentals
+  - **Player agency enhancement** - New control options expanding rather than limiting strategic possibilities
+  
+  **Cultural Impact:**
+  - **Mechanical innovation inspiration** - Influenced other developers to experiment with character control systems
+  - **Flash gaming legitimacy** - Demonstrated browser platforms could support serious roguelike innovation
+  - **Genre boundary expansion** - Proved roguelikes could accommodate radical mechanical changes successfully
+  - **Educational design value** - Case study in successful genre evolution and mechanical creativity
+  - **Community sharing** - Easy browser access enabling widespread gameplay experience sharing
+  
+  **Browser Gaming Legacy:**
+  - **Platform accessibility** - Demonstrated potential for complex gaming within web browsers
+  - **Distribution revolution** - No-barrier access encouraging experimentation and community growth
+  - **Viral potential utilization** - Easy sharing mechanics enabling organic community growth and adoption
+  - **Technical boundary pushing** - Advanced gameplay achieved within platform limitations
+  - **Preservation challenges** - Flash deprecation creating conservation efforts for historically significant work
+  
+  **Educational Game Design Value:**
+  - **Innovation methodology** - Example of successful radical mechanical change within established genres
+  - **Constraint creativity** - Demonstrating innovation possibilities within technical limitations
+  - **Community distribution** - Model for independent game distribution before modern platforms
+  - **Mechanical focus** - Single strong innovation creating memorable and unique gaming experiences
+  
+  **Cultural Legacy:** **Red Rogue** proves that **single mechanical innovations** can **revolutionize established genres**, demonstrating that **browser platforms** could support **sophisticated gameplay experiments** while showing that **coordinated character control** could create **entirely new categories** of **tactical roguelike experiences** through **creative constraint utilization**.
 release_date: "2011-09-01"
 latest_version: "1.0"
 developers:

@@ -1,31 +1,32 @@
 name: "Cogmind"
 slug: "cogmind"
-description: "**The pinnacle of modern ASCII roguelike design** - Created by **Josh Ge's Grid Sage Games**, evolving from a **2012 7DRL Challenge entry** through public alpha (May 2015), beta (May 2017), to **Steam Early Access on October 16, 2017**.
-
-**Revolutionary Component System:**
-- **1000+ parts to salvage and equip** - Each with unique properties and functions
-- **Dynamic robot customization** - Build yourself from scavenged components
-- **Destructible environments** - Blast through walls, hack machines, cause chaos
-- **Living robotic ecosystem** - Every robot has purpose and relationships
-- **Advanced stealth mechanics** - Minimize combat through cunning
-
-**Technical Excellence:**
-- **Custom C++ engine** optimized for complex ASCII rendering
-- **Windows-exclusive** with unparalleled performance and stability
-- **User-friendly ASCII interface** praised by PC Gamer and Rock Paper Shotgun
-- **Optional tile support** maintaining ASCII aesthetic with visual clarity
-- **Closed source** with community mod tools and enhancement support
-
-**Innovative Gameplay Design:**
-- **Multiple victory paths** - Combat, stealth, hacking, or hybrid approaches  
-- **Faction relationships** - Complex AI behaviors and allegiance systems
-- **Progressive exploration** - Ascending through robotic facility levels
-- **Resource management** - Power, heat, and component durability systems
-- **Procedural generation** with carefully crafted encounter design
-
-**Development Philosophy:** **Josh Ge's solo development** represents dedication to traditional roguelike values while pushing interface and accessibility boundaries. Despite niche community size, Cogmind has garnered significant attention from major gaming publications for its innovative approach to ASCII roguelike design.
-
-**Critical Recognition:** Featured extensively in PC Gamer and Rock Paper Shotgun as exemplar of modern roguelike evolution, praised for combining complex systems with intuitive presentation."
+description: |
+  **The pinnacle of modern ASCII roguelike design** - Created by **Josh Ge's Grid Sage Games**, evolving from a **2012 7DRL Challenge entry** through public alpha (May 2015), beta (May 2017), to **Steam Early Access on October 16, 2017**.
+  
+  **Revolutionary Component System:**
+  - **1000+ parts to salvage and equip** - Each with unique properties and functions
+  - **Dynamic robot customization** - Build yourself from scavenged components
+  - **Destructible environments** - Blast through walls, hack machines, cause chaos
+  - **Living robotic ecosystem** - Every robot has purpose and relationships
+  - **Advanced stealth mechanics** - Minimize combat through cunning
+  
+  **Technical Excellence:**
+  - **Custom C++ engine** optimized for complex ASCII rendering
+  - **Windows-exclusive** with unparalleled performance and stability
+  - **User-friendly ASCII interface** praised by PC Gamer and Rock Paper Shotgun
+  - **Optional tile support** maintaining ASCII aesthetic with visual clarity
+  - **Closed source** with community mod tools and enhancement support
+  
+  **Innovative Gameplay Design:**
+  - **Multiple victory paths** - Combat, stealth, hacking, or hybrid approaches  
+  - **Faction relationships** - Complex AI behaviors and allegiance systems
+  - **Progressive exploration** - Ascending through robotic facility levels
+  - **Resource management** - Power, heat, and component durability systems
+  - **Procedural generation** with carefully crafted encounter design
+  
+  **Development Philosophy:** **Josh Ge's solo development** represents dedication to traditional roguelike values while pushing interface and accessibility boundaries. Despite niche community size, Cogmind has garnered significant attention from major gaming publications for its innovative approach to ASCII roguelike design.
+  
+  **Critical Recognition:** Featured extensively in PC Gamer and Rock Paper Shotgun as exemplar of modern roguelike evolution, praised for combining complex systems with intuitive presentation.
 release_date: "2017-05-16"
 latest_version: "Beta 12"
 developers:

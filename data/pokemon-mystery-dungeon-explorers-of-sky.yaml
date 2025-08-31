@@ -1,92 +1,93 @@
 name: "Pokémon Mystery Dungeon: Explorers of Sky"
 slug: "pokemon-mystery-dungeon-explorers-of-sky"
-description: "**The definitive Mystery Dungeon pinnacle** - Chunsoft's **ultimate achievement** that created the **definitive version** of the **acclaimed Explorers series**, featuring **additional storylines**, **expanded post-game content**, **five special episodes**, and **refined mechanics** proving that **enhanced editions** can **achieve perfection** while **providing comprehensive character development** and **establishing series pinnacles**.
-
-**Enhanced Edition Excellence (2009):**
-- **Definitive series version** - Complete and enhanced experience building upon Time/Darkness foundation
-- **Considered series pinnacle** - Universal recognition as best Pokémon Mystery Dungeon game ever created
-- **Most comprehensive content** - Extensive dungeons, storylines, and character development opportunities
-- **April 18, 2009 release** - Refined launch providing ultimate Mystery Dungeon experience
-- **512Mbit storage expansion** - Double storage capacity enabling extensive additional content
-
-**Special Episode Innovation:**
-- **Five character backstory episodes** - Dedicated storylines exploring key character histories and motivations
-- **Comprehensive character development** - Deep exploration of supporting cast personalities and relationships
-- **Narrative expansion** - Additional story content providing context and emotional depth
-- **Diverse perspectives** - Different character viewpoints enriching overall narrative understanding
-- **Emotional resonance** - Character-focused episodes creating stronger emotional connections and investment
-
-**Post-Game Content Mastery:**
-- **Extensive post-game dungeons** - Massive additional content extending gameplay beyond main story
-- **Challenge variety** - Diverse post-game experiences testing different skills and strategies
-- **Long-term engagement** - Content designed to provide dozens of additional gameplay hours
-- **Completion incentives** - Meaningful rewards encouraging thorough exploration and mastery
-- **Community replay value** - Post-game content supporting multiple playthroughs and continued discussion
-
-**Refined Mechanics Excellence:**
-- **Enhanced gameplay systems** - All Time/Darkness mechanics improved and balanced
-- **Quality of life improvements** - Interface and system enhancements reducing frustration
-- **Balance refinements** - Difficulty and progression adjustments creating optimal challenge curves
-- **Performance optimization** - Smooth gameplay supporting extensive content and complex systems
-- **Technical polish** - Professional finish eliminating bugs and improving player experience
-
-**Storytelling Perfection:**
-- **Complete narrative experience** - Main story plus special episodes creating comprehensive world-building
-- **Character development depth** - Extensive exploration of character motivations and relationships
-- **Emotional storytelling mastery** - Professional writing creating lasting emotional impact
-- **Thematic coherence** - All story elements supporting unified themes of friendship and heroism
-- **Cultural impact** - Storyline achieving recognition beyond typical gaming audiences
-
-**Content Expansion Achievement:**
-- **Comprehensive dungeon variety** - Extensive exploration opportunities with diverse challenges
-- **Character customization** - Enhanced options for team building and strategic planning
-- **Item and equipment diversity** - Expanded inventory systems supporting varied tactical approaches
-- **Secret content discovery** - Hidden areas and features rewarding thorough exploration
-- **Completion challenges** - Optional objectives providing additional goals and achievement satisfaction
-
-**Community Impact:**
-- **Large passionate community** - Devoted fanbase considering Sky the definitive Mystery Dungeon experience
-- **Cultural phenomenon** - Game transcending typical gaming audiences through emotional storytelling
-- **Educational gateway** - Introducing strategic thinking through accessible Pokémon context
-- **Emotional legacy** - Storyline creating lasting memories and community discussion
-- **Franchise validation** - Ultimate proof of Pokémon roguelike concept viability and excellence
-
-**Technical Achievement:**
-- **Enhanced DS engine optimization** - Maximum utilization of Nintendo DS capabilities
-- **Storage utilization mastery** - 512Mbit capacity used efficiently for extensive content
-- **Performance consistency** - Stable gameplay across all content expansions and additions
-- **Visual enhancement** - Improved graphics and animations supporting expanded storytelling
-- **Audio integration** - Music and sound effects enhancing emotional narrative impact
-
-**Design Philosophy Perfection:**
-- **Completeness emphasis** - Every system and feature refined to achieve optimal player experience
-- **Accessibility without compromise** - Complex mechanics presented through intuitive interfaces
-- **Emotional investment priority** - All elements designed to create meaningful player connections
-- **Quality over quantity** - Content designed for depth and impact rather than padding
-- **Community service** - Development motivated by desire to provide ultimate fan experience
-
-**Nintendo Partnership Excellence:**
-- **First-party publishing commitment** - Nintendo's investment in providing definitive Mystery Dungeon experience
-- **Quality assurance standards** - Nintendo's professional standards ensuring polished final product
-- **Marketing support** - Comprehensive promotion bringing enhanced edition to broad audiences
-- **Localization excellence** - Professional translation maintaining emotional impact across languages
-- **Platform optimization** - Development maximizing Nintendo DS unique capabilities
-
-**Cultural Gaming Legacy:**
-- **Enhanced edition template** - Establishing standards for definitive game versions and expansions
-- **Narrative roguelike mastery** - Proving story-driven roguelikes could achieve artistic excellence
-- **Community devotion creation** - Building lasting player communities through emotional storytelling
-- **Accessibility achievement** - Making complex mechanics approachable for diverse audiences
-- **Franchise pinnacle** - Setting standards for future Mystery Dungeon development
-
-**Educational Value:**
-- **Enhanced edition development** - Methods for creating definitive versions of successful games
-- **Post-game content design** - Techniques for providing meaningful long-term player engagement
-- **Character development storytelling** - Approaches to emotional narrative within gaming contexts
-- **Community building** - Creating lasting player engagement through comprehensive content
-- **Franchise culmination** - Achieving series pinnacles through refinement and expansion
-
-**Legacy Achievement:** **Pokémon Mystery Dungeon: Explorers of Sky** demonstrates that **enhanced editions** can **achieve absolute perfection**, proving that **comprehensive content**, **emotional storytelling**, and **mechanical refinement** can create **definitive gaming experiences** that **establish series pinnacles** and **inspire lasting devotion** through **complete creative fulfillment**."
+description: |
+  **The definitive Mystery Dungeon pinnacle** - Chunsoft's **ultimate achievement** that created the **definitive version** of the **acclaimed Explorers series**, featuring **additional storylines**, **expanded post-game content**, **five special episodes**, and **refined mechanics** proving that **enhanced editions** can **achieve perfection** while **providing comprehensive character development** and **establishing series pinnacles**.
+  
+  **Enhanced Edition Excellence (2009):**
+  - **Definitive series version** - Complete and enhanced experience building upon Time/Darkness foundation
+  - **Considered series pinnacle** - Universal recognition as best Pokémon Mystery Dungeon game ever created
+  - **Most comprehensive content** - Extensive dungeons, storylines, and character development opportunities
+  - **April 18, 2009 release** - Refined launch providing ultimate Mystery Dungeon experience
+  - **512Mbit storage expansion** - Double storage capacity enabling extensive additional content
+  
+  **Special Episode Innovation:**
+  - **Five character backstory episodes** - Dedicated storylines exploring key character histories and motivations
+  - **Comprehensive character development** - Deep exploration of supporting cast personalities and relationships
+  - **Narrative expansion** - Additional story content providing context and emotional depth
+  - **Diverse perspectives** - Different character viewpoints enriching overall narrative understanding
+  - **Emotional resonance** - Character-focused episodes creating stronger emotional connections and investment
+  
+  **Post-Game Content Mastery:**
+  - **Extensive post-game dungeons** - Massive additional content extending gameplay beyond main story
+  - **Challenge variety** - Diverse post-game experiences testing different skills and strategies
+  - **Long-term engagement** - Content designed to provide dozens of additional gameplay hours
+  - **Completion incentives** - Meaningful rewards encouraging thorough exploration and mastery
+  - **Community replay value** - Post-game content supporting multiple playthroughs and continued discussion
+  
+  **Refined Mechanics Excellence:**
+  - **Enhanced gameplay systems** - All Time/Darkness mechanics improved and balanced
+  - **Quality of life improvements** - Interface and system enhancements reducing frustration
+  - **Balance refinements** - Difficulty and progression adjustments creating optimal challenge curves
+  - **Performance optimization** - Smooth gameplay supporting extensive content and complex systems
+  - **Technical polish** - Professional finish eliminating bugs and improving player experience
+  
+  **Storytelling Perfection:**
+  - **Complete narrative experience** - Main story plus special episodes creating comprehensive world-building
+  - **Character development depth** - Extensive exploration of character motivations and relationships
+  - **Emotional storytelling mastery** - Professional writing creating lasting emotional impact
+  - **Thematic coherence** - All story elements supporting unified themes of friendship and heroism
+  - **Cultural impact** - Storyline achieving recognition beyond typical gaming audiences
+  
+  **Content Expansion Achievement:**
+  - **Comprehensive dungeon variety** - Extensive exploration opportunities with diverse challenges
+  - **Character customization** - Enhanced options for team building and strategic planning
+  - **Item and equipment diversity** - Expanded inventory systems supporting varied tactical approaches
+  - **Secret content discovery** - Hidden areas and features rewarding thorough exploration
+  - **Completion challenges** - Optional objectives providing additional goals and achievement satisfaction
+  
+  **Community Impact:**
+  - **Large passionate community** - Devoted fanbase considering Sky the definitive Mystery Dungeon experience
+  - **Cultural phenomenon** - Game transcending typical gaming audiences through emotional storytelling
+  - **Educational gateway** - Introducing strategic thinking through accessible Pokémon context
+  - **Emotional legacy** - Storyline creating lasting memories and community discussion
+  - **Franchise validation** - Ultimate proof of Pokémon roguelike concept viability and excellence
+  
+  **Technical Achievement:**
+  - **Enhanced DS engine optimization** - Maximum utilization of Nintendo DS capabilities
+  - **Storage utilization mastery** - 512Mbit capacity used efficiently for extensive content
+  - **Performance consistency** - Stable gameplay across all content expansions and additions
+  - **Visual enhancement** - Improved graphics and animations supporting expanded storytelling
+  - **Audio integration** - Music and sound effects enhancing emotional narrative impact
+  
+  **Design Philosophy Perfection:**
+  - **Completeness emphasis** - Every system and feature refined to achieve optimal player experience
+  - **Accessibility without compromise** - Complex mechanics presented through intuitive interfaces
+  - **Emotional investment priority** - All elements designed to create meaningful player connections
+  - **Quality over quantity** - Content designed for depth and impact rather than padding
+  - **Community service** - Development motivated by desire to provide ultimate fan experience
+  
+  **Nintendo Partnership Excellence:**
+  - **First-party publishing commitment** - Nintendo's investment in providing definitive Mystery Dungeon experience
+  - **Quality assurance standards** - Nintendo's professional standards ensuring polished final product
+  - **Marketing support** - Comprehensive promotion bringing enhanced edition to broad audiences
+  - **Localization excellence** - Professional translation maintaining emotional impact across languages
+  - **Platform optimization** - Development maximizing Nintendo DS unique capabilities
+  
+  **Cultural Gaming Legacy:**
+  - **Enhanced edition template** - Establishing standards for definitive game versions and expansions
+  - **Narrative roguelike mastery** - Proving story-driven roguelikes could achieve artistic excellence
+  - **Community devotion creation** - Building lasting player communities through emotional storytelling
+  - **Accessibility achievement** - Making complex mechanics approachable for diverse audiences
+  - **Franchise pinnacle** - Setting standards for future Mystery Dungeon development
+  
+  **Educational Value:**
+  - **Enhanced edition development** - Methods for creating definitive versions of successful games
+  - **Post-game content design** - Techniques for providing meaningful long-term player engagement
+  - **Character development storytelling** - Approaches to emotional narrative within gaming contexts
+  - **Community building** - Creating lasting player engagement through comprehensive content
+  - **Franchise culmination** - Achieving series pinnacles through refinement and expansion
+  
+  **Legacy Achievement:** **Pokémon Mystery Dungeon: Explorers of Sky** demonstrates that **enhanced editions** can **achieve absolute perfection**, proving that **comprehensive content**, **emotional storytelling**, and **mechanical refinement** can create **definitive gaming experiences** that **establish series pinnacles** and **inspire lasting devotion** through **complete creative fulfillment**.
 release_date: "2009-04-18"
 latest_version: "1.0"
 developers:

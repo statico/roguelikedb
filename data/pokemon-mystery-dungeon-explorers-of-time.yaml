@@ -1,85 +1,86 @@
 name: "Pokémon Mystery Dungeon: Explorers of Time"
 slug: "pokemon-mystery-dungeon-explorers-of-time"
-description: "**The Mystery Dungeon masterpiece** - Chunsoft's **acclaimed achievement** that created **widely considered the best Pokémon Mystery Dungeon game** featuring **time travel storyline**, **491 Pokémon from four generations**, **refined dungeon mechanics**, **weather effects**, and **innovative trap systems** proving that **roguelike sequels** can **achieve narrative excellence** while **perfecting gameplay mechanics** and **inspiring lasting devotion**.
-
-**Narrative Excellence Achievement (2007):**
-- **Widely considered best PMD storyline** - Universal acclaim for emotional depth and narrative sophistication
-- **Time travel storyline** - Complex temporal mechanics creating compelling mystery and emotional investment
-- **Acclaimed writing quality** - Professional storytelling rivaling traditional RPGs in emotional impact
-- **September 13, 2007 release** - Nintendo DS launch establishing new standard for handheld roguelikes
-- **Character development depth** - Protagonists and supporting characters with genuine personality and growth
-
-**Pokémon Integration Mastery:**
-- **491 Pokémon roster** - Massive creature variety from four generations creating unprecedented exploration options
-- **Type effectiveness systems** - Complete Pokémon battle mechanics preserved within roguelike framework
-- **Evolution progression** - Character development following established Pokémon advancement rules
-- **Move learning authenticity** - Skill acquisition maintaining Pokémon game traditions and expectations
-- **Species personality** - Each Pokémon maintaining distinct characteristics and behavioral authenticity
-
-**Dungeon Mechanics Refinement:**
-- **Weather effects innovation** - Environmental conditions affecting exploration strategy and tactical planning
-- **Trap system enhancement** - Sophisticated hidden dangers requiring awareness and careful movement
-- **Refined procedural generation** - Improved dungeon layouts creating varied and interesting exploration experiences
-- **Team-based mechanics** - Multi-Pokémon party systems enabling cooperative tactical gameplay
-- **Moderate difficulty balance** - Challenge level accessible to franchise audiences while maintaining roguelike authenticity
-
-**Technical Excellence:**
-- **Enhanced DS engine** - Sophisticated handheld development maximizing Nintendo DS capabilities
-- **256Mbit storage optimization** - Maximum content within DS cartridge limitations
-- **Dual-screen utilization** - Interface design taking advantage of DS unique hardware features
-- **Performance optimization** - Smooth gameplay supporting complex weather and creature systems
-- **Visual enhancement** - Improved tile graphics and animation over previous Mystery Dungeon entries
-
-**Weather System Innovation:**
-- **Dynamic environmental effects** - Weather conditions changing dungeon exploration and combat tactics
-- **Strategic weather planning** - Environmental awareness required for successful dungeon navigation
-- **Atmospheric enhancement** - Weather creating immersive exploration experiences and visual variety
-- **Tactical complexity** - Weather effects adding layers of strategic consideration to roguelike mechanics
-- **Seasonal integration** - Weather systems supporting thematic coherence and narrative progression
-
-**Story-Driven Innovation:**
-- **Narrative integration** - Story elements enhancing rather than overwhelming roguelike gameplay
-- **Emotional investment** - Character relationships and plot developments creating attachment to outcomes
-- **Mystery elements** - Time travel plot providing compelling exploration motivation and discovery
-- **Character agency** - Player choices and character development affecting story progression
-- **Franchise respect** - Pokémon universe authenticity maintained while supporting complex storytelling
-
-**Community Impact:**
-- **Large dedicated community** - Passionate fanbase considering Explorers series pinnacle of franchise
-- **Cultural phenomenon** - Game achieving recognition beyond typical roguelike audiences
-- **Emotional resonance** - Storyline creating lasting emotional connections and community discussion
-- **Franchise validation** - Success proving Pokémon roguelike concept viability and market appeal
-- **Educational gateway** - Introducing roguelike mechanics to mainstream Nintendo audiences
-
-**Sequel Excellence:**
-- **Red/Blue Rescue Team improvement** - All systems enhanced and refined over successful predecessor
-- **Explorers of Darkness companion** - Dual version release providing choice while maintaining quality
-- **Explorers of Sky foundation** - Success enabling definitive enhanced version development
-- **Franchise evolution** - Establishing template for future Mystery Dungeon development
-- **Quality precedent** - Setting expectations for Pokémon roguelike excellence and narrative depth
-
-**Nintendo Partnership:**
-- **First-party publishing** - Nintendo and Pokémon Company investment validating roguelike market potential
-- **Professional localization** - High-quality translation and cultural adaptation for international audiences
-- **Marketing support** - Major franchise marketing bringing roguelike concepts to mainstream audiences
-- **Quality assurance** - Nintendo's standards ensuring polished and accessible roguelike experience
-- **Platform optimization** - Development specifically designed for Nintendo DS unique capabilities
-
-**Cultural Gaming Impact:**
-- **Roguelike accessibility** - Making complex genre approachable for younger and mainstream audiences
-- **Narrative roguelike validation** - Proving story-driven roguelikes could achieve emotional resonance
-- **Franchise expansion success** - Demonstrating potential for beloved characters in diverse gaming genres
-- **Educational value** - Teaching strategic thinking and planning through familiar Pokémon context
-- **Cross-generational appeal** - Creating gaming experiences enjoyable across different age groups
-
-**Educational Value:**
-- **Story-driven roguelike design** - Methods for integrating compelling narratives with procedural gameplay
-- **Franchise adaptation techniques** - Approaches to respectful character and universe integration
-- **Handheld roguelike development** - Platform-specific design for portable gaming contexts
-- **Weather system implementation** - Environmental mechanics enhancing strategic gameplay depth
-- **Community building** - Creating lasting player engagement through emotional storytelling
-
-**Legacy Achievement:** **Pokémon Mystery Dungeon: Explorers of Time** demonstrates that **roguelike sequels** can **achieve narrative mastery**, proving that **emotional storytelling** and **refined mechanics** can create **beloved gaming experiences** that **transcend genre boundaries** and **establish lasting cultural impact** through **authentic character integration**."
+description: |
+  **The Mystery Dungeon masterpiece** - Chunsoft's **acclaimed achievement** that created **widely considered the best Pokémon Mystery Dungeon game** featuring **time travel storyline**, **491 Pokémon from four generations**, **refined dungeon mechanics**, **weather effects**, and **innovative trap systems** proving that **roguelike sequels** can **achieve narrative excellence** while **perfecting gameplay mechanics** and **inspiring lasting devotion**.
+  
+  **Narrative Excellence Achievement (2007):**
+  - **Widely considered best PMD storyline** - Universal acclaim for emotional depth and narrative sophistication
+  - **Time travel storyline** - Complex temporal mechanics creating compelling mystery and emotional investment
+  - **Acclaimed writing quality** - Professional storytelling rivaling traditional RPGs in emotional impact
+  - **September 13, 2007 release** - Nintendo DS launch establishing new standard for handheld roguelikes
+  - **Character development depth** - Protagonists and supporting characters with genuine personality and growth
+  
+  **Pokémon Integration Mastery:**
+  - **491 Pokémon roster** - Massive creature variety from four generations creating unprecedented exploration options
+  - **Type effectiveness systems** - Complete Pokémon battle mechanics preserved within roguelike framework
+  - **Evolution progression** - Character development following established Pokémon advancement rules
+  - **Move learning authenticity** - Skill acquisition maintaining Pokémon game traditions and expectations
+  - **Species personality** - Each Pokémon maintaining distinct characteristics and behavioral authenticity
+  
+  **Dungeon Mechanics Refinement:**
+  - **Weather effects innovation** - Environmental conditions affecting exploration strategy and tactical planning
+  - **Trap system enhancement** - Sophisticated hidden dangers requiring awareness and careful movement
+  - **Refined procedural generation** - Improved dungeon layouts creating varied and interesting exploration experiences
+  - **Team-based mechanics** - Multi-Pokémon party systems enabling cooperative tactical gameplay
+  - **Moderate difficulty balance** - Challenge level accessible to franchise audiences while maintaining roguelike authenticity
+  
+  **Technical Excellence:**
+  - **Enhanced DS engine** - Sophisticated handheld development maximizing Nintendo DS capabilities
+  - **256Mbit storage optimization** - Maximum content within DS cartridge limitations
+  - **Dual-screen utilization** - Interface design taking advantage of DS unique hardware features
+  - **Performance optimization** - Smooth gameplay supporting complex weather and creature systems
+  - **Visual enhancement** - Improved tile graphics and animation over previous Mystery Dungeon entries
+  
+  **Weather System Innovation:**
+  - **Dynamic environmental effects** - Weather conditions changing dungeon exploration and combat tactics
+  - **Strategic weather planning** - Environmental awareness required for successful dungeon navigation
+  - **Atmospheric enhancement** - Weather creating immersive exploration experiences and visual variety
+  - **Tactical complexity** - Weather effects adding layers of strategic consideration to roguelike mechanics
+  - **Seasonal integration** - Weather systems supporting thematic coherence and narrative progression
+  
+  **Story-Driven Innovation:**
+  - **Narrative integration** - Story elements enhancing rather than overwhelming roguelike gameplay
+  - **Emotional investment** - Character relationships and plot developments creating attachment to outcomes
+  - **Mystery elements** - Time travel plot providing compelling exploration motivation and discovery
+  - **Character agency** - Player choices and character development affecting story progression
+  - **Franchise respect** - Pokémon universe authenticity maintained while supporting complex storytelling
+  
+  **Community Impact:**
+  - **Large dedicated community** - Passionate fanbase considering Explorers series pinnacle of franchise
+  - **Cultural phenomenon** - Game achieving recognition beyond typical roguelike audiences
+  - **Emotional resonance** - Storyline creating lasting emotional connections and community discussion
+  - **Franchise validation** - Success proving Pokémon roguelike concept viability and market appeal
+  - **Educational gateway** - Introducing roguelike mechanics to mainstream Nintendo audiences
+  
+  **Sequel Excellence:**
+  - **Red/Blue Rescue Team improvement** - All systems enhanced and refined over successful predecessor
+  - **Explorers of Darkness companion** - Dual version release providing choice while maintaining quality
+  - **Explorers of Sky foundation** - Success enabling definitive enhanced version development
+  - **Franchise evolution** - Establishing template for future Mystery Dungeon development
+  - **Quality precedent** - Setting expectations for Pokémon roguelike excellence and narrative depth
+  
+  **Nintendo Partnership:**
+  - **First-party publishing** - Nintendo and Pokémon Company investment validating roguelike market potential
+  - **Professional localization** - High-quality translation and cultural adaptation for international audiences
+  - **Marketing support** - Major franchise marketing bringing roguelike concepts to mainstream audiences
+  - **Quality assurance** - Nintendo's standards ensuring polished and accessible roguelike experience
+  - **Platform optimization** - Development specifically designed for Nintendo DS unique capabilities
+  
+  **Cultural Gaming Impact:**
+  - **Roguelike accessibility** - Making complex genre approachable for younger and mainstream audiences
+  - **Narrative roguelike validation** - Proving story-driven roguelikes could achieve emotional resonance
+  - **Franchise expansion success** - Demonstrating potential for beloved characters in diverse gaming genres
+  - **Educational value** - Teaching strategic thinking and planning through familiar Pokémon context
+  - **Cross-generational appeal** - Creating gaming experiences enjoyable across different age groups
+  
+  **Educational Value:**
+  - **Story-driven roguelike design** - Methods for integrating compelling narratives with procedural gameplay
+  - **Franchise adaptation techniques** - Approaches to respectful character and universe integration
+  - **Handheld roguelike development** - Platform-specific design for portable gaming contexts
+  - **Weather system implementation** - Environmental mechanics enhancing strategic gameplay depth
+  - **Community building** - Creating lasting player engagement through emotional storytelling
+  
+  **Legacy Achievement:** **Pokémon Mystery Dungeon: Explorers of Time** demonstrates that **roguelike sequels** can **achieve narrative mastery**, proving that **emotional storytelling** and **refined mechanics** can create **beloved gaming experiences** that **transcend genre boundaries** and **establish lasting cultural impact** through **authentic character integration**.
 release_date: "2007-09-13"
 latest_version: "1.0"
 developers:

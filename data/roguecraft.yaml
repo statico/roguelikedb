@@ -1,78 +1,79 @@
 name: "Roguecraft"
 slug: "roguecraft"
-description: "**The modern Amiga masterpiece** - Badger Punch's **remarkable achievement** that demonstrates **ongoing Amiga development vitality** by creating a **cutting-edge roguelike** with **advanced AGA chipset optimization**, **262,144 colors on screen**, and **streamed Paula audio** proving that **retro platforms** can **support contemporary game development** while **showcasing technical mastery** and **passionate community dedication**.
-
-**Modern Retro Innovation (2025):**
-- **Contemporary Amiga development** - Ongoing creation proving vintage platform development vitality
-- **AGA chipset mastery** - Advanced graphics programming utilizing full AGA capabilities
-- **HAM-5 mode exploitation** - 262,144 simultaneous colors creating unprecedented visual quality
-- **Streamed Paula audio** - Modern audio techniques within classic Amiga sound architecture
-- **Evercade console port** - Cross-platform expansion with exclusive content additions
-
-**AGA Technical Excellence:**
-- **Advanced Graphics Architecture optimization** - Maximum utilization of enhanced Amiga chipset
-- **Color depth mastery** - Massive color palette creating rich visual experiences
-- **Graphics processing innovation** - Modern programming techniques on retro hardware
-- **Performance optimization** - Smooth gameplay despite complex visual enhancements
-- **Hardware limitation transcendence** - Creative solutions maximizing platform capabilities
-
-**Assembly Programming Mastery:**
-- **Low-level optimization** - Direct hardware programming achieving maximum performance
-- **Technical expertise** - Sophisticated assembly language implementation
-- **Hardware integration** - Perfect utilization of Amiga-specific features and capabilities
-- **Code efficiency** - Optimal resource usage within platform constraints
-- **Modern development practices** - Contemporary programming techniques on vintage platform
-
-**Retro Gaming Community Achievement:**
-- **Active Amiga scene demonstration** - Proving continued developer interest in vintage platforms
-- **Quality commitment** - Modern production values applied to retro platform development
-- **Community support** - Dedicated fanbase supporting ongoing Amiga game creation
-- **Preservation culture** - Keeping classic platforms alive through new software creation
-- **Innovation inspiration** - Encouraging other developers to explore vintage platform potential
-
-**Cross-Platform Success:**
-- **Evercade porting** - Successful adaptation to modern retro gaming console
-- **Exclusive content** - Additional features created specifically for contemporary platform
-- **Dual market appeal** - Serving both Amiga enthusiasts and modern retro gaming audiences
-- **Commercial viability** - Demonstrating market for high-quality retro platform games
-- **Distribution innovation** - Multiple platform release strategies for niche products
-
-**Technical Innovation Achievement:**
-- **Graphics breakthrough** - Pushing AGA chipset beyond typical capabilities
-- **Audio excellence** - Modern sound techniques within Paula audio architecture
-- **Memory management** - Efficient resource usage enabling complex systems
-- **Performance engineering** - Smooth roguelike mechanics despite visual enhancements
-- **Hardware-software synergy** - Perfect integration of code with Amiga architecture
-
-**Roguelike Design Excellence:**
-- **Traditional mechanics** - Authentic turn-based grid-based gameplay
-- **Procedural generation** - Random dungeons ensuring unique exploration experiences
-- **Permadeath stakes** - Meaningful consequences creating emotional investment
-- **Strategic depth** - Complex tactical decisions within accessible framework
-- **Visual enhancement** - Graphics quality elevating roguelike presentation
-
-**Cultural Gaming Impact:**
-- **Retro platform validation** - Proving vintage systems can support contemporary development
-- **Community inspiration** - Encouraging other developers to explore classic platforms
-- **Technical demonstration** - Showcasing possibilities for advanced vintage platform programming
-- **Preservation value** - Contributing to active maintenance of gaming history
-- **Cross-generational appeal** - Bridging retro enthusiasts and modern gamers
-
-**Design Philosophy:**
-- **Platform respect** - Development approach honoring Amiga heritage and capabilities
-- **Technical excellence** - Maximum utilization of available hardware features
-- **Modern quality standards** - Contemporary production values within retro constraints
-- **Community service** - Creation motivated by love for platform and community
-- **Innovation within tradition** - Pushing boundaries while respecting platform character
-
-**Educational Value:**
-- **Advanced Amiga programming** - Complete example of modern AGA development techniques
-- **Assembly optimization** - Low-level programming methods for maximum performance
-- **Graphics programming mastery** - Advanced techniques for color depth and visual quality
-- **Cross-platform development** - Methods for adapting games across different systems
-- **Retro development culture** - Understanding contemporary vintage platform programming
-
-**Legacy Achievement:** **Roguecraft** demonstrates that **passionate expertise** and **technical mastery** can **breathe new life** into **classic platforms**, proving that **retro hardware** and **contemporary vision** can create **exceptional gaming experiences** that **honor platform heritage** while **pushing technical boundaries** and **inspiring continued community development**."
+description: |
+  **The modern Amiga masterpiece** - Badger Punch's **remarkable achievement** that demonstrates **ongoing Amiga development vitality** by creating a **cutting-edge roguelike** with **advanced AGA chipset optimization**, **262,144 colors on screen**, and **streamed Paula audio** proving that **retro platforms** can **support contemporary game development** while **showcasing technical mastery** and **passionate community dedication**.
+  
+  **Modern Retro Innovation (2025):**
+  - **Contemporary Amiga development** - Ongoing creation proving vintage platform development vitality
+  - **AGA chipset mastery** - Advanced graphics programming utilizing full AGA capabilities
+  - **HAM-5 mode exploitation** - 262,144 simultaneous colors creating unprecedented visual quality
+  - **Streamed Paula audio** - Modern audio techniques within classic Amiga sound architecture
+  - **Evercade console port** - Cross-platform expansion with exclusive content additions
+  
+  **AGA Technical Excellence:**
+  - **Advanced Graphics Architecture optimization** - Maximum utilization of enhanced Amiga chipset
+  - **Color depth mastery** - Massive color palette creating rich visual experiences
+  - **Graphics processing innovation** - Modern programming techniques on retro hardware
+  - **Performance optimization** - Smooth gameplay despite complex visual enhancements
+  - **Hardware limitation transcendence** - Creative solutions maximizing platform capabilities
+  
+  **Assembly Programming Mastery:**
+  - **Low-level optimization** - Direct hardware programming achieving maximum performance
+  - **Technical expertise** - Sophisticated assembly language implementation
+  - **Hardware integration** - Perfect utilization of Amiga-specific features and capabilities
+  - **Code efficiency** - Optimal resource usage within platform constraints
+  - **Modern development practices** - Contemporary programming techniques on vintage platform
+  
+  **Retro Gaming Community Achievement:**
+  - **Active Amiga scene demonstration** - Proving continued developer interest in vintage platforms
+  - **Quality commitment** - Modern production values applied to retro platform development
+  - **Community support** - Dedicated fanbase supporting ongoing Amiga game creation
+  - **Preservation culture** - Keeping classic platforms alive through new software creation
+  - **Innovation inspiration** - Encouraging other developers to explore vintage platform potential
+  
+  **Cross-Platform Success:**
+  - **Evercade porting** - Successful adaptation to modern retro gaming console
+  - **Exclusive content** - Additional features created specifically for contemporary platform
+  - **Dual market appeal** - Serving both Amiga enthusiasts and modern retro gaming audiences
+  - **Commercial viability** - Demonstrating market for high-quality retro platform games
+  - **Distribution innovation** - Multiple platform release strategies for niche products
+  
+  **Technical Innovation Achievement:**
+  - **Graphics breakthrough** - Pushing AGA chipset beyond typical capabilities
+  - **Audio excellence** - Modern sound techniques within Paula audio architecture
+  - **Memory management** - Efficient resource usage enabling complex systems
+  - **Performance engineering** - Smooth roguelike mechanics despite visual enhancements
+  - **Hardware-software synergy** - Perfect integration of code with Amiga architecture
+  
+  **Roguelike Design Excellence:**
+  - **Traditional mechanics** - Authentic turn-based grid-based gameplay
+  - **Procedural generation** - Random dungeons ensuring unique exploration experiences
+  - **Permadeath stakes** - Meaningful consequences creating emotional investment
+  - **Strategic depth** - Complex tactical decisions within accessible framework
+  - **Visual enhancement** - Graphics quality elevating roguelike presentation
+  
+  **Cultural Gaming Impact:**
+  - **Retro platform validation** - Proving vintage systems can support contemporary development
+  - **Community inspiration** - Encouraging other developers to explore classic platforms
+  - **Technical demonstration** - Showcasing possibilities for advanced vintage platform programming
+  - **Preservation value** - Contributing to active maintenance of gaming history
+  - **Cross-generational appeal** - Bridging retro enthusiasts and modern gamers
+  
+  **Design Philosophy:**
+  - **Platform respect** - Development approach honoring Amiga heritage and capabilities
+  - **Technical excellence** - Maximum utilization of available hardware features
+  - **Modern quality standards** - Contemporary production values within retro constraints
+  - **Community service** - Creation motivated by love for platform and community
+  - **Innovation within tradition** - Pushing boundaries while respecting platform character
+  
+  **Educational Value:**
+  - **Advanced Amiga programming** - Complete example of modern AGA development techniques
+  - **Assembly optimization** - Low-level programming methods for maximum performance
+  - **Graphics programming mastery** - Advanced techniques for color depth and visual quality
+  - **Cross-platform development** - Methods for adapting games across different systems
+  - **Retro development culture** - Understanding contemporary vintage platform programming
+  
+  **Legacy Achievement:** **Roguecraft** demonstrates that **passionate expertise** and **technical mastery** can **breathe new life** into **classic platforms**, proving that **retro hardware** and **contemporary vision** can create **exceptional gaming experiences** that **honor platform heritage** while **pushing technical boundaries** and **inspiring continued community development**.
 release_date: "2025"
 developers:
   - "Badger Punch"

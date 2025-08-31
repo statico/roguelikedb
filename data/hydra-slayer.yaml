@@ -1,85 +1,86 @@
 name: "Hydra Slayer"
 slug: "hydra-slayer"
-description: "**The mathematical combat masterpiece** - Zeno Rogue's **educational innovation** that transforms **ancient Greek mythology** into **pure mathematical gameplay**, featuring **hydra regeneration puzzles**, **Steam success**, and **academic recognition** that proves **mathematical problem-solving** can create **extraordinary gaming experiences** through **mythological mathematical fusion**.
-
-**Hydra Mathematics Innovation:**
-- **Head regeneration algorithms** - Cutting heads spawning multiple new ones based on mathematical patterns
-- **Strategic decapitation planning** - Mathematical analysis required for optimal hydra elimination sequences
-- **Growth pattern prediction** - Players learning to calculate future hydra states through mathematical modeling
-- **Combinatorial optimization** - Finding minimum move solutions requiring advanced mathematical reasoning
-- **Pattern recognition mastery** - Identifying mathematical structures within seemingly chaotic regeneration
-
-**Educational Gaming Excellence:**
-- **Mathematical literacy development** - Complex number theory and combinatorics taught through gameplay
-- **Problem-solving skill building** - Logical reasoning and strategic planning enhanced through hydra challenges
-- **Abstract thinking cultivation** - Mathematical concepts made concrete through interactive mythological context
-- **Academic curriculum integration** - Used in mathematics education for teaching recursive sequences and growth patterns
-- **Research application value** - Mathematical concepts applicable to computer science and algorithmic thinking
-
-**Mythological Foundation Authenticity:**
-- **Greek mythology respect** - Hydra legend authentically represented through mathematical mechanics
-- **Cultural education integration** - Classical mythology made accessible through modern interactive experience
-- **Storytelling through mathematics** - Ancient tales retold through mathematical problem-solving
-- **Historical context preservation** - Mythological significance maintained while adding educational value
-- **Cross-disciplinary learning** - Combining classical studies with mathematical education
-
-**Steam Commercial Success:**
-- **Educational game market validation** - Commercial success proving demand for mathematical gaming content
-- **Cross-platform accessibility** - Windows, Linux, and Android versions reaching diverse educational markets
-- **Positive reception** - Strong reviews demonstrating effective combination of education and entertainment
-- **Teacher adoption** - Educators incorporating game into mathematics curriculum and lesson planning
-- **Student engagement** - Learners motivated by gaming context to tackle challenging mathematical concepts
-
-**Open Source Educational Impact:**
-- **GPLv2 licensing** - Complete source code available for educational use and academic study
-- **Community contributions** - Mathematicians and educators collaborating on content and feature development
-- **Modification encouragement** - Open source enabling teachers to adapt content for specific educational needs
-- **Academic transparency** - Mathematical implementations visible for verification and learning
-- **Research facilitation** - Source availability enabling academic study of educational game effectiveness
-
-**Puzzle Design Mastery:**
-- **Progressive difficulty** - Mathematical challenges increasing in complexity with careful pedagogical pacing
-- **Multiple solution paths** - Different mathematical approaches valid for same hydra elimination problems
-- **Hint system integration** - Educational scaffolding helping players discover mathematical principles
-- **Achievement recognition** - Milestones acknowledging mastery of specific mathematical concepts and techniques
-- **Replay value** - Procedural generation ensuring continued mathematical challenge and practice
-
-**Technical Mathematical Implementation:**
-- **Algorithmic accuracy** - Precise mathematical modeling ensuring educational validity and correctness
-- **Performance optimization** - Efficient computation despite complex mathematical calculations
-- **Visual mathematics** - Clear graphical representation making abstract concepts visually comprehensible
-- **Interface design** - Mathematical information presented clearly without overwhelming cognitive load
-- **Save system reliability** - Progress preservation supporting extended mathematical learning sessions
-
-**Community & Academic Recognition:**
-- **Mathematical community endorsement** - Professional mathematicians recognizing educational value and accuracy
-- **Educational conference presentations** - Featured at academic gatherings focused on mathematical education
-- **Research citations** - Referenced in academic papers studying effectiveness of game-based learning
-- **Teacher resources** - Educational materials and guides created by community for classroom use
-- **International adoption** - Used in mathematics education across different countries and educational systems
-
-**Cognitive Development Benefits:**
-- **Logical reasoning enhancement** - Sequential thinking skills developed through hydra elimination planning
-- **Pattern recognition improvement** - Mathematical structure identification abilities strengthened through gameplay
-- **Problem decomposition skills** - Complex challenges broken into manageable mathematical components
-- **Strategic thinking development** - Long-term planning abilities enhanced through multi-step puzzle solutions
-- **Mathematical confidence building** - Success in challenging problems boosting mathematical self-efficacy
-
-**Cultural Bridge Building:**
-- **STEM engagement** - Making mathematics appealing to students typically uninterested in abstract concepts
-- **Gender-inclusive design** - Mathematical gaming appealing to diverse student populations
-- **Cultural accessibility** - Mathematical principles transcending language and cultural barriers
-- **Intergenerational learning** - Games playable by students, teachers, and parents together
-- **Public mathematical engagement** - Making advanced mathematics accessible to general audiences
-
-**Research & Academic Applications:**
-- **Educational effectiveness studies** - Research examining learning outcomes from mathematical game play
-- **Cognitive science applications** - Understanding how mathematical thinking develops through gaming
-- **Pedagogical innovation** - New teaching methods emerging from successful educational game integration
-- **Assessment tools** - Games providing data on student mathematical understanding and progress
-- **Curriculum development** - Educational sequences informed by effective game-based learning progression
-
-**Legacy Achievement:** **Hydra Slayer** demonstrates that **ancient mythology** and **modern mathematics** can achieve **perfect educational synthesis**, proving that **challenging mathematical concepts** become **accessible and engaging** when **presented through interactive mythological contexts**, establishing **new standards** for **educational gaming effectiveness** and **mathematical learning innovation**."
+description: |
+  **The mathematical combat masterpiece** - Zeno Rogue's **educational innovation** that transforms **ancient Greek mythology** into **pure mathematical gameplay**, featuring **hydra regeneration puzzles**, **Steam success**, and **academic recognition** that proves **mathematical problem-solving** can create **extraordinary gaming experiences** through **mythological mathematical fusion**.
+  
+  **Hydra Mathematics Innovation:**
+  - **Head regeneration algorithms** - Cutting heads spawning multiple new ones based on mathematical patterns
+  - **Strategic decapitation planning** - Mathematical analysis required for optimal hydra elimination sequences
+  - **Growth pattern prediction** - Players learning to calculate future hydra states through mathematical modeling
+  - **Combinatorial optimization** - Finding minimum move solutions requiring advanced mathematical reasoning
+  - **Pattern recognition mastery** - Identifying mathematical structures within seemingly chaotic regeneration
+  
+  **Educational Gaming Excellence:**
+  - **Mathematical literacy development** - Complex number theory and combinatorics taught through gameplay
+  - **Problem-solving skill building** - Logical reasoning and strategic planning enhanced through hydra challenges
+  - **Abstract thinking cultivation** - Mathematical concepts made concrete through interactive mythological context
+  - **Academic curriculum integration** - Used in mathematics education for teaching recursive sequences and growth patterns
+  - **Research application value** - Mathematical concepts applicable to computer science and algorithmic thinking
+  
+  **Mythological Foundation Authenticity:**
+  - **Greek mythology respect** - Hydra legend authentically represented through mathematical mechanics
+  - **Cultural education integration** - Classical mythology made accessible through modern interactive experience
+  - **Storytelling through mathematics** - Ancient tales retold through mathematical problem-solving
+  - **Historical context preservation** - Mythological significance maintained while adding educational value
+  - **Cross-disciplinary learning** - Combining classical studies with mathematical education
+  
+  **Steam Commercial Success:**
+  - **Educational game market validation** - Commercial success proving demand for mathematical gaming content
+  - **Cross-platform accessibility** - Windows, Linux, and Android versions reaching diverse educational markets
+  - **Positive reception** - Strong reviews demonstrating effective combination of education and entertainment
+  - **Teacher adoption** - Educators incorporating game into mathematics curriculum and lesson planning
+  - **Student engagement** - Learners motivated by gaming context to tackle challenging mathematical concepts
+  
+  **Open Source Educational Impact:**
+  - **GPLv2 licensing** - Complete source code available for educational use and academic study
+  - **Community contributions** - Mathematicians and educators collaborating on content and feature development
+  - **Modification encouragement** - Open source enabling teachers to adapt content for specific educational needs
+  - **Academic transparency** - Mathematical implementations visible for verification and learning
+  - **Research facilitation** - Source availability enabling academic study of educational game effectiveness
+  
+  **Puzzle Design Mastery:**
+  - **Progressive difficulty** - Mathematical challenges increasing in complexity with careful pedagogical pacing
+  - **Multiple solution paths** - Different mathematical approaches valid for same hydra elimination problems
+  - **Hint system integration** - Educational scaffolding helping players discover mathematical principles
+  - **Achievement recognition** - Milestones acknowledging mastery of specific mathematical concepts and techniques
+  - **Replay value** - Procedural generation ensuring continued mathematical challenge and practice
+  
+  **Technical Mathematical Implementation:**
+  - **Algorithmic accuracy** - Precise mathematical modeling ensuring educational validity and correctness
+  - **Performance optimization** - Efficient computation despite complex mathematical calculations
+  - **Visual mathematics** - Clear graphical representation making abstract concepts visually comprehensible
+  - **Interface design** - Mathematical information presented clearly without overwhelming cognitive load
+  - **Save system reliability** - Progress preservation supporting extended mathematical learning sessions
+  
+  **Community & Academic Recognition:**
+  - **Mathematical community endorsement** - Professional mathematicians recognizing educational value and accuracy
+  - **Educational conference presentations** - Featured at academic gatherings focused on mathematical education
+  - **Research citations** - Referenced in academic papers studying effectiveness of game-based learning
+  - **Teacher resources** - Educational materials and guides created by community for classroom use
+  - **International adoption** - Used in mathematics education across different countries and educational systems
+  
+  **Cognitive Development Benefits:**
+  - **Logical reasoning enhancement** - Sequential thinking skills developed through hydra elimination planning
+  - **Pattern recognition improvement** - Mathematical structure identification abilities strengthened through gameplay
+  - **Problem decomposition skills** - Complex challenges broken into manageable mathematical components
+  - **Strategic thinking development** - Long-term planning abilities enhanced through multi-step puzzle solutions
+  - **Mathematical confidence building** - Success in challenging problems boosting mathematical self-efficacy
+  
+  **Cultural Bridge Building:**
+  - **STEM engagement** - Making mathematics appealing to students typically uninterested in abstract concepts
+  - **Gender-inclusive design** - Mathematical gaming appealing to diverse student populations
+  - **Cultural accessibility** - Mathematical principles transcending language and cultural barriers
+  - **Intergenerational learning** - Games playable by students, teachers, and parents together
+  - **Public mathematical engagement** - Making advanced mathematics accessible to general audiences
+  
+  **Research & Academic Applications:**
+  - **Educational effectiveness studies** - Research examining learning outcomes from mathematical game play
+  - **Cognitive science applications** - Understanding how mathematical thinking develops through gaming
+  - **Pedagogical innovation** - New teaching methods emerging from successful educational game integration
+  - **Assessment tools** - Games providing data on student mathematical understanding and progress
+  - **Curriculum development** - Educational sequences informed by effective game-based learning progression
+  
+  **Legacy Achievement:** **Hydra Slayer** demonstrates that **ancient mythology** and **modern mathematics** can achieve **perfect educational synthesis**, proving that **challenging mathematical concepts** become **accessible and engaging** when **presented through interactive mythological contexts**, establishing **new standards** for **educational gaming effectiveness** and **mathematical learning innovation**.
 release_date: "2012-01-01"
 latest_version: "18.0"
 developers:

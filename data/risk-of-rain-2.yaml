@@ -1,99 +1,100 @@
 name: "Risk of Rain 2"
 slug: "risk-of-rain-2"
-description: "**The 3D roguelite phenomenon** - Hopoo Games' **monumental achievement** that created a **revolutionary 3D multiplayer experience** featuring **4-player cooperative gameplay**, **circular level design innovation**, **time-based scaling difficulty**, **hundreds of stackable items**, and **over 15 million sales** proving that **roguelite mechanics** can **thrive in 3D environments** while **creating massive gaming communities** and **defining cooperative roguelike excellence**.
-
-**3D Revolution Achievement (2020):**
-- **Dimensional transformation** - Revolutionary adaptation of 2D roguelike mechanics into fully realized 3D environments
-- **August 11, 2020 release** - Multi-platform launch establishing new standards for 3D cooperative roguelikes
-- **Hopoo Games innovation** - Small development team creating globally successful and critically acclaimed sequel
-- **Gearbox Publishing support** - Professional publishing partnership enabling broad market reach
-- **Massive community formation** - Over 15 million players creating vibrant cooperative gaming culture
-
-**Multiplayer Innovation Excellence:**
-- **4-player cooperative gameplay** - Seamless online collaboration creating shared exploration and combat experiences
-- **Scaling cooperative balance** - Difficulty systems adapting to player count without trivializing solo gameplay
-- **Social gaming integration** - Cooperative mechanics fostering teamwork, communication, and shared achievement
-- **Technical excellence** - Stable multiplayer infrastructure supporting complex 3D environments and interactions
-- **Community building** - Cooperative features creating lasting friendships and gaming communities
-
-**Circular Level Design Mastery:**
-- **Revolutionary level architecture** - Circular environments enabling 360-degree exploration and tactical positioning
-- **Strategic movement** - 3D traversal creating layers of tactical decision-making and positioning strategy
-- **Environmental interaction** - 3D spaces providing multiple approaches to encounters and exploration
-- **Visibility management** - Circular design preventing corner camping while maintaining tactical positioning options
-- **Exploration flow** - Level layouts encouraging continuous movement and dynamic tactical adaptation
-
-**Scaling Difficulty Innovation:**
-- **Time-based progression** - Difficulty increasing over time creating natural pacing and urgency
-- **Risk-reward mechanics** - Players choosing between speed and thorough exploration for optimal progression
-- **Dynamic challenge** - Scaling systems ensuring appropriate difficulty across different player skill levels
-- **Strategic timing** - Time pressure creating meaningful decisions about exploration versus progression
-- **Adaptive balance** - Difficulty scaling accommodating both solo and cooperative gameplay modes
-
-**Item Stacking System Excellence:**
-- **Hundreds of items** - Extensive equipment variety providing countless build customization possibilities
-- **Stacking mechanics** - Multiple copies of items creating exponential power growth and strategic planning
-- **Emergent combinations** - Item interactions producing unexpected and powerful character build possibilities
-- **Build diversity** - Vast item pool supporting radically different playstyles and character approaches
-- **Discovery excitement** - Random item distribution creating constant surprise and adaptation opportunities
-
-**Commercial Success Excellence:**
-- **Over 15 million copies sold** - Unprecedented success demonstrating universal appeal of 3D cooperative roguelikes
-- **Overwhelmingly Positive Steam reviews** - 96% positive rating indicating exceptional player satisfaction
-- **Esports tournament presence** - Game featured in competitive events demonstrating skill ceiling and spectator appeal
-- **Cultural phenomenon** - Widespread recognition and influence on cooperative gaming and roguelike development
-- **Streaming culture** - Perfect game for content creation and audience engagement
-
-**Unity Engine Mastery:**
-- **Unity optimization** - Professional use of Unity engine delivering smooth 3D performance and visual quality
-- **Cross-platform excellence** - Consistent experience across Windows, PlayStation 4, Xbox One, and Nintendo Switch
-- **4GB RAM efficiency** - Comprehensive 3D content within accessible system requirements
-- **4GB storage optimization** - Complete game experience within minimal installation footprint
-- **Performance consistency** - Stable gameplay supporting complex 3D environments and multiplayer interactions
-
-**Technical Innovation:**
-- **3D roguelike architecture** - Complex systems managing procedural 3D environments and cooperative gameplay
-- **Multiplayer synchronization** - Seamless online cooperation supporting complex item interactions and scaling systems
-- **Procedural 3D generation** - Dynamic level creation maintaining quality and gameplay balance in 3D space
-- **Real-time scaling** - Live difficulty adjustment systems responding to player performance and time progression
-- **Version 1.2.4.1 refinement** - Continued development addressing community feedback and optimization
-
-**Community Impact:**
-- **Massive active community** - Vibrant player base sharing strategies, builds, and cooperative experiences
-- **Modding support** - Community modifications expanding game content and customization options
-- **Competitive scene** - Speedrunning and challenge communities developing around skill-based gameplay
-- **Educational content** - Players creating guides and tutorials supporting newcomer accessibility
-- **Cultural influence** - Game inspiring other developers to explore 3D cooperative roguelike concepts
-
-**Design Philosophy:**
-- **Cooperative emphasis** - All systems designed to enhance rather than compromise multiplayer experiences
-- **Player agency** - Item systems and character progression providing meaningful choice and customization
-- **Accessibility balance** - Complex mechanics presented through intuitive 3D interfaces and clear feedback
-- **Emergent gameplay** - Systems encouraging experimentation and creative build development
-- **Community service** - Features designed to foster positive cooperative interaction and shared success
-
-**Hopoo Games Development Excellence:**
-- **Small team achievement** - Independent developers creating globally successful AAA-quality experience
-- **Creative vision** - Unique design philosophy successfully translating 2D concepts into 3D innovation
-- **Community engagement** - Active developer communication and response to player feedback
-- **Post-launch support** - Continued content updates and improvements demonstrating long-term commitment
-- **Quality standards** - Professional polish and attention to detail throughout development process
-
-**Cultural Gaming Impact:**
-- **3D roguelike validation** - Proving 3D environments could successfully host traditional roguelike mechanics
-- **Cooperative gaming evolution** - Advancing standards for multiplayer roguelike experiences
-- **Indie game success** - Demonstrating potential for small developers to create globally competitive products
-- **Genre boundary expansion** - Contributing to roguelike recognition as adaptable framework for innovation
-- **Development inspiration** - Influencing other studios to explore 3D cooperative roguelike concepts
-
-**Educational Value:**
-- **3D roguelike development** - Methods for adapting traditional mechanics to 3D environments successfully
-- **Cooperative game design** - Techniques for creating meaningful multiplayer without compromising single-player integrity
-- **Scaling system implementation** - Approaches to dynamic difficulty and time-based progression mechanics
-- **Item system design** - Creating emergent gameplay through complex item interaction systems
-- **Community building** - Developing features that foster positive cooperative gaming experiences
-
-**Legacy Achievement:** **Risk of Rain 2** demonstrates that **roguelike innovation** can **transcend dimensional boundaries**, proving that **3D environments** and **cooperative gameplay** can **create unprecedented experiences** that **serve massive audiences** while **establishing new paradigms** for **cooperative roguelike development** and **indie game excellence**."
+description: |
+  **The 3D roguelite phenomenon** - Hopoo Games' **monumental achievement** that created a **revolutionary 3D multiplayer experience** featuring **4-player cooperative gameplay**, **circular level design innovation**, **time-based scaling difficulty**, **hundreds of stackable items**, and **over 15 million sales** proving that **roguelite mechanics** can **thrive in 3D environments** while **creating massive gaming communities** and **defining cooperative roguelike excellence**.
+  
+  **3D Revolution Achievement (2020):**
+  - **Dimensional transformation** - Revolutionary adaptation of 2D roguelike mechanics into fully realized 3D environments
+  - **August 11, 2020 release** - Multi-platform launch establishing new standards for 3D cooperative roguelikes
+  - **Hopoo Games innovation** - Small development team creating globally successful and critically acclaimed sequel
+  - **Gearbox Publishing support** - Professional publishing partnership enabling broad market reach
+  - **Massive community formation** - Over 15 million players creating vibrant cooperative gaming culture
+  
+  **Multiplayer Innovation Excellence:**
+  - **4-player cooperative gameplay** - Seamless online collaboration creating shared exploration and combat experiences
+  - **Scaling cooperative balance** - Difficulty systems adapting to player count without trivializing solo gameplay
+  - **Social gaming integration** - Cooperative mechanics fostering teamwork, communication, and shared achievement
+  - **Technical excellence** - Stable multiplayer infrastructure supporting complex 3D environments and interactions
+  - **Community building** - Cooperative features creating lasting friendships and gaming communities
+  
+  **Circular Level Design Mastery:**
+  - **Revolutionary level architecture** - Circular environments enabling 360-degree exploration and tactical positioning
+  - **Strategic movement** - 3D traversal creating layers of tactical decision-making and positioning strategy
+  - **Environmental interaction** - 3D spaces providing multiple approaches to encounters and exploration
+  - **Visibility management** - Circular design preventing corner camping while maintaining tactical positioning options
+  - **Exploration flow** - Level layouts encouraging continuous movement and dynamic tactical adaptation
+  
+  **Scaling Difficulty Innovation:**
+  - **Time-based progression** - Difficulty increasing over time creating natural pacing and urgency
+  - **Risk-reward mechanics** - Players choosing between speed and thorough exploration for optimal progression
+  - **Dynamic challenge** - Scaling systems ensuring appropriate difficulty across different player skill levels
+  - **Strategic timing** - Time pressure creating meaningful decisions about exploration versus progression
+  - **Adaptive balance** - Difficulty scaling accommodating both solo and cooperative gameplay modes
+  
+  **Item Stacking System Excellence:**
+  - **Hundreds of items** - Extensive equipment variety providing countless build customization possibilities
+  - **Stacking mechanics** - Multiple copies of items creating exponential power growth and strategic planning
+  - **Emergent combinations** - Item interactions producing unexpected and powerful character build possibilities
+  - **Build diversity** - Vast item pool supporting radically different playstyles and character approaches
+  - **Discovery excitement** - Random item distribution creating constant surprise and adaptation opportunities
+  
+  **Commercial Success Excellence:**
+  - **Over 15 million copies sold** - Unprecedented success demonstrating universal appeal of 3D cooperative roguelikes
+  - **Overwhelmingly Positive Steam reviews** - 96% positive rating indicating exceptional player satisfaction
+  - **Esports tournament presence** - Game featured in competitive events demonstrating skill ceiling and spectator appeal
+  - **Cultural phenomenon** - Widespread recognition and influence on cooperative gaming and roguelike development
+  - **Streaming culture** - Perfect game for content creation and audience engagement
+  
+  **Unity Engine Mastery:**
+  - **Unity optimization** - Professional use of Unity engine delivering smooth 3D performance and visual quality
+  - **Cross-platform excellence** - Consistent experience across Windows, PlayStation 4, Xbox One, and Nintendo Switch
+  - **4GB RAM efficiency** - Comprehensive 3D content within accessible system requirements
+  - **4GB storage optimization** - Complete game experience within minimal installation footprint
+  - **Performance consistency** - Stable gameplay supporting complex 3D environments and multiplayer interactions
+  
+  **Technical Innovation:**
+  - **3D roguelike architecture** - Complex systems managing procedural 3D environments and cooperative gameplay
+  - **Multiplayer synchronization** - Seamless online cooperation supporting complex item interactions and scaling systems
+  - **Procedural 3D generation** - Dynamic level creation maintaining quality and gameplay balance in 3D space
+  - **Real-time scaling** - Live difficulty adjustment systems responding to player performance and time progression
+  - **Version 1.2.4.1 refinement** - Continued development addressing community feedback and optimization
+  
+  **Community Impact:**
+  - **Massive active community** - Vibrant player base sharing strategies, builds, and cooperative experiences
+  - **Modding support** - Community modifications expanding game content and customization options
+  - **Competitive scene** - Speedrunning and challenge communities developing around skill-based gameplay
+  - **Educational content** - Players creating guides and tutorials supporting newcomer accessibility
+  - **Cultural influence** - Game inspiring other developers to explore 3D cooperative roguelike concepts
+  
+  **Design Philosophy:**
+  - **Cooperative emphasis** - All systems designed to enhance rather than compromise multiplayer experiences
+  - **Player agency** - Item systems and character progression providing meaningful choice and customization
+  - **Accessibility balance** - Complex mechanics presented through intuitive 3D interfaces and clear feedback
+  - **Emergent gameplay** - Systems encouraging experimentation and creative build development
+  - **Community service** - Features designed to foster positive cooperative interaction and shared success
+  
+  **Hopoo Games Development Excellence:**
+  - **Small team achievement** - Independent developers creating globally successful AAA-quality experience
+  - **Creative vision** - Unique design philosophy successfully translating 2D concepts into 3D innovation
+  - **Community engagement** - Active developer communication and response to player feedback
+  - **Post-launch support** - Continued content updates and improvements demonstrating long-term commitment
+  - **Quality standards** - Professional polish and attention to detail throughout development process
+  
+  **Cultural Gaming Impact:**
+  - **3D roguelike validation** - Proving 3D environments could successfully host traditional roguelike mechanics
+  - **Cooperative gaming evolution** - Advancing standards for multiplayer roguelike experiences
+  - **Indie game success** - Demonstrating potential for small developers to create globally competitive products
+  - **Genre boundary expansion** - Contributing to roguelike recognition as adaptable framework for innovation
+  - **Development inspiration** - Influencing other studios to explore 3D cooperative roguelike concepts
+  
+  **Educational Value:**
+  - **3D roguelike development** - Methods for adapting traditional mechanics to 3D environments successfully
+  - **Cooperative game design** - Techniques for creating meaningful multiplayer without compromising single-player integrity
+  - **Scaling system implementation** - Approaches to dynamic difficulty and time-based progression mechanics
+  - **Item system design** - Creating emergent gameplay through complex item interaction systems
+  - **Community building** - Developing features that foster positive cooperative gaming experiences
+  
+  **Legacy Achievement:** **Risk of Rain 2** demonstrates that **roguelike innovation** can **transcend dimensional boundaries**, proving that **3D environments** and **cooperative gameplay** can **create unprecedented experiences** that **serve massive audiences** while **establishing new paradigms** for **cooperative roguelike development** and **indie game excellence**.
 release_date: "2020-08-11"
 latest_version: "1.2.4.1"
 developers:

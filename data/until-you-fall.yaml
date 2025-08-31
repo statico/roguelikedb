@@ -1,67 +1,68 @@
 name: "Until You Fall"
 slug: "until-you-fall"
-description: "**The definitive VR roguelike experience** - Schematic Games' **sword-fighting VR roguelite** that perfected **melee combat in virtual reality**, featuring **rhythmic swordplay**, **cyberpunk aesthetics**, and **full-body engagement**.
-
-**VR Combat Revolution:**
-- **Physics-based sword combat** - Realistic blade collision and momentum
-- **Rhythmic battle system** - Combat flows like a deadly dance
-- **360-degree awareness** - Enemies attack from all directions
-- **Parry and riposte mechanics** - Timing-based defensive and offensive play
-- **Full-body engagement** - Ducking, weaving, and striking with whole body
-
-**Cyberpunk World Excellence:**
-- **Neon-soaked environments** - Vibrant cyberpunk aesthetic perfectly suited to VR
-- **Electronic soundtrack** - Music that synchronizes with combat rhythms
-- **Weapon variety** - Swords, hammers, and magical implements with unique feels
-- **Enemy design** - Robotic and mystical foes requiring different combat approaches
-- **Environmental interaction** - Destructible objects and interactive elements
-
-**VR Platform Innovation:**
-- **Oculus Rift/Quest optimization** - Built specifically for VR hardware
-- **SteamVR support** - Compatible with major VR headsets
-- **Comfort settings** - Multiple locomotion and comfort options
-- **Accessibility features** - Height adjustment and motion sickness reduction
-- **Performance optimization** - Stable 90fps for comfortable VR experience
-
-**Roguelike Progression Systems:**
-- **Run-based progression** - Each death provides permanent character upgrades
-- **Weapon unlocks** - New armaments available through successful runs
-- **Skill trees** - Multiple progression paths affecting combat style
-- **Procedural arenas** - Generated combat encounters with varying layouts
-- **Boss variety** - Unique large-scale enemies requiring different strategies
-
-**Commercial & Critical Success:**
-- **VR Game of the Year nominations** - Recognition for VR excellence
-- **Strong sales performance** - One of the top-selling VR roguelikes
-- **Content creator favorite** - Highly watchable VR combat content
-- **Community praise** - VR enthusiasts embraced as genre-defining
-
-**Technical Achievement:**
-- **Precise motion tracking** - Accurate sword position and rotation detection
-- **Haptic feedback integration** - Controller vibration enhancing impact feel
-- **Visual clarity** - Sharp graphics maintaining performance in VR
-- **Audio design** - 3D positional audio crucial for combat awareness
-- **Comfort engineering** - Reduced motion sickness through careful design
-
-**Cultural Impact in VR:**
-- **VR roguelike template** - Established design patterns for VR roguelikes
-- **Fitness gaming crossover** - Significant physical workout through sword combat
-- **Streaming phenomenon** - VR streamers showcased dramatic combat moments
-- **VR adoption driver** - Game that convinced players to invest in VR hardware
-
-**Community & Longevity:**
-- **Active VR community** - Players sharing combat techniques and strategies
-- **Fitness tracking** - Community sharing workout statistics from gameplay
-- **Tournament potential** - Competitive possibilities in VR swordplay
-- **Educational value** - Teaching proper sword mechanics through fun gameplay
-
-**Development Excellence:**
-- **Schematic Games expertise** - Specialized VR development studio
-- **Iterative design** - Continuous improvement based on player feedback
-- **VR-first approach** - Designed for VR from ground up, not ported
-- **Platform partnerships** - Close collaboration with VR hardware manufacturers
-
-**Legacy Innovation:** Proved that **traditional roguelike mechanics** could be **completely transformed** by **VR technology**, creating **physically engaging experiences** that were impossible on traditional platforms. Established **melee VR combat** as a distinct and compelling genre."
+description: |
+  **The definitive VR roguelike experience** - Schematic Games' **sword-fighting VR roguelite** that perfected **melee combat in virtual reality**, featuring **rhythmic swordplay**, **cyberpunk aesthetics**, and **full-body engagement**.
+  
+  **VR Combat Revolution:**
+  - **Physics-based sword combat** - Realistic blade collision and momentum
+  - **Rhythmic battle system** - Combat flows like a deadly dance
+  - **360-degree awareness** - Enemies attack from all directions
+  - **Parry and riposte mechanics** - Timing-based defensive and offensive play
+  - **Full-body engagement** - Ducking, weaving, and striking with whole body
+  
+  **Cyberpunk World Excellence:**
+  - **Neon-soaked environments** - Vibrant cyberpunk aesthetic perfectly suited to VR
+  - **Electronic soundtrack** - Music that synchronizes with combat rhythms
+  - **Weapon variety** - Swords, hammers, and magical implements with unique feels
+  - **Enemy design** - Robotic and mystical foes requiring different combat approaches
+  - **Environmental interaction** - Destructible objects and interactive elements
+  
+  **VR Platform Innovation:**
+  - **Oculus Rift/Quest optimization** - Built specifically for VR hardware
+  - **SteamVR support** - Compatible with major VR headsets
+  - **Comfort settings** - Multiple locomotion and comfort options
+  - **Accessibility features** - Height adjustment and motion sickness reduction
+  - **Performance optimization** - Stable 90fps for comfortable VR experience
+  
+  **Roguelike Progression Systems:**
+  - **Run-based progression** - Each death provides permanent character upgrades
+  - **Weapon unlocks** - New armaments available through successful runs
+  - **Skill trees** - Multiple progression paths affecting combat style
+  - **Procedural arenas** - Generated combat encounters with varying layouts
+  - **Boss variety** - Unique large-scale enemies requiring different strategies
+  
+  **Commercial & Critical Success:**
+  - **VR Game of the Year nominations** - Recognition for VR excellence
+  - **Strong sales performance** - One of the top-selling VR roguelikes
+  - **Content creator favorite** - Highly watchable VR combat content
+  - **Community praise** - VR enthusiasts embraced as genre-defining
+  
+  **Technical Achievement:**
+  - **Precise motion tracking** - Accurate sword position and rotation detection
+  - **Haptic feedback integration** - Controller vibration enhancing impact feel
+  - **Visual clarity** - Sharp graphics maintaining performance in VR
+  - **Audio design** - 3D positional audio crucial for combat awareness
+  - **Comfort engineering** - Reduced motion sickness through careful design
+  
+  **Cultural Impact in VR:**
+  - **VR roguelike template** - Established design patterns for VR roguelikes
+  - **Fitness gaming crossover** - Significant physical workout through sword combat
+  - **Streaming phenomenon** - VR streamers showcased dramatic combat moments
+  - **VR adoption driver** - Game that convinced players to invest in VR hardware
+  
+  **Community & Longevity:**
+  - **Active VR community** - Players sharing combat techniques and strategies
+  - **Fitness tracking** - Community sharing workout statistics from gameplay
+  - **Tournament potential** - Competitive possibilities in VR swordplay
+  - **Educational value** - Teaching proper sword mechanics through fun gameplay
+  
+  **Development Excellence:**
+  - **Schematic Games expertise** - Specialized VR development studio
+  - **Iterative design** - Continuous improvement based on player feedback
+  - **VR-first approach** - Designed for VR from ground up, not ported
+  - **Platform partnerships** - Close collaboration with VR hardware manufacturers
+  
+  **Legacy Innovation:** Proved that **traditional roguelike mechanics** could be **completely transformed** by **VR technology**, creating **physically engaging experiences** that were impossible on traditional platforms. Established **melee VR combat** as a distinct and compelling genre.
 release_date: "2020-10-27"
 latest_version: "1.10"
 developers:

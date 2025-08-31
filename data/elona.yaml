@@ -1,78 +1,79 @@
 name: "Elona"
 slug: "elona"
-description: "**The absurdist roguelike masterpiece** - Noa's **cult phenomenon** combining **traditional roguelike depth** with **anarchic Japanese humor**, **comprehensive pet systems**, and **sandbox freedom** that created a **devoted international fanbase** through **utterly bizarre gameplay experiences** and **limitless creative possibilities**.
-
-**Absurdist Humor Excellence:**
-- **Surreal situation generation** - Randomly created scenarios ranging from mundane to completely bizarre
-- **Pop culture parody mastery** - References to anime, manga, and Japanese pop culture woven throughout
-- **Dark comedy integration** - Morbid humor balanced with lighthearted absurdity
-- **Character naming chaos** - NPCs and pets with ridiculous randomly generated names and personalities
-- **Breaking fourth wall** - Meta-humor acknowledging game mechanics and player expectations
-
-**Comprehensive Pet System:**
-- **Unlimited pet recruitment** - Capture, breed, and train virtually any creature in the game
-- **Pet development depth** - Complex stat growth, skill learning, and personality development
-- **Genetic manipulation** - Breeding systems creating unique hybrid creatures with combined abilities
-- **Pet AI sophistication** - Companions with distinct behaviors, preferences, and relationship dynamics
-- **Pokemon-like collection** - Hundreds of creature types each with unique characteristics and abilities
-
-**Sandbox Freedom Revolution:**
-- **Open-ended gameplay** - No forced progression allowing players to create their own objectives
-- **Career diversity** - Multiple professions from shopkeeper to musician to professional gambler
-- **Base building complexity** - Extensive construction and customization options for personal spaces
-- **Economic simulation** - Complex trading, crafting, and business management systems
-- **Social interaction depth** - Relationship building with NPCs affecting gameplay and opportunities
-
-**Japanese Cultural Phenomenon:**
-- **Freeware distribution** - Complete game available free demonstrating pure passion project development
-- **Doujin game culture** - Independent Japanese development showcasing creative freedom and innovation
-- **Otaku appeal integration** - Anime aesthetics and references creating dedicated subculture following
-- **Language barrier transcendence** - International popularity despite Japanese-centric humor and references
-- **Fan translation dedication** - Community efforts preserving game accessibility across cultures
-
-**Cult Classic Status:**
-- **International devoted fanbase** - Players creating extensive guides, wikis, and community content
-- **Elona+ community fork** - Fan-maintained enhanced version with additional content and features
-- **Meme culture creation** - Bizarre game situations becoming internet folklore and shared experiences
-- **Streaming entertainment** - Content creators showcasing absurd gameplay moments and discoveries
-- **Community storytelling** - Players sharing incredible emergent narrative experiences
-
-**Technical Innovation:**
-- **Custom 2D engine** - Purpose-built system supporting complex simulation and interaction systems
-- **Save system complexity** - Preserving vast amounts of character, pet, and world state information
-- **Content generation algorithms** - Procedural systems creating endless variety in items, situations, and encounters
-- **Performance optimization** - Smooth gameplay despite enormous simulation complexity
-- **Modding architecture** - Community tools enabling content creation and game modification
-
-**Gameplay System Depth:**
-- **Skill system complexity** - Hundreds of skills with intricate interactions and development paths
-- **Item variety explosion** - Thousands of items with unique properties, effects, and interactions
-- **Magic system creativity** - Spells and abilities ranging from practical to completely absurd
-- **Crafting depth** - Complex creation systems enabling player expression and experimentation
-- **Event variety** - Random occurrences creating unique stories and gameplay moments
-
-**Community & Preservation:**
-- **Wiki documentation** - Comprehensive community-maintained information preserving game knowledge
-- **Translation projects** - Multiple language versions created and maintained by volunteer communities
-- **Mod development** - Extensive community content expanding game systems and possibilities
-- **Historical preservation** - Dedicated fans ensuring game availability and compatibility across decades
-- **Educational value** - Studied for innovative game design and community-driven development
-
-**Cultural Impact:**
-- **Japanese indie influence** - Inspired other developers to embrace creative freedom and humor
-- **Sandbox game evolution** - Demonstrated potential for player-driven narrative and objective creation
-- **Pet system templates** - Influenced companion mechanics in numerous other games
-- **Humor in games** - Showed absurdity could enhance rather than undermine serious gameplay systems
-- **Community-driven content** - Model for fan engagement and collaborative game preservation
-
-**Design Philosophy:**
-- **Player agency maximization** - Systems designed to enable rather than restrict player creativity
-- **Emergent storytelling** - Mechanics creating natural narrative moments through interaction
-- **Accessibility through absurdity** - Complex systems made approachable through humor and surprise
-- **Cultural expression** - Authentic Japanese creativity exported to international audiences
-- **Creative freedom celebration** - Development prioritizing imagination over commercial considerations
-
-**Legacy Achievement:** **Elona** demonstrates that **unbridled creativity** and **cultural authenticity** can create **gaming experiences** of **extraordinary depth and longevity**, proving that **humor and absurdity** can **enhance rather than diminish** serious gameplay systems while building **devoted international communities** through **pure creative passion** and **cultural exchange**."
+description: |
+  **The absurdist roguelike masterpiece** - Noa's **cult phenomenon** combining **traditional roguelike depth** with **anarchic Japanese humor**, **comprehensive pet systems**, and **sandbox freedom** that created a **devoted international fanbase** through **utterly bizarre gameplay experiences** and **limitless creative possibilities**.
+  
+  **Absurdist Humor Excellence:**
+  - **Surreal situation generation** - Randomly created scenarios ranging from mundane to completely bizarre
+  - **Pop culture parody mastery** - References to anime, manga, and Japanese pop culture woven throughout
+  - **Dark comedy integration** - Morbid humor balanced with lighthearted absurdity
+  - **Character naming chaos** - NPCs and pets with ridiculous randomly generated names and personalities
+  - **Breaking fourth wall** - Meta-humor acknowledging game mechanics and player expectations
+  
+  **Comprehensive Pet System:**
+  - **Unlimited pet recruitment** - Capture, breed, and train virtually any creature in the game
+  - **Pet development depth** - Complex stat growth, skill learning, and personality development
+  - **Genetic manipulation** - Breeding systems creating unique hybrid creatures with combined abilities
+  - **Pet AI sophistication** - Companions with distinct behaviors, preferences, and relationship dynamics
+  - **Pokemon-like collection** - Hundreds of creature types each with unique characteristics and abilities
+  
+  **Sandbox Freedom Revolution:**
+  - **Open-ended gameplay** - No forced progression allowing players to create their own objectives
+  - **Career diversity** - Multiple professions from shopkeeper to musician to professional gambler
+  - **Base building complexity** - Extensive construction and customization options for personal spaces
+  - **Economic simulation** - Complex trading, crafting, and business management systems
+  - **Social interaction depth** - Relationship building with NPCs affecting gameplay and opportunities
+  
+  **Japanese Cultural Phenomenon:**
+  - **Freeware distribution** - Complete game available free demonstrating pure passion project development
+  - **Doujin game culture** - Independent Japanese development showcasing creative freedom and innovation
+  - **Otaku appeal integration** - Anime aesthetics and references creating dedicated subculture following
+  - **Language barrier transcendence** - International popularity despite Japanese-centric humor and references
+  - **Fan translation dedication** - Community efforts preserving game accessibility across cultures
+  
+  **Cult Classic Status:**
+  - **International devoted fanbase** - Players creating extensive guides, wikis, and community content
+  - **Elona+ community fork** - Fan-maintained enhanced version with additional content and features
+  - **Meme culture creation** - Bizarre game situations becoming internet folklore and shared experiences
+  - **Streaming entertainment** - Content creators showcasing absurd gameplay moments and discoveries
+  - **Community storytelling** - Players sharing incredible emergent narrative experiences
+  
+  **Technical Innovation:**
+  - **Custom 2D engine** - Purpose-built system supporting complex simulation and interaction systems
+  - **Save system complexity** - Preserving vast amounts of character, pet, and world state information
+  - **Content generation algorithms** - Procedural systems creating endless variety in items, situations, and encounters
+  - **Performance optimization** - Smooth gameplay despite enormous simulation complexity
+  - **Modding architecture** - Community tools enabling content creation and game modification
+  
+  **Gameplay System Depth:**
+  - **Skill system complexity** - Hundreds of skills with intricate interactions and development paths
+  - **Item variety explosion** - Thousands of items with unique properties, effects, and interactions
+  - **Magic system creativity** - Spells and abilities ranging from practical to completely absurd
+  - **Crafting depth** - Complex creation systems enabling player expression and experimentation
+  - **Event variety** - Random occurrences creating unique stories and gameplay moments
+  
+  **Community & Preservation:**
+  - **Wiki documentation** - Comprehensive community-maintained information preserving game knowledge
+  - **Translation projects** - Multiple language versions created and maintained by volunteer communities
+  - **Mod development** - Extensive community content expanding game systems and possibilities
+  - **Historical preservation** - Dedicated fans ensuring game availability and compatibility across decades
+  - **Educational value** - Studied for innovative game design and community-driven development
+  
+  **Cultural Impact:**
+  - **Japanese indie influence** - Inspired other developers to embrace creative freedom and humor
+  - **Sandbox game evolution** - Demonstrated potential for player-driven narrative and objective creation
+  - **Pet system templates** - Influenced companion mechanics in numerous other games
+  - **Humor in games** - Showed absurdity could enhance rather than undermine serious gameplay systems
+  - **Community-driven content** - Model for fan engagement and collaborative game preservation
+  
+  **Design Philosophy:**
+  - **Player agency maximization** - Systems designed to enable rather than restrict player creativity
+  - **Emergent storytelling** - Mechanics creating natural narrative moments through interaction
+  - **Accessibility through absurdity** - Complex systems made approachable through humor and surprise
+  - **Cultural expression** - Authentic Japanese creativity exported to international audiences
+  - **Creative freedom celebration** - Development prioritizing imagination over commercial considerations
+  
+  **Legacy Achievement:** **Elona** demonstrates that **unbridled creativity** and **cultural authenticity** can create **gaming experiences** of **extraordinary depth and longevity**, proving that **humor and absurdity** can **enhance rather than diminish** serious gameplay systems while building **devoted international communities** through **pure creative passion** and **cultural exchange**.
 release_date: "2006-08-18"
 latest_version: "1.22"
 developers:

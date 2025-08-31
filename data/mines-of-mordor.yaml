@@ -1,78 +1,79 @@
 name: "Mines of Mordor"
 slug: "mines-of-mordor"
-description: "**The personal computer roguelike pioneer** - Scott Cunningham's **foundational achievement** that created **one of the earliest personal computer roguelikes** on the **TRS-80** in 1979, featuring **Tolkien-inspired atmosphere**, **primitive graphics**, and **dungeon crawling mechanics** that proved **home computers** could **support complex gaming** while **establishing genre presence** outside **mainframe environments** and **predating university Rogue** by **one year**.
-
-**Personal Computer Gaming Revolution (1979):**
-- **Earliest personal computer roguelike** - Revolutionary adaptation of dungeon crawling for home computing
-- **TRS-80 platform pioneering** - Demonstrating complex gaming potential on Radio Shack personal computer
-- **Pre-Rogue achievement** - Dungeon crawling implementation predating university Rogue by one year
-- **Home computing validation** - Proving personal computers could support sophisticated gaming experiences
-- **Consumer accessibility** - Bringing dungeon exploration to retail computer owners
-
-**Tolkien Influence Pioneer:**
-- **Middle-earth inspiration** - Tolkien-themed roguelike predating Moria by several years
-- **Literary gaming connection** - Early demonstration of fantasy literature's gaming potential
-- **Mordor setting authenticity** - Respectful adaptation of Tolkien's most famous evil location
-- **Fantasy atmosphere creation** - Environmental storytelling through Tolkien-inspired dungeon design
-- **Cultural synthesis** - Combining emerging computer gaming with beloved literary tradition
-
-**TRS-80 Technical Achievement:**
-- **BASIC programming mastery** - Complex dungeon systems within accessible development environment
-- **16KB memory optimization** - Sophisticated gameplay within severe home computer constraints
-- **Primitive graphics innovation** - Early visual presentation on personal computer platform
-- **Hardware limitation transcendence** - Maximum gaming complexity within TRS-80 Model I capabilities
-- **Consumer hardware adaptation** - Professional gaming experience on affordable home computer
-
-**Foundational Gaming Impact:**
-- **Personal computer precedent** - Establishing viability of complex games on home computing platforms
-- **Genre establishment** - Contributing to roguelike recognition outside academic environments
-- **Commercial potential** - Demonstrating market appetite for sophisticated home computer gaming
-- **Development inspiration** - Encouraging other developers to explore personal computer gaming
-- **Platform expansion** - Bringing dungeon crawling beyond mainframes and university systems
-
-**Historical Significance:**
-- **Pre-Rogue innovation** - Independent development of dungeon crawling concepts
-- **Home computing milestone** - Early example of sophisticated personal computer entertainment
-- **Literary gaming bridge** - Connecting fantasy literature with emerging computer gaming culture
-- **Consumer validation** - Proving home computer owners desired complex gaming experiences
-- **Preservation importance** - Critical artifact representing early personal computer gaming history
-
-**Design Innovation:**
-- **Turn-based exploration** - Strategic dungeon navigation adapted for personal computer controls
-- **Procedural generation** - Random dungeon layouts ensuring varied exploration experiences
-- **Permadeath consequences** - Meaningful character mortality creating emotional investment
-- **Resource management** - Survival elements requiring strategic planning and conservation
-- **Atmospheric immersion** - Tolkien-inspired setting creating compelling exploration motivation
-
-**Technical Legacy:**
-- **BASIC roguelike programming** - Development techniques for complex games in accessible languages
-- **Personal computer optimization** - Methods for maximizing gameplay within home computer limitations
-- **Graphics innovation** - Early approaches to visual presentation on primitive display systems
-- **Memory management** - Efficient resource usage within severe storage constraints
-- **Platform adaptation** - Techniques for bringing complex concepts to consumer hardware
-
-**Cultural Impact:**
-- **Home computing legitimacy** - Contributing to recognition of personal computers as serious gaming platforms
-- **Literary adaptation** - Demonstrating potential for respectful translation of beloved literature
-- **Consumer empowerment** - Bringing sophisticated gaming experiences to home computer owners
-- **Genre expansion** - Extending dungeon crawling beyond academic and mainframe environments
-- **Innovation inspiration** - Encouraging further exploration of personal computer gaming potential
-
-**Preservation Challenges:**
-- **Historical artifact** - Rare example of earliest personal computer gaming requiring careful preservation
-- **Platform rarity** - TRS-80 hardware and software increasingly difficult to maintain and access
-- **Documentation importance** - Critical evidence of early personal computer game development
-- **Educational value** - Teaching early home computer programming and gaming history
-- **Cultural significance** - Representing foundational moment in personal computer entertainment
-
-**Educational Value:**
-- **Early personal computer programming** - Complete example of 1970s home computer game development
-- **BASIC programming techniques** - Accessible language methods for complex gaming systems
-- **Literary adaptation** - Approaches to respectful translation of fantasy literature for gaming
-- **Historical computing** - Understanding early personal computer capabilities and limitations
-- **Preservation methodology** - Techniques for maintaining early computing artifacts and history
-
-**Legacy Achievement:** **Mines of Mordor** demonstrates that **personal computers** and **creative vision** can **establish entire gaming categories**, proving that **home computing** and **literary inspiration** can **create compelling experiences** while **pioneering consumer gaming** and **inspiring decades** of **fantasy dungeon exploration** on **personal computing platforms**."
+description: |
+  **The personal computer roguelike pioneer** - Scott Cunningham's **foundational achievement** that created **one of the earliest personal computer roguelikes** on the **TRS-80** in 1979, featuring **Tolkien-inspired atmosphere**, **primitive graphics**, and **dungeon crawling mechanics** that proved **home computers** could **support complex gaming** while **establishing genre presence** outside **mainframe environments** and **predating university Rogue** by **one year**.
+  
+  **Personal Computer Gaming Revolution (1979):**
+  - **Earliest personal computer roguelike** - Revolutionary adaptation of dungeon crawling for home computing
+  - **TRS-80 platform pioneering** - Demonstrating complex gaming potential on Radio Shack personal computer
+  - **Pre-Rogue achievement** - Dungeon crawling implementation predating university Rogue by one year
+  - **Home computing validation** - Proving personal computers could support sophisticated gaming experiences
+  - **Consumer accessibility** - Bringing dungeon exploration to retail computer owners
+  
+  **Tolkien Influence Pioneer:**
+  - **Middle-earth inspiration** - Tolkien-themed roguelike predating Moria by several years
+  - **Literary gaming connection** - Early demonstration of fantasy literature's gaming potential
+  - **Mordor setting authenticity** - Respectful adaptation of Tolkien's most famous evil location
+  - **Fantasy atmosphere creation** - Environmental storytelling through Tolkien-inspired dungeon design
+  - **Cultural synthesis** - Combining emerging computer gaming with beloved literary tradition
+  
+  **TRS-80 Technical Achievement:**
+  - **BASIC programming mastery** - Complex dungeon systems within accessible development environment
+  - **16KB memory optimization** - Sophisticated gameplay within severe home computer constraints
+  - **Primitive graphics innovation** - Early visual presentation on personal computer platform
+  - **Hardware limitation transcendence** - Maximum gaming complexity within TRS-80 Model I capabilities
+  - **Consumer hardware adaptation** - Professional gaming experience on affordable home computer
+  
+  **Foundational Gaming Impact:**
+  - **Personal computer precedent** - Establishing viability of complex games on home computing platforms
+  - **Genre establishment** - Contributing to roguelike recognition outside academic environments
+  - **Commercial potential** - Demonstrating market appetite for sophisticated home computer gaming
+  - **Development inspiration** - Encouraging other developers to explore personal computer gaming
+  - **Platform expansion** - Bringing dungeon crawling beyond mainframes and university systems
+  
+  **Historical Significance:**
+  - **Pre-Rogue innovation** - Independent development of dungeon crawling concepts
+  - **Home computing milestone** - Early example of sophisticated personal computer entertainment
+  - **Literary gaming bridge** - Connecting fantasy literature with emerging computer gaming culture
+  - **Consumer validation** - Proving home computer owners desired complex gaming experiences
+  - **Preservation importance** - Critical artifact representing early personal computer gaming history
+  
+  **Design Innovation:**
+  - **Turn-based exploration** - Strategic dungeon navigation adapted for personal computer controls
+  - **Procedural generation** - Random dungeon layouts ensuring varied exploration experiences
+  - **Permadeath consequences** - Meaningful character mortality creating emotional investment
+  - **Resource management** - Survival elements requiring strategic planning and conservation
+  - **Atmospheric immersion** - Tolkien-inspired setting creating compelling exploration motivation
+  
+  **Technical Legacy:**
+  - **BASIC roguelike programming** - Development techniques for complex games in accessible languages
+  - **Personal computer optimization** - Methods for maximizing gameplay within home computer limitations
+  - **Graphics innovation** - Early approaches to visual presentation on primitive display systems
+  - **Memory management** - Efficient resource usage within severe storage constraints
+  - **Platform adaptation** - Techniques for bringing complex concepts to consumer hardware
+  
+  **Cultural Impact:**
+  - **Home computing legitimacy** - Contributing to recognition of personal computers as serious gaming platforms
+  - **Literary adaptation** - Demonstrating potential for respectful translation of beloved literature
+  - **Consumer empowerment** - Bringing sophisticated gaming experiences to home computer owners
+  - **Genre expansion** - Extending dungeon crawling beyond academic and mainframe environments
+  - **Innovation inspiration** - Encouraging further exploration of personal computer gaming potential
+  
+  **Preservation Challenges:**
+  - **Historical artifact** - Rare example of earliest personal computer gaming requiring careful preservation
+  - **Platform rarity** - TRS-80 hardware and software increasingly difficult to maintain and access
+  - **Documentation importance** - Critical evidence of early personal computer game development
+  - **Educational value** - Teaching early home computer programming and gaming history
+  - **Cultural significance** - Representing foundational moment in personal computer entertainment
+  
+  **Educational Value:**
+  - **Early personal computer programming** - Complete example of 1970s home computer game development
+  - **BASIC programming techniques** - Accessible language methods for complex gaming systems
+  - **Literary adaptation** - Approaches to respectful translation of fantasy literature for gaming
+  - **Historical computing** - Understanding early personal computer capabilities and limitations
+  - **Preservation methodology** - Techniques for maintaining early computing artifacts and history
+  
+  **Legacy Achievement:** **Mines of Mordor** demonstrates that **personal computers** and **creative vision** can **establish entire gaming categories**, proving that **home computing** and **literary inspiration** can **create compelling experiences** while **pioneering consumer gaming** and **inspiring decades** of **fantasy dungeon exploration** on **personal computing platforms**.
 release_date: "1979"
 developers:
   - "Scott Cunningham"

@@ -1,37 +1,38 @@
 name: "Brogue"
 slug: "brogue"
-description: "**The most elegant roguelike ever created** - **Brian Walker's** masterpiece that began development in **2009**, with the latest **Community Edition v1.14.1** released **August 31, 2024**.
-
-**Design Philosophy - Pure Roguelike Excellence:**
-- **Refined ASCII graphics** with innovative dynamic lighting system
-- **Streamlined interface** making roguelikes accessible to newcomers
-- **Tactical depth over complexity** - Every element serves core gameplay
-- **Environmental interactions** - Fire, gas, water create emergent tactics
-- **Visual polish** unmatched in ASCII gaming
-
-**Technical Achievement:**
-- **Free and open-source** under **GNU AGPL v3.0** license
-- **Written in C++** for optimal performance
-- **Cross-platform** - Windows, macOS, Linux support
-- **Minimal requirements** - Runs on virtually any modern system
-- **Community Edition** maintained by active developer community
-
-**Critical Acclaim:**
-- **IndieGames.com recognition** as outstanding indie achievement
-- **PC Gamer coverage** highlighting exceptional design
-- **Rock Paper Shotgun features** praising accessibility and depth
-- **Entry point recommendation** for new roguelike players
-
-**Gameplay Innovation:**
-- **26 dungeon levels** with perfect pacing and difficulty curve
-- **Inventory simplicity** - No overwhelming item management
-- **Environmental storytelling** through clever level design
-- **Seed system** for sharing interesting levels with community
-- **Replay-focused design** encouraging multiple runs
-
-**Legacy Impact:** Established new standards for **roguelike accessibility** without sacrificing depth, proving that visual elegance and streamlined design could enhance rather than diminish traditional roguelike gameplay. Influenced modern roguelike UI design across the genre.
-
-**Community Maintenance:** After Walker's original development, the **Community Edition** continues active development with bug fixes, quality-of-life improvements, and platform support updates."
+description: |
+  **The most elegant roguelike ever created** - **Brian Walker's** masterpiece that began development in **2009**, with the latest **Community Edition v1.14.1** released **August 31, 2024**.
+  
+  **Design Philosophy - Pure Roguelike Excellence:**
+  - **Refined ASCII graphics** with innovative dynamic lighting system
+  - **Streamlined interface** making roguelikes accessible to newcomers
+  - **Tactical depth over complexity** - Every element serves core gameplay
+  - **Environmental interactions** - Fire, gas, water create emergent tactics
+  - **Visual polish** unmatched in ASCII gaming
+  
+  **Technical Achievement:**
+  - **Free and open-source** under **GNU AGPL v3.0** license
+  - **Written in C++** for optimal performance
+  - **Cross-platform** - Windows, macOS, Linux support
+  - **Minimal requirements** - Runs on virtually any modern system
+  - **Community Edition** maintained by active developer community
+  
+  **Critical Acclaim:**
+  - **IndieGames.com recognition** as outstanding indie achievement
+  - **PC Gamer coverage** highlighting exceptional design
+  - **Rock Paper Shotgun features** praising accessibility and depth
+  - **Entry point recommendation** for new roguelike players
+  
+  **Gameplay Innovation:**
+  - **26 dungeon levels** with perfect pacing and difficulty curve
+  - **Inventory simplicity** - No overwhelming item management
+  - **Environmental storytelling** through clever level design
+  - **Seed system** for sharing interesting levels with community
+  - **Replay-focused design** encouraging multiple runs
+  
+  **Legacy Impact:** Established new standards for **roguelike accessibility** without sacrificing depth, proving that visual elegance and streamlined design could enhance rather than diminish traditional roguelike gameplay. Influenced modern roguelike UI design across the genre.
+  
+  **Community Maintenance:** After Walker's original development, the **Community Edition** continues active development with bug fixes, quality-of-life improvements, and platform support updates.
 release_date: "2009"
 latest_version: "1.7.5"
 developers:

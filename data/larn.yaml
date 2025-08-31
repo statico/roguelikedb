@@ -1,85 +1,86 @@
 name: "Larn"
 slug: "larn"
-description: "**The narrative urgency pioneer** - Noah Morgan's **revolutionary 1986 achievement** that introduced **time pressure mechanics** and **emotional stakes** to roguelike design, featuring **daughter rescue narrative**, **volcanic depths exploration**, and **innovative urgency systems** that proved **traditional gameplay** could support **compelling personal storytelling**.
-
-**Revolutionary Time Pressure Innovation:**
-- **Limited time narrative** - Player daughter dying from illness creating genuine urgency and emotional stakes
-- **Real consequences for delay** - Extended exploration resulting in character failure and permanent loss
-- **Strategic time management** - Balancing thorough exploration with critical time constraints
-- **Urgency without unfairness** - Time limits creating pressure without making success impossible
-- **Narrative integration** - Time mechanics serving story rather than arbitrary difficulty
-
-**Emotional Storytelling Excellence:**
-- **Personal stakes establishment** - Family member in danger creating immediate emotional investment
-- **Parental motivation** - Player character driven by love and desperation rather than abstract goals
-- **Moral urgency** - Rescue mission providing clear moral imperative for dungeon exploration
-- **Sacrifice themes** - Risk and danger undertaken for family creating heroic narrative
-- **Human scale drama** - Intimate story within epic fantasy adventure framework
-
-**Volcanic Setting Innovation:**
-- **Unique environment design** - Volcano interior providing distinctive setting for roguelike exploration
-- **Thematic coherence** - Dangerous, unstable environment matching narrative urgency
-- **Environmental hazards** - Heat, lava, and volcanic activity creating unique tactical challenges
-- **Atmospheric immersion** - Setting details supporting narrative tension and urgency
-- **Resource scarcity** - Harsh environment limiting player options and increasing difficulty
-
-**Technical Achievement (1986):**
-- **C programming mastery** - Advanced implementation creating complex narrative and gameplay systems
-- **Memory efficiency** - Sophisticated resource management within severe hardware constraints
-- **Cross-platform development** - Unix and DOS versions maintaining consistent narrative experience
-- **Time tracking systems** - Accurate temporal mechanics supporting narrative urgency
-- **Save system integration** - Progress preservation maintaining time constraints across sessions
-
-**Roguelike Genre Innovation:**
-- **Story-driven exploration** - Traditional mechanics serving narrative rather than abstract challenge
-- **Emotional engagement** - Player investment through personal story rather than character statistics
-- **Urgency mechanics** - Time limits creating new category of roguelike strategic thinking
-- **Victory condition clarity** - Clear, emotionally meaningful objective rather than abstract completion
-- **Narrative focus** - Story elements integrated throughout gameplay rather than peripheral addition
-
-**Historical Significance:**
-- **First narrative roguelike** - Pioneering integration of personal story with traditional mechanics
-- **Time pressure precedent** - Establishing temporal constraints as legitimate roguelike mechanic
-- **Emotional stakes validation** - Proving roguelikes could support meaningful personal narratives
-- **Genre expansion** - Demonstrating roguelike mechanics could serve diverse narrative purposes
-- **Design inspiration** - Influencing later games to incorporate story and emotional elements
-
-**Open Source Educational Value:**
-- **Source code availability** - Complete implementation accessible for study and learning
-- **Narrative design study** - Example of successful story integration in traditional roguelike framework
-- **Time mechanic implementation** - Technical details of urgency system design and execution
-- **Historical preservation** - Important milestone in roguelike evolution preserved for analysis
-- **Educational resource** - Used in courses studying game narrative and emotional design
-
-**Cultural Impact:**
-- **Story-driven roguelikes** - Inspiring later games to incorporate narrative elements
-- **Emotional game design** - Demonstrating power of personal stakes in creating player engagement
-- **Time pressure mechanics** - Influencing use of temporal constraints in various game genres
-- **Family themes** - Showing potential for intimate, personal stories within adventure frameworks
-- **Genre boundary expansion** - Proving roguelikes could accommodate diverse narrative approaches
-
-**Design Philosophy Revolution:**
-- **Player emotional investment** - Using personal connection rather than abstract challenge for engagement
-- **Narrative service** - Game mechanics supporting story rather than story justifying mechanics
-- **Urgency authenticity** - Time pressure arising from natural story needs rather than artificial constraints
-- **Stakes escalation** - Personal rather than world-ending consequences creating intimate tension
-- **Human motivation** - Character goals arising from recognizable human emotions and relationships
-
-**Innovation Legacy:**
-- **Time-limited gameplay** - Temporal mechanics adopted and adapted by numerous later games
-- **Narrative integration** - Story elements becoming standard in modern roguelike development
-- **Emotional stakes** - Personal investment techniques used throughout gaming industry
-- **Environmental storytelling** - Setting details supporting narrative themes and tension
-- **Family narrative** - Parent-child relationships becoming common gaming motivation
-
-**Community & Academic Recognition:**
-- **Historical documentation** - Recognized as important milestone in narrative game development
-- **Academic study** - Referenced in research on emotional engagement and temporal mechanics
-- **Developer education** - Implementation studied for narrative integration techniques
-- **Preservation efforts** - Community maintaining access to important gaming innovation
-- **Cultural analysis** - Examined for integration of personal story with traditional gameplay
-
-**Legacy Achievement:** **Larn** demonstrates that **traditional roguelike mechanics** can **perfectly serve emotional storytelling**, proving that **time pressure** and **personal stakes** can create **unprecedented player engagement** while maintaining **authentic roguelike challenge** through **innovative narrative integration** and **human-centered design philosophy**."
+description: |
+  **The narrative urgency pioneer** - Noah Morgan's **revolutionary 1986 achievement** that introduced **time pressure mechanics** and **emotional stakes** to roguelike design, featuring **daughter rescue narrative**, **volcanic depths exploration**, and **innovative urgency systems** that proved **traditional gameplay** could support **compelling personal storytelling**.
+  
+  **Revolutionary Time Pressure Innovation:**
+  - **Limited time narrative** - Player daughter dying from illness creating genuine urgency and emotional stakes
+  - **Real consequences for delay** - Extended exploration resulting in character failure and permanent loss
+  - **Strategic time management** - Balancing thorough exploration with critical time constraints
+  - **Urgency without unfairness** - Time limits creating pressure without making success impossible
+  - **Narrative integration** - Time mechanics serving story rather than arbitrary difficulty
+  
+  **Emotional Storytelling Excellence:**
+  - **Personal stakes establishment** - Family member in danger creating immediate emotional investment
+  - **Parental motivation** - Player character driven by love and desperation rather than abstract goals
+  - **Moral urgency** - Rescue mission providing clear moral imperative for dungeon exploration
+  - **Sacrifice themes** - Risk and danger undertaken for family creating heroic narrative
+  - **Human scale drama** - Intimate story within epic fantasy adventure framework
+  
+  **Volcanic Setting Innovation:**
+  - **Unique environment design** - Volcano interior providing distinctive setting for roguelike exploration
+  - **Thematic coherence** - Dangerous, unstable environment matching narrative urgency
+  - **Environmental hazards** - Heat, lava, and volcanic activity creating unique tactical challenges
+  - **Atmospheric immersion** - Setting details supporting narrative tension and urgency
+  - **Resource scarcity** - Harsh environment limiting player options and increasing difficulty
+  
+  **Technical Achievement (1986):**
+  - **C programming mastery** - Advanced implementation creating complex narrative and gameplay systems
+  - **Memory efficiency** - Sophisticated resource management within severe hardware constraints
+  - **Cross-platform development** - Unix and DOS versions maintaining consistent narrative experience
+  - **Time tracking systems** - Accurate temporal mechanics supporting narrative urgency
+  - **Save system integration** - Progress preservation maintaining time constraints across sessions
+  
+  **Roguelike Genre Innovation:**
+  - **Story-driven exploration** - Traditional mechanics serving narrative rather than abstract challenge
+  - **Emotional engagement** - Player investment through personal story rather than character statistics
+  - **Urgency mechanics** - Time limits creating new category of roguelike strategic thinking
+  - **Victory condition clarity** - Clear, emotionally meaningful objective rather than abstract completion
+  - **Narrative focus** - Story elements integrated throughout gameplay rather than peripheral addition
+  
+  **Historical Significance:**
+  - **First narrative roguelike** - Pioneering integration of personal story with traditional mechanics
+  - **Time pressure precedent** - Establishing temporal constraints as legitimate roguelike mechanic
+  - **Emotional stakes validation** - Proving roguelikes could support meaningful personal narratives
+  - **Genre expansion** - Demonstrating roguelike mechanics could serve diverse narrative purposes
+  - **Design inspiration** - Influencing later games to incorporate story and emotional elements
+  
+  **Open Source Educational Value:**
+  - **Source code availability** - Complete implementation accessible for study and learning
+  - **Narrative design study** - Example of successful story integration in traditional roguelike framework
+  - **Time mechanic implementation** - Technical details of urgency system design and execution
+  - **Historical preservation** - Important milestone in roguelike evolution preserved for analysis
+  - **Educational resource** - Used in courses studying game narrative and emotional design
+  
+  **Cultural Impact:**
+  - **Story-driven roguelikes** - Inspiring later games to incorporate narrative elements
+  - **Emotional game design** - Demonstrating power of personal stakes in creating player engagement
+  - **Time pressure mechanics** - Influencing use of temporal constraints in various game genres
+  - **Family themes** - Showing potential for intimate, personal stories within adventure frameworks
+  - **Genre boundary expansion** - Proving roguelikes could accommodate diverse narrative approaches
+  
+  **Design Philosophy Revolution:**
+  - **Player emotional investment** - Using personal connection rather than abstract challenge for engagement
+  - **Narrative service** - Game mechanics supporting story rather than story justifying mechanics
+  - **Urgency authenticity** - Time pressure arising from natural story needs rather than artificial constraints
+  - **Stakes escalation** - Personal rather than world-ending consequences creating intimate tension
+  - **Human motivation** - Character goals arising from recognizable human emotions and relationships
+  
+  **Innovation Legacy:**
+  - **Time-limited gameplay** - Temporal mechanics adopted and adapted by numerous later games
+  - **Narrative integration** - Story elements becoming standard in modern roguelike development
+  - **Emotional stakes** - Personal investment techniques used throughout gaming industry
+  - **Environmental storytelling** - Setting details supporting narrative themes and tension
+  - **Family narrative** - Parent-child relationships becoming common gaming motivation
+  
+  **Community & Academic Recognition:**
+  - **Historical documentation** - Recognized as important milestone in narrative game development
+  - **Academic study** - Referenced in research on emotional engagement and temporal mechanics
+  - **Developer education** - Implementation studied for narrative integration techniques
+  - **Preservation efforts** - Community maintaining access to important gaming innovation
+  - **Cultural analysis** - Examined for integration of personal story with traditional gameplay
+  
+  **Legacy Achievement:** **Larn** demonstrates that **traditional roguelike mechanics** can **perfectly serve emotional storytelling**, proving that **time pressure** and **personal stakes** can create **unprecedented player engagement** while maintaining **authentic roguelike challenge** through **innovative narrative integration** and **human-centered design philosophy**.
 release_date: "1986"
 developers:
   - "Noah Morgan"

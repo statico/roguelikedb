@@ -1,85 +1,86 @@
 name: "Hellband"
 slug: "hellband"
-description: "**The infernal atmosphere masterpiece** - Konijn's **dark achievement** that transformed the **Angband framework** into a **hell-themed horror experience**, featuring **demonic creatures**, **infernal settings**, and **darker atmosphere** that proved **traditional roguelike mechanics** could **support horror themes** while **creating atmospheric tension** and **exploring demonic mythology** within **strategic dungeon crawling**.
-
-**Hell-Themed Innovation (2004):**
-- **Infernal atmosphere creation** - Complete transformation of Angband's fantasy setting into horrific demonic realm
-- **Demonic creature design** - Extensive bestiary of hellish monsters with authentic mythological inspiration
-- **Horror theme integration** - Atmospheric elements creating tension and dread within tactical gameplay
-- **Dark aesthetic coherence** - All visual and narrative elements supporting unified infernal vision
-- **Mid-2000s thematic exploration** - Part of Angband variant wave exploring alternative fantasy settings
-
-**Atmospheric Horror Achievement:**
-- **Psychological tension** - Horror elements creating emotional investment beyond traditional tactical challenge
-- **Demonic mythology** - Respectful adaptation of infernal traditions and creature hierarchies
-- **Environmental storytelling** - Hell-themed locations conveying narrative through atmospheric design
-- **Terror balance** - Horror elements enhancing rather than overwhelming strategic gameplay
-- **Immersive darkness** - Consistent atmospheric presentation supporting infernal theme
-
-**Angband Framework Mastery:**
-- **Major variant classification** - Significant thematic and mechanical modifications within established structure
-- **Extreme difficulty preservation** - Hell-themed challenges maintaining Angband's tactical depth requirements
-- **Traditional mechanics** - Core turn-based grid-based gameplay supporting horror atmosphere
-- **Character class adaptation** - Traditional classes recontextualized for infernal setting
-- **Magic system integration** - Spell systems adapted for demonic theme while preserving balance
-
-**Technical Horror Implementation:**
-- **C programming excellence** - Complex thematic modifications within sophisticated Angband codebase
-- **ASCII graphics enhancement** - Text-based presentation creating effective horror atmosphere
-- **Memory efficiency** - 32MB requirements supporting extensive creature and location content
-- **Performance optimization** - Smooth gameplay despite complex thematic additions
-- **Cross-platform stability** - Windows and Linux versions ensuring community accessibility
-
-**Demonic Creature Excellence:**
-- **Mythological authenticity** - Demons and infernal beings based on traditional mythological sources
-- **Hierarchical design** - Creature power structures reflecting authentic demonic hierarchies
-- **Behavioral sophistication** - Monster AI and interactions supporting horror atmosphere
-- **Tactical variety** - Infernal creatures providing diverse strategic challenges
-- **Atmospheric integration** - Creatures contributing to overall environmental horror experience
-
-**Community Contribution:**
-- **Thematic precedent** - Demonstrating viability of horror themes within traditional roguelike frameworks
-- **Angband variant diversity** - Adding dark alternative to fantasy-focused variant ecosystem
-- **Open source sharing** - Angband License enabling community study of horror implementation techniques
-- **Development inspiration** - Encouraging other developers to explore alternative thematic approaches
-- **Educational resource** - Complete example of atmospheric modification within established framework
-
-**Design Philosophy:**
-- **Atmospheric coherence** - All elements supporting unified infernal horror vision
-- **Horror integration** - Terror elements enhancing rather than compromising strategic gameplay
-- **Mythological respect** - Authentic representation of demonic traditions and hierarchies
-- **Player immersion** - Environmental and creature design creating emotional investment
-- **Traditional respect** - Innovation balanced with preservation of Angband's core appeal
-
-**Cultural Gaming Impact:**
-- **Horror roguelike validation** - Proving horror themes could enhance traditional roguelike experiences
-- **Atmospheric innovation** - Demonstrating potential for emotional atmosphere within tactical gaming
-- **Thematic expansion** - Contributing to roguelike recognition as platform for diverse storytelling
-- **Community diversity** - Adding horror voice to varied Angband variant ecosystem
-- **Genre boundary exploration** - Pushing traditional fantasy roguelike boundaries into horror territory
-
-**Horror Design Innovation:**
-- **Atmospheric tension creation** - Environmental design elements building psychological pressure
-- **Mythological creature adaptation** - Traditional demons translated into tactical gaming challenges
-- **Dark narrative integration** - Horror storytelling woven through exploration and discovery
-- **Terror pacing** - Horror elements distributed throughout gameplay for sustained atmospheric effect
-- **Immersive consistency** - All game elements supporting unified infernal horror experience
-
-**Open Source Legacy:**
-- **Horror implementation techniques** - Methods for creating atmospheric tension within roguelike frameworks
-- **Thematic modification approaches** - Complete example of major atmospheric transformation
-- **Community enhancement** - Code availability enabling study and further horror-themed development
-- **Educational preservation** - Maintaining access to innovative atmospheric roguelike design
-- **Development transparency** - Open process supporting community understanding of horror integration
-
-**Educational Value:**
-- **Horror roguelike design** - Complete example of atmospheric modification within established frameworks
-- **Thematic coherence techniques** - Methods for maintaining unified vision across complex game systems
-- **Mythological adaptation** - Approaches to respectful translation of traditional sources for gaming
-- **Atmospheric programming** - Technical implementation of mood and tension within tactical gameplay
-- **Community development** - Collaborative approaches to thematic enhancement and modification
-
-**Legacy Achievement:** **Hellband** demonstrates that **horror themes** and **atmospheric design** can **enhance traditional mechanics**, proving that **demonic mythology** and **infernal atmosphere** can create **compelling gaming experiences** while **expanding genre boundaries** and **inspiring atmospheric exploration** within **tactical roguelike development**."
+description: |
+  **The infernal atmosphere masterpiece** - Konijn's **dark achievement** that transformed the **Angband framework** into a **hell-themed horror experience**, featuring **demonic creatures**, **infernal settings**, and **darker atmosphere** that proved **traditional roguelike mechanics** could **support horror themes** while **creating atmospheric tension** and **exploring demonic mythology** within **strategic dungeon crawling**.
+  
+  **Hell-Themed Innovation (2004):**
+  - **Infernal atmosphere creation** - Complete transformation of Angband's fantasy setting into horrific demonic realm
+  - **Demonic creature design** - Extensive bestiary of hellish monsters with authentic mythological inspiration
+  - **Horror theme integration** - Atmospheric elements creating tension and dread within tactical gameplay
+  - **Dark aesthetic coherence** - All visual and narrative elements supporting unified infernal vision
+  - **Mid-2000s thematic exploration** - Part of Angband variant wave exploring alternative fantasy settings
+  
+  **Atmospheric Horror Achievement:**
+  - **Psychological tension** - Horror elements creating emotional investment beyond traditional tactical challenge
+  - **Demonic mythology** - Respectful adaptation of infernal traditions and creature hierarchies
+  - **Environmental storytelling** - Hell-themed locations conveying narrative through atmospheric design
+  - **Terror balance** - Horror elements enhancing rather than overwhelming strategic gameplay
+  - **Immersive darkness** - Consistent atmospheric presentation supporting infernal theme
+  
+  **Angband Framework Mastery:**
+  - **Major variant classification** - Significant thematic and mechanical modifications within established structure
+  - **Extreme difficulty preservation** - Hell-themed challenges maintaining Angband's tactical depth requirements
+  - **Traditional mechanics** - Core turn-based grid-based gameplay supporting horror atmosphere
+  - **Character class adaptation** - Traditional classes recontextualized for infernal setting
+  - **Magic system integration** - Spell systems adapted for demonic theme while preserving balance
+  
+  **Technical Horror Implementation:**
+  - **C programming excellence** - Complex thematic modifications within sophisticated Angband codebase
+  - **ASCII graphics enhancement** - Text-based presentation creating effective horror atmosphere
+  - **Memory efficiency** - 32MB requirements supporting extensive creature and location content
+  - **Performance optimization** - Smooth gameplay despite complex thematic additions
+  - **Cross-platform stability** - Windows and Linux versions ensuring community accessibility
+  
+  **Demonic Creature Excellence:**
+  - **Mythological authenticity** - Demons and infernal beings based on traditional mythological sources
+  - **Hierarchical design** - Creature power structures reflecting authentic demonic hierarchies
+  - **Behavioral sophistication** - Monster AI and interactions supporting horror atmosphere
+  - **Tactical variety** - Infernal creatures providing diverse strategic challenges
+  - **Atmospheric integration** - Creatures contributing to overall environmental horror experience
+  
+  **Community Contribution:**
+  - **Thematic precedent** - Demonstrating viability of horror themes within traditional roguelike frameworks
+  - **Angband variant diversity** - Adding dark alternative to fantasy-focused variant ecosystem
+  - **Open source sharing** - Angband License enabling community study of horror implementation techniques
+  - **Development inspiration** - Encouraging other developers to explore alternative thematic approaches
+  - **Educational resource** - Complete example of atmospheric modification within established framework
+  
+  **Design Philosophy:**
+  - **Atmospheric coherence** - All elements supporting unified infernal horror vision
+  - **Horror integration** - Terror elements enhancing rather than compromising strategic gameplay
+  - **Mythological respect** - Authentic representation of demonic traditions and hierarchies
+  - **Player immersion** - Environmental and creature design creating emotional investment
+  - **Traditional respect** - Innovation balanced with preservation of Angband's core appeal
+  
+  **Cultural Gaming Impact:**
+  - **Horror roguelike validation** - Proving horror themes could enhance traditional roguelike experiences
+  - **Atmospheric innovation** - Demonstrating potential for emotional atmosphere within tactical gaming
+  - **Thematic expansion** - Contributing to roguelike recognition as platform for diverse storytelling
+  - **Community diversity** - Adding horror voice to varied Angband variant ecosystem
+  - **Genre boundary exploration** - Pushing traditional fantasy roguelike boundaries into horror territory
+  
+  **Horror Design Innovation:**
+  - **Atmospheric tension creation** - Environmental design elements building psychological pressure
+  - **Mythological creature adaptation** - Traditional demons translated into tactical gaming challenges
+  - **Dark narrative integration** - Horror storytelling woven through exploration and discovery
+  - **Terror pacing** - Horror elements distributed throughout gameplay for sustained atmospheric effect
+  - **Immersive consistency** - All game elements supporting unified infernal horror experience
+  
+  **Open Source Legacy:**
+  - **Horror implementation techniques** - Methods for creating atmospheric tension within roguelike frameworks
+  - **Thematic modification approaches** - Complete example of major atmospheric transformation
+  - **Community enhancement** - Code availability enabling study and further horror-themed development
+  - **Educational preservation** - Maintaining access to innovative atmospheric roguelike design
+  - **Development transparency** - Open process supporting community understanding of horror integration
+  
+  **Educational Value:**
+  - **Horror roguelike design** - Complete example of atmospheric modification within established frameworks
+  - **Thematic coherence techniques** - Methods for maintaining unified vision across complex game systems
+  - **Mythological adaptation** - Approaches to respectful translation of traditional sources for gaming
+  - **Atmospheric programming** - Technical implementation of mood and tension within tactical gameplay
+  - **Community development** - Collaborative approaches to thematic enhancement and modification
+  
+  **Legacy Achievement:** **Hellband** demonstrates that **horror themes** and **atmospheric design** can **enhance traditional mechanics**, proving that **demonic mythology** and **infernal atmosphere** can create **compelling gaming experiences** while **expanding genre boundaries** and **inspiring atmospheric exploration** within **tactical roguelike development**.
 release_date: "2004"
 developers:
   - "Konijn"

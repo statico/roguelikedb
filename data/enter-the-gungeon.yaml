@@ -1,40 +1,41 @@
 name: "Enter the Gungeon"
 slug: "enter-the-gungeon"
-description: "**The definitive bullet-hell roguelike** - Dodge Roll's masterpiece that **sold over 3 million copies** and redefined what roguelike shooters could achieve with **perfectionist game design** and **gun-obsessed humor**.
-
-**Commercial & Critical Triumph:**
-- **3+ million copies sold** across all platforms
-- **'Overwhelmingly Positive' Steam reviews** (95% positive rating)
-- **Multiple indie game awards** and critical acclaim
-- **Devolver Digital publishing success** showcasing indie potential
-
-**Gameplay Perfection:**
-- **200+ unique weapons** each with distinct mechanics and personality
-- **Elaborate bullet patterns** requiring precise movement and timing
-- **5 diverse floors** with unique themes, enemies, and boss encounters
-- **Local 2-player co-op** with shared screen cooperative gameplay
-- **Progressive unlock system** rewarding skill and persistence
-
-**Technical & Artistic Excellence:**
-- **Unity engine optimization** delivering smooth 60fps bullet-hell action
-- **Hand-crafted pixel art** with exceptional animation quality
-- **Procedural dungeon generation** ensuring endless replayability
-- **Multi-platform optimization** maintaining quality across systems
-
-**Cultural Impact - Gun Worship Satire:**
-- **Gun-themed everything** - NPCs, items, enemies, and environments
-- **Elaborate weapon puns** and firearm references throughout
-- **Social commentary** through absurdist gun culture parody
-- **Pop culture references** spanning decades of media
-
-**Content Depth:**
-- **Advanced Gungeons & Draguns** free major expansion
-- **Secret floors and hidden content** rewarding exploration
-- **Complex NPC questlines** with permanent progression
-- **Synergy system** where items combine for unique effects
-- **Achievement system** encouraging diverse playstyles
-
-**Industry Influence:** Established **bullet-hell roguelike** as distinct subgenre, inspiring numerous imitators while maintaining its position as the definitive example. Demonstrated how **obsessive attention to detail** and **consistent thematic vision** could elevate indie games to AAA production values."
+description: |
+  **The definitive bullet-hell roguelike** - Dodge Roll's masterpiece that **sold over 3 million copies** and redefined what roguelike shooters could achieve with **perfectionist game design** and **gun-obsessed humor**.
+  
+  **Commercial & Critical Triumph:**
+  - **3+ million copies sold** across all platforms
+  - **'Overwhelmingly Positive' Steam reviews** (95% positive rating)
+  - **Multiple indie game awards** and critical acclaim
+  - **Devolver Digital publishing success** showcasing indie potential
+  
+  **Gameplay Perfection:**
+  - **200+ unique weapons** each with distinct mechanics and personality
+  - **Elaborate bullet patterns** requiring precise movement and timing
+  - **5 diverse floors** with unique themes, enemies, and boss encounters
+  - **Local 2-player co-op** with shared screen cooperative gameplay
+  - **Progressive unlock system** rewarding skill and persistence
+  
+  **Technical & Artistic Excellence:**
+  - **Unity engine optimization** delivering smooth 60fps bullet-hell action
+  - **Hand-crafted pixel art** with exceptional animation quality
+  - **Procedural dungeon generation** ensuring endless replayability
+  - **Multi-platform optimization** maintaining quality across systems
+  
+  **Cultural Impact - Gun Worship Satire:**
+  - **Gun-themed everything** - NPCs, items, enemies, and environments
+  - **Elaborate weapon puns** and firearm references throughout
+  - **Social commentary** through absurdist gun culture parody
+  - **Pop culture references** spanning decades of media
+  
+  **Content Depth:**
+  - **Advanced Gungeons & Draguns** free major expansion
+  - **Secret floors and hidden content** rewarding exploration
+  - **Complex NPC questlines** with permanent progression
+  - **Synergy system** where items combine for unique effects
+  - **Achievement system** encouraging diverse playstyles
+  
+  **Industry Influence:** Established **bullet-hell roguelike** as distinct subgenre, inspiring numerous imitators while maintaining its position as the definitive example. Demonstrated how **obsessive attention to detail** and **consistent thematic vision** could elevate indie games to AAA production values.
 release_date: "2016-04-05"
 latest_version: "2.1.9"
 developers:

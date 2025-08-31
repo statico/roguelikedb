@@ -1,85 +1,86 @@
 name: "Castle of the Winds"
 slug: "castle-of-the-winds"
-description: "**The GUI roguelike pioneer** - Rick Saada's **revolutionary achievement** that brought **traditional roguelike depth** to **Windows graphical interface**, featuring **point-and-click innovation**, **Norse mythology themes**, and **shareware success** that proved **roguelikes could thrive** on **personal computers** through **interface evolution** and **commercial distribution**.
-
-**Graphical Interface Revolution:**
-- **First successful GUI roguelike** - Pioneered graphical presentation while maintaining traditional mechanics
-- **Point-and-click innovation** - Mouse-driven gameplay eliminating complex keyboard commands
-- **Windows 3.1 integration** - Native Windows application with proper window management and interface
-- **Visual inventory system** - Graphical item management replacing text-based equipment screens
-- **Menu-driven interaction** - Context menus and dropdown interfaces making roguelikes accessible
-
-**Commercial Shareware Success:**
-- **Two-part distribution model** - Part 1 freeware, Part 2 commercial demonstrating conversion strategy
-- **SaadaSoft publishing** - Independent developer achieving commercial success through self-publication
-- **Market validation** - Proved roguelikes could generate revenue on personal computer platforms
-- **Professional presentation** - Quality graphics and interface competing with commercial entertainment software
-- **Long-term availability** - Game remaining popular and playable across decades of Windows evolution
-
-**Norse Mythology Integration:**
-- **Authentic mythological themes** - Story and setting based on genuine Norse legends and folklore
-- **Cultural education value** - Teaching players about Scandinavian mythology through gameplay
-- **Thematic coherence** - All game elements designed to support mythological narrative
-- **Character development authenticity** - Progression systems reflecting Norse heroic traditions
-- **Environmental storytelling** - Dungeons and locations designed with mythological significance
-
-**Technical Achievement (1989):**
-- **C programming mastery** - Advanced language usage enabling complex graphical roguelike development
-- **Windows API utilization** - Professional use of Windows programming interfaces and conventions
-- **Memory management** - Efficient resource usage within early PC hardware limitations
-- **Graphics optimization** - Smooth visual presentation despite hardware constraints of era
-- **File system integration** - Save games and settings properly integrated with Windows file management
-
-**Accessibility Innovation:**
-- **Learning curve reduction** - Graphical interface making roguelike mechanics approachable to newcomers
-- **Visual feedback excellence** - Clear representation of game state through graphical elements
-- **Intuitive interaction** - Point-and-click eliminating need to memorize keyboard commands
-- **Error prevention** - GUI design preventing common roguelike mistakes through interface constraints
-- **Help system integration** - Built-in documentation and assistance accessible through interface
-
-**Historical Significance:**
-- **Personal computer adoption** - Helping establish PCs as legitimate gaming platforms
-- **Roguelike evolution milestone** - Key step in genre development from ASCII to modern presentations
-- **Independent development success** - Single developer achieving commercial viability and recognition
-- **Platform transition leadership** - Leading roguelike migration from mainframes to personal computers
-- **Interface design influence** - Inspiring other developers to experiment with graphical roguelike presentation
-
-**Design Philosophy Innovation:**
-- **Tradition with modernization** - Preserving roguelike depth while embracing technological advancement
-- **Accessibility without compromise** - Graphical interface enhancing rather than diminishing gameplay complexity
-- **Commercial viability pursuit** - Demonstrating roguelikes could succeed in commercial software markets
-- **Cultural authenticity** - Faithful representation of mythological themes and historical accuracy
-- **Player experience prioritization** - Interface decisions guided by user convenience and enjoyment
-
-**Community & Cultural Impact:**
-- **GUI roguelike validation** - Proved graphical presentation could maintain genre authenticity
-- **Commercial model establishment** - Shareware distribution template for independent developers
-- **Educational gaming** - Teaching Norse mythology through engaging interactive entertainment
-- **Platform credibility** - Helping establish Windows as serious gaming platform
-- **Development inspiration** - Influencing other developers to pursue graphical roguelike development
-
-**Preservation & Legacy:**
-- **Historical preservation** - Community efforts maintaining game availability across Windows versions
-- **Emulation support** - Modern systems able to run game through compatibility solutions
-- **Educational value** - Studied as example of successful platform transition and interface innovation
-- **Cultural documentation** - Preserving early Windows gaming history and development practices
-- **Influence recognition** - Acknowledged as important milestone in roguelike genre evolution
-
-**Technical Innovation Context:**
-- **DOS to Windows transition** - Leading migration from command-line to graphical computing
-- **Interface paradigm establishment** - Establishing patterns for graphical roguelike design
-- **Commercial software standards** - Meeting professional software quality and presentation expectations
-- **Cross-platform thinking** - Considering different user contexts and interaction preferences
-- **Forward compatibility** - Design decisions supporting long-term usability and maintenance
-
-**Educational & Research Value:**
-- **Interface design methodology** - Case study in successful graphical adaptation of complex systems
-- **Commercial development** - Model for independent developer commercial success strategies
-- **Cultural gaming** - Integration of educational content with entertainment value
-- **Platform adaptation** - Techniques for successful software transition between computing paradigms
-- **Historical documentation** - Preserving early personal computer gaming development practices
-
-**Cultural Legacy:** **Castle of the Winds** demonstrates that **technological advancement** and **traditional depth** can achieve **perfect synthesis**, proving that **interface innovation** can **expand genre accessibility** while **preserving authentic gameplay**, establishing **commercial viability models** for **independent developers** and **educational gaming excellence** through **cultural authenticity**."
+description: |
+  **The GUI roguelike pioneer** - Rick Saada's **revolutionary achievement** that brought **traditional roguelike depth** to **Windows graphical interface**, featuring **point-and-click innovation**, **Norse mythology themes**, and **shareware success** that proved **roguelikes could thrive** on **personal computers** through **interface evolution** and **commercial distribution**.
+  
+  **Graphical Interface Revolution:**
+  - **First successful GUI roguelike** - Pioneered graphical presentation while maintaining traditional mechanics
+  - **Point-and-click innovation** - Mouse-driven gameplay eliminating complex keyboard commands
+  - **Windows 3.1 integration** - Native Windows application with proper window management and interface
+  - **Visual inventory system** - Graphical item management replacing text-based equipment screens
+  - **Menu-driven interaction** - Context menus and dropdown interfaces making roguelikes accessible
+  
+  **Commercial Shareware Success:**
+  - **Two-part distribution model** - Part 1 freeware, Part 2 commercial demonstrating conversion strategy
+  - **SaadaSoft publishing** - Independent developer achieving commercial success through self-publication
+  - **Market validation** - Proved roguelikes could generate revenue on personal computer platforms
+  - **Professional presentation** - Quality graphics and interface competing with commercial entertainment software
+  - **Long-term availability** - Game remaining popular and playable across decades of Windows evolution
+  
+  **Norse Mythology Integration:**
+  - **Authentic mythological themes** - Story and setting based on genuine Norse legends and folklore
+  - **Cultural education value** - Teaching players about Scandinavian mythology through gameplay
+  - **Thematic coherence** - All game elements designed to support mythological narrative
+  - **Character development authenticity** - Progression systems reflecting Norse heroic traditions
+  - **Environmental storytelling** - Dungeons and locations designed with mythological significance
+  
+  **Technical Achievement (1989):**
+  - **C programming mastery** - Advanced language usage enabling complex graphical roguelike development
+  - **Windows API utilization** - Professional use of Windows programming interfaces and conventions
+  - **Memory management** - Efficient resource usage within early PC hardware limitations
+  - **Graphics optimization** - Smooth visual presentation despite hardware constraints of era
+  - **File system integration** - Save games and settings properly integrated with Windows file management
+  
+  **Accessibility Innovation:**
+  - **Learning curve reduction** - Graphical interface making roguelike mechanics approachable to newcomers
+  - **Visual feedback excellence** - Clear representation of game state through graphical elements
+  - **Intuitive interaction** - Point-and-click eliminating need to memorize keyboard commands
+  - **Error prevention** - GUI design preventing common roguelike mistakes through interface constraints
+  - **Help system integration** - Built-in documentation and assistance accessible through interface
+  
+  **Historical Significance:**
+  - **Personal computer adoption** - Helping establish PCs as legitimate gaming platforms
+  - **Roguelike evolution milestone** - Key step in genre development from ASCII to modern presentations
+  - **Independent development success** - Single developer achieving commercial viability and recognition
+  - **Platform transition leadership** - Leading roguelike migration from mainframes to personal computers
+  - **Interface design influence** - Inspiring other developers to experiment with graphical roguelike presentation
+  
+  **Design Philosophy Innovation:**
+  - **Tradition with modernization** - Preserving roguelike depth while embracing technological advancement
+  - **Accessibility without compromise** - Graphical interface enhancing rather than diminishing gameplay complexity
+  - **Commercial viability pursuit** - Demonstrating roguelikes could succeed in commercial software markets
+  - **Cultural authenticity** - Faithful representation of mythological themes and historical accuracy
+  - **Player experience prioritization** - Interface decisions guided by user convenience and enjoyment
+  
+  **Community & Cultural Impact:**
+  - **GUI roguelike validation** - Proved graphical presentation could maintain genre authenticity
+  - **Commercial model establishment** - Shareware distribution template for independent developers
+  - **Educational gaming** - Teaching Norse mythology through engaging interactive entertainment
+  - **Platform credibility** - Helping establish Windows as serious gaming platform
+  - **Development inspiration** - Influencing other developers to pursue graphical roguelike development
+  
+  **Preservation & Legacy:**
+  - **Historical preservation** - Community efforts maintaining game availability across Windows versions
+  - **Emulation support** - Modern systems able to run game through compatibility solutions
+  - **Educational value** - Studied as example of successful platform transition and interface innovation
+  - **Cultural documentation** - Preserving early Windows gaming history and development practices
+  - **Influence recognition** - Acknowledged as important milestone in roguelike genre evolution
+  
+  **Technical Innovation Context:**
+  - **DOS to Windows transition** - Leading migration from command-line to graphical computing
+  - **Interface paradigm establishment** - Establishing patterns for graphical roguelike design
+  - **Commercial software standards** - Meeting professional software quality and presentation expectations
+  - **Cross-platform thinking** - Considering different user contexts and interaction preferences
+  - **Forward compatibility** - Design decisions supporting long-term usability and maintenance
+  
+  **Educational & Research Value:**
+  - **Interface design methodology** - Case study in successful graphical adaptation of complex systems
+  - **Commercial development** - Model for independent developer commercial success strategies
+  - **Cultural gaming** - Integration of educational content with entertainment value
+  - **Platform adaptation** - Techniques for successful software transition between computing paradigms
+  - **Historical documentation** - Preserving early personal computer gaming development practices
+  
+  **Cultural Legacy:** **Castle of the Winds** demonstrates that **technological advancement** and **traditional depth** can achieve **perfect synthesis**, proving that **interface innovation** can **expand genre accessibility** while **preserving authentic gameplay**, establishing **commercial viability models** for **independent developers** and **educational gaming excellence** through **cultural authenticity**.
 release_date: "1989"
 developers:
   - "Rick Saada"

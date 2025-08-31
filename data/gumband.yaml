@@ -1,85 +1,86 @@
 name: "Gumband"
 slug: "gumband"
-description: "**The humor masterpiece** - ZapM and the Gumband Development Team's **delightful achievement** that created a **whimsical Angband variant** featuring **cartoon-inspired monsters**, **silly item names**, **lighthearted atmosphere**, and **humorous descriptions** while **maintaining challenging gameplay** proving that **comedy and difficulty** can **coexist harmoniously** in **traditional roguelike frameworks** and **create joyful gaming experiences**.
-
-**Humor-Focused Design Innovation (2000):**
-- **Whimsical theme implementation** - Comprehensive cartoon aesthetic transforming traditional Angband atmosphere
-- **Comedy-difficulty balance** - Maintaining challenging gameplay while providing lighthearted entertainment
-- **Version 2.0.4 refinement** - Continued development polishing humorous elements and gameplay systems
-- **Small dedicated community** - Players appreciating unique blend of humor and roguelike authenticity
-- **Cross-platform accessibility** - Windows, Linux, and macOS versions ensuring broad audience reach
-
-**Cartoon Aesthetic Excellence:**
-- **Cartoon-inspired monster design** - Traditional Angband creatures reimagined with whimsical personalities
-- **Silly naming conventions** - Humorous item and creature names creating comedic atmosphere
-- **Lighthearted descriptions** - Game text written with playful tone and amusing commentary
-- **Visual humor integration** - ASCII and tile graphics supporting cartoon-like presentation
-- **Consistent theme execution** - All game elements contributing to unified whimsical experience
-
-**Comedy-Challenge Integration:**
-- **Humor without compromise** - Lighthearted atmosphere never undermining gameplay difficulty
-- **Traditional mechanics preservation** - Core Angband systems maintaining authenticity and challenge
-- **Extreme difficulty maintenance** - Comedy elements enhancing rather than reducing strategic complexity
-- **Player engagement** - Humor providing motivation during challenging encounters and setbacks
-- **Entertainment value** - Amusing content creating memorable and enjoyable gaming experiences
-
-**Modified Engine Achievement:**
-- **C programming excellence** - Comprehensive theme modifications implemented within Angband architecture
-- **Humorous content integration** - Extensive text and graphic modifications supporting cartoon aesthetic
-- **Performance optimization** - Smooth gameplay supporting enhanced content and visual elements
-- **Cross-platform compatibility** - Consistent humorous experience across Windows, Linux, and macOS
-- **Memory efficiency** - 8MB requirements supporting enhanced content within minimal constraints
-
-**Thematic Consistency Mastery:**
-- **Unified aesthetic vision** - All game elements supporting consistent cartoon-inspired atmosphere
-- **Creative monster adaptation** - Traditional Angband bestiary reimagined with humorous personalities
-- **Item humor excellence** - Equipment and consumables featuring amusing names and descriptions
-- **Environmental comedy** - Dungeon descriptions and flavor text maintaining whimsical tone
-- **Player interaction** - Interface elements and messages contributing to lighthearted experience
-
-**Community Impact:**
-- **Small dedicated fanbase** - Players specifically seeking humorous roguelike experiences
-- **Open source contribution** - Angband license enabling community study of thematic modification techniques
-- **Development cessation** - Project ending but code remaining available for community learning
-- **Humor validation** - Demonstrating viability of comedy-focused roguelike development
-- **Educational resource** - Complete example of comprehensive thematic modification and humor integration
-
-**Technical Innovation:**
-- **Comprehensive content modification** - Extensive changes to text, graphics, and atmospheric elements
-- **Theme implementation techniques** - Methods for systematic humor integration across game systems
-- **Engine adaptation** - Modified Angband architecture supporting enhanced thematic content
-- **Cross-platform development** - Consistent experience across multiple operating systems
-- **Resource management** - Efficient implementation of enhanced content within minimal system requirements
-
-**Design Philosophy:**
-- **Humor-first approach** - Comedy prioritized while respecting traditional roguelike gameplay
-- **Accessibility through entertainment** - Lighthearted atmosphere making challenging gameplay more approachable
-- **Creative expression** - Thematic modification as form of artistic and comedic expression
-- **Community service** - Development motivated by desire to provide unique entertainment experience
-- **Innovation courage** - Willingness to experiment with non-traditional roguelike themes
-
-**Cultural Gaming Impact:**
-- **Thematic diversity validation** - Proving roguelikes could successfully explore non-serious themes
-- **Comedy-game integration** - Demonstrating potential for humor within challenging gameplay frameworks
-- **Community niche creation** - Establishing audience for lighthearted roguelike experiences
-- **Development inspiration** - Encouraging other developers to explore creative thematic modifications
-- **Genre expansion** - Contributing to recognition of roguelike adaptability and creative potential
-
-**Open Source Legacy:**
-- **Angband license** - Community access enabling study of thematic modification and humor integration techniques
-- **Educational resource** - Complete source demonstrating comprehensive theme implementation approaches
-- **Innovation preservation** - Humor integration techniques available for community learning and adaptation
-- **Community enhancement** - Code availability enabling ongoing study of creative modification methods
-- **Development transparency** - Open process supporting community understanding of thematic development
-
-**Educational Value:**
-- **Thematic modification techniques** - Methods for comprehensive atmospheric and content changes
-- **Humor integration** - Approaches to comedy implementation within serious game frameworks
-- **Community development** - Small-scale collaborative development and humor-focused design
-- **Engine modification** - Angband architecture adaptation for extensive thematic content
-- **Cross-platform development** - Multi-system compatibility for modified roguelike variants
-
-**Legacy Achievement:** **Gumband** demonstrates that **humor and challenge** can **coexist beautifully**, proving that **lighthearted themes** and **traditional difficulty** can **create unique experiences** that **serve specialized communities** while **inspiring creative exploration** of **thematic diversity** and **innovative modification approaches** within **established roguelike frameworks**."
+description: |
+  **The humor masterpiece** - ZapM and the Gumband Development Team's **delightful achievement** that created a **whimsical Angband variant** featuring **cartoon-inspired monsters**, **silly item names**, **lighthearted atmosphere**, and **humorous descriptions** while **maintaining challenging gameplay** proving that **comedy and difficulty** can **coexist harmoniously** in **traditional roguelike frameworks** and **create joyful gaming experiences**.
+  
+  **Humor-Focused Design Innovation (2000):**
+  - **Whimsical theme implementation** - Comprehensive cartoon aesthetic transforming traditional Angband atmosphere
+  - **Comedy-difficulty balance** - Maintaining challenging gameplay while providing lighthearted entertainment
+  - **Version 2.0.4 refinement** - Continued development polishing humorous elements and gameplay systems
+  - **Small dedicated community** - Players appreciating unique blend of humor and roguelike authenticity
+  - **Cross-platform accessibility** - Windows, Linux, and macOS versions ensuring broad audience reach
+  
+  **Cartoon Aesthetic Excellence:**
+  - **Cartoon-inspired monster design** - Traditional Angband creatures reimagined with whimsical personalities
+  - **Silly naming conventions** - Humorous item and creature names creating comedic atmosphere
+  - **Lighthearted descriptions** - Game text written with playful tone and amusing commentary
+  - **Visual humor integration** - ASCII and tile graphics supporting cartoon-like presentation
+  - **Consistent theme execution** - All game elements contributing to unified whimsical experience
+  
+  **Comedy-Challenge Integration:**
+  - **Humor without compromise** - Lighthearted atmosphere never undermining gameplay difficulty
+  - **Traditional mechanics preservation** - Core Angband systems maintaining authenticity and challenge
+  - **Extreme difficulty maintenance** - Comedy elements enhancing rather than reducing strategic complexity
+  - **Player engagement** - Humor providing motivation during challenging encounters and setbacks
+  - **Entertainment value** - Amusing content creating memorable and enjoyable gaming experiences
+  
+  **Modified Engine Achievement:**
+  - **C programming excellence** - Comprehensive theme modifications implemented within Angband architecture
+  - **Humorous content integration** - Extensive text and graphic modifications supporting cartoon aesthetic
+  - **Performance optimization** - Smooth gameplay supporting enhanced content and visual elements
+  - **Cross-platform compatibility** - Consistent humorous experience across Windows, Linux, and macOS
+  - **Memory efficiency** - 8MB requirements supporting enhanced content within minimal constraints
+  
+  **Thematic Consistency Mastery:**
+  - **Unified aesthetic vision** - All game elements supporting consistent cartoon-inspired atmosphere
+  - **Creative monster adaptation** - Traditional Angband bestiary reimagined with humorous personalities
+  - **Item humor excellence** - Equipment and consumables featuring amusing names and descriptions
+  - **Environmental comedy** - Dungeon descriptions and flavor text maintaining whimsical tone
+  - **Player interaction** - Interface elements and messages contributing to lighthearted experience
+  
+  **Community Impact:**
+  - **Small dedicated fanbase** - Players specifically seeking humorous roguelike experiences
+  - **Open source contribution** - Angband license enabling community study of thematic modification techniques
+  - **Development cessation** - Project ending but code remaining available for community learning
+  - **Humor validation** - Demonstrating viability of comedy-focused roguelike development
+  - **Educational resource** - Complete example of comprehensive thematic modification and humor integration
+  
+  **Technical Innovation:**
+  - **Comprehensive content modification** - Extensive changes to text, graphics, and atmospheric elements
+  - **Theme implementation techniques** - Methods for systematic humor integration across game systems
+  - **Engine adaptation** - Modified Angband architecture supporting enhanced thematic content
+  - **Cross-platform development** - Consistent experience across multiple operating systems
+  - **Resource management** - Efficient implementation of enhanced content within minimal system requirements
+  
+  **Design Philosophy:**
+  - **Humor-first approach** - Comedy prioritized while respecting traditional roguelike gameplay
+  - **Accessibility through entertainment** - Lighthearted atmosphere making challenging gameplay more approachable
+  - **Creative expression** - Thematic modification as form of artistic and comedic expression
+  - **Community service** - Development motivated by desire to provide unique entertainment experience
+  - **Innovation courage** - Willingness to experiment with non-traditional roguelike themes
+  
+  **Cultural Gaming Impact:**
+  - **Thematic diversity validation** - Proving roguelikes could successfully explore non-serious themes
+  - **Comedy-game integration** - Demonstrating potential for humor within challenging gameplay frameworks
+  - **Community niche creation** - Establishing audience for lighthearted roguelike experiences
+  - **Development inspiration** - Encouraging other developers to explore creative thematic modifications
+  - **Genre expansion** - Contributing to recognition of roguelike adaptability and creative potential
+  
+  **Open Source Legacy:**
+  - **Angband license** - Community access enabling study of thematic modification and humor integration techniques
+  - **Educational resource** - Complete source demonstrating comprehensive theme implementation approaches
+  - **Innovation preservation** - Humor integration techniques available for community learning and adaptation
+  - **Community enhancement** - Code availability enabling ongoing study of creative modification methods
+  - **Development transparency** - Open process supporting community understanding of thematic development
+  
+  **Educational Value:**
+  - **Thematic modification techniques** - Methods for comprehensive atmospheric and content changes
+  - **Humor integration** - Approaches to comedy implementation within serious game frameworks
+  - **Community development** - Small-scale collaborative development and humor-focused design
+  - **Engine modification** - Angband architecture adaptation for extensive thematic content
+  - **Cross-platform development** - Multi-system compatibility for modified roguelike variants
+  
+  **Legacy Achievement:** **Gumband** demonstrates that **humor and challenge** can **coexist beautifully**, proving that **lighthearted themes** and **traditional difficulty** can **create unique experiences** that **serve specialized communities** while **inspiring creative exploration** of **thematic diversity** and **innovative modification approaches** within **established roguelike frameworks**.
 release_date: "2000-01-01"
 latest_version: "2.0.4"
 developers:

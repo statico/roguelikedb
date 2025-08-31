@@ -1,46 +1,47 @@
 name: "Peglin"
 slug: "peglin"
-description: "**The pachinko roguelike phenomenon** - Red Nexus Games' innovative fusion of **pachinko physics**, **roguelike progression**, and **strategic orb placement** that created an entirely new subgenre.
-
-**Revolutionary Pachinko Mechanics:**
-- **Physics-based combat** - Shoot orbs down pachinko boards to defeat enemies
-- **Strategic peg placement** - Position and angle shots for maximum damage
-- **Combo systems** - Chain reactions and multi-hits create satisfying cascades
-- **Relics and upgrades** - Permanent bonuses that modify orb behavior
-- **Precision aiming** - Skill-based targeting with physics prediction
-
-**Commercial & Critical Success:**
-- **Over 500,000 copies sold** across platforms
-- **'Overwhelmingly Positive' Steam reviews** (96% positive rating)
-- **Viral streaming success** - Perfect for content creation with satisfying physics
-- **Cross-platform success** - PC and mobile audiences both engaged
-
-**Innovative Design Elements:**
-- **Orb variety** - Different orb types with unique properties and effects
-- **Enemy design** - Creatures positioned strategically on pachinko boards
-- **Boss encounters** - Large-scale pachinko challenges requiring strategy
-- **Incremental difficulty** - Gradually increasing complexity and challenge
-- **Achievement system** - Rewards for creative play and mastery
-
-**Technical Achievement:**
-- **Satisfying physics engine** with precise ball movement and collision
-- **Visual polish** with charming art style and smooth animations  
-- **Audio design** - Satisfying sound effects for pegs, bounces, and impacts
-- **Performance optimization** maintaining 60fps even with many physics objects
-
-**Cultural Impact:**
-- **Created pachinko roguelike subgenre** - Inspired multiple imitators
-- **Twitch phenomenon** - Highly watchable with exciting moment-to-moment gameplay
-- **Speedrunning community** - Competitive scenes around optimal strategies
-- **Educational appeal** - Teaches physics concepts through engaging gameplay
-
-**Community Engagement:**
-- **Active Discord community** sharing strategies and memorable shots
-- **Content creator friendly** - Built-in replay system for sharing great plays
-- **Mod potential** - Custom orb types and board layouts from community
-- **Regular developer updates** - Responsive to player feedback and suggestions
-
-**Genre Innovation:** Proved that **traditional game mechanics** (pachinko) could be successfully merged with **roguelike progression** to create entirely new gameplay experiences. Demonstrated the potential for **physics-based roguelikes** as a distinct category."
+description: |
+  **The pachinko roguelike phenomenon** - Red Nexus Games' innovative fusion of **pachinko physics**, **roguelike progression**, and **strategic orb placement** that created an entirely new subgenre.
+  
+  **Revolutionary Pachinko Mechanics:**
+  - **Physics-based combat** - Shoot orbs down pachinko boards to defeat enemies
+  - **Strategic peg placement** - Position and angle shots for maximum damage
+  - **Combo systems** - Chain reactions and multi-hits create satisfying cascades
+  - **Relics and upgrades** - Permanent bonuses that modify orb behavior
+  - **Precision aiming** - Skill-based targeting with physics prediction
+  
+  **Commercial & Critical Success:**
+  - **Over 500,000 copies sold** across platforms
+  - **'Overwhelmingly Positive' Steam reviews** (96% positive rating)
+  - **Viral streaming success** - Perfect for content creation with satisfying physics
+  - **Cross-platform success** - PC and mobile audiences both engaged
+  
+  **Innovative Design Elements:**
+  - **Orb variety** - Different orb types with unique properties and effects
+  - **Enemy design** - Creatures positioned strategically on pachinko boards
+  - **Boss encounters** - Large-scale pachinko challenges requiring strategy
+  - **Incremental difficulty** - Gradually increasing complexity and challenge
+  - **Achievement system** - Rewards for creative play and mastery
+  
+  **Technical Achievement:**
+  - **Satisfying physics engine** with precise ball movement and collision
+  - **Visual polish** with charming art style and smooth animations  
+  - **Audio design** - Satisfying sound effects for pegs, bounces, and impacts
+  - **Performance optimization** maintaining 60fps even with many physics objects
+  
+  **Cultural Impact:**
+  - **Created pachinko roguelike subgenre** - Inspired multiple imitators
+  - **Twitch phenomenon** - Highly watchable with exciting moment-to-moment gameplay
+  - **Speedrunning community** - Competitive scenes around optimal strategies
+  - **Educational appeal** - Teaches physics concepts through engaging gameplay
+  
+  **Community Engagement:**
+  - **Active Discord community** sharing strategies and memorable shots
+  - **Content creator friendly** - Built-in replay system for sharing great plays
+  - **Mod potential** - Custom orb types and board layouts from community
+  - **Regular developer updates** - Responsive to player feedback and suggestions
+  
+  **Genre Innovation:** Proved that **traditional game mechanics** (pachinko) could be successfully merged with **roguelike progression** to create entirely new gameplay experiences. Demonstrated the potential for **physics-based roguelikes** as a distinct category.
 release_date: "2022-04-25"
 latest_version: "1.3.2"
 developers:

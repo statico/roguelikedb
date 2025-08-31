@@ -1,33 +1,34 @@
 name: "Spelunky"
 slug: "spelunky"
-description: "**The game that defined modern roguelites** - Created by Derek Yu, initially released as **freeware in 2008**, then remade in HD by Yu and Mossmouth for **Xbox Live Arcade in 2012**.
-
-**Commercial Success & Critical Acclaim:**
-- **HD remake sold 1+ million copies** by 2016
-- **Steam launch: 61,000 units** in first week alone
-- **Metacritic score of 93/100** - Near-universal critical acclaim
-- **Game of the Year awards** from multiple indie gaming outlets
-
-**Revolutionary Gameplay Design:**
-- **Real-time platforming** with roguelike permadeath mechanics
-- **Persistent shortcuts** unlocked through skilled play
-- **Destructible terrain** enabling creative problem-solving
-- **Emergent item interactions** creating unpredictable situations
-- **Precise control scheme** requiring skill mastery
-
-**Technical Evolution:**
-- **Original Flash version** (2008) - Windows XP/Vista freeware
-- **HD remake** - Custom C++ engine with enhanced graphics
-- **Core team of four** for HD version with contractor support
-- **Multi-platform release** - PC, Xbox 360, PS4, PS Vita, Switch, mobile
-
-**Community & Legacy:**
-- **Massive speedrunning community** on Twitch with active leaderboards
-- **5,000+ concurrent Steam users** regularly
-- **GDC talks and viral Let's Plays** by NorthernLion driving popularity
-- **The Arenas DLC** (Feb 2013) - 24 multiplayer maps, 8 characters
-
-**Genre-Defining Impact:** Pioneered integration of **platforming with roguelite systems**, directly inspiring major franchises like **Dead Cells**, **Rogue Legacy**, and countless indies. Demonstrated that roguelike mechanics could work beyond traditional turn-based formats, essentially creating the modern roguelite genre."
+description: |
+  **The game that defined modern roguelites** - Created by Derek Yu, initially released as **freeware in 2008**, then remade in HD by Yu and Mossmouth for **Xbox Live Arcade in 2012**.
+  
+  **Commercial Success & Critical Acclaim:**
+  - **HD remake sold 1+ million copies** by 2016
+  - **Steam launch: 61,000 units** in first week alone
+  - **Metacritic score of 93/100** - Near-universal critical acclaim
+  - **Game of the Year awards** from multiple indie gaming outlets
+  
+  **Revolutionary Gameplay Design:**
+  - **Real-time platforming** with roguelike permadeath mechanics
+  - **Persistent shortcuts** unlocked through skilled play
+  - **Destructible terrain** enabling creative problem-solving
+  - **Emergent item interactions** creating unpredictable situations
+  - **Precise control scheme** requiring skill mastery
+  
+  **Technical Evolution:**
+  - **Original Flash version** (2008) - Windows XP/Vista freeware
+  - **HD remake** - Custom C++ engine with enhanced graphics
+  - **Core team of four** for HD version with contractor support
+  - **Multi-platform release** - PC, Xbox 360, PS4, PS Vita, Switch, mobile
+  
+  **Community & Legacy:**
+  - **Massive speedrunning community** on Twitch with active leaderboards
+  - **5,000+ concurrent Steam users** regularly
+  - **GDC talks and viral Let's Plays** by NorthernLion driving popularity
+  - **The Arenas DLC** (Feb 2013) - 24 multiplayer maps, 8 characters
+  
+  **Genre-Defining Impact:** Pioneered integration of **platforming with roguelite systems**, directly inspiring major franchises like **Dead Cells**, **Rogue Legacy**, and countless indies. Demonstrated that roguelike mechanics could work beyond traditional turn-based formats, essentially creating the modern roguelite genre.
 release_date: "2008-12-21"
 latest_version: "HD (2012)"
 developers:

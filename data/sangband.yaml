@@ -1,85 +1,86 @@
 name: "SAngband"
 slug: "sangband"
-description: "**The skill system revolutionary** - Leon Marrick's **groundbreaking innovation** that **eliminated traditional character classes** in favor of **flexible skill-based progression**, pioneering **classless character development** that proved **player freedom** and **customization depth** could **revolutionize traditional roguelike advancement** through **innovative progression systems**.
-
-**Revolutionary Skill-Based System:**
-- **Classless character development** - Complete elimination of traditional class restrictions and limitations
-- **Skill tree complexity** - Dozens of interconnected skills with meaningful advancement paths
-- **Flexible specialization** - Players creating unique character builds through skill selection
-- **Cross-skill synergies** - Abilities from different skill trees combining for powerful effects
-- **Progression freedom** - Complete player control over character development direction
-
-**Character Customization Excellence:**
-- **Build diversity explosion** - Hundreds of viable character configurations through skill combinations
-- **Personal playstyle expression** - Skills enabling players to create characters matching individual preferences
-- **Experimentation encouragement** - Skill system rewarding creative combinations and unique approaches
-- **Strategic depth enhancement** - Character development decisions affecting gameplay throughout adventure
-- **Replayability maximization** - Different skill builds creating entirely different gaming experiences
-
-**Mechanical Innovation Achievement:**
-- **Skill point allocation** - Resource-based character advancement requiring strategic distribution decisions
-- **Skill prerequisite systems** - Advanced abilities requiring mastery of foundational skills
-- **Progressive unlock mechanics** - New skill options becoming available through character advancement
-- **Balance complexity** - Ensuring all skill paths remained viable without dominant strategies
-- **Integration depth** - Skills affecting all aspects of gameplay from combat to exploration
-
-**Technical Implementation (2002):**
-- **Complete character system overhaul** - Massive modification of Angband's core progression mechanics
-- **Skill calculation systems** - Complex mathematical models for skill interaction and advancement
-- **Balance testing** - Extensive playtesting ensuring all skill paths remained competitive
-- **Save system modification** - Character preservation adapted for complex skill-based data
-- **Performance optimization** - Smooth gameplay despite dramatically increased character complexity
-
-**Influence on Roguelike Development:**
-- **Classless system pioneer** - First major roguelike to successfully eliminate character classes
-- **Skill-based gaming** - Influenced numerous later games to adopt flexible progression systems
-- **Player agency advancement** - Demonstrated potential for maximum player control over character development
-- **Customization culture** - Contributing to gaming expectation for character personalization
-- **Design philosophy evolution** - Showing alternatives to traditional RPG class restrictions
-
-**Gameplay Philosophy Revolution:**
-- **Player freedom prioritization** - Maximum agency in character development and tactical approaches
-- **Individual expression** - Skill systems enabling unique personal character creation
-- **Strategic depth** - Character development requiring long-term planning and resource allocation
-- **Experimentation reward** - Encouraging creative skill combinations and innovative approaches
-- **Barrier elimination** - Removing artificial restrictions on character capability development
-
-**Community Impact:**
-- **Design inspiration** - Influencing later roguelikes to adopt flexible character systems
-- **Player empowerment** - Demonstrating benefits of maximum player control over advancement
-- **Complexity management** - Showing how complex systems could remain accessible and enjoyable
-- **Innovation validation** - Proving radical departures from tradition could enhance gameplay
-- **Educational value** - Teaching implementation of complex skill-based progression systems
-
-**Open Source Educational Contribution:**
-- **Angband License** - Complete implementation available for study and modification
-- **System design study** - Example of successful classless character development implementation
-- **Balance methodology** - Techniques for maintaining fairness across diverse advancement options
-- **Community development** - Open source enabling ongoing improvement and enhancement
-- **Preservation importance** - Source availability ensuring continued access to innovative design
-
-**Cultural & Design Legacy:**
-- **Classless gaming** - Contributing to industry trend toward flexible character systems
-- **Player agency** - Advancing expectations for control over character development
-- **Skill-based design** - Template for implementing complex but accessible progression systems
-- **Innovation courage** - Demonstrating value of radical departures from established conventions
-- **Community wisdom** - Showing how player feedback could guide successful system innovation
-
-**Technical Innovation:**
-- **Skill interdependency** - Complex webs of skill relationships creating emergent character possibilities
-- **Resource allocation** - Strategic skill point distribution requiring careful planning
-- **Balance algorithms** - Mathematical models ensuring all progression paths remained viable
-- **Progression tracking** - Systems for monitoring and displaying complex character advancement
-- **Integration architecture** - Skills affecting all game systems from combat to item interaction
-
-**Educational Value:**
-- **Character system design** - Advanced techniques for flexible progression implementation
-- **Balance methodology** - Maintaining fairness across numerous advancement options
-- **Player psychology** - Understanding how customization affects player engagement
-- **System complexity** - Managing intricate mechanics while preserving accessibility
-- **Innovation implementation** - Successful execution of radical gameplay changes
-
-**Legacy Achievement:** **SAngband** demonstrates that **traditional RPG assumptions** can be **successfully challenged**, proving that **player freedom** and **flexible progression** can create **superior character development experiences** while maintaining **strategic depth** and **game balance** through **innovative system design** and **fearless departure from convention**."
+description: |
+  **The skill system revolutionary** - Leon Marrick's **groundbreaking innovation** that **eliminated traditional character classes** in favor of **flexible skill-based progression**, pioneering **classless character development** that proved **player freedom** and **customization depth** could **revolutionize traditional roguelike advancement** through **innovative progression systems**.
+  
+  **Revolutionary Skill-Based System:**
+  - **Classless character development** - Complete elimination of traditional class restrictions and limitations
+  - **Skill tree complexity** - Dozens of interconnected skills with meaningful advancement paths
+  - **Flexible specialization** - Players creating unique character builds through skill selection
+  - **Cross-skill synergies** - Abilities from different skill trees combining for powerful effects
+  - **Progression freedom** - Complete player control over character development direction
+  
+  **Character Customization Excellence:**
+  - **Build diversity explosion** - Hundreds of viable character configurations through skill combinations
+  - **Personal playstyle expression** - Skills enabling players to create characters matching individual preferences
+  - **Experimentation encouragement** - Skill system rewarding creative combinations and unique approaches
+  - **Strategic depth enhancement** - Character development decisions affecting gameplay throughout adventure
+  - **Replayability maximization** - Different skill builds creating entirely different gaming experiences
+  
+  **Mechanical Innovation Achievement:**
+  - **Skill point allocation** - Resource-based character advancement requiring strategic distribution decisions
+  - **Skill prerequisite systems** - Advanced abilities requiring mastery of foundational skills
+  - **Progressive unlock mechanics** - New skill options becoming available through character advancement
+  - **Balance complexity** - Ensuring all skill paths remained viable without dominant strategies
+  - **Integration depth** - Skills affecting all aspects of gameplay from combat to exploration
+  
+  **Technical Implementation (2002):**
+  - **Complete character system overhaul** - Massive modification of Angband's core progression mechanics
+  - **Skill calculation systems** - Complex mathematical models for skill interaction and advancement
+  - **Balance testing** - Extensive playtesting ensuring all skill paths remained competitive
+  - **Save system modification** - Character preservation adapted for complex skill-based data
+  - **Performance optimization** - Smooth gameplay despite dramatically increased character complexity
+  
+  **Influence on Roguelike Development:**
+  - **Classless system pioneer** - First major roguelike to successfully eliminate character classes
+  - **Skill-based gaming** - Influenced numerous later games to adopt flexible progression systems
+  - **Player agency advancement** - Demonstrated potential for maximum player control over character development
+  - **Customization culture** - Contributing to gaming expectation for character personalization
+  - **Design philosophy evolution** - Showing alternatives to traditional RPG class restrictions
+  
+  **Gameplay Philosophy Revolution:**
+  - **Player freedom prioritization** - Maximum agency in character development and tactical approaches
+  - **Individual expression** - Skill systems enabling unique personal character creation
+  - **Strategic depth** - Character development requiring long-term planning and resource allocation
+  - **Experimentation reward** - Encouraging creative skill combinations and innovative approaches
+  - **Barrier elimination** - Removing artificial restrictions on character capability development
+  
+  **Community Impact:**
+  - **Design inspiration** - Influencing later roguelikes to adopt flexible character systems
+  - **Player empowerment** - Demonstrating benefits of maximum player control over advancement
+  - **Complexity management** - Showing how complex systems could remain accessible and enjoyable
+  - **Innovation validation** - Proving radical departures from tradition could enhance gameplay
+  - **Educational value** - Teaching implementation of complex skill-based progression systems
+  
+  **Open Source Educational Contribution:**
+  - **Angband License** - Complete implementation available for study and modification
+  - **System design study** - Example of successful classless character development implementation
+  - **Balance methodology** - Techniques for maintaining fairness across diverse advancement options
+  - **Community development** - Open source enabling ongoing improvement and enhancement
+  - **Preservation importance** - Source availability ensuring continued access to innovative design
+  
+  **Cultural & Design Legacy:**
+  - **Classless gaming** - Contributing to industry trend toward flexible character systems
+  - **Player agency** - Advancing expectations for control over character development
+  - **Skill-based design** - Template for implementing complex but accessible progression systems
+  - **Innovation courage** - Demonstrating value of radical departures from established conventions
+  - **Community wisdom** - Showing how player feedback could guide successful system innovation
+  
+  **Technical Innovation:**
+  - **Skill interdependency** - Complex webs of skill relationships creating emergent character possibilities
+  - **Resource allocation** - Strategic skill point distribution requiring careful planning
+  - **Balance algorithms** - Mathematical models ensuring all progression paths remained viable
+  - **Progression tracking** - Systems for monitoring and displaying complex character advancement
+  - **Integration architecture** - Skills affecting all game systems from combat to item interaction
+  
+  **Educational Value:**
+  - **Character system design** - Advanced techniques for flexible progression implementation
+  - **Balance methodology** - Maintaining fairness across numerous advancement options
+  - **Player psychology** - Understanding how customization affects player engagement
+  - **System complexity** - Managing intricate mechanics while preserving accessibility
+  - **Innovation implementation** - Successful execution of radical gameplay changes
+  
+  **Legacy Achievement:** **SAngband** demonstrates that **traditional RPG assumptions** can be **successfully challenged**, proving that **player freedom** and **flexible progression** can create **superior character development experiences** while maintaining **strategic depth** and **game balance** through **innovative system design** and **fearless departure from convention**.
 release_date: "2002"
 latest_version: "1.0.0"
 developers:

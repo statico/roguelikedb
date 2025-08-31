@@ -1,71 +1,72 @@
 name: "Returnal"
 slug: "returnal"
-description: "**The AAA roguelike masterpiece** - Housemarque's **revolutionary achievement** that created the **first major third-person bullet-hell roguelike** with **AAA production values**, featuring **psychological horror** on **alien planet Atropos**, **innovative PS5 haptic feedback**, **procedural biomes**, and **seamless SSD streaming** proving that **roguelike mechanics** can **support blockbuster experiences** while **winning Game Developers Choice Awards**.
-
-**AAA Roguelike Revolution (2021):**
-- **First major third-person bullet-hell roguelike** - Unprecedented fusion of arcade shooting with roguelike progression
-- **Game Developers Choice Award for Best Technology** - Industry recognition for technical innovation excellence
-- **Over 1.2 million copies sold** - Commercial validation of AAA roguelike market potential
-- **Sony Interactive Entertainment publishing** - First-party investment in roguelike genre innovation
-- **Critical and commercial success** - Perfect balance of innovation and mainstream appeal
-
-**PS5 Technology Innovation:**
-- **Haptic feedback integration** - Revolutionary controller vibration creating tactile weapon feedback
-- **SSD streaming mastery** - Seamless world loading eliminating traditional loading screens
-- **60GB production values** - Blockbuster content scale within roguelike framework
-- **16GB RAM utilization** - Maximum console capabilities supporting complex systems
-- **Proprietary engine excellence** - Custom technology optimized for roguelike bullet-hell mechanics
-
-**Bullet-Hell Roguelike Innovation:**
-- **Third-person perspective** - Immersive 3D viewpoint enhancing bullet-hell precision and awareness
-- **Alien planet Atropos** - Mysterious sci-fi setting supporting both exploration and psychological horror
-- **Procedural biome generation** - Varied environments ensuring unique exploration experiences
-- **Psychological horror integration** - Narrative tension enhancing roguelike stakes and atmosphere
-- **Action-roguelike perfection** - Fast-paced combat maintaining strategic depth
-
-**Technical Achievement Excellence:**
-- **Proprietary engine mastery** - Custom technology created specifically for bullet-hell roguelike needs
-- **Performance optimization** - Consistent frame rates during intense bullet-hell sequences
-- **Audio integration** - 3D spatial audio enhancing bullet-hell awareness and atmospheric immersion
-- **Visual fidelity** - Blockbuster graphics quality within procedural generation systems
-- **Loading elimination** - SSD technology creating seamless exploration and combat flow
-
-**Psychological Horror Integration:**
-- **Narrative complexity** - Story elements woven through roguelike structure and exploration
-- **Atmospheric tension** - Environmental storytelling supporting horror elements
-- **Character development** - Protagonist psychology evolving through roguelike cycles
-- **Mystery revelation** - Progressive story discovery through repeated playthroughs
-- **Emotional investment** - Horror elements creating attachment to roguelike progression
-
-**Procedural Design Excellence:**
-- **Biome variety** - Diverse alien environments each with unique challenges and aesthetics
-- **Encounter randomization** - Varied enemy placements and configurations
-- **Weapon randomization** - Diverse arsenal discovery encouraging experimentation
-- **Environmental storytelling** - Procedural elements supporting narrative discovery
-- **Replayability assurance** - Generation systems ensuring fresh experiences across cycles
-
-**Cultural Gaming Impact:**
-- **AAA roguelike validation** - Proving major publishers could invest in roguelike experiences
-- **Bullet-hell evolution** - Demonstrating potential for 3D bullet-hell innovation
-- **PS5 showcase title** - Highlighting next-generation console capabilities
-- **Horror roguelike precedent** - Establishing template for psychological horror integration
-- **Arcade legacy continuation** - Housemarque's arcade expertise applied to modern roguelike design
-
-**Design Philosophy:**
-- **Arcade precision** - Bullet-hell accuracy and timing within roguelike framework
-- **Narrative integration** - Story elements enhancing rather than compromising gameplay
-- **Technology utilization** - PS5 features serving gameplay and immersion
-- **Player skill development** - Progression through mastery rather than just statistical improvement
-- **Atmospheric immersion** - All elements supporting alien world believability
-
-**Educational & Industry Value:**
-- **AAA roguelike development** - Complete example of blockbuster roguelike production
-- **Bullet-hell design** - 3D bullet-hell mechanics and spatial awareness systems
-- **Console optimization** - Maximum PS5 capability utilization techniques
-- **Horror integration** - Methods for combining psychological elements with roguelike mechanics
-- **Proprietary engine development** - Custom technology for specific game requirements
-
-**Legacy Achievement:** **Returnal** demonstrates that **roguelike mechanics** can **support AAA production values**, proving that **innovative technology** and **genre fusion** can create **award-winning experiences** that **establish new market categories** while **maintaining roguelike authenticity** and **achieving both critical acclaim** and **commercial success**."
+description: |
+  **The AAA roguelike masterpiece** - Housemarque's **revolutionary achievement** that created the **first major third-person bullet-hell roguelike** with **AAA production values**, featuring **psychological horror** on **alien planet Atropos**, **innovative PS5 haptic feedback**, **procedural biomes**, and **seamless SSD streaming** proving that **roguelike mechanics** can **support blockbuster experiences** while **winning Game Developers Choice Awards**.
+  
+  **AAA Roguelike Revolution (2021):**
+  - **First major third-person bullet-hell roguelike** - Unprecedented fusion of arcade shooting with roguelike progression
+  - **Game Developers Choice Award for Best Technology** - Industry recognition for technical innovation excellence
+  - **Over 1.2 million copies sold** - Commercial validation of AAA roguelike market potential
+  - **Sony Interactive Entertainment publishing** - First-party investment in roguelike genre innovation
+  - **Critical and commercial success** - Perfect balance of innovation and mainstream appeal
+  
+  **PS5 Technology Innovation:**
+  - **Haptic feedback integration** - Revolutionary controller vibration creating tactile weapon feedback
+  - **SSD streaming mastery** - Seamless world loading eliminating traditional loading screens
+  - **60GB production values** - Blockbuster content scale within roguelike framework
+  - **16GB RAM utilization** - Maximum console capabilities supporting complex systems
+  - **Proprietary engine excellence** - Custom technology optimized for roguelike bullet-hell mechanics
+  
+  **Bullet-Hell Roguelike Innovation:**
+  - **Third-person perspective** - Immersive 3D viewpoint enhancing bullet-hell precision and awareness
+  - **Alien planet Atropos** - Mysterious sci-fi setting supporting both exploration and psychological horror
+  - **Procedural biome generation** - Varied environments ensuring unique exploration experiences
+  - **Psychological horror integration** - Narrative tension enhancing roguelike stakes and atmosphere
+  - **Action-roguelike perfection** - Fast-paced combat maintaining strategic depth
+  
+  **Technical Achievement Excellence:**
+  - **Proprietary engine mastery** - Custom technology created specifically for bullet-hell roguelike needs
+  - **Performance optimization** - Consistent frame rates during intense bullet-hell sequences
+  - **Audio integration** - 3D spatial audio enhancing bullet-hell awareness and atmospheric immersion
+  - **Visual fidelity** - Blockbuster graphics quality within procedural generation systems
+  - **Loading elimination** - SSD technology creating seamless exploration and combat flow
+  
+  **Psychological Horror Integration:**
+  - **Narrative complexity** - Story elements woven through roguelike structure and exploration
+  - **Atmospheric tension** - Environmental storytelling supporting horror elements
+  - **Character development** - Protagonist psychology evolving through roguelike cycles
+  - **Mystery revelation** - Progressive story discovery through repeated playthroughs
+  - **Emotional investment** - Horror elements creating attachment to roguelike progression
+  
+  **Procedural Design Excellence:**
+  - **Biome variety** - Diverse alien environments each with unique challenges and aesthetics
+  - **Encounter randomization** - Varied enemy placements and configurations
+  - **Weapon randomization** - Diverse arsenal discovery encouraging experimentation
+  - **Environmental storytelling** - Procedural elements supporting narrative discovery
+  - **Replayability assurance** - Generation systems ensuring fresh experiences across cycles
+  
+  **Cultural Gaming Impact:**
+  - **AAA roguelike validation** - Proving major publishers could invest in roguelike experiences
+  - **Bullet-hell evolution** - Demonstrating potential for 3D bullet-hell innovation
+  - **PS5 showcase title** - Highlighting next-generation console capabilities
+  - **Horror roguelike precedent** - Establishing template for psychological horror integration
+  - **Arcade legacy continuation** - Housemarque's arcade expertise applied to modern roguelike design
+  
+  **Design Philosophy:**
+  - **Arcade precision** - Bullet-hell accuracy and timing within roguelike framework
+  - **Narrative integration** - Story elements enhancing rather than compromising gameplay
+  - **Technology utilization** - PS5 features serving gameplay and immersion
+  - **Player skill development** - Progression through mastery rather than just statistical improvement
+  - **Atmospheric immersion** - All elements supporting alien world believability
+  
+  **Educational & Industry Value:**
+  - **AAA roguelike development** - Complete example of blockbuster roguelike production
+  - **Bullet-hell design** - 3D bullet-hell mechanics and spatial awareness systems
+  - **Console optimization** - Maximum PS5 capability utilization techniques
+  - **Horror integration** - Methods for combining psychological elements with roguelike mechanics
+  - **Proprietary engine development** - Custom technology for specific game requirements
+  
+  **Legacy Achievement:** **Returnal** demonstrates that **roguelike mechanics** can **support AAA production values**, proving that **innovative technology** and **genre fusion** can create **award-winning experiences** that **establish new market categories** while **maintaining roguelike authenticity** and **achieving both critical acclaim** and **commercial success**.
 release_date: "2021-04-30"
 developers:
   - "Housemarque"

@@ -1,78 +1,79 @@
 name: "POWDER"
 slug: "powder"
-description: "**The portable roguelike pioneer** - Jeff Lait's **groundbreaking achievement** in bringing **traditional roguelike depth** to **handheld gaming**, featuring **Game Boy Advance optimization**, **streamlined mechanics**, and **open source legacy** that proves **complex gameplay** can be **successfully adapted** for **portable platforms** through **brilliant design constraints**.
-
-**Game Boy Advance Innovation:**
-- **Handheld optimization mastery** - Complex roguelike mechanics adapted for limited portable hardware
-- **Control scheme adaptation** - Traditional keyboard-based gameplay translated to simple button controls
-- **Memory efficiency excellence** - Full roguelike experience achieved within severe RAM and storage constraints
-- **Battery life consideration** - Game systems designed for extended portable gaming sessions
-- **Screen resolution optimization** - Visual clarity maintained despite low-resolution display limitations
-
-**Streamlined Design Philosophy:**
-- **Complexity through simplicity** - Traditional roguelike depth achieved through elegant mechanical reduction
-- **Essential feature preservation** - Core genre elements maintained while eliminating unnecessary complexity
-- **Portable context respect** - Game design acknowledging shorter play sessions and interruption patterns
-- **Learning curve optimization** - Complex systems made approachable for handheld gaming audiences
-- **Interface minimization** - UI elements reduced to essential information for small screen clarity
-
-**Technical Achievement (2004):**
-- **Cross-platform porting** - Successfully adapted from GBA to Windows, Linux, and other platforms
-- **Open source development** - Source code freely available enabling community study and enhancement
-- **Performance optimization** - Smooth gameplay achieved despite technical limitations and constraints
-- **Save system reliability** - Progress preservation crucial for portable gaming interruption patterns
-- **Memory management mastery** - Efficient resource usage supporting complex gameplay within tight limits
-
-**Jeff Lait Development Excellence:**
-- **Single developer achievement** - Complete roguelike created by one programmer working within severe constraints
-- **Platform expertise** - Deep understanding of GBA hardware enabling optimal performance and experience
-- **Community engagement** - Open source release encouraging study, modification, and preservation
-- **Educational value** - Codebase serving as learning resource for constrained platform development
-- **Long-term vision** - Design decisions supporting multi-platform adaptation and community maintenance
-
-**Portable Gaming Validation:**
-- **Complex genre translation** - Proved sophisticated gameplay could work on handheld devices
-- **Market expansion** - Brought roguelike experiences to audiences without access to computer gaming
-- **Platform credibility** - Demonstrated handheld systems could support serious gaming experiences
-- **Development inspiration** - Influenced other developers to consider portable platforms for complex genres
-- **Accessibility enhancement** - Made roguelikes available in contexts where computer gaming was impractical
-
-**Community & Preservation:**
-- **Historical significance** - Early example of successful handheld roguelike adaptation
-- **Open source preservation** - Community ensuring continued availability across evolving platforms
-- **Educational resource** - Studied for techniques in constrained platform development
-- **Modding potential** - Source availability enabling community enhancements and modifications
-- **Cultural documentation** - Preserving early handheld gaming innovation for future study
-
-**Design Constraint Innovation:**
-- **Creative limitation utilization** - Hardware restrictions forcing innovative design solutions
-- **Essential element identification** - Process of determining which roguelike features were truly necessary
-- **Efficiency through elegance** - Beautiful solutions emerging from technical constraint requirements
-- **Player experience prioritization** - Technical decisions guided by portable gaming user needs
-- **Constraint-driven creativity** - Limitations inspiring rather than hindering innovative game design
-
-**Cross-Platform Legacy:**
-- **Multi-system adaptation** - Successful porting to multiple platforms maintaining design integrity
-- **Platform-specific optimization** - Each version adapted for platform strengths while preserving core experience
-- **Community maintenance** - Volunteers ensuring compatibility across evolving operating systems
-- **Preservation efforts** - Active work maintaining playability as platforms and systems change
-- **Historical documentation** - Preserved as example of early portable gaming innovation
-
-**Educational & Research Value:**
-- **Constrained development methodology** - Case study in successful development within severe technical limitations
-- **Platform adaptation techniques** - Methods for translating complex PC games to limited hardware
-- **Open source learning** - Complete source code available for studying portable game development
-- **Game design principles** - Demonstrating how constraints can enhance rather than limit creativity
-- **Historical gaming preservation** - Important artifact in portable gaming and roguelike evolution
-
-**Cultural Impact:**
-- **Portable gaming legitimacy** - Proved handheld platforms could support sophisticated gaming experiences
-- **Genre accessibility** - Made roguelikes available to players without computer gaming access
-- **Development inspiration** - Influenced indie developers to consider constrained platform development
-- **Open source gaming** - Contributed to culture of freely available game source code
-- **Community collaboration** - Model for single-developer projects growing through community support
-
-**Technical Legacy:** **POWDER** demonstrates that **creative constraints** can **inspire brilliant design solutions**, proving that **complex gaming experiences** can be **successfully adapted** for **limited hardware** through **thoughtful mechanical reduction** and **optimization excellence**, establishing **templates for portable gaming** that **preserve depth** while **respecting platform limitations**."
+description: |
+  **The portable roguelike pioneer** - Jeff Lait's **groundbreaking achievement** in bringing **traditional roguelike depth** to **handheld gaming**, featuring **Game Boy Advance optimization**, **streamlined mechanics**, and **open source legacy** that proves **complex gameplay** can be **successfully adapted** for **portable platforms** through **brilliant design constraints**.
+  
+  **Game Boy Advance Innovation:**
+  - **Handheld optimization mastery** - Complex roguelike mechanics adapted for limited portable hardware
+  - **Control scheme adaptation** - Traditional keyboard-based gameplay translated to simple button controls
+  - **Memory efficiency excellence** - Full roguelike experience achieved within severe RAM and storage constraints
+  - **Battery life consideration** - Game systems designed for extended portable gaming sessions
+  - **Screen resolution optimization** - Visual clarity maintained despite low-resolution display limitations
+  
+  **Streamlined Design Philosophy:**
+  - **Complexity through simplicity** - Traditional roguelike depth achieved through elegant mechanical reduction
+  - **Essential feature preservation** - Core genre elements maintained while eliminating unnecessary complexity
+  - **Portable context respect** - Game design acknowledging shorter play sessions and interruption patterns
+  - **Learning curve optimization** - Complex systems made approachable for handheld gaming audiences
+  - **Interface minimization** - UI elements reduced to essential information for small screen clarity
+  
+  **Technical Achievement (2004):**
+  - **Cross-platform porting** - Successfully adapted from GBA to Windows, Linux, and other platforms
+  - **Open source development** - Source code freely available enabling community study and enhancement
+  - **Performance optimization** - Smooth gameplay achieved despite technical limitations and constraints
+  - **Save system reliability** - Progress preservation crucial for portable gaming interruption patterns
+  - **Memory management mastery** - Efficient resource usage supporting complex gameplay within tight limits
+  
+  **Jeff Lait Development Excellence:**
+  - **Single developer achievement** - Complete roguelike created by one programmer working within severe constraints
+  - **Platform expertise** - Deep understanding of GBA hardware enabling optimal performance and experience
+  - **Community engagement** - Open source release encouraging study, modification, and preservation
+  - **Educational value** - Codebase serving as learning resource for constrained platform development
+  - **Long-term vision** - Design decisions supporting multi-platform adaptation and community maintenance
+  
+  **Portable Gaming Validation:**
+  - **Complex genre translation** - Proved sophisticated gameplay could work on handheld devices
+  - **Market expansion** - Brought roguelike experiences to audiences without access to computer gaming
+  - **Platform credibility** - Demonstrated handheld systems could support serious gaming experiences
+  - **Development inspiration** - Influenced other developers to consider portable platforms for complex genres
+  - **Accessibility enhancement** - Made roguelikes available in contexts where computer gaming was impractical
+  
+  **Community & Preservation:**
+  - **Historical significance** - Early example of successful handheld roguelike adaptation
+  - **Open source preservation** - Community ensuring continued availability across evolving platforms
+  - **Educational resource** - Studied for techniques in constrained platform development
+  - **Modding potential** - Source availability enabling community enhancements and modifications
+  - **Cultural documentation** - Preserving early handheld gaming innovation for future study
+  
+  **Design Constraint Innovation:**
+  - **Creative limitation utilization** - Hardware restrictions forcing innovative design solutions
+  - **Essential element identification** - Process of determining which roguelike features were truly necessary
+  - **Efficiency through elegance** - Beautiful solutions emerging from technical constraint requirements
+  - **Player experience prioritization** - Technical decisions guided by portable gaming user needs
+  - **Constraint-driven creativity** - Limitations inspiring rather than hindering innovative game design
+  
+  **Cross-Platform Legacy:**
+  - **Multi-system adaptation** - Successful porting to multiple platforms maintaining design integrity
+  - **Platform-specific optimization** - Each version adapted for platform strengths while preserving core experience
+  - **Community maintenance** - Volunteers ensuring compatibility across evolving operating systems
+  - **Preservation efforts** - Active work maintaining playability as platforms and systems change
+  - **Historical documentation** - Preserved as example of early portable gaming innovation
+  
+  **Educational & Research Value:**
+  - **Constrained development methodology** - Case study in successful development within severe technical limitations
+  - **Platform adaptation techniques** - Methods for translating complex PC games to limited hardware
+  - **Open source learning** - Complete source code available for studying portable game development
+  - **Game design principles** - Demonstrating how constraints can enhance rather than limit creativity
+  - **Historical gaming preservation** - Important artifact in portable gaming and roguelike evolution
+  
+  **Cultural Impact:**
+  - **Portable gaming legitimacy** - Proved handheld platforms could support sophisticated gaming experiences
+  - **Genre accessibility** - Made roguelikes available to players without computer gaming access
+  - **Development inspiration** - Influenced indie developers to consider constrained platform development
+  - **Open source gaming** - Contributed to culture of freely available game source code
+  - **Community collaboration** - Model for single-developer projects growing through community support
+  
+  **Technical Legacy:** **POWDER** demonstrates that **creative constraints** can **inspire brilliant design solutions**, proving that **complex gaming experiences** can be **successfully adapted** for **limited hardware** through **thoughtful mechanical reduction** and **optimization excellence**, establishing **templates for portable gaming** that **preserve depth** while **respecting platform limitations**.
 release_date: "2004"
 latest_version: "118"
 developers:

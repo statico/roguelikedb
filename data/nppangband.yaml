@@ -1,78 +1,79 @@
 name: "NPPAngband"
 slug: "nppangband"
-description: "**The user experience revolution** - Diego González's **interface-focused masterpiece** that **prioritized player convenience** and **quality-of-life improvements** while **preserving authentic Angband depth**, featuring **enhanced automation**, **improved balance**, and **modern usability** that proved **traditional complexity** could **coexist with player-friendly design**.
-
-**User Interface Excellence:**
-- **Modern interface design** - Contemporary UI elements making complex systems more accessible
-- **Information clarity** - Better display of game state, statistics, and character information  
-- **Command streamlining** - Intuitive keyboard shortcuts and automated common actions
-- **Visual feedback enhancement** - Clear communication of game events and status changes
-- **Help system integration** - Comprehensive in-game assistance and documentation
-
-**Quality-of-Life Revolution:**
-- **Enhanced automation** - Repetitive tasks automated while preserving meaningful player decisions
-- **Convenience features** - Time-saving tools that respect player intelligence and choice
-- **Tedium elimination** - Boring activities streamlined without reducing strategic depth
-- **Session management** - Better save/load functionality and game state preservation
-- **Error prevention** - Interface design preventing common player mistakes and frustrations
-
-**Gameplay Balance Refinement:**
-- **Core experience preservation** - Traditional Angband challenge and depth maintained
-- **Balance improvements** - Careful adjustments to problem areas without compromising difficulty
-- **Player feedback integration** - Community input guiding refinement and enhancement decisions
-- **Testing rigor** - Extensive playtesting ensuring improvements enhanced rather than diminished gameplay
-- **Long-term sustainability** - Changes designed to support ongoing development and community needs
-
-**Technical Achievement (2006-Present):**
-- **Active development** - Ongoing updates and improvements with version 8.0.4+ releases
-- **Cross-platform support** - Windows and Linux versions with consistent functionality
-- **Performance optimization** - Smooth gameplay despite enhanced features and automation
-- **Code maintainability** - Clean architecture supporting long-term development and enhancement
-- **Community contribution** - Open source development enabling collaborative improvement
-
-**"No Partial Packages" Philosophy:**
-- **Complete feature implementation** - Full development of features rather than incomplete additions
-- **Quality commitment** - Thorough testing and refinement before feature release
-- **Player respect** - Avoiding half-finished implementations that could frustrate users
-- **Professional standards** - Commercial-quality polish and attention to detail
-- **Long-term vision** - Development decisions made with sustainability and maintainability in mind
-
-**Modern Angband Experience:**
-- **Contemporary expectations** - Meeting modern player expectations for user interface and convenience
-- **Accessibility enhancement** - Making traditional Angband more approachable to new players
-- **Veteran satisfaction** - Improvements that enhanced rather than compromised experienced player enjoyment
-- **Bridge building** - Connecting classic Angband tradition with contemporary gaming standards
-- **Community growth** - Attracting new players to Angband family through improved accessibility
-
-**Community & Development Impact:**
-- **Development team collaboration** - Multi-developer project with coordinated vision and execution
-- **Player feedback culture** - Active community engagement and responsive development practices
-- **Quality assurance** - Rigorous testing and bug fixing ensuring stable, reliable gameplay
-- **Educational contribution** - Open source implementation teaching UI design and player experience principles
-- **Influence on variants** - Quality-of-life improvements adopted by other Angband variants
-
-**Open Source Excellence:**
-- **Angband License** - Community access enabling study, modification, and contribution
-- **Development transparency** - Open development process with visible progress and decision-making
-- **Educational resource** - Complete implementation available for learning interface design principles
-- **Community enhancement** - Platform for ongoing improvements and feature additions
-- **Preservation value** - Source availability ensuring long-term access and maintainability
-
-**Design Philosophy Innovation:**
-- **Player-centered development** - All decisions evaluated based on impact on player experience
-- **Tradition with progress** - Respecting Angband heritage while embracing beneficial improvements
-- **Usability prioritization** - Interface design principles applied to traditional roguelike complexity
-- **Quality over quantity** - Fewer, better-implemented features rather than extensive but incomplete additions
-- **Sustainable development** - Practices supporting long-term project health and community engagement
-
-**Educational & Design Value:**
-- **Interface design methodology** - Case study in successful traditional game modernization
-- **Quality-of-life principles** - Techniques for improving player experience without compromising depth
-- **Community development** - Model for collaborative improvement of classic games
-- **Balance methodology** - Approaches to refining gameplay while preserving essential character
-- **User experience research** - Understanding how interface improvements affect player engagement
-
-**Legacy Achievement:** **NPPAngband** demonstrates that **traditional roguelike complexity** and **modern usability** can achieve **perfect harmony**, proving that **player convenience** and **quality-of-life improvements** can **enhance rather than diminish** authentic gaming experiences through **thoughtful interface design** and **community-focused development**."
+description: |
+  **The user experience revolution** - Diego González's **interface-focused masterpiece** that **prioritized player convenience** and **quality-of-life improvements** while **preserving authentic Angband depth**, featuring **enhanced automation**, **improved balance**, and **modern usability** that proved **traditional complexity** could **coexist with player-friendly design**.
+  
+  **User Interface Excellence:**
+  - **Modern interface design** - Contemporary UI elements making complex systems more accessible
+  - **Information clarity** - Better display of game state, statistics, and character information  
+  - **Command streamlining** - Intuitive keyboard shortcuts and automated common actions
+  - **Visual feedback enhancement** - Clear communication of game events and status changes
+  - **Help system integration** - Comprehensive in-game assistance and documentation
+  
+  **Quality-of-Life Revolution:**
+  - **Enhanced automation** - Repetitive tasks automated while preserving meaningful player decisions
+  - **Convenience features** - Time-saving tools that respect player intelligence and choice
+  - **Tedium elimination** - Boring activities streamlined without reducing strategic depth
+  - **Session management** - Better save/load functionality and game state preservation
+  - **Error prevention** - Interface design preventing common player mistakes and frustrations
+  
+  **Gameplay Balance Refinement:**
+  - **Core experience preservation** - Traditional Angband challenge and depth maintained
+  - **Balance improvements** - Careful adjustments to problem areas without compromising difficulty
+  - **Player feedback integration** - Community input guiding refinement and enhancement decisions
+  - **Testing rigor** - Extensive playtesting ensuring improvements enhanced rather than diminished gameplay
+  - **Long-term sustainability** - Changes designed to support ongoing development and community needs
+  
+  **Technical Achievement (2006-Present):**
+  - **Active development** - Ongoing updates and improvements with version 8.0.4+ releases
+  - **Cross-platform support** - Windows and Linux versions with consistent functionality
+  - **Performance optimization** - Smooth gameplay despite enhanced features and automation
+  - **Code maintainability** - Clean architecture supporting long-term development and enhancement
+  - **Community contribution** - Open source development enabling collaborative improvement
+  
+  **"No Partial Packages" Philosophy:**
+  - **Complete feature implementation** - Full development of features rather than incomplete additions
+  - **Quality commitment** - Thorough testing and refinement before feature release
+  - **Player respect** - Avoiding half-finished implementations that could frustrate users
+  - **Professional standards** - Commercial-quality polish and attention to detail
+  - **Long-term vision** - Development decisions made with sustainability and maintainability in mind
+  
+  **Modern Angband Experience:**
+  - **Contemporary expectations** - Meeting modern player expectations for user interface and convenience
+  - **Accessibility enhancement** - Making traditional Angband more approachable to new players
+  - **Veteran satisfaction** - Improvements that enhanced rather than compromised experienced player enjoyment
+  - **Bridge building** - Connecting classic Angband tradition with contemporary gaming standards
+  - **Community growth** - Attracting new players to Angband family through improved accessibility
+  
+  **Community & Development Impact:**
+  - **Development team collaboration** - Multi-developer project with coordinated vision and execution
+  - **Player feedback culture** - Active community engagement and responsive development practices
+  - **Quality assurance** - Rigorous testing and bug fixing ensuring stable, reliable gameplay
+  - **Educational contribution** - Open source implementation teaching UI design and player experience principles
+  - **Influence on variants** - Quality-of-life improvements adopted by other Angband variants
+  
+  **Open Source Excellence:**
+  - **Angband License** - Community access enabling study, modification, and contribution
+  - **Development transparency** - Open development process with visible progress and decision-making
+  - **Educational resource** - Complete implementation available for learning interface design principles
+  - **Community enhancement** - Platform for ongoing improvements and feature additions
+  - **Preservation value** - Source availability ensuring long-term access and maintainability
+  
+  **Design Philosophy Innovation:**
+  - **Player-centered development** - All decisions evaluated based on impact on player experience
+  - **Tradition with progress** - Respecting Angband heritage while embracing beneficial improvements
+  - **Usability prioritization** - Interface design principles applied to traditional roguelike complexity
+  - **Quality over quantity** - Fewer, better-implemented features rather than extensive but incomplete additions
+  - **Sustainable development** - Practices supporting long-term project health and community engagement
+  
+  **Educational & Design Value:**
+  - **Interface design methodology** - Case study in successful traditional game modernization
+  - **Quality-of-life principles** - Techniques for improving player experience without compromising depth
+  - **Community development** - Model for collaborative improvement of classic games
+  - **Balance methodology** - Approaches to refining gameplay while preserving essential character
+  - **User experience research** - Understanding how interface improvements affect player engagement
+  
+  **Legacy Achievement:** **NPPAngband** demonstrates that **traditional roguelike complexity** and **modern usability** can achieve **perfect harmony**, proving that **player convenience** and **quality-of-life improvements** can **enhance rather than diminish** authentic gaming experiences through **thoughtful interface design** and **community-focused development**.
 release_date: "2006"
 latest_version: "8.0.4"
 developers:

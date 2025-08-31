@@ -1,85 +1,86 @@
 name: "Linley's Dungeon Crawl"
 slug: "linleys-dungeon-crawl"
-description: "**The DCSS ancestor** - Linley Henzell's **foundational achievement** that **revolutionized roguelike spellcasting** and **streamlined design philosophy**, serving as the **genetic foundation** for **Dungeon Crawl Stone Soup** while establishing **innovative mechanics** and **accessibility principles** that would **transform modern roguelike development**.
-
-**Revolutionary Spellcasting Innovation:**
-- **Spell memorization system** - Unique magic mechanics requiring strategic spell selection and preparation
-- **Spellbook discovery** - Finding and learning magic through exploration creating progression excitement
-- **Spell level limitations** - Character advancement unlocking more powerful magical capabilities
-- **Strategic magic resource management** - Spell points and memorization slots creating tactical decisions
-- **School specialization** - Different magical disciplines with unique approaches and capabilities
-
-**Streamlined Design Philosophy:**
-- **Complexity reduction** - Eliminating unnecessary mechanics while preserving strategic depth
-- **Player convenience** - Interface and system improvements reducing tedium and frustration
-- **Accessibility focus** - Making traditional roguelike depth approachable to broader audiences
-- **Quality of life features** - Innovative systems making gameplay more enjoyable and less punishing
-- **Elegant simplicity** - Clean design principles prioritizing function and clarity
-
-**Technical Achievement (1995):**
-- **C++ implementation** - Advanced programming language enabling sophisticated game systems
-- **Cross-platform development** - DOS, Windows, and Linux versions with consistent functionality
-- **Memory efficiency** - Optimized resource usage supporting complex gameplay on limited hardware
-- **Save system reliability** - Robust character preservation across extended play sessions
-- **Performance optimization** - Smooth gameplay despite increased complexity and features
-
-**DCSS Genetic Foundation:**
-- **Codebase inheritance** - Direct technical foundation for Stone Soup development
-- **Design philosophy transfer** - Core principles carried forward into community development
-- **Mechanical innovation** - Systems and concepts evolved and refined in successor
-- **Community transition** - Player base and developer community transitioning to DCSS
-- **Historical continuity** - Direct lineage maintaining game identity across versions
-
-**Character Development Innovation:**
-- **Streamlined advancement** - Simplified but meaningful character progression systems
-- **Class variety** - Multiple character types with distinct playstyles and strategic approaches
-- **Skill system** - Ability development through practice and usage rather than arbitrary leveling
-- **Equipment integration** - Gear and character abilities working together harmoniously
-- **Build diversity** - Multiple viable approaches to character development and optimization
-
-**Game Balance Excellence:**
-- **Death prevention** - Systems designed to avoid unfair or unavoidable character loss
-- **Learning curve optimization** - Difficulty progression supporting player skill development
-- **Strategic depth maintenance** - Complexity reduction not compromising tactical gameplay
-- **Resource balance** - Careful management of player resources creating meaningful decisions
-- **Power scaling** - Character advancement and challenge scaling maintaining engagement
-
-**Community Development Transition:**
-- **Open source foundation** - Codebase availability enabling community continuation
-- **Developer documentation** - Technical information supporting community takeover
-- **Design principle communication** - Philosophy and vision shared with successor developers
-- **Community engagement** - Player feedback integration and community building
-- **Succession planning** - Smooth transition to DCSS development team
-
-**Historical Significance:**
-- **Modern roguelike pioneer** - Early example of accessibility-focused roguelike design
-- **Spellcasting revolution** - Mechanical innovations influencing numerous later games
-- **Design philosophy influence** - Streamlining approaches adopted throughout genre
-- **Community development model** - Template for successful game transition to community control
-- **Educational value** - Teaching roguelike development through accessible codebase
-
-**Innovation Legacy:**
-- **Spell system influence** - Magic mechanics adopted and adapted by numerous roguelikes
-- **Interface design** - User experience improvements becoming genre standards
-- **Accessibility principles** - Design approaches making complex games more approachable
-- **Community transition** - Model for successful game handover to community development
-- **Technical foundation** - Codebase and architecture supporting major successor development
-
-**Cultural Impact:**
-- **Roguelike modernization** - Demonstrating genre could evolve while preserving authenticity
-- **Community empowerment** - Enabling player communities to continue and enhance beloved games
-- **Design education** - Teaching principles of elegant game system design
-- **Genre accessibility** - Making traditional roguelike depth available to broader audiences
-- **Development inspiration** - Influencing numerous independent roguelike developers
-
-**Educational & Research Value:**
-- **Game design principles** - Clean examples of effective system design and player consideration
-- **Community development** - Case study in successful game transition to community control
-- **Technical documentation** - Well-organized codebase serving educational purposes
-- **Design philosophy** - Clear examples of accessibility without depth compromise
-- **Historical preservation** - Important milestone in roguelike evolution and development
-
-**Cultural Achievement:** **Linley's Dungeon Crawl** demonstrates that **innovative mechanics** and **streamlined design** can **revolutionize traditional genres** while **preserving authentic depth**, proving that **accessibility improvements** and **community empowerment** can create **lasting legacies** that **influence entire gaming movements** through **thoughtful design philosophy** and **open development practices**."
+description: |
+  **The DCSS ancestor** - Linley Henzell's **foundational achievement** that **revolutionized roguelike spellcasting** and **streamlined design philosophy**, serving as the **genetic foundation** for **Dungeon Crawl Stone Soup** while establishing **innovative mechanics** and **accessibility principles** that would **transform modern roguelike development**.
+  
+  **Revolutionary Spellcasting Innovation:**
+  - **Spell memorization system** - Unique magic mechanics requiring strategic spell selection and preparation
+  - **Spellbook discovery** - Finding and learning magic through exploration creating progression excitement
+  - **Spell level limitations** - Character advancement unlocking more powerful magical capabilities
+  - **Strategic magic resource management** - Spell points and memorization slots creating tactical decisions
+  - **School specialization** - Different magical disciplines with unique approaches and capabilities
+  
+  **Streamlined Design Philosophy:**
+  - **Complexity reduction** - Eliminating unnecessary mechanics while preserving strategic depth
+  - **Player convenience** - Interface and system improvements reducing tedium and frustration
+  - **Accessibility focus** - Making traditional roguelike depth approachable to broader audiences
+  - **Quality of life features** - Innovative systems making gameplay more enjoyable and less punishing
+  - **Elegant simplicity** - Clean design principles prioritizing function and clarity
+  
+  **Technical Achievement (1995):**
+  - **C++ implementation** - Advanced programming language enabling sophisticated game systems
+  - **Cross-platform development** - DOS, Windows, and Linux versions with consistent functionality
+  - **Memory efficiency** - Optimized resource usage supporting complex gameplay on limited hardware
+  - **Save system reliability** - Robust character preservation across extended play sessions
+  - **Performance optimization** - Smooth gameplay despite increased complexity and features
+  
+  **DCSS Genetic Foundation:**
+  - **Codebase inheritance** - Direct technical foundation for Stone Soup development
+  - **Design philosophy transfer** - Core principles carried forward into community development
+  - **Mechanical innovation** - Systems and concepts evolved and refined in successor
+  - **Community transition** - Player base and developer community transitioning to DCSS
+  - **Historical continuity** - Direct lineage maintaining game identity across versions
+  
+  **Character Development Innovation:**
+  - **Streamlined advancement** - Simplified but meaningful character progression systems
+  - **Class variety** - Multiple character types with distinct playstyles and strategic approaches
+  - **Skill system** - Ability development through practice and usage rather than arbitrary leveling
+  - **Equipment integration** - Gear and character abilities working together harmoniously
+  - **Build diversity** - Multiple viable approaches to character development and optimization
+  
+  **Game Balance Excellence:**
+  - **Death prevention** - Systems designed to avoid unfair or unavoidable character loss
+  - **Learning curve optimization** - Difficulty progression supporting player skill development
+  - **Strategic depth maintenance** - Complexity reduction not compromising tactical gameplay
+  - **Resource balance** - Careful management of player resources creating meaningful decisions
+  - **Power scaling** - Character advancement and challenge scaling maintaining engagement
+  
+  **Community Development Transition:**
+  - **Open source foundation** - Codebase availability enabling community continuation
+  - **Developer documentation** - Technical information supporting community takeover
+  - **Design principle communication** - Philosophy and vision shared with successor developers
+  - **Community engagement** - Player feedback integration and community building
+  - **Succession planning** - Smooth transition to DCSS development team
+  
+  **Historical Significance:**
+  - **Modern roguelike pioneer** - Early example of accessibility-focused roguelike design
+  - **Spellcasting revolution** - Mechanical innovations influencing numerous later games
+  - **Design philosophy influence** - Streamlining approaches adopted throughout genre
+  - **Community development model** - Template for successful game transition to community control
+  - **Educational value** - Teaching roguelike development through accessible codebase
+  
+  **Innovation Legacy:**
+  - **Spell system influence** - Magic mechanics adopted and adapted by numerous roguelikes
+  - **Interface design** - User experience improvements becoming genre standards
+  - **Accessibility principles** - Design approaches making complex games more approachable
+  - **Community transition** - Model for successful game handover to community development
+  - **Technical foundation** - Codebase and architecture supporting major successor development
+  
+  **Cultural Impact:**
+  - **Roguelike modernization** - Demonstrating genre could evolve while preserving authenticity
+  - **Community empowerment** - Enabling player communities to continue and enhance beloved games
+  - **Design education** - Teaching principles of elegant game system design
+  - **Genre accessibility** - Making traditional roguelike depth available to broader audiences
+  - **Development inspiration** - Influencing numerous independent roguelike developers
+  
+  **Educational & Research Value:**
+  - **Game design principles** - Clean examples of effective system design and player consideration
+  - **Community development** - Case study in successful game transition to community control
+  - **Technical documentation** - Well-organized codebase serving educational purposes
+  - **Design philosophy** - Clear examples of accessibility without depth compromise
+  - **Historical preservation** - Important milestone in roguelike evolution and development
+  
+  **Cultural Achievement:** **Linley's Dungeon Crawl** demonstrates that **innovative mechanics** and **streamlined design** can **revolutionize traditional genres** while **preserving authentic depth**, proving that **accessibility improvements** and **community empowerment** can create **lasting legacies** that **influence entire gaming movements** through **thoughtful design philosophy** and **open development practices**.
 release_date: "1995"
 latest_version: "4.0.0 beta26"
 developers:

@@ -1,78 +1,79 @@
 name: "UnExplored"
 slug: "unexplored"
-description: "**The procedural generation revolution** - Ludomotion's **groundbreaking achievement** in **dungeon generation technology** that created **interconnected underground complexes** with **architectural believability**, featuring **84% positive Steam reviews**, **academic recognition**, and **cross-platform success** that proves **innovative algorithms** can **revolutionize traditional roguelike design**.
-
-**Revolutionary Generation Technology:**
-- **Logical dungeon architecture** - Underground complexes with believable structural engineering and realistic layouts
-- **Interconnected level design** - Multi-level dungeons with stairs, shafts, and passages creating cohesive architectural spaces
-- **Lock-and-key progression** - Puzzle-like exploration requiring specific items and abilities to access new areas
-- **Spatial coherence** - Room layouts following architectural logic with sensible connections and proportions
-- **Emergent narrative spaces** - Environments naturally telling stories through spatial arrangement and design
-
-**Academic & Technical Recognition:**
-- **Research paper citations** - Featured in academic studies on procedural content generation algorithms
-- **GDC presentations** - Developers speaking at Game Developers Conference about generation techniques
-- **Technical innovation awards** - Industry recognition for advancing procedural generation methodology
-- **Algorithm documentation** - Open sharing of technical approaches benefiting broader development community
-- **Educational adoption** - Used in game development courses for teaching advanced procedural techniques
-
-**Real-Time Combat Innovation:**
-- **Action-roguelike hybridization** - Combining traditional roguelike depth with modern action gameplay
-- **Tactical positioning** - Real-time movement requiring strategic positioning and timing decisions
-- **Equipment variety** - Diverse weapons and tools each offering unique tactical approaches
-- **Skill-based progression** - Player ability development through practice rather than statistical grinding
-- **Combat clarity** - Clear visual feedback enabling precise tactical decision-making
-
-**Cross-Platform Excellence:**
-- **Universal compatibility** - Windows, macOS, Linux, iOS, and Android versions with consistent experience
-- **Steam success** - 84% positive reviews demonstrating broad PC gaming market appeal
-- **Mobile optimization** - Touch controls adapted for complex dungeon exploration and combat
-- **Platform-specific features** - Each version taking advantage of platform strengths and capabilities
-- **Save synchronization** - Progress preservation across different devices and platforms
-
-**Commercial & Critical Success:**
-- **Indie development model** - Small studio achieving technical innovation and commercial viability
-- **Press recognition** - Gaming media praising revolutionary approach to procedural generation
-- **Player satisfaction** - Strong review scores demonstrating successful execution of innovative concepts
-- **Technical achievement** - Recognition for pushing boundaries of procedural content creation
-- **Market validation** - Commercial success proving demand for innovative roguelike design
-
-**Visual & Audio Polish:**
-- **Professional presentation** - High-quality graphics and animations rivaling larger studio productions
-- **Atmospheric audio design** - Sound effects and music enhancing dungeon exploration immersion
-- **UI/UX excellence** - Interface design making complex systems accessible and intuitive
-- **Visual clarity** - Clear representation of complex spatial relationships and game states
-- **Artistic coherence** - Consistent visual style supporting thematic dungeon exploration
-
-**Level Design Philosophy:**
-- **Exploration-driven gameplay** - Dungeon layouts encouraging thorough investigation and discovery
-- **Environmental storytelling** - Architecture and arrangement conveying narrative through spatial design
-- **Progressive revelation** - Dungeon secrets and connections revealed through careful exploration
-- **Architectural authenticity** - Underground structures following realistic engineering principles
-- **Player curiosity reward** - Hidden areas and secrets rewarding thorough exploration efforts
-
-**Technical Achievement:**
-- **Custom engine development** - Purpose-built system optimized for complex procedural generation
-- **Performance optimization** - Smooth gameplay despite computationally intensive generation algorithms
-- **Algorithm efficiency** - Fast generation enabling real-time level creation and modification
-- **Memory management** - Efficient resource usage supporting complex interconnected level structures
-- **Platform compatibility** - Consistent performance across diverse hardware specifications
-
-**Community & Educational Impact:**
-- **Developer outreach** - Sharing technical knowledge with broader game development community
-- **Open algorithm discussion** - Transparent communication about generation techniques and methods
-- **Educational resources** - Presentations and documentation helping other developers learn techniques
-- **Community feedback integration** - Player suggestions incorporated into ongoing development
-- **Technical mentorship** - Developers helping others implement similar procedural systems
-
-**Innovation Legacy:**
-- **Procedural generation advancement** - Pushing field forward through practical innovation and application
-- **Algorithm sharing** - Contributing to open knowledge base of procedural content creation
-- **Industry influence** - Inspiring other developers to experiment with advanced generation techniques
-- **Academic collaboration** - Working with researchers to advance theoretical understanding
-- **Technical documentation** - Preserving and sharing implementation knowledge for future developers
-
-**Cultural Impact:** **UnExplored** demonstrates that **technical innovation** in **procedural generation** can create **entirely new categories** of **gaming experiences**, proving that **algorithmic creativity** and **architectural authenticity** can **revolutionize traditional genre expectations** while achieving **commercial success** and **academic recognition** through **genuine technological advancement**."
+description: |
+  **The procedural generation revolution** - Ludomotion's **groundbreaking achievement** in **dungeon generation technology** that created **interconnected underground complexes** with **architectural believability**, featuring **84% positive Steam reviews**, **academic recognition**, and **cross-platform success** that proves **innovative algorithms** can **revolutionize traditional roguelike design**.
+  
+  **Revolutionary Generation Technology:**
+  - **Logical dungeon architecture** - Underground complexes with believable structural engineering and realistic layouts
+  - **Interconnected level design** - Multi-level dungeons with stairs, shafts, and passages creating cohesive architectural spaces
+  - **Lock-and-key progression** - Puzzle-like exploration requiring specific items and abilities to access new areas
+  - **Spatial coherence** - Room layouts following architectural logic with sensible connections and proportions
+  - **Emergent narrative spaces** - Environments naturally telling stories through spatial arrangement and design
+  
+  **Academic & Technical Recognition:**
+  - **Research paper citations** - Featured in academic studies on procedural content generation algorithms
+  - **GDC presentations** - Developers speaking at Game Developers Conference about generation techniques
+  - **Technical innovation awards** - Industry recognition for advancing procedural generation methodology
+  - **Algorithm documentation** - Open sharing of technical approaches benefiting broader development community
+  - **Educational adoption** - Used in game development courses for teaching advanced procedural techniques
+  
+  **Real-Time Combat Innovation:**
+  - **Action-roguelike hybridization** - Combining traditional roguelike depth with modern action gameplay
+  - **Tactical positioning** - Real-time movement requiring strategic positioning and timing decisions
+  - **Equipment variety** - Diverse weapons and tools each offering unique tactical approaches
+  - **Skill-based progression** - Player ability development through practice rather than statistical grinding
+  - **Combat clarity** - Clear visual feedback enabling precise tactical decision-making
+  
+  **Cross-Platform Excellence:**
+  - **Universal compatibility** - Windows, macOS, Linux, iOS, and Android versions with consistent experience
+  - **Steam success** - 84% positive reviews demonstrating broad PC gaming market appeal
+  - **Mobile optimization** - Touch controls adapted for complex dungeon exploration and combat
+  - **Platform-specific features** - Each version taking advantage of platform strengths and capabilities
+  - **Save synchronization** - Progress preservation across different devices and platforms
+  
+  **Commercial & Critical Success:**
+  - **Indie development model** - Small studio achieving technical innovation and commercial viability
+  - **Press recognition** - Gaming media praising revolutionary approach to procedural generation
+  - **Player satisfaction** - Strong review scores demonstrating successful execution of innovative concepts
+  - **Technical achievement** - Recognition for pushing boundaries of procedural content creation
+  - **Market validation** - Commercial success proving demand for innovative roguelike design
+  
+  **Visual & Audio Polish:**
+  - **Professional presentation** - High-quality graphics and animations rivaling larger studio productions
+  - **Atmospheric audio design** - Sound effects and music enhancing dungeon exploration immersion
+  - **UI/UX excellence** - Interface design making complex systems accessible and intuitive
+  - **Visual clarity** - Clear representation of complex spatial relationships and game states
+  - **Artistic coherence** - Consistent visual style supporting thematic dungeon exploration
+  
+  **Level Design Philosophy:**
+  - **Exploration-driven gameplay** - Dungeon layouts encouraging thorough investigation and discovery
+  - **Environmental storytelling** - Architecture and arrangement conveying narrative through spatial design
+  - **Progressive revelation** - Dungeon secrets and connections revealed through careful exploration
+  - **Architectural authenticity** - Underground structures following realistic engineering principles
+  - **Player curiosity reward** - Hidden areas and secrets rewarding thorough exploration efforts
+  
+  **Technical Achievement:**
+  - **Custom engine development** - Purpose-built system optimized for complex procedural generation
+  - **Performance optimization** - Smooth gameplay despite computationally intensive generation algorithms
+  - **Algorithm efficiency** - Fast generation enabling real-time level creation and modification
+  - **Memory management** - Efficient resource usage supporting complex interconnected level structures
+  - **Platform compatibility** - Consistent performance across diverse hardware specifications
+  
+  **Community & Educational Impact:**
+  - **Developer outreach** - Sharing technical knowledge with broader game development community
+  - **Open algorithm discussion** - Transparent communication about generation techniques and methods
+  - **Educational resources** - Presentations and documentation helping other developers learn techniques
+  - **Community feedback integration** - Player suggestions incorporated into ongoing development
+  - **Technical mentorship** - Developers helping others implement similar procedural systems
+  
+  **Innovation Legacy:**
+  - **Procedural generation advancement** - Pushing field forward through practical innovation and application
+  - **Algorithm sharing** - Contributing to open knowledge base of procedural content creation
+  - **Industry influence** - Inspiring other developers to experiment with advanced generation techniques
+  - **Academic collaboration** - Working with researchers to advance theoretical understanding
+  - **Technical documentation** - Preserving and sharing implementation knowledge for future developers
+  
+  **Cultural Impact:** **UnExplored** demonstrates that **technical innovation** in **procedural generation** can create **entirely new categories** of **gaming experiences**, proving that **algorithmic creativity** and **architectural authenticity** can **revolutionize traditional genre expectations** while achieving **commercial success** and **academic recognition** through **genuine technological advancement**.
 release_date: "2017-02-23"
 latest_version: "1.3.6"
 developers:

@@ -1,85 +1,86 @@
 name: "UMoria"
 slug: "umoria"
-description: "**The Unix foundation** - James E. Wilson and David J. Grabiner's **essential achievement** that transformed **Moria into portable Unix code**, becoming the **genetic foundation for Angband** and **countless variants**, proving that **careful porting** and **open source distribution** could **preserve and extend** legendary gaming experiences across **decades of technological evolution**.
-
-**Historical Porting Achievement:**
-- **VMS Pascal to Unix C** - Complete translation of Moria from proprietary platform to open Unix
-- **Portability revolution** - Enabling roguelike to run on diverse Unix systems and hardware
-- **Code standardization** - Clean C implementation setting standards for future development
-- **Interface improvements** - Enhanced user experience while preserving authentic gameplay
-- **Foundation establishment** - Creating stable codebase for future variant development
-
-**Angband Genetic Foundation:**
-- **Direct Angband ancestor** - Immediate codebase source for the most influential roguelike family
-- **Architecture legacy** - Code organization and structure inherited by dozens of variants
-- **Development methodology** - Collaborative improvement practices adopted throughout Angband lineage
-- **Quality standards** - Programming excellence and stability expectations for future variants
-- **Open source model** - GPL licensing enabling community development and enhancement
-
-**Technical Excellence (1987):**
-- **Cross-platform compatibility** - Unix, Linux, and Windows versions with consistent functionality
-- **Memory efficiency** - Optimized resource usage supporting complex gameplay on limited hardware
-- **Code maintainability** - Clean architecture enabling decades of ongoing development
-- **Performance optimization** - Smooth gameplay despite increased complexity over original
-- **Save system reliability** - Robust character preservation across extended play sessions
-
-**Collaborative Development Innovation:**
-- **James E. Wilson leadership** - Primary developer coordinating community contributions
-- **David J. Grabiner partnership** - Co-development ensuring code quality and feature integration
-- **Community contribution** - Multiple developers improving and maintaining codebase
-- **Open source methodology** - Transparent development process encouraging community participation
-- **Version control practices** - Systematic code management supporting collaborative enhancement
-
-**Preservation & Accessibility:**
-- **Long-term availability** - Version 5.7.15+ ensuring continued access to classic gameplay
-- **Educational resource** - Complete source code available for studying early roguelike implementation
-- **Historical documentation** - Preserving important techniques and design decisions
-- **Community maintenance** - Ongoing support ensuring compatibility with modern systems
-- **Cultural preservation** - Maintaining access to foundational roguelike experience
-
-**Interface & Usability Improvements:**
-- **Command refinement** - More intuitive keyboard shortcuts and game interaction
-- **Display enhancement** - Better presentation of game information and status
-- **Help system integration** - Improved documentation and player assistance
-- **Error handling** - Robust input validation and graceful failure management
-- **Accessibility features** - Design elements making complex gameplay more approachable
-
-**Open Source Impact:**
-- **GPL licensing** - Free software foundation enabling unlimited community access and modification
-- **Source code availability** - Complete implementation accessible for learning and enhancement
-- **Community empowerment** - Open development model enabling player-driven improvements
-- **Educational value** - Teaching early roguelike programming techniques and design principles
-- **Preservation assurance** - Open source ensuring long-term availability and maintainability
-
-**Cultural Significance:**
-- **Unix gaming history** - Important milestone in Unix-based entertainment software development
-- **Roguelike evolution** - Critical link between original Moria and modern variant explosion
-- **Community development** - Early example of successful collaborative game improvement
-- **Open source gaming** - Pioneering free software approach to game development and distribution
-- **Educational legacy** - Teaching generations of developers through accessible source code
-
-**Design Philosophy:**
-- **Authenticity preservation** - Maintaining original Moria gameplay while improving implementation
-- **Community service** - Development motivated by desire to share excellent gaming experience
-- **Technical excellence** - High standards for code quality and system reliability
-- **Long-term thinking** - Decisions made with future development and maintenance in mind
-- **Open collaboration** - Welcoming community contributions and shared ownership
-
-**Development Legacy:**
-- **Variant explosion** - Stable foundation enabling hundreds of Angband family derivatives
-- **Programming standards** - Code quality expectations adopted throughout roguelike community
-- **Collaborative practices** - Development methodologies used in numerous open source game projects
-- **Documentation culture** - Information sharing practices supporting community development
-- **Preservation methodology** - Techniques for maintaining classic games across technological change
-
-**Educational Value:**
-- **Early roguelike programming** - Complete example of 1980s game development techniques
-- **Cross-platform porting** - Methods for adapting games across different computing platforms
-- **Collaborative development** - Model for successful community-driven software improvement
-- **Open source methodology** - Practices for transparent, community-accessible development
-- **Long-term maintenance** - Approaches to sustaining software projects across decades
-
-**Legacy Achievement:** **UMoria** demonstrates that **careful technical preservation** and **open source distribution** can **transform single games** into **foundations for entire genres**, proving that **community collaboration** and **programming excellence** can **preserve cultural artifacts** while **enabling infinite creative extension** through **transparent development practices**."
+description: |
+  **The Unix foundation** - James E. Wilson and David J. Grabiner's **essential achievement** that transformed **Moria into portable Unix code**, becoming the **genetic foundation for Angband** and **countless variants**, proving that **careful porting** and **open source distribution** could **preserve and extend** legendary gaming experiences across **decades of technological evolution**.
+  
+  **Historical Porting Achievement:**
+  - **VMS Pascal to Unix C** - Complete translation of Moria from proprietary platform to open Unix
+  - **Portability revolution** - Enabling roguelike to run on diverse Unix systems and hardware
+  - **Code standardization** - Clean C implementation setting standards for future development
+  - **Interface improvements** - Enhanced user experience while preserving authentic gameplay
+  - **Foundation establishment** - Creating stable codebase for future variant development
+  
+  **Angband Genetic Foundation:**
+  - **Direct Angband ancestor** - Immediate codebase source for the most influential roguelike family
+  - **Architecture legacy** - Code organization and structure inherited by dozens of variants
+  - **Development methodology** - Collaborative improvement practices adopted throughout Angband lineage
+  - **Quality standards** - Programming excellence and stability expectations for future variants
+  - **Open source model** - GPL licensing enabling community development and enhancement
+  
+  **Technical Excellence (1987):**
+  - **Cross-platform compatibility** - Unix, Linux, and Windows versions with consistent functionality
+  - **Memory efficiency** - Optimized resource usage supporting complex gameplay on limited hardware
+  - **Code maintainability** - Clean architecture enabling decades of ongoing development
+  - **Performance optimization** - Smooth gameplay despite increased complexity over original
+  - **Save system reliability** - Robust character preservation across extended play sessions
+  
+  **Collaborative Development Innovation:**
+  - **James E. Wilson leadership** - Primary developer coordinating community contributions
+  - **David J. Grabiner partnership** - Co-development ensuring code quality and feature integration
+  - **Community contribution** - Multiple developers improving and maintaining codebase
+  - **Open source methodology** - Transparent development process encouraging community participation
+  - **Version control practices** - Systematic code management supporting collaborative enhancement
+  
+  **Preservation & Accessibility:**
+  - **Long-term availability** - Version 5.7.15+ ensuring continued access to classic gameplay
+  - **Educational resource** - Complete source code available for studying early roguelike implementation
+  - **Historical documentation** - Preserving important techniques and design decisions
+  - **Community maintenance** - Ongoing support ensuring compatibility with modern systems
+  - **Cultural preservation** - Maintaining access to foundational roguelike experience
+  
+  **Interface & Usability Improvements:**
+  - **Command refinement** - More intuitive keyboard shortcuts and game interaction
+  - **Display enhancement** - Better presentation of game information and status
+  - **Help system integration** - Improved documentation and player assistance
+  - **Error handling** - Robust input validation and graceful failure management
+  - **Accessibility features** - Design elements making complex gameplay more approachable
+  
+  **Open Source Impact:**
+  - **GPL licensing** - Free software foundation enabling unlimited community access and modification
+  - **Source code availability** - Complete implementation accessible for learning and enhancement
+  - **Community empowerment** - Open development model enabling player-driven improvements
+  - **Educational value** - Teaching early roguelike programming techniques and design principles
+  - **Preservation assurance** - Open source ensuring long-term availability and maintainability
+  
+  **Cultural Significance:**
+  - **Unix gaming history** - Important milestone in Unix-based entertainment software development
+  - **Roguelike evolution** - Critical link between original Moria and modern variant explosion
+  - **Community development** - Early example of successful collaborative game improvement
+  - **Open source gaming** - Pioneering free software approach to game development and distribution
+  - **Educational legacy** - Teaching generations of developers through accessible source code
+  
+  **Design Philosophy:**
+  - **Authenticity preservation** - Maintaining original Moria gameplay while improving implementation
+  - **Community service** - Development motivated by desire to share excellent gaming experience
+  - **Technical excellence** - High standards for code quality and system reliability
+  - **Long-term thinking** - Decisions made with future development and maintenance in mind
+  - **Open collaboration** - Welcoming community contributions and shared ownership
+  
+  **Development Legacy:**
+  - **Variant explosion** - Stable foundation enabling hundreds of Angband family derivatives
+  - **Programming standards** - Code quality expectations adopted throughout roguelike community
+  - **Collaborative practices** - Development methodologies used in numerous open source game projects
+  - **Documentation culture** - Information sharing practices supporting community development
+  - **Preservation methodology** - Techniques for maintaining classic games across technological change
+  
+  **Educational Value:**
+  - **Early roguelike programming** - Complete example of 1980s game development techniques
+  - **Cross-platform porting** - Methods for adapting games across different computing platforms
+  - **Collaborative development** - Model for successful community-driven software improvement
+  - **Open source methodology** - Practices for transparent, community-accessible development
+  - **Long-term maintenance** - Approaches to sustaining software projects across decades
+  
+  **Legacy Achievement:** **UMoria** demonstrates that **careful technical preservation** and **open source distribution** can **transform single games** into **foundations for entire genres**, proving that **community collaboration** and **programming excellence** can **preserve cultural artifacts** while **enabling infinite creative extension** through **transparent development practices**.
 release_date: "1987"
 latest_version: "5.7.15"
 developers:

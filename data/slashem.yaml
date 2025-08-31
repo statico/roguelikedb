@@ -1,85 +1,86 @@
 name: "SLASH'EM"
 slug: "slashem"
-description: "**The NetHack expansion masterpiece** - Warren Cheung and the SLASH'EM Development Team's **legendary achievement** that created the **most influential NetHack variant**, featuring **Super Lotsa Added Stuff Hack - Extended Magic** with **new roles**, **races**, **monsters**, **items**, and **areas** proving that **community-driven expansion** could **enhance beloved roguelikes** while **influencing official development** and **inspiring decades** of **variant innovation**.
-
-**NetHack Expansion Revolution (1997):**
-- **Most popular NetHack variant** - Unprecedented community adoption and long-term player dedication
-- **Major content expansion** - Extensive additions creating significantly enlarged gameplay experience
-- **Super Lotsa Added Stuff** - Philosophy of comprehensive enhancement across all game systems
-- **Extended Magic systems** - Sophisticated spell and magical item additions enhancing strategic depth
-- **Influential development** - Features later incorporated into official NetHack releases
-
-**Content Addition Excellence:**
-- **New character roles** - Additional professions expanding player choice and strategic options
-- **Expanded race selection** - Diverse species options creating varied gameplay approaches and abilities
-- **Monster variety** - Extensive creature additions providing fresh tactical challenges
-- **Item diversity** - Massive equipment and magical item additions enhancing exploration rewards
-- **Area expansion** - New locations and dungeon areas extending exploration opportunities
-
-**Community Development Achievement:**
-- **SLASH'EM Development Team** - Collaborative effort creating cohesive expansion vision
-- **Version 0.0.7E7F3 evolution** - Ongoing development with incremental improvements and refinements
-- **Medium community size** - Dedicated player base supporting long-term development and feedback
-- **Community feedback integration** - Player suggestions directly influencing development priorities
-- **Open source collaboration** - NetHack GPL licensing enabling transparent community enhancement
-
-**Technical Implementation:**
-- **C programming mastery** - Sophisticated additions within complex NetHack codebase architecture
-- **Cross-platform compatibility** - Windows, Linux, macOS, and DOS versions ensuring broad accessibility
-- **Memory efficiency** - 64MB requirements supporting extensive content additions
-- **Performance optimization** - Smooth gameplay despite massive content expansion
-- **Code integration** - New features seamlessly integrated with existing NetHack systems
-
-**Gameplay Innovation:**
-- **Role diversification** - New character classes creating distinct playstyles and strategic approaches
-- **Tactical complexity** - Expanded options increasing strategic depth and decision-making complexity
-- **Exploration variety** - New areas and creatures ensuring fresh discovery experiences
-- **Magic system enhancement** - Extended spell systems providing deeper magical gameplay
-- **Pet and companion expansion** - Enhanced companion mechanics improving tactical options
-
-**Official NetHack Influence:**
-- **Feature incorporation** - SLASH'EM innovations adopted into official NetHack development
-- **Development methodology** - Community enhancement approaches influencing official development practices
-- **Content validation** - SLASH'EM testing ground for features later added to main NetHack
-- **Community liaison** - Bridge between NetHack community desires and official development
-- **Innovation precedent** - Demonstrating viable approaches to roguelike expansion
-
-**Cultural Gaming Impact:**
-- **Variant precedent** - Establishing template for major roguelike expansion and enhancement
-- **Community empowerment** - Demonstrating player communities could create professional-quality content
-- **Open source validation** - Proving collaborative development could enhance established games
-- **Innovation inspiration** - Encouraging other developers to explore roguelike variant development
-- **Genre legitimacy** - Contributing to roguelike recognition as platform supporting community enhancement
-
-**Design Philosophy:**
-- **Comprehensive enhancement** - Adding content across all game systems for unified expansion
-- **Community service** - Development motivated by desire to enhance beloved gaming experience
-- **Quality standards** - Professional development practices maintaining NetHack's excellence
-- **Player choice** - Expansion prioritizing options and variety for diverse playstyles
-- **Balanced complexity** - Adding depth without overwhelming core NetHack accessibility
-
-**Development Legacy:**
-- **SLASH'EM Extended** - Spawning further community enhancement and variation
-- **Community development** - Model for collaborative roguelike enhancement and expansion
-- **Feature testing** - Proving ground for innovations later adopted by official development
-- **Education resource** - Teaching community-driven enhancement of established games
-- **Preservation importance** - Maintaining access to influential community enhancement work
-
-**Open Source Excellence:**
-- **NetHack GPL** - Community access enabling study of expansion techniques and methodologies
-- **Educational resource** - Complete source demonstrating professional community enhancement approaches
-- **Development transparency** - Open process supporting community understanding of expansion techniques
-- **Community enhancement** - Code availability enabling further modification and learning
-- **Preservation assurance** - Open source ensuring long-term access to influential expansion work
-
-**Educational Value:**
-- **Community expansion techniques** - Methods for professional enhancement of established roguelikes
-- **Collaborative development** - Community-driven programming and design practices
-- **NetHack programming** - Advanced techniques for modification of complex roguelike systems
-- **Content integration** - Approaches to seamless addition of new features and content
-- **Quality maintenance** - Preserving game balance while adding extensive new content
-
-**Legacy Achievement:** **SLASH'EM** demonstrates that **community passion** and **collaborative development** can **create legendary enhancements**, proving that **player-driven innovation** and **professional standards** can **influence official development** while **establishing templates** for **roguelike expansion** and **inspiring decades** of **community-driven enhancement**."
+description: |
+  **The NetHack expansion masterpiece** - Warren Cheung and the SLASH'EM Development Team's **legendary achievement** that created the **most influential NetHack variant**, featuring **Super Lotsa Added Stuff Hack - Extended Magic** with **new roles**, **races**, **monsters**, **items**, and **areas** proving that **community-driven expansion** could **enhance beloved roguelikes** while **influencing official development** and **inspiring decades** of **variant innovation**.
+  
+  **NetHack Expansion Revolution (1997):**
+  - **Most popular NetHack variant** - Unprecedented community adoption and long-term player dedication
+  - **Major content expansion** - Extensive additions creating significantly enlarged gameplay experience
+  - **Super Lotsa Added Stuff** - Philosophy of comprehensive enhancement across all game systems
+  - **Extended Magic systems** - Sophisticated spell and magical item additions enhancing strategic depth
+  - **Influential development** - Features later incorporated into official NetHack releases
+  
+  **Content Addition Excellence:**
+  - **New character roles** - Additional professions expanding player choice and strategic options
+  - **Expanded race selection** - Diverse species options creating varied gameplay approaches and abilities
+  - **Monster variety** - Extensive creature additions providing fresh tactical challenges
+  - **Item diversity** - Massive equipment and magical item additions enhancing exploration rewards
+  - **Area expansion** - New locations and dungeon areas extending exploration opportunities
+  
+  **Community Development Achievement:**
+  - **SLASH'EM Development Team** - Collaborative effort creating cohesive expansion vision
+  - **Version 0.0.7E7F3 evolution** - Ongoing development with incremental improvements and refinements
+  - **Medium community size** - Dedicated player base supporting long-term development and feedback
+  - **Community feedback integration** - Player suggestions directly influencing development priorities
+  - **Open source collaboration** - NetHack GPL licensing enabling transparent community enhancement
+  
+  **Technical Implementation:**
+  - **C programming mastery** - Sophisticated additions within complex NetHack codebase architecture
+  - **Cross-platform compatibility** - Windows, Linux, macOS, and DOS versions ensuring broad accessibility
+  - **Memory efficiency** - 64MB requirements supporting extensive content additions
+  - **Performance optimization** - Smooth gameplay despite massive content expansion
+  - **Code integration** - New features seamlessly integrated with existing NetHack systems
+  
+  **Gameplay Innovation:**
+  - **Role diversification** - New character classes creating distinct playstyles and strategic approaches
+  - **Tactical complexity** - Expanded options increasing strategic depth and decision-making complexity
+  - **Exploration variety** - New areas and creatures ensuring fresh discovery experiences
+  - **Magic system enhancement** - Extended spell systems providing deeper magical gameplay
+  - **Pet and companion expansion** - Enhanced companion mechanics improving tactical options
+  
+  **Official NetHack Influence:**
+  - **Feature incorporation** - SLASH'EM innovations adopted into official NetHack development
+  - **Development methodology** - Community enhancement approaches influencing official development practices
+  - **Content validation** - SLASH'EM testing ground for features later added to main NetHack
+  - **Community liaison** - Bridge between NetHack community desires and official development
+  - **Innovation precedent** - Demonstrating viable approaches to roguelike expansion
+  
+  **Cultural Gaming Impact:**
+  - **Variant precedent** - Establishing template for major roguelike expansion and enhancement
+  - **Community empowerment** - Demonstrating player communities could create professional-quality content
+  - **Open source validation** - Proving collaborative development could enhance established games
+  - **Innovation inspiration** - Encouraging other developers to explore roguelike variant development
+  - **Genre legitimacy** - Contributing to roguelike recognition as platform supporting community enhancement
+  
+  **Design Philosophy:**
+  - **Comprehensive enhancement** - Adding content across all game systems for unified expansion
+  - **Community service** - Development motivated by desire to enhance beloved gaming experience
+  - **Quality standards** - Professional development practices maintaining NetHack's excellence
+  - **Player choice** - Expansion prioritizing options and variety for diverse playstyles
+  - **Balanced complexity** - Adding depth without overwhelming core NetHack accessibility
+  
+  **Development Legacy:**
+  - **SLASH'EM Extended** - Spawning further community enhancement and variation
+  - **Community development** - Model for collaborative roguelike enhancement and expansion
+  - **Feature testing** - Proving ground for innovations later adopted by official development
+  - **Education resource** - Teaching community-driven enhancement of established games
+  - **Preservation importance** - Maintaining access to influential community enhancement work
+  
+  **Open Source Excellence:**
+  - **NetHack GPL** - Community access enabling study of expansion techniques and methodologies
+  - **Educational resource** - Complete source demonstrating professional community enhancement approaches
+  - **Development transparency** - Open process supporting community understanding of expansion techniques
+  - **Community enhancement** - Code availability enabling further modification and learning
+  - **Preservation assurance** - Open source ensuring long-term access to influential expansion work
+  
+  **Educational Value:**
+  - **Community expansion techniques** - Methods for professional enhancement of established roguelikes
+  - **Collaborative development** - Community-driven programming and design practices
+  - **NetHack programming** - Advanced techniques for modification of complex roguelike systems
+  - **Content integration** - Approaches to seamless addition of new features and content
+  - **Quality maintenance** - Preserving game balance while adding extensive new content
+  
+  **Legacy Achievement:** **SLASH'EM** demonstrates that **community passion** and **collaborative development** can **create legendary enhancements**, proving that **player-driven innovation** and **professional standards** can **influence official development** while **establishing templates** for **roguelike expansion** and **inspiring decades** of **community-driven enhancement**.
 release_date: "1997"
 latest_version: "0.0.7E7F3"
 developers:

@@ -1,92 +1,93 @@
 name: "Crazyband"
 slug: "crazyband"
-description: "**The chaos experiment masterpiece** - Various Contributors' **anarchic achievement** that created the **most deliberately chaotic Angband variant** featuring **randomized gameplay elements**, **unpredictable mechanics**, **intentionally unbalanced features**, and **experimental design philosophy** proving that **controlled chaos** can **create unique gaming experiences** while **challenging traditional balance concepts** and **inspiring experimental development approaches**.
-
-**Chaotic Design Philosophy (2003):**
-- **Deliberately chaotic approach** - Intentional departure from traditional game balance and predictability
-- **Experimental design laboratory** - Testing ground for extreme modifications and unconventional mechanics
-- **Version 1.0.0 completion** - Single release embodying complete chaos design vision
-- **Tiny specialized community** - Players specifically seeking unpredictable and experimental experiences
-- **Anarchic gameplay** - Systems designed to surprise, confuse, and challenge conventional strategies
-
-**Randomized Mechanics Innovation:**
-- **Unpredictable gameplay elements** - Core systems featuring intentional randomness and instability
-- **Chaos-driven encounters** - Combat and exploration mechanics defying traditional tactical planning
-- **Randomized rule application** - Game mechanics changing unpredictably during gameplay sessions
-- **Strategic disruption** - Traditional Angband strategies rendered ineffective by chaotic design
-- **Experimental interaction** - Player actions producing unexpected and surprising consequences
-
-**Intentional Imbalance Excellence:**
-- **Balance rejection philosophy** - Deliberate abandonment of traditional game balance concepts
-- **Extreme power variations** - Dramatic differences in character abilities and equipment effectiveness
-- **Unpredictable difficulty** - Challenge levels varying wildly and unexpectedly throughout gameplay
-- **Chaos-driven progression** - Character development following non-linear and surprising patterns
-- **Traditional expectations subversion** - Conventional roguelike assumptions deliberately undermined
-
-**Heavily Modified Engine Achievement:**
-- **C programming experimentation** - Extensive modifications pushing Angband architecture to experimental limits
-- **Chaos system implementation** - Complex randomization and unpredictability systems integrated throughout
-- **Performance under chaos** - Stable gameplay despite extreme modifications and unpredictable elements
-- **Memory efficiency** - 8MB requirements supporting chaotic systems within minimal constraints
-- **Cross-platform chaos** - Consistent unpredictable experience across Windows and Linux platforms
-
-**Experimental Testing Ground:**
-- **Modification laboratory** - Platform for exploring extreme and unconventional roguelike concepts
-- **Innovation catalyst** - Experiments inspiring other developers to explore non-traditional approaches
-- **Design boundary pushing** - Testing limits of what roguelike mechanics could accommodate
-- **Creative freedom** - Development unconstrained by traditional balance or player expectation concerns
-- **Educational chaos** - Teaching through demonstration of unconventional design approaches
-
-**Community Impact:**
-- **Tiny experimental community** - Highly specialized audience appreciating chaotic and unpredictable gameplay
-- **Open source contribution** - Angband license enabling study of experimental and chaotic design techniques
-- **Development completion** - Single version representing complete vision of chaotic roguelike design
-- **Innovation inspiration** - Experimental approaches encouraging other developers to explore unconventional concepts
-- **Educational resource** - Complete example of intentionally unbalanced and chaotic game development
-
-**Chaos Theory Application:**
-- **Controlled randomness** - Deliberate implementation of unpredictable but functional game systems
-- **Emergent complexity** - Simple chaotic rules creating complex and surprising gameplay interactions
-- **Pattern disruption** - Traditional roguelike patterns systematically broken and reimagined
-- **Adaptive requirement** - Players forced to develop flexible and improvisational strategies
-- **Unpredictability embrace** - Design celebrating uncertainty and surprise over optimization
-
-**Technical Innovation:**
-- **Randomization systems** - Complex algorithms generating unpredictable but playable game states
-- **Balance disruption** - Technical implementation of intentionally unbalanced game mechanics
-- **Chaos architecture** - Engine modifications supporting systematic unpredictability
-- **Performance optimization** - Efficient operation despite complex randomization and chaos systems
-- **Cross-platform consistency** - Identical chaotic experience across different operating systems
-
-**Design Philosophy:**
-- **Chaos celebration** - Embracing unpredictability as positive design element rather than problem
-- **Experimental courage** - Willingness to abandon successful formulas for innovative exploration
-- **Player challenge** - Forcing adaptation and creativity through systematic unpredictability
-- **Innovation priority** - Experimentation valued over conventional player satisfaction
-- **Educational intent** - Development motivated by desire to explore design boundaries
-
-**Cultural Gaming Impact:**
-- **Experimental validation** - Demonstrating viability of intentionally chaotic game design
-- **Design assumption challenging** - Questioning fundamental beliefs about balance and predictability
-- **Innovation encouragement** - Inspiring other developers to explore unconventional design approaches
-- **Community niche creation** - Establishing audience for experimental and chaotic gaming experiences
-- **Genre boundary expansion** - Extending roguelike definition to include deliberately unbalanced design
-
-**Open Source Legacy:**
-- **Angband license** - Community access enabling study of chaotic and experimental design techniques
-- **Educational resource** - Complete source demonstrating extreme modification and chaos implementation
-- **Innovation preservation** - Experimental approaches available for community learning and adaptation
-- **Chaos methodology** - Technical approaches to intentional unpredictability and system disruption
-- **Development transparency** - Open process supporting understanding of experimental development
-
-**Educational Value:**
-- **Experimental roguelike development** - Methods for exploring unconventional and chaotic design concepts
-- **Chaos system implementation** - Technical approaches to controlled randomness and unpredictability
-- **Balance disruption techniques** - Intentional imbalance creation and management approaches
-- **Community development** - Specialized audience development for experimental gaming content
-- **Innovation methodology** - Systematic approaches to pushing design boundaries and conventions
-
-**Legacy Achievement:** **Crazyband** demonstrates that **controlled chaos** can **create valid gaming experiences**, proving that **intentional unpredictability** and **balance rejection** can **inspire innovation** while **challenging fundamental assumptions** about **traditional game design** and **encouraging creative exploration** of **unconventional development approaches**."
+description: |
+  **The chaos experiment masterpiece** - Various Contributors' **anarchic achievement** that created the **most deliberately chaotic Angband variant** featuring **randomized gameplay elements**, **unpredictable mechanics**, **intentionally unbalanced features**, and **experimental design philosophy** proving that **controlled chaos** can **create unique gaming experiences** while **challenging traditional balance concepts** and **inspiring experimental development approaches**.
+  
+  **Chaotic Design Philosophy (2003):**
+  - **Deliberately chaotic approach** - Intentional departure from traditional game balance and predictability
+  - **Experimental design laboratory** - Testing ground for extreme modifications and unconventional mechanics
+  - **Version 1.0.0 completion** - Single release embodying complete chaos design vision
+  - **Tiny specialized community** - Players specifically seeking unpredictable and experimental experiences
+  - **Anarchic gameplay** - Systems designed to surprise, confuse, and challenge conventional strategies
+  
+  **Randomized Mechanics Innovation:**
+  - **Unpredictable gameplay elements** - Core systems featuring intentional randomness and instability
+  - **Chaos-driven encounters** - Combat and exploration mechanics defying traditional tactical planning
+  - **Randomized rule application** - Game mechanics changing unpredictably during gameplay sessions
+  - **Strategic disruption** - Traditional Angband strategies rendered ineffective by chaotic design
+  - **Experimental interaction** - Player actions producing unexpected and surprising consequences
+  
+  **Intentional Imbalance Excellence:**
+  - **Balance rejection philosophy** - Deliberate abandonment of traditional game balance concepts
+  - **Extreme power variations** - Dramatic differences in character abilities and equipment effectiveness
+  - **Unpredictable difficulty** - Challenge levels varying wildly and unexpectedly throughout gameplay
+  - **Chaos-driven progression** - Character development following non-linear and surprising patterns
+  - **Traditional expectations subversion** - Conventional roguelike assumptions deliberately undermined
+  
+  **Heavily Modified Engine Achievement:**
+  - **C programming experimentation** - Extensive modifications pushing Angband architecture to experimental limits
+  - **Chaos system implementation** - Complex randomization and unpredictability systems integrated throughout
+  - **Performance under chaos** - Stable gameplay despite extreme modifications and unpredictable elements
+  - **Memory efficiency** - 8MB requirements supporting chaotic systems within minimal constraints
+  - **Cross-platform chaos** - Consistent unpredictable experience across Windows and Linux platforms
+  
+  **Experimental Testing Ground:**
+  - **Modification laboratory** - Platform for exploring extreme and unconventional roguelike concepts
+  - **Innovation catalyst** - Experiments inspiring other developers to explore non-traditional approaches
+  - **Design boundary pushing** - Testing limits of what roguelike mechanics could accommodate
+  - **Creative freedom** - Development unconstrained by traditional balance or player expectation concerns
+  - **Educational chaos** - Teaching through demonstration of unconventional design approaches
+  
+  **Community Impact:**
+  - **Tiny experimental community** - Highly specialized audience appreciating chaotic and unpredictable gameplay
+  - **Open source contribution** - Angband license enabling study of experimental and chaotic design techniques
+  - **Development completion** - Single version representing complete vision of chaotic roguelike design
+  - **Innovation inspiration** - Experimental approaches encouraging other developers to explore unconventional concepts
+  - **Educational resource** - Complete example of intentionally unbalanced and chaotic game development
+  
+  **Chaos Theory Application:**
+  - **Controlled randomness** - Deliberate implementation of unpredictable but functional game systems
+  - **Emergent complexity** - Simple chaotic rules creating complex and surprising gameplay interactions
+  - **Pattern disruption** - Traditional roguelike patterns systematically broken and reimagined
+  - **Adaptive requirement** - Players forced to develop flexible and improvisational strategies
+  - **Unpredictability embrace** - Design celebrating uncertainty and surprise over optimization
+  
+  **Technical Innovation:**
+  - **Randomization systems** - Complex algorithms generating unpredictable but playable game states
+  - **Balance disruption** - Technical implementation of intentionally unbalanced game mechanics
+  - **Chaos architecture** - Engine modifications supporting systematic unpredictability
+  - **Performance optimization** - Efficient operation despite complex randomization and chaos systems
+  - **Cross-platform consistency** - Identical chaotic experience across different operating systems
+  
+  **Design Philosophy:**
+  - **Chaos celebration** - Embracing unpredictability as positive design element rather than problem
+  - **Experimental courage** - Willingness to abandon successful formulas for innovative exploration
+  - **Player challenge** - Forcing adaptation and creativity through systematic unpredictability
+  - **Innovation priority** - Experimentation valued over conventional player satisfaction
+  - **Educational intent** - Development motivated by desire to explore design boundaries
+  
+  **Cultural Gaming Impact:**
+  - **Experimental validation** - Demonstrating viability of intentionally chaotic game design
+  - **Design assumption challenging** - Questioning fundamental beliefs about balance and predictability
+  - **Innovation encouragement** - Inspiring other developers to explore unconventional design approaches
+  - **Community niche creation** - Establishing audience for experimental and chaotic gaming experiences
+  - **Genre boundary expansion** - Extending roguelike definition to include deliberately unbalanced design
+  
+  **Open Source Legacy:**
+  - **Angband license** - Community access enabling study of chaotic and experimental design techniques
+  - **Educational resource** - Complete source demonstrating extreme modification and chaos implementation
+  - **Innovation preservation** - Experimental approaches available for community learning and adaptation
+  - **Chaos methodology** - Technical approaches to intentional unpredictability and system disruption
+  - **Development transparency** - Open process supporting understanding of experimental development
+  
+  **Educational Value:**
+  - **Experimental roguelike development** - Methods for exploring unconventional and chaotic design concepts
+  - **Chaos system implementation** - Technical approaches to controlled randomness and unpredictability
+  - **Balance disruption techniques** - Intentional imbalance creation and management approaches
+  - **Community development** - Specialized audience development for experimental gaming content
+  - **Innovation methodology** - Systematic approaches to pushing design boundaries and conventions
+  
+  **Legacy Achievement:** **Crazyband** demonstrates that **controlled chaos** can **create valid gaming experiences**, proving that **intentional unpredictability** and **balance rejection** can **inspire innovation** while **challenging fundamental assumptions** about **traditional game design** and **encouraging creative exploration** of **unconventional development approaches**.
 release_date: "2003-01-01"
 latest_version: "1.0.0"
 developers:

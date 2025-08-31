@@ -1,71 +1,72 @@
 name: "TomeNET"
 slug: "tomenet"
-description: "**The ToME multiplayer evolution** - The **TomeNET Development Team's** **ambitious achievement** that transformed **Tales of Middle Earth** into a **persistent multiplayer world**, featuring **real-time collaborative gameplay**, **European server infrastructure**, and **Tolkien authenticity** that proves **complex single-player roguelikes** can **support active communities** while **preserving narrative depth** and **fantasy authenticity**.
-
-**Multiplayer ToME Innovation:**
-- **Tales of Middle Earth multiplayer** - Successful adaptation of complex ToME content for simultaneous players
-- **Real-time collaborative exploration** - Multiple players adventuring together through Middle Earth
-- **Persistent character progression** - Long-term development across multiple play sessions
-- **Community interaction systems** - Chat, trading, and cooperation mechanics within Tolkien framework
-- **Shared dungeon experiences** - Collaborative exploration of iconic Middle Earth locations
-
-**European Server Excellence:**
-- **Active European infrastructure** - Dedicated servers maintaining continuous game worlds
-- **Regular community events** - Scheduled activities bringing players together for shared experiences
-- **Server stability** - Reliable persistent worlds supporting extended multiplayer sessions
-- **Cultural community building** - European player base creating distinct server personalities
-- **Administrative dedication** - Community volunteers maintaining high-quality multiplayer environment
-
-**Tolkien Authenticity Preservation:**
-- **Middle Earth fidelity** - Respectful adaptation maintaining Tolkien's world-building integrity
-- **Narrative depth** - Story elements and lore preserved within multiplayer framework
-- **Fantasy authenticity** - Cultural accuracy and atmospheric consistency in multiplayer environment
-- **Immersive world-building** - Shared exploration enhancing rather than diminishing fantasy experience
-- **Community respect** - Player culture supporting authentic Middle Earth roleplay
-
-**Technical Achievement (2001-Present):**
-- **MAngband foundation** - Built on proven multiplayer architecture with ToME content integration
-- **Version 4.9.1+ releases** - Ongoing development with regular improvements and content updates
-- **Cross-platform support** - Windows, Linux, and macOS clients connecting to shared servers
-- **Performance optimization** - Smooth multiplayer gameplay despite complex ToME mechanics
-- **Network reliability** - Stable connections supporting extended collaborative play sessions
-
-**Community Culture Success:**
-- **Small dedicated community** - Committed players maintaining active multiplayer environment
-- **European gaming tradition** - Server culture reflecting European multiplayer gaming preferences
-- **Event organization** - Regular community activities and celebrations
-- **Player mentorship** - Experienced players helping newcomers navigate complex mechanics
-- **Long-term relationships** - Persistent characters enabling lasting player connections
-
-**Open Source Contribution:**
-- **GPL licensing** - Community access enabling study and modification of multiplayer ToME implementation
-- **Educational resource** - Complete source demonstrating complex roguelike multiplayer adaptation
-- **Community development** - Ongoing improvements contributed by player-developers
-- **Preservation efforts** - Source availability ensuring continued access to multiplayer Middle Earth
-- **Technical documentation** - Implementation details supporting future multiplayer roguelike development
-
-**Design Philosophy:**
-- **Community enhancement** - Multiplayer features strengthening rather than compromising ToME experience
-- **Tolkien respect** - Development prioritizing authentic Middle Earth representation
-- **Collaborative gameplay** - Systems encouraging cooperation and shared adventure
-- **Long-term engagement** - Features supporting persistent character development and community building
-- **Quality maintenance** - High standards for both technical performance and cultural authenticity
-
-**Cultural Impact:**
-- **Multiplayer Middle Earth** - Demonstrated potential for collaborative exploration of beloved fantasy worlds
-- **European roguelike gaming** - Important example of regional multiplayer gaming community
-- **ToME preservation** - Maintaining access to Tales of Middle Earth through community dedication
-- **Collaborative fantasy** - Model for respectful adaptation of literary worlds for social gaming
-- **Community dedication** - Example of small communities maintaining complex multiplayer experiences
-
-**Educational Value:**
-- **Multiplayer adaptation techniques** - Methods for converting complex single-player content for collaborative play
-- **Community management** - Practices for maintaining healthy multiplayer gaming environments
-- **Cultural preservation** - Approaches to maintaining authenticity while enabling social interaction
-- **European gaming culture** - Insights into regional multiplayer gaming preferences and practices
-- **Long-term project maintenance** - Strategies for sustaining community-driven multiplayer games
-
-**Legacy Achievement:** **TomeNET** demonstrates that **beloved single-player experiences** can **flourish in multiplayer environments**, proving that **community dedication** and **cultural authenticity** can create **persistent shared worlds** that **honor source material** while **enabling collaborative adventure** and **lasting player relationships**."
+description: |
+  **The ToME multiplayer evolution** - The **TomeNET Development Team's** **ambitious achievement** that transformed **Tales of Middle Earth** into a **persistent multiplayer world**, featuring **real-time collaborative gameplay**, **European server infrastructure**, and **Tolkien authenticity** that proves **complex single-player roguelikes** can **support active communities** while **preserving narrative depth** and **fantasy authenticity**.
+  
+  **Multiplayer ToME Innovation:**
+  - **Tales of Middle Earth multiplayer** - Successful adaptation of complex ToME content for simultaneous players
+  - **Real-time collaborative exploration** - Multiple players adventuring together through Middle Earth
+  - **Persistent character progression** - Long-term development across multiple play sessions
+  - **Community interaction systems** - Chat, trading, and cooperation mechanics within Tolkien framework
+  - **Shared dungeon experiences** - Collaborative exploration of iconic Middle Earth locations
+  
+  **European Server Excellence:**
+  - **Active European infrastructure** - Dedicated servers maintaining continuous game worlds
+  - **Regular community events** - Scheduled activities bringing players together for shared experiences
+  - **Server stability** - Reliable persistent worlds supporting extended multiplayer sessions
+  - **Cultural community building** - European player base creating distinct server personalities
+  - **Administrative dedication** - Community volunteers maintaining high-quality multiplayer environment
+  
+  **Tolkien Authenticity Preservation:**
+  - **Middle Earth fidelity** - Respectful adaptation maintaining Tolkien's world-building integrity
+  - **Narrative depth** - Story elements and lore preserved within multiplayer framework
+  - **Fantasy authenticity** - Cultural accuracy and atmospheric consistency in multiplayer environment
+  - **Immersive world-building** - Shared exploration enhancing rather than diminishing fantasy experience
+  - **Community respect** - Player culture supporting authentic Middle Earth roleplay
+  
+  **Technical Achievement (2001-Present):**
+  - **MAngband foundation** - Built on proven multiplayer architecture with ToME content integration
+  - **Version 4.9.1+ releases** - Ongoing development with regular improvements and content updates
+  - **Cross-platform support** - Windows, Linux, and macOS clients connecting to shared servers
+  - **Performance optimization** - Smooth multiplayer gameplay despite complex ToME mechanics
+  - **Network reliability** - Stable connections supporting extended collaborative play sessions
+  
+  **Community Culture Success:**
+  - **Small dedicated community** - Committed players maintaining active multiplayer environment
+  - **European gaming tradition** - Server culture reflecting European multiplayer gaming preferences
+  - **Event organization** - Regular community activities and celebrations
+  - **Player mentorship** - Experienced players helping newcomers navigate complex mechanics
+  - **Long-term relationships** - Persistent characters enabling lasting player connections
+  
+  **Open Source Contribution:**
+  - **GPL licensing** - Community access enabling study and modification of multiplayer ToME implementation
+  - **Educational resource** - Complete source demonstrating complex roguelike multiplayer adaptation
+  - **Community development** - Ongoing improvements contributed by player-developers
+  - **Preservation efforts** - Source availability ensuring continued access to multiplayer Middle Earth
+  - **Technical documentation** - Implementation details supporting future multiplayer roguelike development
+  
+  **Design Philosophy:**
+  - **Community enhancement** - Multiplayer features strengthening rather than compromising ToME experience
+  - **Tolkien respect** - Development prioritizing authentic Middle Earth representation
+  - **Collaborative gameplay** - Systems encouraging cooperation and shared adventure
+  - **Long-term engagement** - Features supporting persistent character development and community building
+  - **Quality maintenance** - High standards for both technical performance and cultural authenticity
+  
+  **Cultural Impact:**
+  - **Multiplayer Middle Earth** - Demonstrated potential for collaborative exploration of beloved fantasy worlds
+  - **European roguelike gaming** - Important example of regional multiplayer gaming community
+  - **ToME preservation** - Maintaining access to Tales of Middle Earth through community dedication
+  - **Collaborative fantasy** - Model for respectful adaptation of literary worlds for social gaming
+  - **Community dedication** - Example of small communities maintaining complex multiplayer experiences
+  
+  **Educational Value:**
+  - **Multiplayer adaptation techniques** - Methods for converting complex single-player content for collaborative play
+  - **Community management** - Practices for maintaining healthy multiplayer gaming environments
+  - **Cultural preservation** - Approaches to maintaining authenticity while enabling social interaction
+  - **European gaming culture** - Insights into regional multiplayer gaming preferences and practices
+  - **Long-term project maintenance** - Strategies for sustaining community-driven multiplayer games
+  
+  **Legacy Achievement:** **TomeNET** demonstrates that **beloved single-player experiences** can **flourish in multiplayer environments**, proving that **community dedication** and **cultural authenticity** can create **persistent shared worlds** that **honor source material** while **enabling collaborative adventure** and **lasting player relationships**.
 release_date: "2001"
 latest_version: "4.9.1"
 developers:
