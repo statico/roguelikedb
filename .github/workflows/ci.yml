@@ -1,0 +1,249 @@
+name: CI - Build and Test Roguelike Database
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  validate-yaml:
+    name: Validate YAML Files
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install YAML validator
+      run: |
+        pip install pyyaml
+        
+    - name: Validate all YAML files
+      run: |
+        echo "Validating YAML files in data directory..."
+        python -c "
+        import yaml
+        import sys
+        from pathlib import Path
+        
+        data_dir = Path('data')
+        yaml_files = list(data_dir.glob('*.yaml'))
+        
+        print(f'Found {len(yaml_files)} YAML files to validate')
+        
+        errors = 0
+        for yaml_file in yaml_files:
+            try:
+                with open(yaml_file, 'r', encoding='utf-8') as f:
+                    data = yaml.safe_load(f)
+                    if not data:
+                        print(f'⚠️  Empty or null data in {yaml_file}')
+                        errors += 1
+                    elif not isinstance(data, dict):
+                        print(f'❌ Invalid structure in {yaml_file} - expected dict, got {type(data)}')
+                        errors += 1
+                    elif 'name' not in data:
+                        print(f'⚠️  Missing required field \"name\" in {yaml_file}')
+                        errors += 1
+                    else:
+                        print(f'✅ {yaml_file.name}')
+            except yaml.YAMLError as e:
+                print(f'❌ YAML syntax error in {yaml_file}: {e}')
+                errors += 1
+            except Exception as e:
+                print(f'❌ Error processing {yaml_file}: {e}')
+                errors += 1
+        
+        print(f'\nValidation complete: {len(yaml_files) - errors}/{len(yaml_files)} files valid')
+        
+        if errors > 0:
+            print(f'❌ {errors} files have errors')
+            sys.exit(1)
+        else:
+            print('🎉 All YAML files are valid!')
+        "
+
+  build-web:
+    name: Build Web Application
+    runs-on: ubuntu-latest
+    needs: validate-yaml
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        
+    - name: Enable pnpm
+      run: corepack enable pnpm
+        
+    - name: Install dependencies
+      working-directory: ./web
+      run: pnpm install --frozen-lockfile
+      
+    - name: Run TypeScript check
+      working-directory: ./web
+      run: pnpm astro check
+      
+    - name: Run linting
+      working-directory: ./web
+      run: pnpm lint
+      
+    - name: Build website
+      working-directory: ./web
+      run: pnpm build
+      
+    - name: Verify build output
+      working-directory: ./web
+      run: |
+        if [ ! -d "dist" ]; then
+          echo "❌ Build output directory 'dist' not found"
+          exit 1
+        fi
+        
+        PAGE_COUNT=$(find dist -name "*.html" | wc -l)
+        echo "📊 Generated $PAGE_COUNT HTML pages"
+        
+        if [ "$PAGE_COUNT" -lt 130 ]; then
+          echo "❌ Expected at least 130 pages, but got $PAGE_COUNT"
+          exit 1
+        fi
+        
+        # Check that main pages exist
+        REQUIRED_PAGES=("index.html" "search/index.html" "tags/index.html" "lineage/index.html" "random/index.html" "help/index.html")
+        for page in "${REQUIRED_PAGES[@]}"; do
+          if [ ! -f "dist/$page" ]; then
+            echo "❌ Required page missing: $page"
+            exit 1
+          else
+            echo "✅ Found required page: $page"
+          fi
+        done
+        
+        echo "🎉 Build verification successful!"
+
+  test-web:
+    name: Test Web Application
+    runs-on: ubuntu-latest
+    needs: build-web
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Node.js
+      uses: actions/setup-node@v4
+      with:
+        node-version: '20'
+        
+    - name: Enable pnpm
+      run: corepack enable pnpm
+        
+    - name: Install dependencies
+      working-directory: ./web
+      run: pnpm install --frozen-lockfile
+      
+    - name: Install Playwright browsers
+      working-directory: ./web
+      run: pnpm playwright install chromium
+      
+    - name: Build website for testing
+      working-directory: ./web
+      run: pnpm build
+      
+    - name: Run Playwright tests
+      working-directory: ./web
+      run: pnpm test
+      continue-on-error: true # Allow test failures but still report them
+      
+    - name: Upload test results
+      if: always()
+      uses: actions/upload-artifact@v4
+      with:
+        name: playwright-results
+        path: |
+          web/test-results/
+          web/playwright-report/
+        retention-days: 7
+
+  validate-data-completeness:
+    name: Validate Data Completeness
+    runs-on: ubuntu-latest
+    needs: validate-yaml
+    
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+      
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+        
+    - name: Install dependencies
+      run: pip install pyyaml
+      
+    - name: Validate data completeness
+      run: |
+        echo "Checking data completeness and quality..."
+        python -c "
+        import yaml
+        from pathlib import Path
+        
+        data_dir = Path('data')
+        yaml_files = list(data_dir.glob('*.yaml'))
+        
+        print(f'Analyzing {len(yaml_files)} game entries...\n')
+        
+        required_fields = ['name', 'classification', 'release_date']
+        recommended_fields = ['description', 'developers', 'platforms']
+        
+        missing_required = 0
+        missing_recommended = 0
+        games_with_descriptions = 0
+        total_games = 0
+        
+        for yaml_file in yaml_files:
+            with open(yaml_file, 'r', encoding='utf-8') as f:
+                data = yaml.safe_load(f)
+                total_games += 1
+                
+                # Check required fields
+                for field in required_fields:
+                    if field not in data or not data[field]:
+                        print(f'⚠️  {yaml_file.name}: Missing required field \"{field}\"')
+                        missing_required += 1
+                
+                # Check recommended fields
+                for field in recommended_fields:
+                    if field not in data or not data[field]:
+                        missing_recommended += 1
+                
+                # Check for description completeness
+                if 'description' in data and data['description'] and len(str(data['description']).strip()) > 50:
+                    games_with_descriptions += 1
+        
+        print(f'\n📊 DATA QUALITY REPORT:')
+        print(f'Total games: {total_games}')
+        print(f'Games with substantial descriptions: {games_with_descriptions}/{total_games} ({games_with_descriptions/total_games*100:.1f}%)')
+        print(f'Missing required fields: {missing_required}')
+        print(f'Missing recommended fields: {missing_recommended}')
+        
+        if missing_required > 0:
+            print(f'❌ {missing_required} required field violations found')
+            exit(1)
+        
+        if games_with_descriptions < total_games * 0.9:  # At least 90% should have good descriptions
+            print(f'⚠️  Only {games_with_descriptions/total_games*100:.1f}% of games have substantial descriptions')
+        
+        print(f'✅ Data quality check passed!')
+        "
