@@ -2,7 +2,7 @@
 
 An **AI-driven research project** providing a comprehensive, searchable database of roguelike games. Built using **Claude Code** and **Exa AI** for systematic game discovery and documentation, with three core directories: `media/` (Git LFS), `data/` (YAML files), and `web/` (Astro site with TypeScript and pnpm).
 
-> **🤖 AI-Powered Research**: This database was systematically researched and documented using Claude Code with Exa AI web search capabilities. Every game entry contains comprehensive research data including historical context, technical achievements, cultural impact, and community analysis.
+> [!NOTE] > **🤖 AI-Powered Research**: This database was systematically researched and documented using Claude Code with Exa AI web search capabilities. Every game entry contains comprehensive research data including historical context, technical achievements, cultural impact, and community analysis.
 
 ## Features
 
