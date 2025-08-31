@@ -1,0 +1,217 @@
+---
+import BaseLayout from '../../layouts/BaseLayout.astro';
+import { existsSync } from 'fs';
+import { resolve } from 'path';
+import { parse } from 'yaml';
+
+export async function getStaticPaths() {
+  // Get all YAML files from data directory
+  const dataDir = resolve(process.cwd(), '../data');
+  const games: any[] = [];
+
+  if (existsSync(dataDir)) {
+    const fs = await import('fs');
+    const files = fs.readdirSync(dataDir).filter(file => file.endsWith('.yaml'));
+    
+    for (const file of files) {
+      try {
+        const content = fs.readFileSync(resolve(dataDir, file), 'utf-8');
+        const gameData = parse(content);
+        if (gameData) {
+          games.push({ ...gameData, slug: file.replace('.yaml', '') });
+        }
+      } catch (error) {
+        console.warn(`Error parsing ${file}:`, error);
+      }
+    }
+  }
+
+  // Collect all unique tags
+  const allTags = new Set();
+  const tagToGames: Record<string, any[]> = {};
+
+  games.forEach(game => {
+    const tags = [
+      ...(game.tags || []),
+      ...(game.classification?.subgenres || []),
+      ...(game.classification?.gameplay_features || []),
+      ...(game.classification?.primary_type ? [game.classification.primary_type] : [])
+    ];
+    
+    tags.forEach(tag => {
+      allTags.add(tag);
+      if (!tagToGames[tag]) {
+        tagToGames[tag] = [];
+      }
+      tagToGames[tag].push(game);
+    });
+  });
+
+  // Create paths for each tag
+  return Array.from(allTags).map(tag => ({
+    params: { tag },
+    props: { 
+      tagGames: tagToGames[tag as string] || [],
+      currentTag: tag
+    }
+  }));
+}
+
+const { tagGames, currentTag } = Astro.props;
+
+// Sort games by release date
+const sortedGames = tagGames.sort((a, b) => (a.release_date || '').localeCompare(b.release_date || ''));
+
+// Get tag display name
+const tagDisplayName = (currentTag as string).replace(/_/g, ' ').replace(/-/g, ' ');
+---
+
+<BaseLayout title={`${tagDisplayName} Games`}>
+  <div class="terminal-box">
+    <h1 class="text-terminal-amber text-xl mb-4">
+      ┌─ {tagDisplayName.toUpperCase()} GAMES ─┐
+      │ {sortedGames.length} games with this tag │
+      └{"─".repeat(Math.max(tagDisplayName.length + 10, 25))}┘
+    </h1>
+    
+    <div class="mb-6">
+      <nav class="flex flex-wrap gap-2 mb-4">
+        <a href="/tags" class="terminal-button">← All Tags</a>
+        <a href="/" class="terminal-button">All Games</a>
+        <a href="/search" class="terminal-button">Search</a>
+      </nav>
+      
+      <div class="terminal-border p-3 mb-4">
+        <div class="text-terminal-white text-sm">
+          <div class="mb-2">
+            <span class="text-terminal-cyan">Tag:</span> 
+            <span class="text-terminal-amber">{tagDisplayName}</span>
+          </div>
+          <div class="mb-2">
+            <span class="text-terminal-cyan">Games:</span> 
+            <span class="text-terminal-white">{sortedGames.length}</span>
+          </div>
+          <div class="mb-2">
+            <span class="text-terminal-cyan">Date Range:</span> 
+            <span class="text-terminal-gray">
+              {sortedGames.filter(g => g.release_date).length > 0 
+                ? `${sortedGames.find(g => g.release_date)?.release_date.split('-')[0]} - ${sortedGames.filter(g => g.release_date).slice(-1)[0]?.release_date.split('-')[0]}`
+                : 'Various dates'
+              }
+            </span>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Games List -->
+    <div class="space-y-3">
+      {sortedGames.map((game, index) => (
+        <div class="terminal-border p-3 hover:bg-terminal-darkgray">
+          <div class="flex justify-between items-start">
+            <div class="flex-1">
+              <h2 class="text-terminal-white font-bold mb-1">
+                <span class="text-terminal-gray mr-2">{(index + 1).toString().padStart(2, '0')}.</span>
+                <a href={`/games/${game.slug}`} class="hover:text-terminal-amber">
+                  {game.name || 'Unnamed Game'}
+                </a>
+              </h2>
+              
+              <div class="text-terminal-gray text-sm ml-6 mb-2">
+                {game.classification?.primary_type && (
+                  <span class="text-terminal-green mr-3">[{game.classification.primary_type}]</span>
+                )}
+                {game.release_date && (
+                  <span class="mr-3">{game.release_date}</span>
+                )}
+                {game.developers && game.developers.length > 0 && (
+                  <span class="mr-3">by {game.developers[0]}</span>
+                )}
+              </div>
+              
+              {game.description && (
+                <p class="text-terminal-gray text-sm ml-6 leading-relaxed">
+                  {game.description.length > 200 
+                    ? `${game.description.substring(0, 200)}...`
+                    : game.description
+                  }
+                </p>
+              )}
+              
+              {/* Show other tags */}
+              <div class="ml-6 mt-2 flex flex-wrap gap-1">
+                {[
+                  ...(game.tags || []),
+                  ...(game.classification?.subgenres || []),
+                  ...(game.classification?.gameplay_features || [])
+                ]
+                  .filter(t => t !== currentTag)
+                  .slice(0, 5)
+                  .map(otherTag => (
+                    <a 
+                      href={`/tags/${otherTag}`} 
+                      class="text-xs border border-terminal-gray px-1 text-terminal-cyan hover:border-terminal-white hover:text-terminal-white"
+                    >
+                      {otherTag.replace(/_/g, ' ').replace(/-/g, ' ')}
+                    </a>
+                  ))
+                }
+              </div>
+            </div>
+            
+            <div class="text-right text-terminal-gray text-xs ml-4">
+              {game.platforms && game.platforms.length > 0 && (
+                <div class="mb-1">{game.platforms.slice(0, 3).join(', ')}</div>
+              )}
+              {game.classification?.difficulty && (
+                <div class="text-terminal-red">Diff: {game.classification.difficulty}</div>
+              )}
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+
+    {/* Related Tags */}
+    <div class="mt-8 terminal-border p-4">
+      <h3 class="text-terminal-green text-lg mb-3">
+        ┌─ RELATED TAGS ─┐
+      </h3>
+      <div class="flex flex-wrap gap-2">
+        {[...new Set(
+          sortedGames.flatMap(game => [
+            ...(game.tags || []),
+            ...(game.classification?.subgenres || []),
+            ...(game.classification?.gameplay_features || [])
+          ]).filter(t => t !== currentTag)
+        )]
+          .slice(0, 15)
+          .map(relatedTag => (
+            <a 
+              href={`/tags/${relatedTag}`}
+              class="terminal-button text-sm"
+            >
+              {relatedTag.replace(/_/g, ' ').replace(/-/g, ' ')}
+            </a>
+          ))
+        }
+      </div>
+    </div>
+
+    {/* Navigation */}
+    <div class="mt-6 text-center space-x-4">
+      <a href="/tags" class="terminal-button">← Back to All Tags</a>
+      <a href="/random" class="terminal-button">Random Game</a>
+      <a href="/search" class="terminal-button">Advanced Search</a>
+    </div>
+  </div>
+</BaseLayout>
+
+<style>
+  .terminal-border {
+    border: 1px solid #808080;
+  }
+  .terminal-border:hover {
+    border-color: #FFFFFF;
+  }
+</style>

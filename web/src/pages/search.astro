@@ -41,15 +41,12 @@ games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
       <div class="ascii-art text-terminal-white mb-2">
 ┌─ SEARCH OPTIONS ──────────────────────────────────────────────────┐
 │                                                                   │
-│ [1] Name:     <input type="text" id="name-search" />             │
-│ [2] Type:     <select id="type-filter">                          │
-│ [3] Year:     <input type="number" id="year-search" />           │
-│ [4] Platform: <select id="platform-filter">                     │
+│ [1] Name  [2] Type  [3] Year  [4] Platform  [5] Difficulty       │
 │                                                                   │
 └───────────────────────────────────────────────────────────────────┘
       </div>
       
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-4">
         <div>
           <label class="block text-terminal-white text-sm mb-1">[1] Game Name:</label>
           <input 
@@ -103,6 +100,23 @@ games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
             <option value="Steam">Steam</option>
             <option value="Browser">Browser</option>
             <option value="Unix">Unix</option>
+          </select>
+        </div>
+        
+        <div>
+          <label class="block text-terminal-white text-sm mb-1">[5] Difficulty:</label>
+          <select 
+            id="difficulty-filter"
+            class="w-full bg-terminal-bg border border-terminal-white text-terminal-white p-2 text-sm font-mono focus:border-terminal-amber outline-none"
+          >
+            <option value="">All Difficulties</option>
+            <option value="easy">Easy</option>
+            <option value="moderate">Moderate</option>
+            <option value="hard">Hard</option>
+            <option value="extreme">Extreme</option>
+            <option value="chaotic">Chaotic</option>
+            <option value="variable">Variable</option>
+            <option value="varies">Varies</option>
           </select>
         </div>
       </div>
@@ -174,6 +188,7 @@ games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
     const typeFilter = document.getElementById('type-filter');
     const yearSearch = document.getElementById('year-search');
     const platformFilter = document.getElementById('platform-filter');
+    const difficultyFilter = document.getElementById('difficulty-filter');
     const clearFilters = document.getElementById('clear-filters');
     const resultCount = document.getElementById('result-count');
     const gameItems = document.querySelectorAll('.game-item');
@@ -183,6 +198,7 @@ games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
     const typeQuery = typeFilter?.value?.toLowerCase() || '';
     const yearQuery = yearSearch?.value || '';
     const platformQuery = platformFilter?.value?.toLowerCase() || '';
+    const difficultyQuery = difficultyFilter?.value?.toLowerCase() || '';
     
     let visibleCount = 0;
     
@@ -218,6 +234,13 @@ games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
         }
       }
       
+      // Difficulty filter
+      if (difficultyQuery && gameData.classification?.difficulty) {
+        if (gameData.classification.difficulty.toLowerCase() !== difficultyQuery) {
+          matches = false;
+        }
+      }
+      
       // Show/hide item
       if (matches) {
         item.style.display = 'block';
@@ -237,6 +260,7 @@ games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
     if (typeFilter) typeFilter.value = '';
     if (yearSearch) yearSearch.value = '';
     if (platformFilter) platformFilter.value = '';
+    if (difficultyFilter) difficultyFilter.value = '';
     filterGames();
   }
 
@@ -245,6 +269,7 @@ games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
   typeFilter?.addEventListener('change', filterGames);
   yearSearch?.addEventListener('input', filterGames);
   platformFilter?.addEventListener('change', filterGames);
+  difficultyFilter?.addEventListener('change', filterGames);
   clearFilters?.addEventListener('click', clearAllFilters);
 
   // Keyboard shortcuts
@@ -267,6 +292,10 @@ games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
       case '4':
         e.preventDefault();
         platformFilter.focus();
+        break;
+      case '5':
+        e.preventDefault();
+        difficultyFilter.focus();
         break;
       case 'c':
         if (document.activeElement.tagName !== 'INPUT' && document.activeElement.tagName !== 'SELECT') {

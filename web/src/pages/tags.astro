@@ -93,19 +93,21 @@ const categories = {
       </h2>
       <div class="space-y-2">
         {sortedTags.slice(0, 20).map(({ tag, count }) => (
-          <div class="terminal-border p-2 hover:bg-terminal-darkgray cursor-pointer tag-item" data-tag={tag}>
-            <div class="flex justify-between items-center">
-              <span class="text-terminal-white">
-                ■ {tag.replace(/_/g, ' ').replace(/-/g, ' ')}
-              </span>
-              <div class="text-right">
-                <span class="text-terminal-amber">
-                  {'█'.repeat(Math.min(Math.ceil((count as number) / Math.max(...Object.values(tagCounts)) * 20), 20))}
+          <a href={`/tags/${tag}`} class="block">
+            <div class="terminal-border p-2 hover:bg-terminal-darkgray cursor-pointer tag-item">
+              <div class="flex justify-between items-center">
+                <span class="text-terminal-white">
+                  ■ {tag.replace(/_/g, ' ').replace(/-/g, ' ')}
                 </span>
-                <span class="text-terminal-gray ml-2">({count})</span>
+                <div class="text-right">
+                  <span class="text-terminal-amber">
+                    {'█'.repeat(Math.min(Math.ceil((count as number) / Math.max(...Object.values(tagCounts)) * 20), 20))}
+                  </span>
+                  <span class="text-terminal-gray ml-2">({count})</span>
+                </div>
               </div>
             </div>
-          </div>
+          </a>
         ))}
       </div>
     </div>
@@ -117,10 +119,12 @@ const categories = {
       </h2>
       <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
         {sortedTags.sort((a, b) => a.tag.localeCompare(b.tag)).map(({ tag, count }) => (
-          <div class="terminal-border p-2 hover:bg-terminal-darkgray cursor-pointer tag-item" data-tag={tag}>
-            <span class="text-terminal-white">■ {tag.replace(/_/g, ' ').replace(/-/g, ' ')}</span>
-            <span class="text-terminal-gray ml-2">({count})</span>
-          </div>
+          <a href={`/tags/${tag}`} class="block">
+            <div class="terminal-border p-2 hover:bg-terminal-darkgray cursor-pointer tag-item">
+              <span class="text-terminal-white">■ {tag.replace(/_/g, ' ').replace(/-/g, ' ')}</span>
+              <span class="text-terminal-gray ml-2">({count})</span>
+            </div>
+          </a>
         ))}
       </div>
     </div>
@@ -137,10 +141,12 @@ const categories = {
           </h3>
           <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 ml-4">
             {categoryTags.filter(tag => tagCounts[tag]).map((tag: string) => (
-              <div class="terminal-border p-1 hover:bg-terminal-darkgray cursor-pointer tag-item" data-tag={tag}>
-                <span class="text-terminal-white text-sm">■ {tag.replace(/_/g, ' ').replace(/-/g, ' ')}</span>
-                <span class="text-terminal-gray text-sm ml-2">({tagCounts[tag] || 0})</span>
-              </div>
+              <a href={`/tags/${tag}`} class="block">
+                <div class="terminal-border p-1 hover:bg-terminal-darkgray cursor-pointer tag-item">
+                  <span class="text-terminal-white text-sm">■ {tag.replace(/_/g, ' ').replace(/-/g, ' ')}</span>
+                  <span class="text-terminal-gray text-sm ml-2">({tagCounts[tag] || 0})</span>
+                </div>
+              </a>
             ))}
           </div>
         </div>
@@ -158,23 +164,18 @@ const categories = {
           const size = Math.max(0.7, (count as number) / maxCount * 2);
           const opacity = Math.max(0.5, (count as number) / maxCount);
           return (
-            <span 
+            <a 
+              href={`/tags/${tag}`}
               class="cursor-pointer hover:text-terminal-amber tag-item border border-terminal-gray px-2 py-1 hover:border-terminal-white"
-              data-tag={tag}
               style={`font-size: ${size}em; opacity: ${opacity};`}
             >
               {tag.replace(/_/g, ' ').replace(/-/g, ' ')}
-            </span>
+            </a>
           );
         })}
       </div>
     </div>
 
-    <!-- Selected Tag Games Display -->
-    <div id="tag-games" class="mt-8" style="display: none;">
-      <h2 id="tag-games-title" class="text-terminal-amber text-lg mb-3"></h2>
-      <div id="tag-games-list" class="space-y-2"></div>
-    </div>
   </div>
 </BaseLayout>
 
@@ -192,10 +193,6 @@ const categories = {
     categories: document.getElementById('categories-view'),
     cloud: document.getElementById('cloud-view')
   };
-
-  const tagGamesSection = document.getElementById('tag-games');
-  const tagGamesTitle = document.getElementById('tag-games-title');
-  const tagGamesList = document.getElementById('tag-games-list');
 
   function showView(viewName) {
     // Hide all views
@@ -216,48 +213,11 @@ const categories = {
     });
   }
 
-  function showTagGames(tag) {
-    const games = tagToGames[tag] || [];
-    
-    tagGamesTitle.textContent = `┌─ GAMES TAGGED: ${tag.replace(/_/g, ' ').replace(/-/g, ' ').toUpperCase()} ─┐`;
-    
-    tagGamesList.innerHTML = games.map(game => `
-      <div class="terminal-border p-2 hover:bg-terminal-darkgray">
-        <div class="flex justify-between items-start">
-          <div>
-            <h3 class="text-terminal-white font-bold">
-              ■ <a href="/games/${game.slug}" class="hover:text-terminal-amber">
-                ${game.name || 'Unnamed Game'}
-              </a>
-            </h3>
-            <div class="text-terminal-gray text-sm ml-2">
-              ${game.classification?.primary_type ? `<span class="text-terminal-green">[${game.classification.primary_type}]</span>` : ''}
-              ${game.release_date ? `<span class="ml-2">${game.release_date}</span>` : ''}
-              ${game.developers?.[0] ? `<span class="ml-2">by ${game.developers[0]}</span>` : ''}
-            </div>
-          </div>
-        </div>
-      </div>
-    `).join('');
-    
-    tagGamesSection.style.display = 'block';
-    tagGamesSection.scrollIntoView({ behavior: 'smooth' });
-  }
-
   // Add event listeners for view buttons
   Object.entries(viewButtons).forEach(([viewName, button]) => {
     button.addEventListener('click', () => showView(viewName));
   });
 
-  // Add event listeners for tag items
-  document.querySelectorAll('.tag-item').forEach(item => {
-    item.addEventListener('click', () => {
-      const tag = item.dataset.tag;
-      if (tag) {
-        showTagGames(tag);
-      }
-    });
-  });
 
   // Keyboard shortcuts
   document.addEventListener('keydown', (e) => {

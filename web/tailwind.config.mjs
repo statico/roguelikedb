@@ -22,11 +22,11 @@ export default {
       fontFamily: {
         // Monospace fonts for terminal feel
         mono: [
+          'Source Code Pro',
           'SF Mono',
           'Monaco',
           'Inconsolata',
           'Roboto Mono',
-          'Source Code Pro',
           'Menlo',
           'Consolas',
           'DejaVu Sans Mono',
@@ -61,16 +61,16 @@ export default {
         'body': {
           backgroundColor: '#000000',
           color: '#FFFFFF',
-          fontFamily: 'SF Mono, Monaco, Inconsolata, Roboto Mono, Source Code Pro, Menlo, Consolas, DejaVu Sans Mono, monospace',
+          fontFamily: '"Source Code Pro", SF Mono, Monaco, Inconsolata, Roboto Mono, Menlo, Consolas, DejaVu Sans Mono, monospace',
           fontSize: '0.875rem',
           lineHeight: '1.2',
         },
         'h1, h2, h3, h4, h5, h6': {
-          fontFamily: 'SF Mono, Monaco, Inconsolata, Roboto Mono, Source Code Pro, Menlo, Consolas, DejaVu Sans Mono, monospace',
+          fontFamily: '"Source Code Pro", SF Mono, Monaco, Inconsolata, Roboto Mono, Menlo, Consolas, DejaVu Sans Mono, monospace',
           fontWeight: 'bold',
         },
         'pre, code': {
-          fontFamily: 'SF Mono, Monaco, Inconsolata, Roboto Mono, Source Code Pro, Menlo, Consolas, DejaVu Sans Mono, monospace',
+          fontFamily: '"Source Code Pro", SF Mono, Monaco, Inconsolata, Roboto Mono, Menlo, Consolas, DejaVu Sans Mono, monospace',
         },
       });
       
@@ -98,7 +98,7 @@ export default {
           }
         },
         '.ascii-art': {
-          fontFamily: 'SF Mono, Monaco, Inconsolata, monospace',
+          fontFamily: '"Source Code Pro", SF Mono, Monaco, Inconsolata, monospace',
           whiteSpace: 'pre',
           lineHeight: '1',
         },
