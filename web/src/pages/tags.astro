@@ -1,0 +1,300 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { existsSync } from 'fs';
+import { resolve } from 'path';
+import { parse } from 'yaml';
+
+// Get all YAML files from data directory
+const dataDir = resolve(process.cwd(), '../data');
+const games = [];
+
+if (existsSync(dataDir)) {
+  const fs = await import('fs');
+  const files = fs.readdirSync(dataDir).filter(file => file.endsWith('.yaml'));
+  
+  for (const file of files) {
+    try {
+      const content = fs.readFileSync(resolve(dataDir, file), 'utf-8');
+      const gameData = parse(content);
+      if (gameData) {
+        games.push({ ...gameData, slug: file.replace('.yaml', '') });
+      }
+    } catch (error) {
+      console.warn(`Error parsing ${file}:`, error);
+    }
+  }
+}
+
+// Collect all tags and count their usage
+const tagCounts: Record<string, number> = {};
+const tagToGames: Record<string, any[]> = {};
+
+games.forEach(game => {
+  const tags = [
+    ...(game.tags || []),
+    ...(game.classification?.subgenres || []),
+    ...(game.classification?.gameplay_features || [])
+  ];
+  
+  tags.forEach(tag => {
+    if (!tagCounts[tag]) {
+      tagCounts[tag] = 0;
+      tagToGames[tag] = [];
+    }
+    tagCounts[tag]++;
+    tagToGames[tag].push(game);
+  });
+});
+
+// Sort tags by frequency
+const sortedTags = Object.entries(tagCounts)
+  .sort(([,a], [,b]) => (b as number) - (a as number))
+  .map(([tag, count]) => ({ tag, count: count as number }));
+
+// Group tags by categories
+const categories = {
+  'Primary Types': ['traditional', 'modern', 'roguelite', 'action', 'experimental', 'browser'],
+  'Subgenres': ['dungeon_crawler', 'fantasy', 'sci_fi', 'horror', 'cyberpunk', 'steampunk', 'post-apocalyptic'],
+  'Gameplay': ['turn_based', 'real_time', 'procedural_generation', 'permadeath', 'ascii_graphics', 'tile_graphics'],
+  'Platforms': ['windows', 'linux', 'macos', 'android', 'ios', 'steam', 'browser'],
+  'Themes': ['magic', 'sword-combat', 'puzzle', 'narrative', 'educational', 'multiplayer']
+};
+---
+
+<BaseLayout title="Browse by Tags">
+  <div class="terminal-box">
+    <h1 class="text-terminal-amber text-xl mb-4">
+      ┌─ BROWSE BY TAGS ─┐
+      │ {sortedTags.length} unique tags     │
+      └───────────────────┘
+    </h1>
+    
+    <div class="mb-6">
+      <div class="ascii-art text-terminal-white mb-4">
+┌─ TAG CATEGORIES ──────────────────────────────────────────────────┐
+│                                                                   │
+│ [1] Most Popular  [2] A-Z Order  [3] By Category  [4] Tag Cloud  │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+      </div>
+      
+      <div class="flex flex-wrap gap-2 mb-4">
+        <button id="view-popular" class="terminal-button">[1] Most Popular</button>
+        <button id="view-alphabetical" class="terminal-button">[2] A-Z Order</button>
+        <button id="view-categories" class="terminal-button">[3] By Category</button>
+        <button id="view-cloud" class="terminal-button">[4] Tag Cloud</button>
+      </div>
+    </div>
+
+    <!-- Most Popular View -->
+    <div id="popular-view" class="tag-view">
+      <h2 class="text-terminal-green text-lg mb-3">
+        ┌─ MOST POPULAR TAGS ─┐
+      </h2>
+      <div class="space-y-2">
+        {sortedTags.slice(0, 20).map(({ tag, count }) => (
+          <div class="terminal-border p-2 hover:bg-terminal-darkgray cursor-pointer tag-item" data-tag={tag}>
+            <div class="flex justify-between items-center">
+              <span class="text-terminal-white">
+                ■ {tag.replace(/_/g, ' ').replace(/-/g, ' ')}
+              </span>
+              <div class="text-right">
+                <span class="text-terminal-amber">
+                  {'█'.repeat(Math.min(Math.ceil((count as number) / Math.max(...Object.values(tagCounts)) * 20), 20))}
+                </span>
+                <span class="text-terminal-gray ml-2">({count})</span>
+              </div>
+            </div>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- Alphabetical View -->
+    <div id="alphabetical-view" class="tag-view" style="display: none;">
+      <h2 class="text-terminal-green text-lg mb-3">
+        ┌─ ALPHABETICAL TAGS ─┐
+      </h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+        {sortedTags.sort((a, b) => a.tag.localeCompare(b.tag)).map(({ tag, count }) => (
+          <div class="terminal-border p-2 hover:bg-terminal-darkgray cursor-pointer tag-item" data-tag={tag}>
+            <span class="text-terminal-white">■ {tag.replace(/_/g, ' ').replace(/-/g, ' ')}</span>
+            <span class="text-terminal-gray ml-2">({count})</span>
+          </div>
+        ))}
+      </div>
+    </div>
+
+    <!-- Categories View -->
+    <div id="categories-view" class="tag-view" style="display: none;">
+      <h2 class="text-terminal-green text-lg mb-3">
+        ┌─ TAG CATEGORIES ─┐
+      </h2>
+      {Object.entries(categories).map(([categoryName, categoryTags]) => (
+        <div class="mb-6">
+          <h3 class="text-terminal-cyan text-md mb-2">
+            ├─ {categoryName}
+          </h3>
+          <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 ml-4">
+            {categoryTags.filter(tag => tagCounts[tag]).map((tag: string) => (
+              <div class="terminal-border p-1 hover:bg-terminal-darkgray cursor-pointer tag-item" data-tag={tag}>
+                <span class="text-terminal-white text-sm">■ {tag.replace(/_/g, ' ').replace(/-/g, ' ')}</span>
+                <span class="text-terminal-gray text-sm ml-2">({tagCounts[tag] || 0})</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <!-- Tag Cloud View -->
+    <div id="cloud-view" class="tag-view" style="display: none;">
+      <h2 class="text-terminal-green text-lg mb-3">
+        ┌─ TAG CLOUD ─┐
+      </h2>
+      <div class="flex flex-wrap gap-2">
+        {sortedTags.map(({ tag, count }) => {
+          const maxCount = Math.max(...Object.values(tagCounts));
+          const size = Math.max(0.7, (count as number) / maxCount * 2);
+          const opacity = Math.max(0.5, (count as number) / maxCount);
+          return (
+            <span 
+              class="cursor-pointer hover:text-terminal-amber tag-item border border-terminal-gray px-2 py-1 hover:border-terminal-white"
+              data-tag={tag}
+              style={`font-size: ${size}em; opacity: ${opacity};`}
+            >
+              {tag.replace(/_/g, ' ').replace(/-/g, ' ')}
+            </span>
+          );
+        })}
+      </div>
+    </div>
+
+    <!-- Selected Tag Games Display -->
+    <div id="tag-games" class="mt-8" style="display: none;">
+      <h2 id="tag-games-title" class="text-terminal-amber text-lg mb-3"></h2>
+      <div id="tag-games-list" class="space-y-2"></div>
+    </div>
+  </div>
+</BaseLayout>
+
+<script is:inline define:vars={{ tagToGames }}>
+  const viewButtons = {
+    popular: document.getElementById('view-popular'),
+    alphabetical: document.getElementById('view-alphabetical'),
+    categories: document.getElementById('view-categories'),
+    cloud: document.getElementById('view-cloud')
+  };
+
+  const views = {
+    popular: document.getElementById('popular-view'),
+    alphabetical: document.getElementById('alphabetical-view'),
+    categories: document.getElementById('categories-view'),
+    cloud: document.getElementById('cloud-view')
+  };
+
+  const tagGamesSection = document.getElementById('tag-games');
+  const tagGamesTitle = document.getElementById('tag-games-title');
+  const tagGamesList = document.getElementById('tag-games-list');
+
+  function showView(viewName) {
+    // Hide all views
+    Object.values(views).forEach(view => view.style.display = 'none');
+    
+    // Show selected view
+    views[viewName].style.display = 'block';
+    
+    // Update button styles
+    Object.entries(viewButtons).forEach(([name, button]) => {
+      if (name === viewName) {
+        button.style.backgroundColor = '#FFFFFF';
+        button.style.color = '#000000';
+      } else {
+        button.style.backgroundColor = 'transparent';
+        button.style.color = '#FFFFFF';
+      }
+    });
+  }
+
+  function showTagGames(tag) {
+    const games = tagToGames[tag] || [];
+    
+    tagGamesTitle.textContent = `┌─ GAMES TAGGED: ${tag.replace(/_/g, ' ').replace(/-/g, ' ').toUpperCase()} ─┐`;
+    
+    tagGamesList.innerHTML = games.map(game => `
+      <div class="terminal-border p-2 hover:bg-terminal-darkgray">
+        <div class="flex justify-between items-start">
+          <div>
+            <h3 class="text-terminal-white font-bold">
+              ■ <a href="/games/${game.slug}" class="hover:text-terminal-amber">
+                ${game.name || 'Unnamed Game'}
+              </a>
+            </h3>
+            <div class="text-terminal-gray text-sm ml-2">
+              ${game.classification?.primary_type ? `<span class="text-terminal-green">[${game.classification.primary_type}]</span>` : ''}
+              ${game.release_date ? `<span class="ml-2">${game.release_date}</span>` : ''}
+              ${game.developers?.[0] ? `<span class="ml-2">by ${game.developers[0]}</span>` : ''}
+            </div>
+          </div>
+        </div>
+      </div>
+    `).join('');
+    
+    tagGamesSection.style.display = 'block';
+    tagGamesSection.scrollIntoView({ behavior: 'smooth' });
+  }
+
+  // Add event listeners for view buttons
+  Object.entries(viewButtons).forEach(([viewName, button]) => {
+    button.addEventListener('click', () => showView(viewName));
+  });
+
+  // Add event listeners for tag items
+  document.querySelectorAll('.tag-item').forEach(item => {
+    item.addEventListener('click', () => {
+      const tag = item.dataset.tag;
+      if (tag) {
+        showTagGames(tag);
+      }
+    });
+  });
+
+  // Keyboard shortcuts
+  document.addEventListener('keydown', (e) => {
+    if (e.ctrlKey || e.metaKey) return;
+    
+    switch(e.key) {
+      case '1':
+        e.preventDefault();
+        showView('popular');
+        break;
+      case '2':
+        e.preventDefault();
+        showView('alphabetical');
+        break;
+      case '3':
+        e.preventDefault();
+        showView('categories');
+        break;
+      case '4':
+        e.preventDefault();
+        showView('cloud');
+        break;
+    }
+  });
+
+  // Initialize with popular view
+  showView('popular');
+</script>
+
+<style>
+  .terminal-border {
+    border: 1px solid #808080;
+  }
+  .terminal-border:hover {
+    border-color: #FFFFFF;
+  }
+  .tag-item:hover {
+    background-color: #404040;
+  }
+</style>

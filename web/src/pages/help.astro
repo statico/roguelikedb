@@ -1,0 +1,417 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+---
+
+<BaseLayout title="Help & Documentation">
+  <div class="terminal-box">
+    <h1 class="text-terminal-amber text-xl mb-4">
+      ┌─ HELP & DOCUMENTATION ─┐
+      │ User guide & reference   │
+      └─────────────────────────┘
+    </h1>
+    
+    <div class="mb-6">
+      <div class="ascii-art text-terminal-white mb-4">
+┌─ HELP SECTIONS ───────────────────────────────────────────────────┐
+│                                                                   │
+│ [1] Quick Start  [2] Navigation  [3] Search Tips  [4] About      │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+      </div>
+      
+      <div class="flex flex-wrap gap-2 mb-4">
+        <button id="help-quickstart" class="terminal-button">[1] Quick Start</button>
+        <button id="help-navigation" class="terminal-button">[2] Navigation</button>
+        <button id="help-search" class="terminal-button">[3] Search Tips</button>
+        <button id="help-about" class="terminal-button">[4] About</button>
+      </div>
+    </div>
+
+    <!-- Quick Start Section -->
+    <div id="quickstart-section" class="help-section">
+      <h2 class="text-terminal-green text-lg mb-3">
+        ┌─ QUICK START GUIDE ─┐
+      </h2>
+      
+      <div class="space-y-6">
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Welcome to the Roguelike Database</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p>This is a comprehensive database of roguelike games with a terminal aesthetic interface.</p>
+            <p>Navigate using keyboard shortcuts or click on elements to explore the collection.</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Basic Navigation</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p><span class="text-terminal-white">[A]ll Games:</span> Browse the complete game collection</p>
+            <p><span class="text-terminal-white">[S]earch:</span> Filter games by name, type, year, or platform</p>
+            <p><span class="text-terminal-white">[T]ags:</span> Explore games by categories and features</p>
+            <p><span class="text-terminal-white">[L]ineage:</span> View family trees and game relationships</p>
+            <p><span class="text-terminal-white">[R]andom:</span> Discover games through random selection</p>
+            <p><span class="text-terminal-white">[H]elp:</span> This help documentation</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Keyboard Shortcuts</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p><span class="text-terminal-amber">A</span> = All Games page</p>
+            <p><span class="text-terminal-amber">S</span> = Search page</p>
+            <p><span class="text-terminal-amber">T</span> = Tags page</p>
+            <p><span class="text-terminal-amber">L</span> = Lineage page</p>
+            <p><span class="text-terminal-amber">R</span> = Random page</p>
+            <p><span class="text-terminal-amber">H</span> = Help page</p>
+            <p><span class="text-terminal-amber">Numbers (1-5)</span> = Quick actions on each page</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Navigation Section -->
+    <div id="navigation-section" class="help-section" style="display: none;">
+      <h2 class="text-terminal-green text-lg mb-3">
+        ┌─ DETAILED NAVIGATION ─┐
+      </h2>
+      
+      <div class="space-y-6">
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ All Games [A]</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p>Complete alphabetical listing of all roguelike games in the database.</p>
+            <p>Each entry shows game name, type, release date, developer, and brief description.</p>
+            <p>Click on any game name to view its detailed information page.</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Search [S]</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p>Advanced filtering system with multiple search criteria:</p>
+            <div class="ml-4 space-y-1">
+              <p>• <span class="text-terminal-white">Name Search:</span> Find games by partial name match</p>
+              <p>• <span class="text-terminal-white">Type Filter:</span> Traditional, Modern, Roguelite, Action, etc.</p>
+              <p>• <span class="text-terminal-white">Year Filter:</span> Find games by release year</p>
+              <p>• <span class="text-terminal-white">Platform Filter:</span> Windows, Linux, macOS, Mobile, etc.</p>
+            </div>
+            <p>Use keyboard shortcuts 1-4 to jump to filter fields quickly.</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Tags [T]</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p>Browse games by categories, features, and themes with four view modes:</p>
+            <div class="ml-4 space-y-1">
+              <p>• <span class="text-terminal-white">Most Popular:</span> Tags ordered by frequency</p>
+              <p>• <span class="text-terminal-white">A-Z Order:</span> Alphabetical tag listing</p>
+              <p>• <span class="text-terminal-white">By Category:</span> Tags grouped by type</p>
+              <p>• <span class="text-terminal-white">Tag Cloud:</span> Visual size representation</p>
+            </div>
+            <p>Click any tag to see all games with that tag.</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Lineage [L]</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p>Explore relationships between games with multiple visualization options:</p>
+            <div class="ml-4 space-y-1">
+              <p>• <span class="text-terminal-white">Family Trees:</span> Visual parent-child relationships</p>
+              <p>• <span class="text-terminal-white">By Parent:</span> Games grouped by their inspiration source</p>
+              <p>• <span class="text-terminal-white">Chronological:</span> Evolution timeline by decade</p>
+              <p>• <span class="text-terminal-white">Orphans:</span> Independent games with no stated lineage</p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Random [R]</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p>Game discovery through randomization with multiple methods:</p>
+            <div class="ml-4 space-y-1">
+              <p>• <span class="text-terminal-white">Any Game:</span> Completely random selection</p>
+              <p>• <span class="text-terminal-white">By Type/Era/Platform:</span> Filtered random selection</p>
+              <p>• <span class="text-terminal-white">Hidden Gems:</span> Lesser-known or older titles</p>
+              <p>• <span class="text-terminal-white">Recommend:</span> Games with positive indicators</p>
+              <p>• <span class="text-terminal-white">Surprise Me:</span> Mixed random algorithm</p>
+            </div>
+            <p>Tracks your discovery session and exploration progress.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Search Tips Section -->
+    <div id="search-section" class="help-section" style="display: none;">
+      <h2 class="text-terminal-green text-lg mb-3">
+        ┌─ SEARCH & DISCOVERY TIPS ─┐
+      </h2>
+      
+      <div class="space-y-6">
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Effective Searching</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p><span class="text-terminal-white">Partial Matches:</span> Type part of a game name for suggestions</p>
+            <p><span class="text-terminal-white">Combine Filters:</span> Use multiple criteria to narrow results</p>
+            <p><span class="text-terminal-white">Clear Filters:</span> Press 'C' or click button to reset</p>
+            <p><span class="text-terminal-white">Real-time Results:</span> See filtered count update instantly</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Game Types Explained</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p><span class="text-terminal-white">Traditional:</span> Classic ASCII roguelikes (NetHack, ADOM)</p>
+            <p><span class="text-terminal-white">Modern:</span> Updated traditional mechanics (Cogmind, Jupiter Hell)</p>
+            <p><span class="text-terminal-white">Roguelite:</span> Persistent progression (Dead Cells, Hades)</p>
+            <p><span class="text-terminal-white">Action:</span> Real-time combat (Risk of Rain, Enter the Gungeon)</p>
+            <p><span class="text-terminal-white">Experimental:</span> Unique mechanics (HyperRogue, Red Rogue)</p>
+            <p><span class="text-terminal-white">Browser:</span> Web-based games (Red Rogue, 868-HACK)</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Browsing Strategies</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p><span class="text-terminal-white">Era Exploration:</span> Start with 1980s for origins, 2010s for modern</p>
+            <p><span class="text-terminal-white">Platform Preference:</span> Filter by your available systems</p>
+            <p><span class="text-terminal-white">Tag Discovery:</span> Explore similar games via shared tags</p>
+            <p><span class="text-terminal-white">Lineage Tracking:</span> Follow game family trees for related experiences</p>
+            <p><span class="text-terminal-white">Random Selection:</span> Use filters with random discovery for targeted exploration</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Understanding Game Data</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p><span class="text-terminal-white">Release Dates:</span> Original release, not latest version</p>
+            <p><span class="text-terminal-white">Developers:</span> Original creators, may include teams</p>
+            <p><span class="text-terminal-white">Platforms:</span> Systems where game is available</p>
+            <p><span class="text-terminal-white">Difficulty:</span> Relative challenge level within genre</p>
+            <p><span class="text-terminal-white">Active Development:</span> Whether game receives updates</p>
+            <p><span class="text-terminal-white">Community Size:</span> Player base and activity level</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- About Section -->
+    <div id="about-section" class="help-section" style="display: none;">
+      <h2 class="text-terminal-green text-lg mb-3">
+        ┌─ ABOUT THIS DATABASE ─┐
+      </h2>
+      
+      <div class="space-y-6">
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Project Information</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p>The Roguelike Database is an open-source project documenting the history, lineage, and characteristics of roguelike games from 1980 to present.</p>
+            <p>Built with Astro.js and styled with a terminal aesthetic to honor the ASCII heritage of the genre.</p>
+            <p>All game data is stored in YAML format for easy maintenance and contribution.</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Data Sources & Accuracy</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p>Information compiled from official websites, game documentation, community sources, and historical archives.</p>
+            <p>Release dates reflect original releases, not remakes or major version updates.</p>
+            <p>Developer information includes original creators and may list teams or companies.</p>
+            <p>Lineage relationships based on documented inspiration and direct forks.</p>
+            <p>Game descriptions focus on historical significance and unique features.</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Classification System</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p><span class="text-terminal-white">Primary Types:</span> Based on adherence to traditional roguelike principles</p>
+            <p><span class="text-terminal-white">Subgenres:</span> Thematic and stylistic categorizations</p>
+            <p><span class="text-terminal-white">Gameplay Features:</span> Core mechanical elements</p>
+            <p><span class="text-terminal-white">Lineage:</span> Documented relationships and inspirations</p>
+            <p><span class="text-terminal-white">Tags:</span> Community-driven descriptors and themes</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Technical Details</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p><span class="text-terminal-white">Framework:</span> Astro.js static site generator</p>
+            <p><span class="text-terminal-white">Styling:</span> Tailwind CSS with custom terminal theme</p>
+            <p><span class="text-terminal-white">Data Format:</span> YAML files for structured game information</p>
+            <p><span class="text-terminal-white">Typography:</span> Monospace fonts for authentic terminal feel</p>
+            <p><span class="text-terminal-white">Colors:</span> Classic terminal color palette (amber, green, white, cyan)</p>
+            <p><span class="text-terminal-white">Interactivity:</span> Vanilla JavaScript for client-side functionality</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Contributing & Feedback</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p>This is an open-source project welcoming contributions and corrections.</p>
+            <p>Game entries are stored in human-readable YAML format for easy editing.</p>
+            <p>Historical accuracy and comprehensive documentation are prioritized.</p>
+            <p>Community knowledge and preservation efforts are essential to the project.</p>
+          </div>
+        </div>
+        
+        <div class="terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">├─ Acknowledgments</h3>
+          <div class="text-terminal-gray text-sm space-y-2 ml-2">
+            <p>Grateful to the roguelike community for preservation efforts and documentation.</p>
+            <p>Special thanks to RogueBasin, the original developers, and gaming historians.</p>
+            <p>This project honors the legacy of the roguelike genre and its pioneers.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Quick Reference Card -->
+    <div class="mt-8 terminal-border p-4">
+      <h3 class="text-terminal-amber text-lg mb-3">
+        ┌─ QUICK REFERENCE ─┐
+      </h3>
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-4 text-sm">
+        <div>
+          <h4 class="text-terminal-cyan mb-2">Navigation Shortcuts:</h4>
+          <div class="space-y-1 text-terminal-gray">
+            <p><kbd class="text-terminal-amber">A</kbd> All Games</p>
+            <p><kbd class="text-terminal-amber">S</kbd> Search</p>
+            <p><kbd class="text-terminal-amber">T</kbd> Tags</p>
+            <p><kbd class="text-terminal-amber">L</kbd> Lineage</p>
+            <p><kbd class="text-terminal-amber">R</kbd> Random</p>
+            <p><kbd class="text-terminal-amber">H</kbd> Help</p>
+          </div>
+        </div>
+        
+        <div>
+          <h4 class="text-terminal-cyan mb-2">Page Actions:</h4>
+          <div class="space-y-1 text-terminal-gray">
+            <p><kbd class="text-terminal-amber">1-5</kbd> Quick actions</p>
+            <p><kbd class="text-terminal-amber">C</kbd> Clear filters (Search)</p>
+            <p><kbd class="text-terminal-amber">Space</kbd> New random (Random)</p>
+            <p><kbd class="text-terminal-amber">Enter</kbd> Confirm action</p>
+            <p><kbd class="text-terminal-amber">Esc</kbd> Return to main view</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<script is:inline>
+  const helpButtons = {
+    quickstart: document.getElementById('help-quickstart'),
+    navigation: document.getElementById('help-navigation'),
+    search: document.getElementById('help-search'),
+    about: document.getElementById('help-about')
+  };
+
+  const sections = {
+    quickstart: document.getElementById('quickstart-section'),
+    navigation: document.getElementById('navigation-section'),
+    search: document.getElementById('search-section'),
+    about: document.getElementById('about-section')
+  };
+
+  function showSection(sectionName) {
+    // Hide all sections
+    Object.values(sections).forEach(section => section.style.display = 'none');
+    
+    // Show selected section
+    sections[sectionName].style.display = 'block';
+    
+    // Update button styles
+    Object.entries(helpButtons).forEach(([name, button]) => {
+      if (name === sectionName) {
+        button.style.backgroundColor = '#FFFFFF';
+        button.style.color = '#000000';
+      } else {
+        button.style.backgroundColor = 'transparent';
+        button.style.color = '#FFFFFF';
+      }
+    });
+    
+    // Scroll to top of section
+    sections[sectionName].scrollIntoView({ behavior: 'smooth' });
+  }
+
+  // Add event listeners for help buttons
+  Object.entries(helpButtons).forEach(([sectionName, button]) => {
+    button.addEventListener('click', () => showSection(sectionName));
+  });
+
+  // Global navigation shortcuts (work from help page)
+  document.addEventListener('keydown', (e) => {
+    if (e.ctrlKey || e.metaKey) return;
+    
+    switch(e.key.toLowerCase()) {
+      case 'a':
+        if (e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {
+          window.location.href = '/';
+        }
+        break;
+      case 's':
+        if (e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {
+          window.location.href = '/search';
+        }
+        break;
+      case 't':
+        if (e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {
+          window.location.href = '/tags';
+        }
+        break;
+      case 'l':
+        if (e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {
+          window.location.href = '/lineage';
+        }
+        break;
+      case 'r':
+        if (e.target.tagName !== 'INPUT' && e.target.tagName !== 'TEXTAREA') {
+          window.location.href = '/random';
+        }
+        break;
+      case '1':
+        e.preventDefault();
+        showSection('quickstart');
+        break;
+      case '2':
+        e.preventDefault();
+        showSection('navigation');
+        break;
+      case '3':
+        e.preventDefault();
+        showSection('search');
+        break;
+      case '4':
+        e.preventDefault();
+        showSection('about');
+        break;
+    }
+  });
+
+  // Initialize with quick start section
+  showSection('quickstart');
+</script>
+
+<style>
+  .terminal-border {
+    border: 1px solid #808080;
+  }
+  .terminal-border:hover {
+    border-color: #FFFFFF;
+  }
+  .help-section h4 {
+    color: #00FFFF;
+  }
+  kbd {
+    background-color: #404040;
+    border: 1px solid #808080;
+    border-radius: 0;
+    padding: 1px 4px;
+    font-family: inherit;
+    font-size: inherit;
+  }
+</style>

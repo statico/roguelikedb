@@ -53,6 +53,46 @@ const { title, description = "A comprehensive database of roguelike games with t
   </body>
 </html>
 
+<script is:inline>
+  // Global keyboard navigation
+  document.addEventListener('keydown', (e) => {
+    // Don't trigger if user is typing in an input field
+    if (e.target && (e.target.tagName === 'INPUT' || e.target.tagName === 'TEXTAREA')) {
+      return;
+    }
+    
+    // Don't trigger if modifier keys are pressed
+    if (e.ctrlKey || e.metaKey || e.altKey) return;
+    
+    switch(e.key.toLowerCase()) {
+      case 'a':
+        e.preventDefault();
+        window.location.href = '/';
+        break;
+      case 's':
+        e.preventDefault();
+        window.location.href = '/search';
+        break;
+      case 't':
+        e.preventDefault();
+        window.location.href = '/tags';
+        break;
+      case 'l':
+        e.preventDefault();
+        window.location.href = '/lineage';
+        break;
+      case 'r':
+        e.preventDefault();
+        window.location.href = '/random';
+        break;
+      case 'h':
+        e.preventDefault();
+        window.location.href = '/help';
+        break;
+    }
+  });
+</script>
+
 <style>
   .terminal-border-b {
     border-bottom: 1px solid #FFFFFF;

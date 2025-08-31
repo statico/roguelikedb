@@ -1,0 +1,475 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { existsSync } from 'fs';
+import { resolve } from 'path';
+import { parse } from 'yaml';
+
+// Get all YAML files from data directory
+const dataDir = resolve(process.cwd(), '../data');
+const games: any[] = [];
+
+if (existsSync(dataDir)) {
+  const fs = await import('fs');
+  const files = fs.readdirSync(dataDir).filter(file => file.endsWith('.yaml'));
+  
+  for (const file of files) {
+    try {
+      const content = fs.readFileSync(resolve(dataDir, file), 'utf-8');
+      const gameData = parse(content);
+      if (gameData) {
+        games.push({ ...gameData, slug: file.replace('.yaml', '') });
+      }
+    } catch (error) {
+      console.warn(`Error parsing ${file}:`, error);
+    }
+  }
+}
+
+// Random game selection for initial load
+function getRandomGame() {
+  return games[Math.floor(Math.random() * games.length)];
+}
+
+const randomGame = games.length > 0 ? getRandomGame() : null;
+---
+
+<BaseLayout title="Random Discovery">
+  <div class="terminal-box">
+    <h1 class="text-terminal-amber text-xl mb-4">
+      ┌─ RANDOM DISCOVERY ─┐
+      │ Find your next game  │
+      └─────────────────────┘
+    </h1>
+    
+    <div class="mb-6">
+      <div class="ascii-art text-terminal-white mb-4">
+┌─ DISCOVERY OPTIONS ───────────────────────────────────────────────┐
+│                                                                   │
+│ [1] Any Game  [2] By Type  [3] By Era  [4] Hidden Gems  [5] Rec  │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+      </div>
+      
+      <div class="flex flex-wrap gap-2 mb-6">
+        <button id="random-any" class="terminal-button">[1] Any Game</button>
+        <button id="random-type" class="terminal-button">[2] By Type</button>
+        <button id="random-era" class="terminal-button">[3] By Era</button>
+        <button id="random-gems" class="terminal-button">[4] Hidden Gems</button>
+        <button id="random-rec" class="terminal-button">[5] Recommend</button>
+      </div>
+      
+      <!-- Filters for Random Selection -->
+      <div class="grid grid-cols-1 md:grid-cols-3 gap-4 mb-6 terminal-border p-4">
+        <div>
+          <label class="block text-terminal-white text-sm mb-1">Filter by Type:</label>
+          <select id="type-filter" class="w-full bg-terminal-bg border border-terminal-white text-terminal-white p-2 text-sm font-mono">
+            <option value="">Any Type</option>
+            <option value="traditional">Traditional</option>
+            <option value="modern">Modern</option>
+            <option value="roguelite">Roguelite</option>
+            <option value="action">Action</option>
+            <option value="experimental">Experimental</option>
+          </select>
+        </div>
+        
+        <div>
+          <label class="block text-terminal-white text-sm mb-1">Filter by Era:</label>
+          <select id="era-filter" class="w-full bg-terminal-bg border border-terminal-white text-terminal-white p-2 text-sm font-mono">
+            <option value="">Any Era</option>
+            <option value="1980s">1980s (Origins)</option>
+            <option value="1990s">1990s (Evolution)</option>
+            <option value="2000s">2000s (Expansion)</option>
+            <option value="2010s">2010s (Renaissance)</option>
+            <option value="2020s">2020s (Modern)</option>
+          </select>
+        </div>
+        
+        <div>
+          <label class="block text-terminal-white text-sm mb-1">Filter by Platform:</label>
+          <select id="platform-filter" class="w-full bg-terminal-bg border border-terminal-white text-terminal-white p-2 text-sm font-mono">
+            <option value="">Any Platform</option>
+            <option value="Windows">Windows</option>
+            <option value="Linux">Linux</option>
+            <option value="macOS">macOS</option>
+            <option value="Browser">Browser</option>
+            <option value="Mobile">Mobile</option>
+          </select>
+        </div>
+      </div>
+    </div>
+
+    <!-- Random Game Display -->
+    <div id="random-game-display" class="mb-8">
+      {randomGame && (
+        <div class="terminal-border p-4">
+          <div class="text-center mb-4">
+            <div class="ascii-art text-terminal-green">
+┌────────────────────────────────────────┐
+│           ★ FEATURED GAME ★           │
+└────────────────────────────────────────┘
+            </div>
+          </div>
+          
+          <div class="max-w-4xl mx-auto">
+            <h2 class="text-terminal-amber text-2xl font-bold mb-2 text-center">
+              {randomGame.name}
+            </h2>
+            
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-4">
+              <div>
+                <h3 class="text-terminal-cyan text-lg mb-2">┌─ DETAILS ─┐</h3>
+                <div class="space-y-1 text-sm ml-2">
+                  {randomGame.classification?.primary_type && (
+                    <div><span class="text-terminal-white">Type:</span> <span class="text-terminal-green">{randomGame.classification.primary_type}</span></div>
+                  )}
+                  {randomGame.release_date && (
+                    <div><span class="text-terminal-white">Released:</span> <span class="text-terminal-gray">{randomGame.release_date}</span></div>
+                  )}
+                  {randomGame.developers && randomGame.developers.length > 0 && (
+                    <div><span class="text-terminal-white">Developer:</span> <span class="text-terminal-gray">{randomGame.developers.join(', ')}</span></div>
+                  )}
+                  {randomGame.platforms && randomGame.platforms.length > 0 && (
+                    <div><span class="text-terminal-white">Platforms:</span> <span class="text-terminal-gray">{randomGame.platforms.slice(0, 4).join(', ')}</span></div>
+                  )}
+                  {randomGame.classification?.difficulty && (
+                    <div><span class="text-terminal-white">Difficulty:</span> <span class="text-terminal-red">{randomGame.classification.difficulty}</span></div>
+                  )}
+                </div>
+              </div>
+              
+              <div>
+                <h3 class="text-terminal-cyan text-lg mb-2">┌─ FEATURES ─┐</h3>
+                <div class="space-y-1 text-sm ml-2">
+                  {randomGame.classification?.subgenres && randomGame.classification.subgenres.length > 0 && (
+                    <div><span class="text-terminal-white">Genres:</span> <span class="text-terminal-cyan">{randomGame.classification.subgenres.join(', ')}</span></div>
+                  )}
+                  {randomGame.classification?.gameplay_features && randomGame.classification.gameplay_features.length > 0 && (
+                    <div><span class="text-terminal-white">Gameplay:</span> <span class="text-terminal-yellow">{randomGame.classification.gameplay_features.slice(0, 3).join(', ')}</span></div>
+                  )}
+                  {randomGame.tags && randomGame.tags.length > 0 && (
+                    <div><span class="text-terminal-white">Tags:</span> <span class="text-terminal-magenta">{randomGame.tags.slice(0, 3).join(', ')}</span></div>
+                  )}
+                </div>
+              </div>
+            </div>
+            
+            {randomGame.description && (
+              <div class="mb-4">
+                <h3 class="text-terminal-cyan text-lg mb-2">┌─ DESCRIPTION ─┐</h3>
+                <p class="text-terminal-gray text-sm leading-relaxed ml-2">
+                  {randomGame.description.length > 300 
+                    ? `${randomGame.description.substring(0, 300)}...`
+                    : randomGame.description
+                  }
+                </p>
+              </div>
+            )}
+            
+            <div class="text-center">
+              <a href={`/games/${randomGame.slug}`} class="terminal-button text-lg px-6 py-2">
+                ► EXPLORE THIS GAME ◄
+              </a>
+            </div>
+          </div>
+        </div>
+      )}
+    </div>
+
+    <!-- Action Buttons -->
+    <div class="text-center space-x-4">
+      <button id="get-new-random" class="terminal-button text-lg px-6 py-2">
+        🎲 GET ANOTHER RANDOM GAME 🎲
+      </button>
+      <button id="surprise-me" class="terminal-button text-lg px-6 py-2">
+        ✨ SURPRISE ME ✨
+      </button>
+    </div>
+
+    <!-- Discovery Stats -->
+    <div class="mt-8 terminal-border p-4">
+      <h3 class="text-terminal-green text-lg mb-3">
+        ┌─ DISCOVERY STATS ─┐
+      </h3>
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-center text-sm">
+        <div>
+          <div class="text-terminal-amber text-lg" id="total-games">{games.length}</div>
+          <div class="text-terminal-gray">Total Games</div>
+        </div>
+        <div>
+          <div class="text-terminal-green text-lg" id="sessions-count">1</div>
+          <div class="text-terminal-gray">This Session</div>
+        </div>
+        <div>
+          <div class="text-terminal-cyan text-lg" id="filtered-count">{games.length}</div>
+          <div class="text-terminal-gray">Available</div>
+        </div>
+        <div>
+          <div class="text-terminal-magenta text-lg" id="discovery-rate">0%</div>
+          <div class="text-terminal-gray">Explored</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<script is:inline define:vars={{ games }}>
+  let sessionCount = parseInt(localStorage.getItem('random-session-count') || '0');
+  let exploredGames = JSON.parse(localStorage.getItem('explored-games') || '[]');
+  let currentFilters = { type: '', era: '', platform: '' };
+
+  const elements = {
+    gameDisplay: document.getElementById('random-game-display'),
+    getNewRandom: document.getElementById('get-new-random'),
+    surpriseMe: document.getElementById('surprise-me'),
+    typeFilter: document.getElementById('type-filter'),
+    eraFilter: document.getElementById('era-filter'),
+    platformFilter: document.getElementById('platform-filter'),
+    sessionCount: document.getElementById('sessions-count'),
+    filteredCount: document.getElementById('filtered-count'),
+    discoveryRate: document.getElementById('discovery-rate')
+  };
+
+  function getFilteredGames() {
+    return games.filter(game => {
+      // Type filter
+      if (currentFilters.type && game.classification?.primary_type !== currentFilters.type) {
+        return false;
+      }
+      
+      // Era filter
+      if (currentFilters.era && game.release_date) {
+        const year = parseInt(game.release_date.split('-')[0]);
+        const decade = Math.floor(year / 10) * 10;
+        const expectedDecade = currentFilters.era.replace('s (', '').split(')')[0];
+        if (decade.toString() !== expectedDecade.replace('s', '')) {
+          return false;
+        }
+      }
+      
+      // Platform filter
+      if (currentFilters.platform && game.platforms) {
+        const hasMatchingPlatform = game.platforms.some(platform => 
+          platform.toLowerCase().includes(currentFilters.platform.toLowerCase())
+        );
+        if (!hasMatchingPlatform) {
+          return false;
+        }
+      }
+      
+      return true;
+    });
+  }
+
+  function getRandomGame(filteredGames = null) {
+    const availableGames = filteredGames || getFilteredGames();
+    return availableGames[Math.floor(Math.random() * availableGames.length)];
+  }
+
+  function getHiddenGem() {
+    // Games with fewer common tags or older games
+    const gems = games.filter(game => {
+      const releaseYear = game.release_date ? parseInt(game.release_date.split('-')[0]) : 0;
+      const hasCommonTags = game.tags && game.tags.some(tag => 
+        ['popular', 'famous', 'well-known', 'mainstream'].includes(tag)
+      );
+      return releaseYear < 2010 || !hasCommonTags;
+    });
+    
+    return gems[Math.floor(Math.random() * gems.length)];
+  }
+
+  function getRecommendation() {
+    // Games with positive indicators
+    const recommended = games.filter(game => {
+      const hasPositiveIndicators = game.notes && (
+        game.notes.includes('positive') ||
+        game.notes.includes('acclaimed') ||
+        game.notes.includes('award') ||
+        game.notes.includes('excellent')
+      );
+      return hasPositiveIndicators || 
+             game.classification?.primary_type === 'modern' ||
+             game.release_date?.startsWith('20');
+    });
+    
+    return recommended[Math.floor(Math.random() * recommended.length)];
+  }
+
+  function displayGame(game) {
+    if (!game) return;
+
+    elements.gameDisplay.innerHTML = `
+      <div class="terminal-border p-4">
+        <div class="text-center mb-4">
+          <div class="ascii-art text-terminal-green">
+┌────────────────────────────────────────┐
+│           ★ FEATURED GAME ★           │
+└────────────────────────────────────────┘
+          </div>
+        </div>
+        
+        <div class="max-w-4xl mx-auto">
+          <h2 class="text-terminal-amber text-2xl font-bold mb-2 text-center">
+            ${game.name || 'Unnamed Game'}
+          </h2>
+          
+          <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-4">
+            <div>
+              <h3 class="text-terminal-cyan text-lg mb-2">┌─ DETAILS ─┐</h3>
+              <div class="space-y-1 text-sm ml-2">
+                ${game.classification?.primary_type ? `<div><span class="text-terminal-white">Type:</span> <span class="text-terminal-green">${game.classification.primary_type}</span></div>` : ''}
+                ${game.release_date ? `<div><span class="text-terminal-white">Released:</span> <span class="text-terminal-gray">${game.release_date}</span></div>` : ''}
+                ${game.developers?.length > 0 ? `<div><span class="text-terminal-white">Developer:</span> <span class="text-terminal-gray">${game.developers.join(', ')}</span></div>` : ''}
+                ${game.platforms?.length > 0 ? `<div><span class="text-terminal-white">Platforms:</span> <span class="text-terminal-gray">${game.platforms.slice(0, 4).join(', ')}</span></div>` : ''}
+                ${game.classification?.difficulty ? `<div><span class="text-terminal-white">Difficulty:</span> <span class="text-terminal-red">${game.classification.difficulty}</span></div>` : ''}
+              </div>
+            </div>
+            
+            <div>
+              <h3 class="text-terminal-cyan text-lg mb-2">┌─ FEATURES ─┐</h3>
+              <div class="space-y-1 text-sm ml-2">
+                ${game.classification?.subgenres?.length > 0 ? `<div><span class="text-terminal-white">Genres:</span> <span class="text-terminal-cyan">${game.classification.subgenres.join(', ')}</span></div>` : ''}
+                ${game.classification?.gameplay_features?.length > 0 ? `<div><span class="text-terminal-white">Gameplay:</span> <span class="text-terminal-yellow">${game.classification.gameplay_features.slice(0, 3).join(', ')}</span></div>` : ''}
+                ${game.tags?.length > 0 ? `<div><span class="text-terminal-white">Tags:</span> <span class="text-terminal-magenta">${game.tags.slice(0, 3).join(', ')}</span></div>` : ''}
+              </div>
+            </div>
+          </div>
+          
+          ${game.description ? `
+            <div class="mb-4">
+              <h3 class="text-terminal-cyan text-lg mb-2">┌─ DESCRIPTION ─┐</h3>
+              <p class="text-terminal-gray text-sm leading-relaxed ml-2">
+                ${game.description.length > 300 ? game.description.substring(0, 300) + '...' : game.description}
+              </p>
+            </div>
+          ` : ''}
+          
+          <div class="text-center">
+            <a href="/games/${game.slug}" class="terminal-button text-lg px-6 py-2">
+              ► EXPLORE THIS GAME ◄
+            </a>
+          </div>
+        </div>
+      </div>
+    `;
+
+    // Update stats
+    if (!exploredGames.includes(game.slug)) {
+      exploredGames.push(game.slug);
+      localStorage.setItem('explored-games', JSON.stringify(exploredGames));
+    }
+    
+    sessionCount++;
+    localStorage.setItem('random-session-count', sessionCount.toString());
+    updateStats();
+  }
+
+  function updateStats() {
+    const filteredGames = getFilteredGames();
+    elements.sessionCount.textContent = sessionCount;
+    elements.filteredCount.textContent = filteredGames.length;
+    elements.discoveryRate.textContent = Math.round((exploredGames.length / games.length) * 100) + '%';
+  }
+
+  function updateFilters() {
+    currentFilters.type = elements.typeFilter.value;
+    currentFilters.era = elements.eraFilter.value;
+    currentFilters.platform = elements.platformFilter.value;
+    updateStats();
+  }
+
+  // Event listeners
+  elements.getNewRandom.addEventListener('click', () => {
+    const game = getRandomGame();
+    displayGame(game);
+  });
+
+  elements.surpriseMe.addEventListener('click', () => {
+    const randomType = Math.random();
+    let game;
+    
+    if (randomType < 0.4) {
+      game = getRandomGame();
+    } else if (randomType < 0.7) {
+      game = getHiddenGem();
+    } else {
+      game = getRecommendation();
+    }
+    
+    displayGame(game);
+  });
+
+  document.getElementById('random-any').addEventListener('click', () => {
+    displayGame(getRandomGame());
+  });
+
+  document.getElementById('random-type').addEventListener('click', () => {
+    displayGame(getRandomGame());
+  });
+
+  document.getElementById('random-era').addEventListener('click', () => {
+    displayGame(getRandomGame());
+  });
+
+  document.getElementById('random-gems').addEventListener('click', () => {
+    displayGame(getHiddenGem());
+  });
+
+  document.getElementById('random-rec').addEventListener('click', () => {
+    displayGame(getRecommendation());
+  });
+
+  // Filter change listeners
+  elements.typeFilter.addEventListener('change', updateFilters);
+  elements.eraFilter.addEventListener('change', updateFilters);
+  elements.platformFilter.addEventListener('change', updateFilters);
+
+  // Keyboard shortcuts
+  document.addEventListener('keydown', (e) => {
+    if (e.ctrlKey || e.metaKey) return;
+    
+    switch(e.key) {
+      case ' ':
+      case 'Enter':
+        e.preventDefault();
+        elements.getNewRandom.click();
+        break;
+      case '1':
+        e.preventDefault();
+        document.getElementById('random-any').click();
+        break;
+      case '2':
+        e.preventDefault();
+        document.getElementById('random-type').click();
+        break;
+      case '3':
+        e.preventDefault();
+        document.getElementById('random-era').click();
+        break;
+      case '4':
+        e.preventDefault();
+        document.getElementById('random-gems').click();
+        break;
+      case '5':
+        e.preventDefault();
+        document.getElementById('random-rec').click();
+        break;
+      case 's':
+        e.preventDefault();
+        elements.surpriseMe.click();
+        break;
+    }
+  });
+
+  // Initialize stats
+  updateStats();
+</script>
+
+<style>
+  .terminal-border {
+    border: 1px solid #808080;
+  }
+  .terminal-border:hover {
+    border-color: #FFFFFF;
+  }
+</style>

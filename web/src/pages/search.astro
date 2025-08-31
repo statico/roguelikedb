@@ -1,0 +1,287 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { existsSync } from 'fs';
+import { resolve } from 'path';
+import { parse } from 'yaml';
+
+// Get all YAML files from data directory
+const dataDir = resolve(process.cwd(), '../data');
+const games = [];
+
+if (existsSync(dataDir)) {
+  const fs = await import('fs');
+  const files = fs.readdirSync(dataDir).filter(file => file.endsWith('.yaml'));
+  
+  for (const file of files) {
+    try {
+      const content = fs.readFileSync(resolve(dataDir, file), 'utf-8');
+      const gameData = parse(content);
+      if (gameData) {
+        games.push({ ...gameData, slug: file.replace('.yaml', '') });
+      }
+    } catch (error) {
+      console.warn(`Error parsing ${file}:`, error);
+    }
+  }
+}
+
+// Sort games alphabetically
+games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
+---
+
+<BaseLayout title="Search Games">
+  <div class="terminal-box">
+    <h1 class="text-terminal-amber text-xl mb-4">
+      ┌─ SEARCH ROGUELIKES ─┐
+      │ Filter {games.length} games        │
+      └─────────────────────┘
+    </h1>
+    
+    <div class="mb-6">
+      <div class="ascii-art text-terminal-white mb-2">
+┌─ SEARCH OPTIONS ──────────────────────────────────────────────────┐
+│                                                                   │
+│ [1] Name:     <input type="text" id="name-search" />             │
+│ [2] Type:     <select id="type-filter">                          │
+│ [3] Year:     <input type="number" id="year-search" />           │
+│ [4] Platform: <select id="platform-filter">                     │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+      </div>
+      
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-4">
+        <div>
+          <label class="block text-terminal-white text-sm mb-1">[1] Game Name:</label>
+          <input 
+            type="text" 
+            id="name-search"
+            placeholder="Enter game name..."
+            class="w-full bg-terminal-bg border border-terminal-white text-terminal-white p-2 text-sm font-mono focus:border-terminal-amber outline-none"
+          />
+        </div>
+        
+        <div>
+          <label class="block text-terminal-white text-sm mb-1">[2] Type:</label>
+          <select 
+            id="type-filter"
+            class="w-full bg-terminal-bg border border-terminal-white text-terminal-white p-2 text-sm font-mono focus:border-terminal-amber outline-none"
+          >
+            <option value="">All Types</option>
+            <option value="traditional">Traditional</option>
+            <option value="modern">Modern</option>
+            <option value="roguelite">Roguelite</option>
+            <option value="action">Action</option>
+            <option value="experimental">Experimental</option>
+            <option value="browser">Browser</option>
+          </select>
+        </div>
+        
+        <div>
+          <label class="block text-terminal-white text-sm mb-1">[3] Release Year:</label>
+          <input 
+            type="number" 
+            id="year-search"
+            placeholder="e.g. 1980"
+            min="1980"
+            max="2025"
+            class="w-full bg-terminal-bg border border-terminal-white text-terminal-white p-2 text-sm font-mono focus:border-terminal-amber outline-none"
+          />
+        </div>
+        
+        <div>
+          <label class="block text-terminal-white text-sm mb-1">[4] Platform:</label>
+          <select 
+            id="platform-filter"
+            class="w-full bg-terminal-bg border border-terminal-white text-terminal-white p-2 text-sm font-mono focus:border-terminal-amber outline-none"
+          >
+            <option value="">All Platforms</option>
+            <option value="Windows">Windows</option>
+            <option value="Linux">Linux</option>
+            <option value="macOS">macOS</option>
+            <option value="Android">Android</option>
+            <option value="iOS">iOS</option>
+            <option value="Steam">Steam</option>
+            <option value="Browser">Browser</option>
+            <option value="Unix">Unix</option>
+          </select>
+        </div>
+      </div>
+      
+      <div class="mt-4">
+        <button 
+          id="clear-filters" 
+          class="terminal-button mr-2"
+        >
+          [C]lear Filters
+        </button>
+        <span class="text-terminal-gray text-sm">
+          Results: <span id="result-count">{games.length}</span> games
+        </span>
+      </div>
+    </div>
+    
+    <div id="search-results" class="space-y-2">
+      {games.map((game) => (
+        <div class="terminal-border p-2 hover:bg-terminal-darkgray game-item" data-game={JSON.stringify(game)}>
+          <div class="flex justify-between items-start">
+            <div>
+              <h2 class="text-terminal-white font-bold">
+                ■ <a href={`/games/${game.slug}`} class="hover:text-terminal-amber">
+                  {game.name || 'Unnamed Game'}
+                </a>
+              </h2>
+              <div class="text-terminal-gray text-sm ml-2">
+                {game.classification?.primary_type && (
+                  <span class="text-terminal-green">[{game.classification.primary_type}]</span>
+                )}
+                {game.release_date && (
+                  <span class="ml-2">{game.release_date}</span>
+                )}
+                {game.developers && game.developers.length > 0 && (
+                  <span class="ml-2">by {game.developers[0]}</span>
+                )}
+              </div>
+              {game.description && (
+                <p class="text-terminal-gray text-sm mt-1 ml-2 max-w-2xl">
+                  {game.description.length > 150 
+                    ? `${game.description.substring(0, 150)}...`
+                    : game.description
+                  }
+                </p>
+              )}
+            </div>
+            <div class="text-right text-terminal-gray text-xs">
+              {game.platforms && game.platforms.length > 0 && (
+                <div>{game.platforms.slice(0, 3).join(', ')}</div>
+              )}
+              {game.classification?.subgenres && game.classification.subgenres.length > 0 && (
+                <div class="text-terminal-cyan">
+                  {game.classification.subgenres.slice(0, 2).join(', ')}
+                </div>
+              )}
+            </div>
+          </div>
+        </div>
+      ))}
+    </div>
+  </div>
+</BaseLayout>
+
+<script is:inline>
+  // Client-side search functionality
+  const nameSearch = document.getElementById('name-search');
+  const typeFilter = document.getElementById('type-filter');
+  const yearSearch = document.getElementById('year-search');
+  const platformFilter = document.getElementById('platform-filter');
+  const clearFilters = document.getElementById('clear-filters');
+  const resultCount = document.getElementById('result-count');
+  const gameItems = document.querySelectorAll('.game-item');
+
+  function filterGames() {
+    const nameQuery = nameSearch?.value?.toLowerCase() || '';
+    const typeQuery = typeFilter?.value?.toLowerCase() || '';
+    const yearQuery = yearSearch?.value || '';
+    const platformQuery = platformFilter?.value?.toLowerCase() || '';
+    
+    let visibleCount = 0;
+    
+    gameItems.forEach(item => {
+      const gameData = JSON.parse(item.dataset?.game || '{}');
+      let matches = true;
+      
+      // Name filter
+      if (nameQuery && !gameData.name.toLowerCase().includes(nameQuery)) {
+        matches = false;
+      }
+      
+      // Type filter
+      if (typeQuery && gameData.classification?.primary_type !== typeQuery) {
+        matches = false;
+      }
+      
+      // Year filter
+      if (yearQuery && gameData.release_date) {
+        const gameYear = gameData.release_date.split('-')[0];
+        if (gameYear !== yearQuery) {
+          matches = false;
+        }
+      }
+      
+      // Platform filter
+      if (platformQuery && gameData.platforms) {
+        const hasMatchingPlatform = gameData.platforms.some(platform => 
+          platform.toLowerCase().includes(platformQuery)
+        );
+        if (!hasMatchingPlatform) {
+          matches = false;
+        }
+      }
+      
+      // Show/hide item
+      if (matches) {
+        item.style.display = 'block';
+        visibleCount++;
+      } else {
+        item.style.display = 'none';
+      }
+    });
+    
+    if (resultCount) {
+      resultCount.textContent = visibleCount.toString();
+    }
+  }
+
+  function clearAllFilters() {
+    if (nameSearch) nameSearch.value = '';
+    if (typeFilter) typeFilter.value = '';
+    if (yearSearch) yearSearch.value = '';
+    if (platformFilter) platformFilter.value = '';
+    filterGames();
+  }
+
+  // Add event listeners
+  nameSearch?.addEventListener('input', filterGames);
+  typeFilter?.addEventListener('change', filterGames);
+  yearSearch?.addEventListener('input', filterGames);
+  platformFilter?.addEventListener('change', filterGames);
+  clearFilters?.addEventListener('click', clearAllFilters);
+
+  // Keyboard shortcuts
+  document.addEventListener('keydown', (e) => {
+    if (e.ctrlKey || e.metaKey) return;
+    
+    switch(e.key.toLowerCase()) {
+      case '1':
+        e.preventDefault();
+        nameSearch.focus();
+        break;
+      case '2':
+        e.preventDefault();
+        typeFilter.focus();
+        break;
+      case '3':
+        e.preventDefault();
+        yearSearch.focus();
+        break;
+      case '4':
+        e.preventDefault();
+        platformFilter.focus();
+        break;
+      case 'c':
+        if (document.activeElement.tagName !== 'INPUT' && document.activeElement.tagName !== 'SELECT') {
+          e.preventDefault();
+          clearAllFilters();
+        }
+        break;
+    }
+  });
+</script>
+
+<style>
+  .terminal-border {
+    border: 1px solid #808080;
+  }
+  .terminal-border:hover {
+    border-color: #FFFFFF;
+  }
+</style>

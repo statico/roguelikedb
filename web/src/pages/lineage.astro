@@ -1,0 +1,340 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { existsSync } from 'fs';
+import { resolve } from 'path';
+import { parse } from 'yaml';
+
+// Get all YAML files from data directory
+const dataDir = resolve(process.cwd(), '../data');
+const games: any[] = [];
+
+if (existsSync(dataDir)) {
+  const fs = await import('fs');
+  const files = fs.readdirSync(dataDir).filter(file => file.endsWith('.yaml'));
+  
+  for (const file of files) {
+    try {
+      const content = fs.readFileSync(resolve(dataDir, file), 'utf-8');
+      const gameData = parse(content);
+      if (gameData) {
+        games.push({ ...gameData, slug: file.replace('.yaml', '') });
+      }
+    } catch (error) {
+      console.warn(`Error parsing ${file}:`, error);
+    }
+  }
+}
+
+// Build family trees and lineage data
+const gamesBySlug: Record<string, any> = {};
+games.forEach((game: any) => {
+  gamesBySlug[game.slug] = game;
+});
+
+// Find roots (games with no parent)
+const roots = games.filter(game => 
+  !game.lineage?.parent_games || game.lineage.parent_games.length === 0
+);
+
+// Build family trees
+function buildTree(game: any, visited = new Set()): any {
+  if (visited.has(game.slug)) return null; // Prevent cycles
+  visited.add(game.slug);
+  
+  const children = games.filter((child: any) => 
+    child.lineage?.parent_games?.includes(game.slug)
+  );
+  
+  return {
+    ...game,
+    children: children.map((child: any) => buildTree(child, new Set(visited))).filter(Boolean)
+  };
+}
+
+const familyTrees = roots.map(root => buildTree(root));
+
+
+// Group games by their primary parent
+const gamesByLineage: Record<string, any[]> = {};
+games.forEach((game: any) => {
+  const parents = game.lineage?.parent_games || [];
+  const primaryParent = parents[0] || 'independent';
+  
+  if (!gamesByLineage[primaryParent]) {
+    gamesByLineage[primaryParent] = [];
+  }
+  gamesByLineage[primaryParent].push(game);
+});
+---
+
+<BaseLayout title="Game Lineage">
+  <div class="terminal-box">
+    <h1 class="text-terminal-amber text-xl mb-4">
+      ┌─ ROGUELIKE LINEAGE ─┐
+      │ Family trees & forks  │
+      └──────────────────────┘
+    </h1>
+    
+    <div class="mb-6">
+      <div class="ascii-art text-terminal-white mb-4">
+┌─ VIEW OPTIONS ────────────────────────────────────────────────────┐
+│                                                                   │
+│ [1] Family Trees  [2] By Parent  [3] Chronological  [4] Orphans  │
+│                                                                   │
+└───────────────────────────────────────────────────────────────────┘
+      </div>
+      
+      <div class="flex flex-wrap gap-2 mb-4">
+        <button id="view-trees" class="terminal-button">[1] Family Trees</button>
+        <button id="view-parents" class="terminal-button">[2] By Parent</button>
+        <button id="view-chronological" class="terminal-button">[3] Chronological</button>
+        <button id="view-orphans" class="terminal-button">[4] Orphans</button>
+      </div>
+    </div>
+
+    <!-- Family Trees View -->
+    <div id="trees-view" class="lineage-view">
+      <h2 class="text-terminal-green text-lg mb-4">
+        ┌─ MAJOR FAMILY TREES ─┐
+      </h2>
+      
+      {familyTrees.filter(tree => tree.children.length > 0 || ['rogue', 'nethack', 'angband', 'moria'].includes(tree.slug)).map(tree => (
+        <div class="mb-8 terminal-border p-4">
+          <h3 class="text-terminal-cyan text-md mb-3">
+            ┌─ {tree.name || tree.slug.toUpperCase()} LINEAGE ─┐
+          </h3>
+          
+          <div class="tree-container font-mono text-sm">
+            {/* Root game */}
+            <div class="flex items-center mb-2">
+              <span class="text-terminal-white mr-2">┌──</span>
+              <a href={`/games/${tree.slug}`} class="text-terminal-amber hover:text-terminal-white">
+                {tree.name} ({tree.release_date || 'Unknown'})
+              </a>
+              {tree.classification?.primary_type && (
+                <span class="text-terminal-green ml-2">[{tree.classification.primary_type}]</span>
+              )}
+            </div>
+            
+            {/* Children */}
+            {tree.children.map((child: any, childIndex: number) => (
+              <div class="ml-4">
+                <div class="flex items-center mb-1">
+                  <span class="text-terminal-gray mr-2">
+                    {childIndex === tree.children.length - 1 ? '└──' : '├──'}
+                  </span>
+                  <a href={`/games/${child.slug}`} class="text-terminal-white hover:text-terminal-amber">
+                    {child.name} ({child.release_date || 'Unknown'})
+                  </a>
+                  {child.classification?.primary_type && (
+                    <span class="text-terminal-green ml-2">[{child.classification.primary_type}]</span>
+                  )}
+                </div>
+                
+                {/* Grandchildren */}
+                {child.children.map((grandchild: any, grandIndex: number) => (
+                  <div class="ml-8">
+                    <div class="flex items-center mb-1">
+                      <span class="text-terminal-gray mr-2">
+                        {childIndex === tree.children.length - 1 ? '    ' : '│   '}
+                        {grandIndex === child.children.length - 1 ? '└──' : '├──'}
+                      </span>
+                      <a href={`/games/${grandchild.slug}`} class="text-terminal-white hover:text-terminal-amber">
+                        {grandchild.name} ({grandchild.release_date || 'Unknown'})
+                      </a>
+                      {grandchild.classification?.primary_type && (
+                        <span class="text-terminal-green ml-2">[{grandchild.classification.primary_type}]</span>
+                      )}
+                    </div>
+                  </div>
+                ))}
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <!-- By Parent View -->
+    <div id="parents-view" class="lineage-view" style="display: none;">
+      <h2 class="text-terminal-green text-lg mb-4">
+        ┌─ GAMES BY PARENT ─┐
+      </h2>
+      
+      {Object.entries(gamesByLineage)
+        .sort(([,a], [,b]) => (b as any[]).length - (a as any[]).length)
+        .slice(0, 15)
+        .map(([parent, games]) => (
+          <div class="mb-6 terminal-border p-3">
+            <h3 class="text-terminal-cyan text-md mb-3">
+              ├─ {parent.replace('-', ' ').toUpperCase()} ({(games as any[]).length} games)
+            </h3>
+            <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-2 ml-4">
+              {(games as any[]).sort((a: any, b: any) => (a.release_date || '').localeCompare(b.release_date || '')).map((game: any) => (
+                <div class="text-sm">
+                  <a href={`/games/${game.slug}`} class="text-terminal-white hover:text-terminal-amber">
+                    ■ {game.name}
+                  </a>
+                  <span class="text-terminal-gray ml-2">({game.release_date || 'Unknown'})</span>
+                </div>
+              ))}
+            </div>
+          </div>
+        ))
+      }
+    </div>
+
+    <!-- Chronological View -->
+    <div id="chronological-view" class="lineage-view" style="display: none;">
+      <h2 class="text-terminal-green text-lg mb-4">
+        ┌─ CHRONOLOGICAL EVOLUTION ─┐
+      </h2>
+      
+      {Object.entries(games.reduce((decades, game) => {
+        const year = game.release_date ? parseInt(game.release_date.split('-')[0]) : null;
+        const decade = year ? Math.floor(year / 10) * 10 : 'Unknown';
+        if (!decades[decade]) decades[decade] = [];
+        decades[decade].push(game);
+        return decades;
+      }, {}))
+      .sort(([a], [b]) => (a === 'Unknown' ? 1 : b === 'Unknown' ? -1 : parseInt(a) - parseInt(b)))
+      .map(([decade, decadeGames]) => (
+        <div class="mb-6 terminal-border p-3">
+          <h3 class="text-terminal-cyan text-md mb-3">
+            ├─ {decade === 'Unknown' ? 'UNKNOWN DECADE' : `${decade}s`} ({(decadeGames as any[]).length} games)
+          </h3>
+          <div class="space-y-1 ml-4">
+            {(decadeGames as any[]).sort((a: any, b: any) => (a.release_date || '').localeCompare(b.release_date || '')).map((game: any) => (
+              <div class="text-sm flex justify-between items-center">
+                <div>
+                  <a href={`/games/${game.slug}`} class="text-terminal-white hover:text-terminal-amber">
+                    ■ {game.name}
+                  </a>
+                  {game.lineage?.parent_games && game.lineage.parent_games.length > 0 && (
+                    <span class="text-terminal-gray ml-2">← from {game.lineage.parent_games[0]}</span>
+                  )}
+                </div>
+                <span class="text-terminal-gray text-xs">{game.release_date || 'Unknown'}</span>
+              </div>
+            ))}
+          </div>
+        </div>
+      ))}
+    </div>
+
+    <!-- Orphans View -->
+    <div id="orphans-view" class="lineage-view" style="display: none;">
+      <h2 class="text-terminal-green text-lg mb-4">
+        ┌─ INDEPENDENT GAMES ─┐
+      </h2>
+      <div class="text-terminal-gray mb-4">
+        Games with no specified parent lineage or original innovations
+      </div>
+      
+      <div class="space-y-2">
+        {games.filter(game => !game.lineage?.parent_games || game.lineage.parent_games.length === 0)
+          .sort((a, b) => (a.name || '').localeCompare(b.name || ''))
+          .map(game => (
+            <div class="terminal-border p-2 hover:bg-terminal-darkgray">
+              <div class="flex justify-between items-center">
+                <div>
+                  <a href={`/games/${game.slug}`} class="text-terminal-white hover:text-terminal-amber">
+                    ■ {game.name}
+                  </a>
+                  {game.classification?.primary_type && (
+                    <span class="text-terminal-green ml-2">[{game.classification.primary_type}]</span>
+                  )}
+                </div>
+                <div class="text-right text-terminal-gray text-sm">
+                  <div>{game.release_date || 'Unknown'}</div>
+                  {game.developers?.[0] && (
+                    <div>by {game.developers[0]}</div>
+                  )}
+                </div>
+              </div>
+            </div>
+          ))
+        }
+      </div>
+    </div>
+  </div>
+</BaseLayout>
+
+<script is:inline>
+  const viewButtons = {
+    trees: document.getElementById('view-trees'),
+    parents: document.getElementById('view-parents'),
+    chronological: document.getElementById('view-chronological'),
+    orphans: document.getElementById('view-orphans')
+  };
+
+  const views = {
+    trees: document.getElementById('trees-view'),
+    parents: document.getElementById('parents-view'),
+    chronological: document.getElementById('chronological-view'),
+    orphans: document.getElementById('orphans-view')
+  };
+
+  function showView(viewName) {
+    // Hide all views
+    Object.values(views).forEach(view => view.style.display = 'none');
+    
+    // Show selected view
+    views[viewName].style.display = 'block';
+    
+    // Update button styles
+    Object.entries(viewButtons).forEach(([name, button]) => {
+      if (name === viewName) {
+        button.style.backgroundColor = '#FFFFFF';
+        button.style.color = '#000000';
+      } else {
+        button.style.backgroundColor = 'transparent';
+        button.style.color = '#FFFFFF';
+      }
+    });
+  }
+
+  // Add event listeners for view buttons
+  Object.entries(viewButtons).forEach(([viewName, button]) => {
+    button.addEventListener('click', () => showView(viewName));
+  });
+
+  // Keyboard shortcuts
+  document.addEventListener('keydown', (e) => {
+    if (e.ctrlKey || e.metaCmd) return;
+    
+    switch(e.key) {
+      case '1':
+        e.preventDefault();
+        showView('trees');
+        break;
+      case '2':
+        e.preventDefault();
+        showView('parents');
+        break;
+      case '3':
+        e.preventDefault();
+        showView('chronological');
+        break;
+      case '4':
+        e.preventDefault();
+        showView('orphans');
+        break;
+    }
+  });
+
+  // Initialize with family trees view
+  showView('trees');
+</script>
+
+<style>
+  .terminal-border {
+    border: 1px solid #808080;
+  }
+  .terminal-border:hover {
+    border-color: #FFFFFF;
+  }
+  .tree-container {
+    line-height: 1.4;
+  }
+</style>
