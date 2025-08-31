@@ -1,6 +1,6 @@
 ---
 import BaseLayout from '../../layouts/BaseLayout.astro';
-import { readFileSync, existsSync } from 'fs';
+import { existsSync, readFileSync } from 'fs';
 import { resolve } from 'path';
 import { parse } from 'yaml';
 
@@ -128,8 +128,8 @@ if (!game) {
             <div class="mb-2">
               <span class="text-terminal-green">Influences:</span>
               <div class="ml-2">
-                {game.lineage.parent_games.map((parent, i) => (
-                  <span key={parent}>
+                {game.lineage.parent_games.map((parent: string, i: number) => (
+                  <span>
                     <a href={`/games/${parent}`} class="text-terminal-white hover:text-terminal-amber">
                       {parent}
                     </a>
@@ -144,8 +144,8 @@ if (!game) {
             <div class="mb-2">
               <span class="text-terminal-green">Notable Forks:</span>
               <div class="ml-2 flex flex-wrap gap-2">
-                {game.lineage.notable_forks.map(fork => (
-                  <a key={fork} href={`/games/${fork}`} 
+                {game.lineage.notable_forks.map((fork: string) => (
+                  <a href={`/games/${fork}`} 
                      class="text-terminal-white hover:text-terminal-amber terminal-border px-2 py-1 text-sm">
                     {fork}
                   </a>
@@ -164,9 +164,9 @@ if (!game) {
         </h2>
         <div class="terminal-border p-4">
           <div class="grid grid-cols-2 md:grid-cols-3 gap-2">
-            {game.classification.gameplay_features.map(feature => (
-              <div key={feature} class="text-terminal-white text-sm">
-                ■ {feature.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+            {game.classification.gameplay_features.map((feature: string) => (
+              <div class="text-terminal-white text-sm">
+                ■ {feature.replace(/_/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase())}
               </div>
             ))}
           </div>
@@ -182,9 +182,9 @@ if (!game) {
         <div class="terminal-border p-4">
           <div class="grid grid-cols-1 md:grid-cols-2 gap-2">
             {Object.entries(game.links).map(([key, url]) => (
-              <a key={key} href={url} target="_blank" rel="noopener noreferrer"
+              <a href={url as string} target="_blank" rel="noopener noreferrer"
                  class="text-terminal-white hover:text-terminal-amber flex items-center">
-                ► {key.replace(/_/g, ' ').replace(/\b\w/g, l => l.toUpperCase())}
+                ► {key.replace(/_/g, ' ').replace(/\b\w/g, (l: string) => l.toUpperCase())}
               </a>
             ))}
           </div>
