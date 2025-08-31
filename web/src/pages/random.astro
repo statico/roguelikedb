@@ -3,6 +3,7 @@ import BaseLayout from '../layouts/BaseLayout.astro';
 import { existsSync } from 'fs';
 import { resolve } from 'path';
 import { parse } from 'yaml';
+import { marked } from 'marked';
 
 // Get all YAML files from data directory
 const dataDir = resolve(process.cwd(), '../data');
@@ -31,14 +32,28 @@ function getRandomGame() {
 }
 
 const randomGame = games.length > 0 ? getRandomGame() : null;
+
+// Configure marked for terminal aesthetic
+marked.setOptions({
+  breaks: true,
+  gfm: true,
+});
+
+// Parse description if random game exists
+let parsedDescription = '';
+if (randomGame?.description) {
+  parsedDescription = await marked(randomGame.description);
+}
 ---
 
 <BaseLayout title="Random Discovery">
   <div class="terminal-box">
     <h1 class="text-terminal-amber text-xl mb-4">
-      ┌─ RANDOM DISCOVERY ─┐
-      │ Find your next game  │
-      └─────────────────────┘
+      <div class="ascii-art">
+┌─ RANDOM DISCOVERY ─┐
+│ Find your next game  │
+└─────────────────────┘
+      </div>
     </h1>
     
     <div class="mb-6">
@@ -153,15 +168,10 @@ const randomGame = games.length > 0 ? getRandomGame() : null;
               </div>
             </div>
             
-            {randomGame.description && (
+            {parsedDescription && (
               <div class="mb-4">
                 <h3 class="text-terminal-cyan text-lg mb-2">┌─ DESCRIPTION ─┐</h3>
-                <p class="text-terminal-gray text-sm leading-relaxed ml-2">
-                  {randomGame.description.length > 300 
-                    ? `${randomGame.description.substring(0, 300)}...`
-                    : randomGame.description
-                  }
-                </p>
+                <div class="text-terminal-gray text-sm leading-relaxed ml-2 prose-terminal" set:html={parsedDescription.length > 800 ? parsedDescription.substring(0, 800) + '...' : parsedDescription}></div>
               </div>
             )}
             
@@ -467,9 +477,104 @@ const randomGame = games.length > 0 ? getRandomGame() : null;
 
 <style>
   .terminal-border {
-    border: 1px solid #808080;
+    border: 1px solid #6272a4;
   }
   .terminal-border:hover {
-    border-color: #FFFFFF;
+    border-color: #f8f8f2;
+  }
+
+  /* Terminal-style markdown formatting */
+  .prose-terminal {
+    font-family: "Source Code Pro", SF Mono, Monaco, Inconsolata, Roboto Mono, Menlo, Consolas, DejaVu Sans Mono, monospace;
+  }
+  
+  .prose-terminal p {
+    margin-bottom: 1rem;
+  }
+  
+  .prose-terminal strong {
+    color: #f1fa8c; /* terminal-amber */
+    font-weight: bold;
+  }
+  
+  .prose-terminal em {
+    color: #8be9fd; /* terminal-cyan */
+    font-style: italic;
+  }
+  
+  .prose-terminal h1, 
+  .prose-terminal h2, 
+  .prose-terminal h3 {
+    color: #50fa7b; /* terminal-green */
+    font-weight: bold;
+    margin-top: 1.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .prose-terminal h1 {
+    font-size: 1.25rem;
+  }
+  
+  .prose-terminal h2 {
+    font-size: 1.125rem;
+  }
+  
+  .prose-terminal h3 {
+    font-size: 1rem;
+  }
+  
+  .prose-terminal ul,
+  .prose-terminal ol {
+    margin-left: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .prose-terminal li {
+    margin-bottom: 0.25rem;
+  }
+  
+  .prose-terminal li::marker {
+    color: #6272a4; /* terminal-gray */
+  }
+  
+  .prose-terminal code {
+    background-color: #44475a; /* terminal-darkgray */
+    color: #8be9fd; /* terminal-cyan */
+    padding: 0.125rem 0.25rem;
+    border-radius: 0;
+    font-family: inherit;
+  }
+  
+  .prose-terminal pre {
+    background-color: #44475a; /* terminal-darkgray */
+    color: #f8f8f2; /* terminal-white */
+    padding: 1rem;
+    margin: 1rem 0;
+    border-radius: 0;
+    border: 1px solid #6272a4; /* terminal-gray */
+    overflow-x: auto;
+  }
+  
+  .prose-terminal pre code {
+    background-color: transparent;
+    padding: 0;
+  }
+  
+  .prose-terminal a {
+    color: #bd93f9; /* terminal-blue */
+    text-decoration: underline;
+  }
+  
+  .prose-terminal a:hover {
+    color: #f1fa8c; /* terminal-amber */
+  }
+  
+  .prose-terminal blockquote {
+    border-left: 2px solid #6272a4; /* terminal-gray */
+    padding-left: 1rem;
+    margin-left: 0;
+    margin-bottom: 1rem;
+    color: #6272a4; /* terminal-gray */
+    font-style: italic;
   }
 </style>

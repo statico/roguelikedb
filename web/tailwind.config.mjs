@@ -4,19 +4,19 @@ export default {
   theme: {
     extend: {
       colors: {
-        // Terminal color palette
+        // Dracula color palette
         terminal: {
-          bg: '#000000',
-          amber: '#FFB000',
-          green: '#00FF00',
-          white: '#FFFFFF',
-          gray: '#808080',
-          darkgray: '#404040',
-          red: '#FF0000',
-          blue: '#0080FF',
-          cyan: '#00FFFF',
-          magenta: '#FF00FF',
-          yellow: '#FFFF00',
+          bg: '#282a36',        // Dracula Background
+          amber: '#f1fa8c',     // Dracula Yellow
+          green: '#50fa7b',     // Dracula Green
+          white: '#f8f8f2',     // Dracula Foreground
+          gray: '#6272a4',      // Dracula Comment
+          darkgray: '#44475a',  // Dracula Selection
+          red: '#ff5555',       // Dracula Red
+          blue: '#bd93f9',      // Dracula Purple
+          cyan: '#8be9fd',      // Dracula Cyan
+          magenta: '#ff79c6',   // Dracula Pink
+          yellow: '#f1fa8c',    // Dracula Yellow
         }
       },
       fontFamily: {
@@ -59,8 +59,8 @@ export default {
     function({ addBase, addUtilities }) {
       addBase({
         'body': {
-          backgroundColor: '#000000',
-          color: '#FFFFFF',
+          backgroundColor: '#282a36',
+          color: '#f8f8f2',
           fontFamily: '"Source Code Pro", SF Mono, Monaco, Inconsolata, Roboto Mono, Menlo, Consolas, DejaVu Sans Mono, monospace',
           fontSize: '0.875rem',
           lineHeight: '1.2',
@@ -76,25 +76,25 @@ export default {
       
       addUtilities({
         '.terminal-border': {
-          border: '1px solid #FFFFFF',
+          border: '1px solid #f8f8f2',
           borderRadius: '0',
         },
         '.terminal-box': {
-          border: '1px solid #FFFFFF',
-          backgroundColor: '#000000',
-          color: '#FFFFFF',
+          border: '1px solid #f8f8f2',
+          backgroundColor: '#282a36',
+          color: '#f8f8f2',
           padding: '0.5rem',
         },
         '.terminal-button': {
-          border: '1px solid #FFFFFF',
+          border: '1px solid #f8f8f2',
           backgroundColor: 'transparent',
-          color: '#FFFFFF',
+          color: '#f8f8f2',
           padding: '0.25rem 0.5rem',
           cursor: 'pointer',
           transition: 'none',
           '&:hover': {
-            backgroundColor: '#FFFFFF',
-            color: '#000000',
+            backgroundColor: '#44475a',
+            color: '#f1fa8c',
           }
         },
         '.ascii-art': {

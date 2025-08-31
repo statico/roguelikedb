@@ -34,6 +34,7 @@ const { title, description = "A comprehensive database of roguelike games with t
             <a href="/tags" class="terminal-button">[T]ags</a>
             <a href="/lineage" class="terminal-button">[L]ineage</a>
             <a href="/random" class="terminal-button">[R]andom</a>
+            <a href="https://github.com/statico/roguelikedb" target="_blank" rel="noopener noreferrer" class="terminal-button">[C]ontribute</a>
             <a href="/help" class="terminal-button">[H]elp</a>
           </nav>
         </div>
@@ -90,6 +91,10 @@ const { title, description = "A comprehensive database of roguelike games with t
           e.preventDefault();
           window.location.href = '/random';
           break;
+        case 'c':
+          e.preventDefault();
+          window.open('https://github.com/statico/roguelikedb', '_blank', 'noopener,noreferrer');
+          break;
         case 'h':
           e.preventDefault();
           window.location.href = '/help';
@@ -101,9 +106,9 @@ const { title, description = "A comprehensive database of roguelike games with t
 
 <style>
   .terminal-border-b {
-    border-bottom: 1px solid #FFFFFF;
+    border-bottom: 1px solid #f8f8f2;
   }
   .terminal-border-t {
-    border-top: 1px solid #FFFFFF;
+    border-top: 1px solid #f8f8f2;
   }
 </style>

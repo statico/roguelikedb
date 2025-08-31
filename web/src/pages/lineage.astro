@@ -31,9 +31,10 @@ games.forEach((game: any) => {
   gamesBySlug[game.slug] = game;
 });
 
-// Find roots (games with no parent)
+// Find roots (games with no parent) plus important games that should be shown as trees
+const majorGames = ['rogue', 'nethack', 'angband', 'moria', 'hack'];
 const roots = games.filter(game => 
-  !game.lineage?.parent_games || game.lineage.parent_games.length === 0
+  !game.lineage?.parent_games || game.lineage.parent_games.length === 0 || majorGames.includes(game.slug)
 );
 
 // Build family trees
@@ -98,7 +99,7 @@ games.forEach((game: any) => {
         ┌─ MAJOR FAMILY TREES ─┐
       </h2>
       
-      {familyTrees.filter(tree => tree.children.length > 0 || ['rogue', 'nethack', 'angband', 'moria'].includes(tree.slug)).map(tree => (
+      {familyTrees.filter(tree => tree.children.length > 0 || majorGames.includes(tree.slug)).map(tree => (
         <div class="mb-8 terminal-border p-4">
           <h3 class="text-terminal-cyan text-md mb-3">
             ┌─ {tree.name || tree.slug.toUpperCase()} LINEAGE ─┐
