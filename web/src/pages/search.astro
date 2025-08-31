@@ -168,14 +168,15 @@ games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
 </BaseLayout>
 
 <script is:inline>
-  // Client-side search functionality
-  const nameSearch = document.getElementById('name-search');
-  const typeFilter = document.getElementById('type-filter');
-  const yearSearch = document.getElementById('year-search');
-  const platformFilter = document.getElementById('platform-filter');
-  const clearFilters = document.getElementById('clear-filters');
-  const resultCount = document.getElementById('result-count');
-  const gameItems = document.querySelectorAll('.game-item');
+  document.addEventListener('DOMContentLoaded', () => {
+    // Client-side search functionality
+    const nameSearch = document.getElementById('name-search');
+    const typeFilter = document.getElementById('type-filter');
+    const yearSearch = document.getElementById('year-search');
+    const platformFilter = document.getElementById('platform-filter');
+    const clearFilters = document.getElementById('clear-filters');
+    const resultCount = document.getElementById('result-count');
+    const gameItems = document.querySelectorAll('.game-item');
 
   function filterGames() {
     const nameQuery = nameSearch?.value?.toLowerCase() || '';
@@ -190,7 +191,7 @@ games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
       let matches = true;
       
       // Name filter
-      if (nameQuery && !gameData.name.toLowerCase().includes(nameQuery)) {
+      if (nameQuery && gameData.name && !gameData.name.toLowerCase().includes(nameQuery)) {
         matches = false;
       }
       
@@ -208,9 +209,9 @@ games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
       }
       
       // Platform filter
-      if (platformQuery && gameData.platforms) {
+      if (platformQuery && gameData.platforms && Array.isArray(gameData.platforms)) {
         const hasMatchingPlatform = gameData.platforms.some(platform => 
-          platform.toLowerCase().includes(platformQuery)
+          platform && platform.toLowerCase().includes(platformQuery)
         );
         if (!hasMatchingPlatform) {
           matches = false;
@@ -274,6 +275,7 @@ games.sort((a, b) => (a.name || '').localeCompare(b.name || ''));
         }
         break;
     }
+  });
   });
 </script>
 

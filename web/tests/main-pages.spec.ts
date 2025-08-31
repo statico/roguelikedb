@@ -21,7 +21,7 @@ test.describe('Main Pages', () => {
     await expect(firstGame.locator('a')).toBeVisible();
   });
 
-  test.skip('search page functionality', async ({ page }) => {
+  test('search page functionality', async ({ page }) => {
     await page.goto('/search');
     
     await expect(page).toHaveTitle(/Search Games \| Roguelike Database/);
@@ -33,15 +33,20 @@ test.describe('Main Pages', () => {
     await expect(page.locator('#year-search')).toBeVisible();
     await expect(page.locator('#platform-filter')).toBeVisible();
     
-    // Test name search
-    await page.fill('#name-search', 'rogue');
-    await page.waitForTimeout(500); // Allow filtering to process
+    // First verify games are loaded
+    const allGames = await page.locator('.game-item').count();
+    expect(allGames).toBeGreaterThan(100);
+    
+    // Test name search - search for a common term that should match many games
+    await page.fill('#name-search', 'hack');
+    await page.waitForTimeout(1000); // Allow filtering to process
     const searchResults = await page.locator('.game-item:visible').count();
+    console.log(`Search results for 'hack': ${searchResults}`);
     expect(searchResults).toBeGreaterThan(0);
     
     // Clear search and verify all games show again
     await page.click('#clear-filters');
-    await page.waitForTimeout(500); // Allow clearing to process
+    await page.waitForTimeout(1000); // Allow clearing to process
     const allResults = await page.locator('.game-item:visible').count();
     expect(allResults).toBeGreaterThan(100);
   });
@@ -156,7 +161,7 @@ test.describe('Navigation', () => {
     await expect(page).toHaveURL(/\/$/);
   });
 
-  test.skip('keyboard shortcuts work', async ({ page }) => {
+  test('keyboard shortcuts work', async ({ page }) => {
     await page.goto('/');
     
     // Wait for page to fully load
