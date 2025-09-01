@@ -1,93 +1,31 @@
 name: "DynaHack"
 slug: "dynahack"
 description: |
-  **The interface revolution masterpiece** - Tungtn and DynaHack Contributors' **innovative achievement** that created the **most advanced ASCII interface** in NetHack history, featuring **auto-resizing**, **multi-line message box**, **sidebar**, and **extensive UI improvements** while incorporating **80+ new special levels**, **revamped Gehennom**, and **magic chests** proving that **interface excellence** can **transform classic roguelikes** without **compromising authenticity**.
+  DynaHack is a NetHack variant developed by tungtn and other contributors, released in 2013. The game is notable for its advanced ASCII interface improvements and significant content additions to the traditional NetHack framework.
   
-  **Interface Innovation Revolution (2013):**
-  - **Advanced ASCII interface** - Most sophisticated text-based UI in NetHack variant history
-  - **Auto-resizing capabilities** - Dynamic interface adaptation to different screen sizes and configurations
-  - **Multi-line message box** - Revolutionary information display eliminating message truncation issues
-  - **Comprehensive sidebar** - Organized character information and status display
-  - **NitroHack foundation** - Built on sophisticated base enabling advanced interface features
+  ## Interface Innovations
+  DynaHack features one of the most sophisticated text-based user interfaces in NetHack variant history. Key interface improvements include auto-resizing capabilities that dynamically adapt to different screen sizes, a multi-line message box that eliminates message truncation issues, and a comprehensive sidebar for organized character information display.
   
-  **UI Enhancement Excellence:**
-  - **Dynamic interface adaptation** - Responsive UI adjusting to player preferences and screen configurations
-  - **Information accessibility** - Enhanced data presentation reducing cognitive load and improving clarity
-  - **Visual organization** - Systematic layout improvements creating intuitive information hierarchy
-  - **User experience focus** - Interface decisions prioritizing player comfort and efficiency
-  - **ASCII optimization** - Maximum visual clarity and functionality within text-based limitations
+  ## Technical Foundation
+  The variant is built upon NitroHack's foundation, enabling advanced interface features and improved system architecture. DynaHack incorporates complex interface systems implemented within NetHack's architecture while maintaining cross-platform compatibility across Windows, Linux, and macOS systems.
   
-  **Content Integration Achievement:**
-  - **80+ new special levels** - Massive content addition creating unprecedented exploration variety
-  - **Revamped Gehennom** - Complete transformation of NetHack's endgame area
-  - **Magic chests** - New magical storage mechanics adding strategic inventory management
-  - **Multiple variant incorporation** - Content from UnNetHack and other variants integrated cohesively
-  - **Balanced expansion** - New content maintaining NetHack's tactical depth and challenge
+  ## Content Additions
+  DynaHack includes over 80 new special levels, providing unprecedented exploration variety within the NetHack framework. The game features a completely revamped Gehennom endgame area and introduces magic chests as new magical storage mechanics. Content from UnNetHack and other variants has been integrated cohesively while maintaining NetHack's tactical depth.
   
-  **Technical Implementation:**
-  - **C programming mastery** - Complex interface systems implemented within sophisticated NetHack architecture
-  - **Memory management** - 128MB requirements supporting advanced interface and extensive content
-  - **Cross-platform excellence** - Windows, Linux, and macOS versions with consistent functionality
-  - **Performance optimization** - Smooth gameplay despite advanced interface and content systems
-  - **GitHub development** - Modern version control supporting collaborative interface enhancement
+  ## User Experience Design
+  The variant prioritizes user experience through dynamic interface adaptation, enhanced data presentation, and systematic layout improvements. The interface design focuses on reducing cognitive load while improving clarity and accessibility of NetHack's complex systems.
   
-  **Interface Design Innovation:**
-  - **Multi-line messaging** - Revolutionary approach to NetHack's traditional single-line message limitation
-  - **Dynamic layout management** - Interface elements adjusting intelligently to available screen space
-  - **Information hierarchy** - Organized presentation reducing overwhelming complexity of NetHack data
-  - **Visual feedback** - Enhanced indicators and status displays improving player awareness
-  - **Accessibility enhancement** - UI improvements making complex systems more approachable
+  ## Development and Community
+  DynaHack development utilized GitHub for version control and collaborative enhancement. The project maintains a small dedicated community that appreciates the advanced interface innovations. The game is available on public servers including Hardfought, ensuring community access.
   
-  **Special Level Design:**
-  - **Unprecedented variety** - 80+ unique areas creating diverse exploration and tactical challenges
-  - **Creative level mechanics** - Innovative area designs exploring new gameplay possibilities
-  - **Thematic integration** - Special levels fitting coherently within NetHack's fantasy framework
-  - **Strategic diversity** - Different areas requiring varied tactical approaches and problem-solving
-  - **Exploration motivation** - Fresh content ensuring continued discovery and surprise
+  ## Technical Implementation
+  The variant requires 128MB of memory to support its advanced interface and extensive content systems. Despite the sophisticated features, performance optimization ensures smooth gameplay across different hardware configurations.
   
-  **Community Impact:**
-  - **Small dedicated community** - Focused player base appreciating advanced interface innovations
-  - **Hardfought server accessibility** - Public server availability ensuring community access
-  - **Interface precedent** - Demonstrating potential for sophisticated ASCII interface design
-  - **Development inspiration** - Encouraging other projects to explore advanced text-based UI possibilities
-  - **Educational resource** - Complete example of advanced roguelike interface implementation
+  ## Open Source Contribution
+  DynaHack is released under the NetHack General Public License, making the advanced interface implementation techniques available for community study and adaptation. The complete development process is visible through GitHub, serving as an educational resource for advanced roguelike interface development.
   
-  **Design Philosophy:**
-  - **Interface excellence** - Prioritizing user experience while preserving NetHack authenticity
-  - **Information optimization** - Maximizing clarity and accessibility of complex game data
-  - **Dynamic adaptation** - Interface systems responding intelligently to different usage contexts
-  - **Community service** - Development motivated by desire to enhance NetHack accessibility
-  - **Innovation balance** - Advanced features respecting traditional NetHack design principles
-  
-  **NitroHack Heritage:**
-  - **Sophisticated foundation** - Building on advanced base enabling complex interface features
-  - **Technical innovation** - Leveraging NitroHack's architectural improvements for interface advancement
-  - **Development continuity** - Extending and enhancing existing interface innovation work
-  - **Community contribution** - Adding to ecosystem of NetHack interface enhancement projects
-  - **Preservation effort** - Maintaining and developing advanced NetHack interface approaches
-  
-  **Cultural Gaming Impact:**
-  - **Interface validation** - Proving ASCII interfaces could achieve sophisticated user experience
-  - **NetHack accessibility** - Making complex traditional roguelike more approachable through UI improvement
-  - **Development innovation** - Inspiring advanced interface development in other roguelike projects
-  - **Community empowerment** - Demonstrating potential for dramatic interface improvement within existing games
-  - **Technical precedent** - Establishing approaches to advanced text-based game interface design
-  
-  **Open Source Excellence:**
-  - **NetHack GPL** - Community access enabling study of advanced interface implementation techniques
-  - **GitHub transparency** - Complete development process visible and accessible to community
-  - **Educational preservation** - Interface innovation techniques available for learning and adaptation
-  - **Community contribution** - Open development enabling ongoing participation and enhancement
-  - **Technical documentation** - Advanced interface implementation available for study
-  
-  **Educational Value:**
-  - **Advanced interface design** - Methods for sophisticated ASCII UI development within roguelike frameworks
-  - **Dynamic layout programming** - Techniques for responsive text-based interface adaptation
-  - **Information architecture** - Approaches to organizing complex game data for optimal accessibility
-  - **Cross-platform UI development** - Methods for consistent interface experience across systems
-  - **Community integration** - Practices for incorporating advanced features while maintaining community support
-  
-  **Legacy Achievement:** **DynaHack** demonstrates that **interface innovation** can **revolutionize classic experiences**, proving that **advanced UI design** and **dynamic adaptation** can **enhance accessibility** while **preserving authenticity** and **inspiring continued development** of **sophisticated text-based gaming interfaces**.
+  ## Legacy and Influence
+  DynaHack has demonstrated the potential for sophisticated ASCII interface design and has inspired advanced interface development in other roguelike projects. The variant serves as an example of how interface innovation can enhance accessibility while preserving the authenticity of traditional roguelike gameplay.
 release_date: "2013"
 latest_version: "0.6.0"
 developers:

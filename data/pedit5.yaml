@@ -1,24 +1,19 @@
 name: "pedit5"
 slug: "pedit5"
 description: |
-  **The first computer dungeon crawl** - Created in late 1975 by Reginald 'Rusty' Rutherford at University of Illinois Urbana-Champaign on the **PLATO system** as a solo programming project in **TUTOR language** over 4-6 weeks.
+  Pedit5 is recognized as the first computer dungeon crawler, developed in late 1975 by Reginald "Rusty" Rutherford at the University of Illinois Urbana-Champaign. The game was created as a solo programming project on the PLATO system using the TUTOR programming language over a period of 4-6 weeks.
   
-  **Historical Significance:**
-  - **First computer role-playing game** with dungeon exploration
-  - **Pioneered procedural generation** for monster encounters and treasure placement
-  - **Established permadeath mechanics** with save-and-resume between sessions
-  - **Direct influence** on subsequent PLATO titles like dnd and orthanc
-  - **Founded key roguelike tropes** still used today
+  ## Historical Significance
+  Pedit5 holds the distinction of being the first computer role-playing game to feature dungeon exploration mechanics. The game pioneered procedural generation techniques for monster encounters and treasure placement, while establishing permadeath mechanics with save-and-resume functionality between gaming sessions. It directly influenced subsequent PLATO titles including dnd and orthanc, founding key roguelike conventions that remain in use today.
   
-  **Technical Innovation:** Ran on **PLATO graphical terminals** connected to networked IBM and CDC mainframes, supporting up to **20 saved characters** and rendering a single-level dungeon of **40-50 rooms** using on-screen character graphics. Used fixed map layouts due to storage constraints but procedural monster/treasure generation.
+  ## Technical Implementation
+  The game operated on PLATO graphical terminals connected to networked IBM and CDC mainframes. It supported up to 20 saved characters and rendered a single-level dungeon consisting of 40-50 rooms using on-screen character graphics. Due to storage limitations, the game employed fixed map layouts while implementing procedural generation for monsters and treasure.
   
-  **Gameplay Mechanics:**
-  - **Integrated class system** - Combined fighter, magic user, and cleric abilities into one character
-  - **Turn-based combat** resolved automatically after player action
-  - **D&D-inspired mechanics** - Hit points, levels, experience system
-  - **Simple control scheme** - Fight (F), cast Spells (S), or Run (R) in encounters
+  ## Gameplay Mechanics
+  Pedit5 featured an integrated class system that combined fighter, magic user, and cleric abilities into a single character type. Combat was turn-based and resolved automatically following player actions. The game incorporated D&D-inspired mechanics including hit points, character levels, and an experience point system. Player interaction utilized a simple control scheme with options to Fight (F), cast Spells (S), or Run (R) during encounters.
   
-  **Preservation Status:** **Strong preservation** within PLATO emulator communities (Cyber1), with reconstructed source code from PLATO archives enabling play on modern systems. File stored in fifth program slot of Rutherford's PLATO group, giving rise to the name 'pedit5'.
+  ## Preservation and Legacy
+  The game maintains strong preservation status within PLATO emulator communities, particularly through the Cyber1 project. Reconstructed source code from PLATO archives enables play on modern systems. The name "pedit5" derives from the game being stored in the fifth program slot of Rutherford's PLATO group account.
 release_date: "1975"
 developers:
   - "Rusty Rutherford"

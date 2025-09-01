@@ -1,14 +1,14 @@
 name: "Hack"
 slug: "hack"
 description: |
-  **The crucial NetHack predecessor** - The **1982 collaborative evolution** of Rogue that introduced **revolutionary pet companions**, **shop economics**, and **religious systems**, serving as the **essential evolutionary bridge** between **Rogue's foundation** and **NetHack's complexity**.
+  Hack is a roguelike game released in 1982, developed collaboratively by Jay Fenlason and other contributors as an enhanced version of Rogue. The game introduced pet companions, shop mechanics, and religious alignment systems that would later be expanded in NetHack. Hack serves as an important evolutionary step between the original Rogue and modern roguelikes.
   
-  **Revolutionary Pet System Innovation:**
-  - **First pet companions** - Dogs that fight alongside players and provide tactical advantages
-  - **Pet behavior AI** - Complex companion mechanics with loyalty and intelligence systems
-  - **Strategic partnerships** - Pets as essential gameplay elements, not cosmetic additions
-  - **Death consequences** - Emotional attachment to companions adding narrative weight
-  - **Interaction complexity** - Feeding, training, and communication with animal allies
+  **Pet System:**
+  - First roguelike to feature companion animals, primarily dogs
+  - Pet AI with loyalty mechanics and basic behavior patterns
+  - Pets provide tactical combat assistance and exploration benefits
+  - Player-pet interaction through feeding and basic commands
+  - Companion death adds emotional stakes to gameplay
   
   **Economic System Foundations:**
   - **Shop mechanics introduction** - First roguelike featuring merchant NPCs
@@ -58,7 +58,7 @@ description: |
   - **Complexity scaling** - Proved players wanted deeper, more intricate gameplay systems
   - **Genre expansion** - Established roguelikes as evolving rather than static experiences
   
-  **Development Philosophy:** Hack demonstrated that **roguelikes could evolve** through **collaborative development**, introducing **companion mechanics**, **economic systems**, and **moral complexity** that proved **players craved depth** beyond simple **dungeon exploration**, establishing the **development methodology** that would create **NetHack's legendary complexity**.
+  **Historical Significance:** Hack demonstrated the potential for collaborative roguelike development and introduced many concepts that became standard in the genre. Its innovations in pet systems, economics, and moral alignment established design patterns that influenced NetHack and subsequent roguelikes.
 release_date: "1982"
 latest_version: "1.0.3"
 developers:

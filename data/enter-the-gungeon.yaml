@@ -1,41 +1,25 @@
 name: "Enter the Gungeon"
 slug: "enter-the-gungeon"
 description: |
-  **The definitive bullet-hell roguelike** - Dodge Roll's masterpiece that **sold over 3 million copies** and redefined what roguelike shooters could achieve with **perfectionist game design** and **gun-obsessed humor**.
+  Enter the Gungeon is a bullet-hell roguelike developed by Dodge Roll that sold over 3 million copies and established the bullet-hell roguelike subgenre.
   
-  **Commercial & Critical Triumph:**
-  - **3+ million copies sold** across all platforms
-  - **'Overwhelmingly Positive' Steam reviews** (95% positive rating)
-  - **Multiple indie game awards** and critical acclaim
-  - **Devolver Digital publishing success** showcasing indie potential
+  ## Commercial Success
+  The game achieved over 3 million copies sold across all platforms with "Overwhelmingly Positive" Steam reviews at 95% positive rating. It received multiple indie game awards and critical acclaim, representing a publishing success for Devolver Digital that showcased indie game potential.
   
-  **Gameplay Perfection:**
-  - **200+ unique weapons** each with distinct mechanics and personality
-  - **Elaborate bullet patterns** requiring precise movement and timing
-  - **5 diverse floors** with unique themes, enemies, and boss encounters
-  - **Local 2-player co-op** with shared screen cooperative gameplay
-  - **Progressive unlock system** rewarding skill and persistence
+  ## Gameplay Features
+  The game features over 200 unique weapons, each with distinct mechanics and personality. Elaborate bullet patterns require precise movement and timing across 5 diverse floors with unique themes, enemies, and boss encounters. Local 2-player co-op provides shared screen cooperative gameplay, while a progressive unlock system rewards skill and persistence.
   
-  **Technical & Artistic Excellence:**
-  - **Unity engine optimization** delivering smooth 60fps bullet-hell action
-  - **Hand-crafted pixel art** with exceptional animation quality
-  - **Procedural dungeon generation** ensuring endless replayability
-  - **Multi-platform optimization** maintaining quality across systems
+  ## Technical and Artistic Design
+  Built with Unity engine optimization, the game delivers smooth 60fps bullet-hell action. Hand-crafted pixel art features exceptional animation quality. Procedural dungeon generation ensures replayability while multi-platform optimization maintains quality across different systems.
   
-  **Cultural Impact - Gun Worship Satire:**
-  - **Gun-themed everything** - NPCs, items, enemies, and environments
-  - **Elaborate weapon puns** and firearm references throughout
-  - **Social commentary** through absurdist gun culture parody
-  - **Pop culture references** spanning decades of media
+  ## Theme and Setting
+  The game uses gun-themed elements throughout, including NPCs, items, enemies, and environments. Elaborate weapon puns and firearm references provide humor, while the design includes social commentary through gun culture parody and pop culture references spanning decades of media.
   
-  **Content Depth:**
-  - **Advanced Gungeons & Draguns** free major expansion
-  - **Secret floors and hidden content** rewarding exploration
-  - **Complex NPC questlines** with permanent progression
-  - **Synergy system** where items combine for unique effects
-  - **Achievement system** encouraging diverse playstyles
+  ## Content and Expansion
+  The Advanced Gungeons & Draguns expansion added significant free content. Secret floors and hidden content reward exploration, while complex NPC questlines provide permanent progression. The synergy system allows items to combine for unique effects, and the achievement system encourages diverse playstyles.
   
-  **Industry Influence:** Established **bullet-hell roguelike** as distinct subgenre, inspiring numerous imitators while maintaining its position as the definitive example. Demonstrated how **obsessive attention to detail** and **consistent thematic vision** could elevate indie games to AAA production values.
+  ## Industry Impact
+  Enter the Gungeon established bullet-hell roguelike as a distinct subgenre, inspiring numerous similar games while maintaining its position as the definitive example. The game demonstrated how attention to detail and consistent thematic vision could elevate indie games to high production values.
 release_date: "2016-04-05"
 latest_version: "2.1.9"
 developers:

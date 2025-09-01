@@ -1,65 +1,31 @@
 name: "Pixel Dungeon"
 slug: "pixel-dungeon"
 description: |
-  **The mobile roguelike revolution** - Watabou's **breakthrough achievement** that proved **traditional roguelike depth** could be **successfully adapted** for **touchscreen devices**, creating the **template for mobile roguelike design** and inspiring **dozens of successful forks** while reaching **over 10 million players globally**.
+  Pixel Dungeon is a mobile roguelike game developed by Watabou that demonstrated the successful adaptation of traditional roguelike mechanics for touchscreen devices. The game established design templates for mobile roguelike development and inspired numerous derivative projects while achieving over 10 million downloads globally.
   
-  **Mobile Interface Revolution:**
-  - **Touch-optimized controls** - Intuitive tap-to-move and gesture-based interaction system
-  - **Portrait orientation design** - Vertical layout perfect for smartphone form factors
-  - **Visual inventory management** - Grid-based item system replacing text-based menus
-  - **Context-sensitive UI** - Interface elements adapting to current gameplay situations
-  - **One-handed gameplay** - Design accommodating mobile usage patterns and ergonomics
+  ## Mobile Interface Innovation
+  The game features touch-optimized controls with intuitive tap-to-move and gesture-based interaction systems. Portrait orientation design provides vertical layout perfect for smartphone form factors. Visual inventory management uses grid-based item systems replacing text-based menus. Context-sensitive UI adapts interface elements to current gameplay situations while one-handed gameplay accommodates mobile usage patterns and ergonomics.
   
-  **Pixel Art Aesthetic Excellence:**
-  - **Distinctive visual style** - 16x16 pixel sprites creating memorable character and monster designs
-  - **Atmospheric environments** - Each dungeon level with unique visual themes and moods
-  - **Animation quality** - Smooth character movement and spell effects despite pixel limitations
-  - **Color palette mastery** - Limited colors creating maximum visual impact and clarity
-  - **Environmental storytelling** - Visual design conveying narrative through art alone
+  ## Visual Design
+  Distinctive 16x16 pixel sprites create memorable character and monster designs through pixel art aesthetics. Each dungeon level features unique visual themes and atmospheric environments. Smooth character movement and spell effects occur despite pixel limitations through animation quality. Limited color palette creates maximum visual impact and clarity while environmental storytelling conveys narrative through art alone.
   
-  **Roguelike Accessibility Innovation:**
-  - **Simplified complexity** - Traditional roguelike depth made approachable for casual players
-  - **Tutorial integration** - Gradual introduction of mechanics through gameplay discovery
-  - **Progress visualization** - Clear feedback on character advancement and dungeon progression
-  - **Death recovery** - Learning-focused design making failure educational rather than frustrating
-  - **Session flexibility** - Save-anywhere functionality perfect for mobile gaming sessions
+  ## Accessibility
+  Traditional roguelike depth is made approachable for casual players through simplified complexity. Tutorial integration provides gradual introduction of mechanics through gameplay discovery. Progress visualization offers clear feedback on character advancement and dungeon progression. Death recovery uses learning-focused design making failure educational rather than frustrating. Save-anywhere functionality provides session flexibility perfect for mobile gaming sessions.
   
-  **Open Source Cultural Impact:**
-  - **GPLv3 licensing** - Community access to source code enabling modification and learning
-  - **Fork explosion** - Over 20 major variants including Shattered, Sprouted, and Yet Another
-  - **Development education** - Codebase studied by indie developers worldwide
-  - **Community contribution** - Translations, mods, and improvements from global community
-  - **Preservation assurance** - Open source ensuring long-term availability and maintenance
+  ## Open Source Impact
+  GPLv3 licensing provides community access to source code enabling modification and learning. Over 20 major variants including Shattered, Sprouted, and Yet Another emerged from the fork explosion. The codebase is studied by indie developers worldwide for development education. Global community contributions include translations, mods, and improvements. Open source ensures long-term availability and maintenance through preservation assurance.
   
-  **Commercial & Cultural Success:**
-  - **10+ million downloads** - Massive reach proving mobile roguelike market viability
-  - **Cross-platform expansion** - Success leading to PC, Mac, and Linux versions
-  - **Genre establishment** - Created mobile roguelike category in app stores
-  - **Indie development inspiration** - Single developer achieving massive commercial success
-  - **Google Play recognition** - Featured prominently in platform showcase and recommendations
+  ## Commercial Success
+  Over 10 million downloads achieved massive reach proving mobile roguelike market viability. Success led to cross-platform expansion with PC, Mac, and Linux versions. The game established the mobile roguelike category in app stores while inspiring single developers to achieve massive commercial success. Google Play featured the game prominently in platform showcase and recommendations.
   
-  **Technical Achievement:**
-  - **LibGDX framework** - Java-based cross-platform development enabling wide compatibility
-  - **Memory efficiency** - Optimized performance for limited mobile hardware resources
-  - **Battery optimization** - Turn-based design perfect for mobile power constraints
-  - **Save system reliability** - Robust progress preservation crucial for mobile gaming
-  - **Localization support** - Multi-language accessibility expanding global reach
+  ## Technical Features
+  LibGDX framework enables Java-based cross-platform development with wide compatibility. Memory efficiency provides optimized performance for limited mobile hardware resources. Turn-based design offers battery optimization perfect for mobile power constraints. Robust progress preservation through save system reliability is crucial for mobile gaming. Multi-language accessibility expands global reach through localization support.
   
-  **Design Philosophy:**
-  - **Core roguelike preservation** - Permadeath, procedural generation, and tactical combat maintained
-  - **Mobile context adaptation** - Shorter play sessions and interrupt-friendly design
-  - **Visual clarity prioritization** - Clear visual communication over complex text interfaces
-  - **Accessibility focus** - Lowered barrier to entry while maintaining strategic depth
-  - **Community empowerment** - Open source enabling community ownership and evolution
+  ## Design Philosophy
+  Core roguelike elements including permadeath, procedural generation, and tactical combat are preserved. Mobile context adaptation accommodates shorter play sessions and interrupt-friendly design. Visual clarity is prioritized over complex text interfaces. Accessibility focus lowers barrier to entry while maintaining strategic depth. Open source enables community ownership and evolution through community empowerment.
   
-  **Legacy & Influence:**
-  - **Mobile roguelike template** - Design patterns adopted by countless mobile games
-  - **Indie success model** - Demonstrated single developers could achieve mainstream success
-  - **Platform validation** - Proved touchscreens could handle complex gameplay
-  - **Community development** - Showcased power of open source game development
-  - **Genre bridging** - Connected traditional roguelike community with mobile gaming audiences
-  
-  **Cultural Phenomenon:** **Watabou's Pixel Dungeon** single-handedly **created the mobile roguelike genre**, demonstrating that **traditional roguelike complexity** could be **successfully reimagined** for **touchscreen devices** while **maintaining authentic gameplay depth** and **inspiring an entire ecosystem** of **community-driven development**.
+  ## Legacy and Influence
+  Design patterns adopted by countless mobile games established the mobile roguelike template. The game demonstrated single developers could achieve mainstream success as an indie success model. Touchscreens proved capable of handling complex gameplay through platform validation. Open source game development power was showcased through community development. Traditional roguelike community connected with mobile gaming audiences through genre bridging.
 release_date: "2012-12-12"
 latest_version: "1.9.2a"
 developers:

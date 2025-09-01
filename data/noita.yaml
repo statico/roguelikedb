@@ -1,65 +1,37 @@
 name: "Noita"
 slug: "noita"
 description: |
-  **The most technically ambitious roguelike ever created** - Nolla Games' groundbreaking **pixel-perfect physics simulation** where **every single pixel** is a simulated material, creating **unprecedented emergent gameplay** that sold **over 2 million copies**.
+  Noita is a physics simulation roguelike developed by Nolla Games featuring pixel-perfect physics simulation where every single pixel is a simulated material, creating unprecedented emergent gameplay that sold over 2 million copies.
   
-  **Revolutionary Technology:**
-  - **Every pixel simulated** - Not just graphics, but actual materials with properties
-  - **Real-time fluid dynamics** - Water, lava, acid, blood flow realistically
-  - **Chemical reactions** - Materials interact, combust, freeze, and transform
-  - **Destructible everything** - No static geometry, world completely malleable
-  - **Custom C engine** optimized for millions of simultaneous particle calculations
+  ## Revolutionary Technology
+  Every pixel functions as actual simulated material rather than just graphics. Real-time fluid dynamics enable water, lava, acid, and blood to flow realistically. Materials interact through chemical reactions, combusting, freezing, and transforming. The world is completely malleable with no static geometry, supported by a custom C engine optimized for millions of simultaneous particle calculations.
   
-  **Commercial Success & Recognition:**
-  - **2+ million copies sold** (updated from 700k) across platforms
-  - **'Overwhelmingly Positive' Steam reviews** (93% positive rating)
-  - **Independent Games Festival nomination** for Technical Excellence
-  - **Finnish game development showcase** - Pride of Finland's gaming industry
+  ## Commercial Success
+  The game sold over 2 million copies across platforms with "Overwhelmingly Positive" Steam reviews at 93% positive rating. It received an Independent Games Festival nomination for Technical Excellence and serves as a showcase of Finnish game development as pride of Finland's gaming industry.
   
-  **Spell Crafting Revolution:**
-  - **100+ spell modifiers** that can be combined in millions of ways
-  - **Wand editing system** - Create custom spells with unique behaviors
-  - **Emergent spell interactions** - Modifiers affect each other in complex ways
-  - **Risk/reward design** - Powerful spells can kill the caster
-  - **Infinite experimentation** - No predetermined 'correct' builds
+  ## Spell Crafting System
+  Over 100 spell modifiers can be combined in millions of ways through a wand editing system that creates custom spells with unique behaviors. Emergent spell interactions occur as modifiers affect each other in complex ways. Risk/reward design means powerful spells can kill the caster, with infinite experimentation possible as no predetermined "correct" builds exist.
   
-  **Unprecedented Physics Systems:**
-  - **25+ material types** - Each with unique properties and interactions
-  - **Fire propagation** - Burns through wood, creates smoke and steam
-  - **Liquid mixing** - Water extinguishes fire, creates steam, carries electricity
-  - **Explosive chain reactions** - One spark can destroy entire areas
-  - **Gravity and pressure** - Realistic falling sand and fluid pressure systems
+  ## Physics Systems
+  Over 25 material types each have unique properties and interactions. Fire propagation burns through wood while creating smoke and steam. Liquid mixing enables water to extinguish fire, create steam, and carry electricity. Explosive chain reactions can destroy entire areas from single sparks. Realistic falling sand and fluid pressure systems simulate gravity and pressure.
   
-  **World Design Excellence:**
-  - **Infinite horizontal exploration** - World extends infinitely in all directions
-  - **Parallel worlds** - Multiple layered dimensions with unique properties
-  - **Secret areas** - Hidden locations requiring creative problem-solving
-  - **Environmental storytelling** - Lore embedded in world structure
-  - **Dynamic ecosystems** - Creatures interact with environment and each other
+  ## World Design
+  The world extends infinitely in all directions for unlimited horizontal exploration. Multiple layered dimensions provide parallel worlds with unique properties. Secret areas require creative problem-solving to access while environmental storytelling embeds lore in world structure. Dynamic ecosystems enable creatures to interact with environment and each other.
   
-  **Cultural Phenomenon:**
-  - **Streaming goldmine** - Unpredictable physics create viral moments
-  - **Meme generator** - 'Noita'd by Noita' became community catchphrase
-  - **YouTube explosion** - Millions of views of physics interaction compilations
-  - **Scientific interest** - Researchers study particle simulation techniques
+  ## Cultural Impact
+  Unpredictable physics create viral moments making the game a streaming phenomenon. "Noita'd by Noita" became a community catchphrase and meme generator. YouTube videos of physics interaction compilations have garnered millions of views while researchers study the particle simulation techniques with scientific interest.
   
-  **Modding & Community:**
-  - **Active modding scene** with hundreds of custom mods
-  - **Spell editor mods** - Community tools for advanced wand building
-  - **New material mods** - Players create additional simulated substances
-  - **Total conversion mods** - Complete gameplay overhauls
+  ## Community and Modding
+  An active modding scene includes hundreds of custom mods. Community tools provide spell editor mods for advanced wand building while new material mods enable players to create additional simulated substances. Total conversion mods offer complete gameplay overhauls.
   
-  **Development Team:**
-  - **Nolla Games** - Finnish indie studio founded by former Klei Entertainment developers
-  - **Petri Purho** - Lead developer known for experimental game design
-  - **Years of technical development** - Engine built from scratch for physics simulation
+  ## Development
+  Nolla Games is a Finnish indie studio founded by former Klei Entertainment developers. Lead developer Petri Purho is known for experimental game design. Years of technical development went into building the engine from scratch specifically for physics simulation.
   
-  **Academic Impact:**
-  - **Computer science research** - Cited in particle simulation papers
-  - **Game engine studies** - Analyzed for real-time physics optimization
-  - **Procedural generation research** - Unique approach to emergent level design
+  ## Academic Impact
+  The game is cited in particle simulation papers for computer science research and analyzed for real-time physics optimization in game engine studies. Its unique approach to emergent level design influences procedural generation research.
   
-  **Legacy Innovation:** Single-handedly proved that **pixel-level simulation** could be the core gameplay mechanic, not just visual flair. Established new possibilities for **physics-driven emergent gameplay** in roguelikes and games generally.
+  ## Legacy
+  Noita proved that pixel-level simulation could be the core gameplay mechanic rather than just visual flair, establishing new possibilities for physics-driven emergent gameplay in roguelikes and games generally.
 release_date: "2020-10-15"
 developers:
   - "Nolla Games"

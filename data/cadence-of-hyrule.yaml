@@ -1,55 +1,22 @@
 name: "Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda"
 slug: "cadence-of-hyrule"
 description: |
-  **Nintendo's official roguelike crossover masterpiece** - Brace Yourself Games' rhythm-based roguelike that combines **The Legend of Zelda** with **Crypt of the NecroDancer** mechanics, creating the first major **Nintendo-published roguelike**.
-  
-  **Historic Nintendo Collaboration:**
-  - **First Nintendo-published roguelike** - Marked Nintendo's entry into the genre
-  - **Official Zelda license** - Full access to characters, music, and lore
-  - **Brace Yourself Games development** - Creators of original NecroDancer
-  - **Nintendo Switch exclusive** - Showcase title for the platform
-  - **Zelda 35th anniversary** celebration game
-  
-  **Revolutionary Rhythm-Roguelike Design:**
-  - **Move to the beat** - All actions synchronized to Zelda music remixes
-  - **Procedurally generated Hyrule** - Classic Zelda overworld with roguelike generation
-  - **Multiple playable characters** - Link, Zelda, and NecroDancer protagonists  
-  - **Zelda item progression** - Boomerang, bow, hookshot with rhythm mechanics
-  - **Boss battles** - Classic Zelda bosses reimagined with rhythm combat
-  
-  **Musical Excellence:**
-  - **Danny Baranowsky compositions** - NecroDancer composer remixing Zelda classics
-  - **25+ Zelda song remixes** - Iconic tracks adapted for rhythm gameplay
-  - **Dynamic music system** - Tempo changes based on player performance
-  - **Instrument variety** - Different musical styles for various areas
-  - **Audio-visual synchronization** - Perfect marriage of sight and sound
-  
-  **Commercial & Critical Success:**
-  - **Nintendo marketing support** - Featured in major Nintendo Direct presentations
-  - **'Very Positive' critical reception** - Praised for innovative crossover design
-  - **Awards recognition** - Multiple indie and innovation awards
-  - **Strong sales performance** - Exceeded expectations for niche crossover
-  
-  **Zelda Integration Mastery:**
-  - **Authentic Zelda exploration** - Dungeons, secrets, and progression systems
-  - **Familiar enemies** - Octoroks, Moblins, Lynels with rhythm-based AI
-  - **Classic items and weapons** - Zelda arsenal adapted to rhythm mechanics
-  - **Story integration** - Ganon threatening Hyrule with musical corruption
-  - **Environmental design** - Recognizable Zelda locations with procedural layouts
-  
-  **Technical Innovation:**
-  - **Flawless rhythm engine** - Precise timing detection and feedback
-  - **Nintendo Switch optimization** - Perfect performance in handheld and docked
-  - **Accessibility options** - Rhythm assistance for players with different abilities
-  - **Visual polish** - Pixel art matching both franchises' aesthetics
-  
-  **Cultural Significance:**
-  - **Crossover precedent** - Showed potential for major franchise roguelike adaptations
-  - **Rhythm-roguelike validation** - Proved subgenre viability to major publishers
-  - **Nintendo genre expansion** - Broadened Nintendo's genre portfolio
-  - **Community bridging** - Introduced Zelda fans to roguelikes and vice versa
-  
-  **Legacy Impact:** Demonstrated that **major franchises** could successfully adopt **roguelike mechanics** without losing their essential character, paving the way for future licensed roguelikes and showing Nintendo's willingness to experiment with the genre.
+  Cadence of Hyrule: Crypt of the NecroDancer Featuring The Legend of Zelda is a rhythm-based roguelike developed by Brace Yourself Games and published by Nintendo in 2019. The game represents Nintendo's first published entry into the roguelike genre, combining the musical gameplay mechanics of Crypt of the NecroDancer with characters and elements from The Legend of Zelda series.
+
+  ## Gameplay
+  The game features rhythm-based movement where all actions must be synchronized to remixed versions of classic Zelda music compositions. Players navigate through a procedurally generated version of Hyrule, utilizing familiar Zelda items such as the boomerang, bow, and hookshot adapted to work within rhythm-based mechanics. The game includes multiple playable characters including Link, Zelda, and characters from the original NecroDancer.
+
+  ## Development and Release
+  Cadence of Hyrule was developed by Brace Yourself Games, the creators of the original Crypt of the NecroDancer. The collaboration with Nintendo granted full access to Zelda characters, music, and lore, making it an official entry in the Zelda franchise. The game was released as a Nintendo Switch exclusive on June 13, 2019, and was featured prominently in Nintendo Direct presentations.
+
+  ## Music and Audio Design
+  The soundtrack features compositions by Danny Baranowsky, who also composed music for the original NecroDancer. The game includes over 25 remixed versions of classic Zelda music tracks, with a dynamic music system that adjusts tempo based on player performance. Different areas feature varied musical styles while maintaining the rhythmic gameplay requirements.
+
+  ## Technical Features
+  The game utilizes a custom rhythm engine designed for precise timing detection and feedback. It includes accessibility options such as rhythm assistance features for players with different abilities. The visual design combines pixel art aesthetics that blend elements from both the Zelda and NecroDancer franchises.
+
+  ## Reception and Impact
+  Cadence of Hyrule received positive critical reception for its innovative crossover design and successful integration of two distinct gaming franchises. The game established a precedent for major franchise adaptations incorporating roguelike mechanics and demonstrated Nintendo's willingness to explore different genres within established series.
 release_date: "2019-06-13"
 latest_version: "3.1.0"
 developers:

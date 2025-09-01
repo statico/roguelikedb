@@ -1,34 +1,22 @@
 name: "Spelunky"
 slug: "spelunky"
 description: |
-  **The game that defined modern roguelites** - Created by Derek Yu, initially released as **freeware in 2008**, then remade in HD by Yu and Mossmouth for **Xbox Live Arcade in 2012**.
+  Spelunky is a platform roguelike game created by Derek Yu, initially released as freeware in 2008 and later remade in high-definition by Yu and Mossmouth for Xbox Live Arcade in 2012. The game is widely credited with defining many conventions of the modern roguelite subgenre.
   
-  **Commercial Success & Critical Acclaim:**
-  - **HD remake sold 1+ million copies** by 2016
-  - **Steam launch: 61,000 units** in first week alone
-  - **Metacritic score of 93/100** - Near-universal critical acclaim
-  - **Game of the Year awards** from multiple indie gaming outlets
+  Commercial Success and Reception:
+  The HD remake sold over 1 million copies by 2016, with Steam launch achieving 61,000 units in the first week. The game received a Metacritic score of 93/100 and won Game of the Year awards from multiple indie gaming outlets.
   
-  **Revolutionary Gameplay Design:**
-  - **Real-time platforming** with roguelike permadeath mechanics
-  - **Persistent shortcuts** unlocked through skilled play
-  - **Destructible terrain** enabling creative problem-solving
-  - **Emergent item interactions** creating unpredictable situations
-  - **Precise control scheme** requiring skill mastery
+  Gameplay Design:
+  Spelunky combines real-time platforming with roguelike permadeath mechanics. The game features persistent shortcuts unlocked through skilled play and destructible terrain enabling creative problem-solving. Item interactions create unpredictable situations, and the game requires precise control scheme mastery.
   
-  **Technical Evolution:**
-  - **Original Flash version** (2008) - Windows XP/Vista freeware
-  - **HD remake** - Custom C++ engine with enhanced graphics
-  - **Core team of four** for HD version with contractor support
-  - **Multi-platform release** - PC, Xbox 360, PS4, PS Vita, Switch, mobile
+  Development History:
+  The original version was released as Flash freeware in 2008 for Windows XP/Vista. The HD remake used a custom C++ engine with enhanced graphics, developed by a core team of four with contractor support. The game has been released across multiple platforms including PC, Xbox 360, PS4, PS Vita, Switch, and mobile devices.
   
-  **Community & Legacy:**
-  - **Massive speedrunning community** on Twitch with active leaderboards
-  - **5,000+ concurrent Steam users** regularly
-  - **GDC talks and viral Let's Plays** by NorthernLion driving popularity
-  - **The Arenas DLC** (Feb 2013) - 24 multiplayer maps, 8 characters
+  Community and Legacy:
+  Spelunky has developed a large speedrunning community on Twitch with active leaderboards and maintains over 5,000 concurrent Steam users regularly. The game gained popularity through GDC talks and viral Let's Play videos. The Arenas DLC was released in February 2013 featuring 24 multiplayer maps and 8 characters.
   
-  **Genre-Defining Impact:** Pioneered integration of **platforming with roguelite systems**, directly inspiring major franchises like **Dead Cells**, **Rogue Legacy**, and countless indies. Demonstrated that roguelike mechanics could work beyond traditional turn-based formats, essentially creating the modern roguelite genre.
+  Impact on Gaming:
+  The game pioneered the integration of platforming with roguelite systems, directly inspiring major franchises like Dead Cells, Rogue Legacy, and numerous independent games. It demonstrated that roguelike mechanics could work beyond traditional turn-based formats, essentially creating the modern roguelite genre.
 release_date: "2008-12-21"
 latest_version: "HD (2012)"
 developers:

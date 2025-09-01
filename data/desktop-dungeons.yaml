@@ -1,79 +1,28 @@
 name: "Desktop Dungeons"
 slug: "desktop-dungeons"
 description: |
-  **The puzzle roguelike perfection** - QCF Design's **brilliant genre fusion** that transformed **traditional roguelike mechanics** into **perfect puzzle experiences**, featuring **innovative resource management**, **86% positive Steam reviews**, and **bite-sized gameplay sessions** that prove **roguelike depth** can achieve **puzzle game elegance**.
+  Desktop Dungeons is a puzzle-roguelike game developed by QCF Design, released on November 7, 2013. The game combines traditional roguelike mechanics with puzzle game elements, creating a unique hybrid that emphasizes strategic resource management and tactical decision-making.
   
-  **Revolutionary Puzzle-Roguelike Fusion:**
-  - **Perfect information gameplay** - Every decision made with complete knowledge of consequences
-  - **Puzzle-perfect balance** - Each dungeon solvable through optimal resource management and strategy
-  - **No random failure** - Success dependent on player skill rather than chance or luck
-  - **Mathematical precision** - Combat and healing systems designed with puzzle-game predictability
-  - **Strategic depth** - Complex tactical decisions within simple, elegant rule systems
+  ## Gameplay Mechanics
+  Desktop Dungeons features perfect information gameplay where players have complete knowledge of all game elements before making decisions. The game treats health points as a strategic resource rather than a survival meter, and incorporates experience optimization where the timing of character leveling becomes crucial for efficient dungeon completion.
   
-  **Innovative Resource Management:**
-  - **Health as currency** - Hit points functioning as strategic resource rather than survival meter
-  - **Experience optimization** - Leveling timing crucial for maximizing dungeon completion efficiency
-  - **Mana conservation** - Spell usage requiring careful planning and resource allocation
-  - **Potion timing** - Healing items used strategically for level-up health restoration
-  - **Monster prioritization** - Enemy selection affecting experience gains and resource efficiency
+  ## Design Philosophy
+  The game employs mathematical precision in its combat and healing systems, designed to function more like puzzle game mechanics than traditional roguelike randomness. Each dungeon is solvable through optimal resource management and strategic planning, with success dependent on player skill rather than chance.
   
-  **Quick Session Excellence:**
-  - **10-20 minute dungeons** - Perfect length for mobile gaming and casual play sessions
-  - **Immediate satisfaction** - Clear goals and rapid completion cycles creating addictive gameplay
-  - **No time pressure** - Turn-based system allowing thoughtful consideration of every move
-  - **Progress preservation** - Individual dungeon completion tracked with persistent unlocks
-  - **Replay value** - Multiple solutions and optimization challenges encouraging repeated play
+  ## Session Structure
+  Individual dungeons are designed to be completed in 10-20 minute sessions, making the game suitable for both mobile gaming and casual play. The turn-based system allows for thoughtful consideration of each move without time pressure, while maintaining immediate satisfaction through clear goals and rapid completion cycles.
   
-  **Comprehensive Unlock System:**
-  - **10 character classes** - Each with unique abilities and tactical approaches to puzzle solving
-  - **18 different dungeon types** - Varied challenges requiring different strategies and character builds
-  - **Hundreds of items** - Equipment combinations affecting character capabilities and puzzle solutions
-  - **Achievement integration** - Steam achievements recognizing mastery of specific challenges
-  - **Meta-progression** - Town building and upgrades providing permanent character improvements
+  ## Character Classes and Progression
+  The game features 10 character classes, each with unique abilities and tactical approaches to problem-solving. It includes 18 different dungeon types that require varied strategies and character builds. The game incorporates meta-progression through town building elements and permanent character improvements.
   
-  **Cross-Platform Mastery:**
-  - **Mobile adaptation excellence** - Touch controls perfectly suited to turn-based puzzle gameplay
-  - **Steam success** - 86% positive reviews proving PC market appeal
-  - **iOS and Android versions** - Full feature parity across all mobile platforms
-  - **Desktop optimization** - Mouse and keyboard controls enhanced for precision gameplay
-  - **Cloud synchronization** - Progress preserved across all platforms and devices
+  ## Platform Development
+  Desktop Dungeons was developed with cross-platform compatibility, featuring versions for Windows, macOS, Linux, iOS, and Android. The game includes optimized controls for each platform, with touch controls adapted for mobile devices and mouse/keyboard optimization for desktop systems.
   
-  **Commercial & Critical Success:**
-  - **Free alpha phenomenon** - Original version gained massive following before commercial release
-  - **Steam Greenlight success** - Community voting demonstrated strong market demand
-  - **Critical acclaim** - Gaming press praised innovative genre combination and execution
-  - **Educational recognition** - Used in game design courses as example of successful genre fusion
-  - **International awards** - Recognition at independent game festivals and competitions
+  ## Commercial Success
+  The game originated as a free alpha version that gained significant popularity before commercial release. It achieved positive reception on Steam with 86% positive reviews and was recognized through Steam Greenlight community voting. The game has been used in educational settings as an example of successful genre fusion in game design.
   
-  **Design Philosophy Innovation:**
-  - **Accessibility without simplification** - Complex strategies made approachable through elegant design
-  - **Immediate comprehension** - Rules learnable within minutes but mastery requiring hundreds of hours
-  - **Fair challenge design** - Every failure educational rather than punishing
-  - **Skill-based progression** - Player improvement directly translating to success rates
-  - **Elegant complexity** - Simple systems creating emergent strategic depth
-  
-  **Community & Educational Value:**
-  - **Strategy guide development** - Community creating comprehensive optimization guides
-  - **Mathematical analysis** - Players developing formulas for optimal play patterns
-  - **Educational adoption** - Used in schools for teaching logical reasoning and planning
-  - **Content creation** - YouTube and Twitch showcasing optimal solutions and strategies
-  - **Competitive optimization** - Community competitions for fastest completion times
-  
-  **Technical Achievement:**
-  - **Cross-platform engine** - Consistent experience across desktop and mobile devices
-  - **Performance optimization** - Smooth gameplay on limited mobile hardware
-  - **Save system reliability** - Progress preservation crucial for unlock system functionality
-  - **UI scaling excellence** - Interface adaptation across different screen sizes and input methods
-  - **Battery efficiency** - Turn-based design perfect for mobile battery conservation
-  
-  **Genre Impact:**
-  - **Puzzle-roguelike creation** - Established entirely new subgenre combining two distinct game types
-  - **Design template** - Inspired numerous games combining puzzle mechanics with roguelike elements
-  - **Accessibility advancement** - Demonstrated roguelike mechanics could work for casual audiences
-  - **Mobile roguelike validation** - Proved complex gameplay could succeed on touch devices
-  - **Commercial viability** - Showed puzzle-focused roguelikes could achieve financial success
-  
-  **Cultural Legacy:** **Desktop Dungeons** proved that **roguelike mechanics** and **puzzle game precision** could achieve **perfect synthesis**, creating **experiences of mathematical elegance** that maintain **strategic depth** while offering **immediate accessibility**, establishing the **template for puzzle-roguelike design** and demonstrating **genre fusion innovation** at its **finest**.
+  ## Genre Innovation
+  Desktop Dungeons is credited with establishing the puzzle-roguelike subgenre, combining elements from two distinct game types into a cohesive experience. The game demonstrated that roguelike mechanics could be adapted for casual audiences while maintaining strategic depth and complexity.
 release_date: "2013-11-07"
 latest_version: "Enhanced Edition"
 developers:

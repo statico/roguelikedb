@@ -1,14 +1,14 @@
 name: "MAngband"
 slug: "mangband"
 description: |
-  **The multiplayer roguelike pioneer** - Alex Dingle's **revolutionary achievement** that transformed **single-player Angband** into the **first successful multiplayer roguelike**, featuring **real-time collaborative gameplay**, **persistent servers**, and **community interaction** that proved **traditional roguelike mechanics** could **support social gaming** while **preserving authentic challenge** and **strategic depth**.
+  MAngband (Multi-user Angband) is a multiplayer roguelike developed by Alex Dingle and the MAngband Development Team, first released in 1997. The game adapts single-player Angband for multiple simultaneous players, featuring persistent servers, real-time gameplay, and social interaction systems. It represents the first successful large-scale multiplayer implementation of a traditional roguelike.
   
-  **Multiplayer Innovation Revolution:**
-  - **First successful multiplayer roguelike** - Pioneering adaptation of turn-based mechanics for simultaneous players
-  - **Real-time collaborative gameplay** - Multiple players exploring and fighting together in shared dungeons
-  - **Persistent server architecture** - Continuous game worlds maintaining state across player sessions
-  - **Social interaction systems** - Chat, trading, and cooperation mechanics integrated into gameplay
-  - **Guild and party formation** - Player organizations enabling coordinated exploration and combat
+  **Multiplayer Features:**
+  - Pioneering adaptation of turn-based Angband for simultaneous multiplayers
+  - Real-time gameplay allowing collaborative dungeon exploration and combat
+  - Persistent server architecture maintaining continuous game worlds
+  - Integrated social systems including chat, trading, and player cooperation
+  - Guild systems and party formation enabling organized player groups
   
   **Technical Achievement (1997):**
   - **Network programming mastery** - Sophisticated client-server architecture supporting multiple simultaneous players
@@ -87,7 +87,7 @@ description: |
   - **Technical innovation** - Advanced network programming and multiplayer architecture
   - **Cultural preservation** - Maintaining roguelike authenticity while enabling social gaming
   
-  **Legacy Achievement:** **MAngband** demonstrates that **traditional roguelike depth** and **multiplayer social interaction** can achieve **perfect synthesis**, proving that **community collaboration** and **technical innovation** can **transform single-player experiences** into **persistent social worlds** while **preserving authentic gameplay** and **creating lasting player communities**.
+  **Legacy:** MAngband demonstrates successful adaptation of traditional roguelike mechanics for multiplayer gaming. The game established design patterns for multiplayer roguelikes and proved that social interaction could enhance rather than compromise traditional roguelike gameplay, influencing later multiplayer roguelike development.
 release_date: "1997"
 latest_version: "1.5.0"
 developers:

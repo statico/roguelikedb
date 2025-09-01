@@ -1,79 +1,22 @@
 name: "Citadel (TI-84+ CE)"
 slug: "citadel-ti84"
 description: |
-  **The calculator roguelike masterpiece** - Dennis Yang and CEMetech's **extraordinary achievement** that created a **fully-featured roguelike** on a **TI-84+ CE graphing calculator**, utilizing **3D-like corridor views**, **1KB tile graphics in RAM**, and **flash sector dungeon storage** proving that **roguelike depth** can **thrive within extreme constraints** while **showcasing programming mastery** and **educational computing potential**.
+  Citadel is a roguelike game developed by Dennis Yang for the TI-84+ CE graphing calculator, released in 2021. The game demonstrates the technical feasibility of implementing complex roguelike mechanics within the severe hardware constraints of educational computing devices.
   
-  **Extreme Constraint Innovation (2021):**
-  - **TI-84+ CE calculator platform** - Complete roguelike experience on educational graphing calculator
-  - **96×64 monochrome LCD** - Full dungeon exploration within minimal display resolution
-  - **32KB RAM limitation** - Sophisticated gameplay systems within severe memory constraints
-  - **6 MHz Z80-type CPU** - Complex game logic running on limited processing power
-  - **Flash sector storage** - Creative use of calculator storage for dungeon data persistence
+  ## Technical Implementation
+  The game operates within the TI-84+ CE's hardware limitations, including a 6 MHz Z80-type processor, 32KB of RAM, and a 96×64 monochrome LCD display. The implementation utilizes pseudo-3D corridor visualization and optimized tile graphics that consume only 1KB of RAM. Game data persistence is achieved through creative use of the calculator's flash memory sectors.
   
-  **Technical Programming Mastery:**
-  - **3D-like corridor visualization** - Pseudo-3D graphics creating immersive exploration experience
-  - **1KB tile graphics optimization** - Maximum visual variety within minimal memory allocation
-  - **Flash memory management** - Dungeon storage utilizing calculator's persistent memory sectors
-  - **TI AppLib C programming** - Advanced calculator development using professional tools
-  - **Memory efficiency mastery** - Every byte optimized for maximum game complexity
+  ## Gameplay Features
+  Citadel incorporates traditional roguelike elements including turn-based combat, permadeath mechanics, and procedural dungeon generation. The game features character progression systems, statistical advancement, and equipment mechanics adapted for the calculator's input interface. Navigation uses grid-based movement controlled through the calculator's keypad.
   
-  **Educational Computing Achievement:**
-  - **Calculator gaming excellence** - Demonstrating educational hardware's entertainment potential
-  - **Programming education** - Complete example of constrained environment development
-  - **Open source contribution** - Source code available for learning calculator programming
-  - **CEMetech community** - Collaborative development within calculator enthusiast community
-  - **STEM integration** - Roguelike gaming bridging entertainment and educational technology
+  ## Development and Community
+  The game was developed using C programming with the TI AppLib development environment. The project is open source and has been supported by the CEMetech calculator programming community. The availability of source code serves as an educational resource for students learning calculator programming techniques.
   
-  **Roguelike Design Excellence:**
-  - **Complete traditional mechanics** - Turn-based combat, permadeath, and procedural generation
-  - **Grid-based movement** - Classic roguelike navigation adapted for calculator controls
-  - **Dungeon exploration** - Full procedural dungeon generation within memory constraints
-  - **Character progression** - Statistical advancement and equipment systems
-  - **Strategic gameplay** - Meaningful tactical decisions despite hardware limitations
+  ## Educational Significance
+  Citadel represents an example of constrained environment programming, demonstrating advanced programming concepts within educational hardware limitations. The project illustrates memory optimization techniques, efficient resource allocation, and creative solutions for implementing complex systems on minimal hardware.
   
-  **Programming Innovation:**
-  - **Pseudo-3D rendering** - Advanced graphics programming creating depth perception
-  - **Memory management mastery** - Efficient resource allocation enabling complex systems
-  - **Input handling optimization** - Calculator keypad controls adapted for roguelike gameplay
-  - **Performance engineering** - Smooth gameplay despite 6 MHz processor limitations
-  - **Storage innovation** - Creative use of flash memory for game data persistence
-  
-  **Community Impact:**
-  - **Calculator gaming culture** - Contributing to underground educational device entertainment
-  - **Programming inspiration** - Encouraging extreme constraint development challenges
-  - **Educational value** - Demonstrating advanced programming concepts through accessible platform
-  - **Open source education** - Teaching calculator development through complete project example
-  - **Technical demonstration** - Showcasing possibilities within severe hardware limitations
-  
-  **Design Philosophy:**
-  - **Constraint creativity** - Maximum gameplay complexity within minimal resources
-  - **Educational accessibility** - Development on widely available school calculator platform
-  - **Programming excellence** - Professional development standards applied to educational hardware
-  - **Community sharing** - Open source approach enabling learning and collaboration
-  - **Innovation within limitation** - Creative solutions maximizing constrained platform capabilities
-  
-  **Cultural Significance:**
-  - **Educational gaming validation** - Proving calculators could support sophisticated entertainment
-  - **Underground gaming culture** - Contributing to student calculator gaming tradition
-  - **Programming education** - Teaching advanced concepts through engaging project example
-  - **Hardware limitation transcendence** - Demonstrating creative potential within constraints
-  - **Community preservation** - Maintaining calculator programming knowledge and techniques
-  
-  **Technical Legacy:**
-  - **Calculator programming techniques** - Advanced methods for TI-84+ CE development
-  - **Constraint optimization** - Memory and processing efficiency within extreme limitations
-  - **Graphics programming** - Pseudo-3D rendering on monochrome display systems
-  - **Flash memory utilization** - Creative storage solutions for complex game data
-  - **Educational hardware mastery** - Professional development on educational computing platforms
-  
-  **Educational Value:**
-  - **Constrained environment programming** - Complete example of extreme limitation development
-  - **Calculator development techniques** - Advanced TI-84+ CE programming methods
-  - **Memory optimization mastery** - Efficient resource usage within severe constraints
-  - **Graphics programming fundamentals** - Basic 3D rendering concepts and implementation
-  - **Open source learning** - Community-accessible example of calculator game development
-  
-  **Legacy Achievement:** **Citadel (TI-84+ CE)** demonstrates that **programming mastery** and **creative vision** can **transcend hardware limitations**, proving that **educational platforms** and **extreme constraints** can **support sophisticated gaming** while **teaching advanced programming concepts** and **inspiring creative problem-solving** within **seemingly impossible limitations**.
+  ## Cultural Impact
+  The game contributes to the tradition of calculator gaming in educational environments and demonstrates the entertainment potential of educational computing devices. It serves as an example of innovative programming within extreme hardware constraints and has inspired similar projects within the calculator gaming community.
 release_date: "2021"
 developers:
   - "Dennis Yang"

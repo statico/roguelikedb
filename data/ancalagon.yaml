@@ -1,79 +1,25 @@
 name: "Ancalagon"
 slug: "ancalagon"
 description: |
-  **The international roguelike pioneer** - Hans Pennings' **remarkable achievement** that created **one of the first non-English roguelike implementations** on the **Philips P2000 computer** in 1983, demonstrating that **roguelike concepts** possessed **universal appeal** transcending **language barriers** and **national computing cultures**, while proving **international developers** could **adapt and enhance** the **original Rogue vision** for **diverse platforms** and **audiences**.
-  
-  **International Gaming Breakthrough (1983):**
-  - **First major non-English roguelike** - Revolutionary demonstration of genre's international appeal
-  - **Philips P2000 platform** - Adaptation to European home computer showcasing cross-cultural development
-  - **Language barrier transcendence** - Roguelike concepts proving universally compelling across cultures
-  - **International development validation** - Non-English developers successfully interpreting and implementing Rogue concepts
-  - **Cultural bridge** - Connecting American university gaming culture with European home computing
-  
-  **Philips P2000 Technical Achievement:**
-  - **Platform-specific optimization** - BASIC programming adapted for unique Dutch computer architecture
-  - **Home computer adaptation** - Professional roguelike experience on consumer European hardware
-  - **Limited resource mastery** - Complex gameplay within P2000's technical constraints and capabilities
-  - **Regional computing culture** - Development within European home computer enthusiast community
-  - **Technical innovation** - Creative solutions for implementing roguelike mechanics on non-Unix platform
-  
-  **Tolkien Literary Connection:**
-  - **Ancalagon the Black naming** - Reference to Tolkien's most powerful dragon from Silmarillion
-  - **Literary appreciation** - International recognition and love of Tolkien's fantasy works
-  - **Cultural synthesis** - Combining American roguelike mechanics with European literary tradition
-  - **Fantasy authenticity** - Name choice reflecting deep understanding of Tolkien mythology
-  - **Global fantasy culture** - Demonstrating shared fantasy literature appreciation across nations
-  
-  **Cultural Significance:**
-  - **International appeal validation** - Proving roguelike concepts resonated beyond American universities
-  - **European development precedent** - Early example of European roguelike programming and adaptation
-  - **Home computer gaming** - Bringing university gaming concepts to consumer European computing
-  - **Cross-cultural adaptation** - Successful translation of American gaming concepts for international audiences
-  - **Preservation challenge** - Rare artifact representing early international roguelike history
-  
-  **BASIC Programming Mastery:**
-  - **Accessible language implementation** - Sophisticated gameplay within beginner-friendly programming environment
-  - **Home computer optimization** - BASIC efficiency creating complex systems on consumer hardware
-  - **Platform adaptation** - Programming techniques specific to Philips P2000 architecture and capabilities
-  - **Resource management** - Efficient memory and processing usage within European home computer limitations
-  - **Innovation within constraints** - Creative programming solutions for implementing roguelike complexity
-  
-  **Historical Preservation:**
-  - **Rare artifact status** - Very difficult to preserve and access due to platform rarity
-  - **Cultural documentation** - Important evidence of early international roguelike development
-  - **Historical significance** - Critical example of genre's early global spread and adaptation
-  - **Preservation challenges** - Technical difficulties maintaining access to early European computing platforms
-  - **Educational value** - Teaching early international game development and cultural adaptation
-  
-  **Design Philosophy:**
-  - **Cultural adaptation** - Modifying American university concepts for European home computing context
-  - **International accessibility** - Making roguelike mechanics comprehensible across language barriers
-  - **Platform optimization** - Maximizing gameplay within European home computer constraints
-  - **Literary appreciation** - Respecting and incorporating shared fantasy literary traditions
-  - **Innovation within inspiration** - Adapting rather than merely copying original Rogue concepts
-  
-  **Cultural Impact:**
-  - **International development inspiration** - Encouraging other non-English developers to explore roguelikes
-  - **Platform diversity** - Demonstrating roguelike viability beyond Unix and American computing platforms
-  - **Cultural exchange** - Bridge between American university gaming and European home computing
-  - **Preservation awareness** - Highlighting importance of maintaining early international gaming history
-  - **Genre legitimacy** - Contributing to roguelike recognition as internationally viable gaming concept
-  
-  **Technical Legacy:**
-  - **BASIC roguelike techniques** - Programming methods for implementing roguelikes in accessible languages
-  - **Home computer adaptation** - Platform-specific development for European consumer hardware
-  - **International development practices** - Approaches to adapting American gaming concepts globally
-  - **Preservation methodology** - Techniques for maintaining rare early computing artifacts
-  - **Cultural documentation** - Recording early international game development history
-  
-  **Educational Value:**
-  - **International game development** - Early example of cross-cultural gaming adaptation
-  - **BASIC programming techniques** - Home computer development methods for complex gaming systems
-  - **European computing history** - Understanding early European home computer gaming culture
-  - **Cultural adaptation study** - Methods for translating gaming concepts across national boundaries
-  - **Preservation importance** - Demonstrating value of maintaining rare early gaming artifacts
-  
-  **Legacy Achievement:** **Ancalagon** demonstrates that **gaming excellence** recognizes **no national boundaries**, proving that **universal concepts** and **international creativity** can **transcend language barriers** while **establishing global foundations** for **roguelike development** and **inspiring worldwide appreciation** of **procedural dungeon crawling adventures**.
+  Ancalagon is a roguelike game developed by Hans Pennings for the Philips P2000 computer, released in 1983. The game is historically significant as one of the earliest non-English roguelike implementations, demonstrating the international appeal of the roguelike genre beyond its American origins.
+
+  ## Platform and Development
+  The game was programmed in BASIC for the Philips P2000, a Dutch home computer system. This adaptation showcased the versatility of roguelike concepts across different computing platforms and programming languages, moving beyond the Unix systems where Rogue was originally developed.
+
+  ## Cultural Significance
+  Ancalagon represents an important milestone in the international spread of roguelike gaming. The game's development by a non-English speaking programmer demonstrated that roguelike mechanics could be successfully adapted across cultural and linguistic boundaries.
+
+  ## Name Origin
+  The game takes its name from Ancalagon the Black, a dragon from J.R.R. Tolkien's Silmarillion. This naming choice reflects the global influence of Tolkien's fantasy literature and its connection to early computer gaming culture.
+
+  ## Technical Implementation
+  Despite the technical constraints of the Philips P2000 platform, Ancalagon successfully implemented core roguelike mechanics including procedural generation and turn-based gameplay. The use of BASIC programming language made the game accessible to home computer users and demonstrated alternative approaches to roguelike development.
+
+  ## Historical Importance
+  As one of the earliest international roguelike games, Ancalagon serves as important documentation of the genre's early global expansion. The game represents the adaptation of American university gaming concepts to European home computing contexts.
+
+  ## Preservation Challenges
+  Due to the rarity of the Philips P2000 platform, Ancalagon faces significant preservation challenges. The game remains a valuable but difficult-to-access artifact of early international roguelike development history.
 release_date: "1983"
 developers:
   - "Hans Pennings"

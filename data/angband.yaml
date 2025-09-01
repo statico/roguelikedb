@@ -1,51 +1,22 @@
 name: "Angband"
 slug: "angband"
 description: |
-  **The progenitor of the massive 'band' family of roguelikes** - Born from UMoria in 1993, Angband established **Tolkien-based fantasy** as the definitive roguelike setting and spawned **50+ major variants** over 30+ years.
+  Angband is a free and open-source roguelike game derived from UMoria in 1993. The game is set in J.R.R. Tolkien's Middle-earth and is based on the fortress of Angband from The Silmarillion. It is considered one of the major roguelikes and has spawned over 50 variants.
   
-  **Historical Significance & Lineage:**
-  - **Founded the '*band' naming convention** - ZAngband, ToME, Sangband, OAngband, FAangband
-  - **Direct evolution from UMoria** (1983) incorporating Tolkien's Middle-earth
-  - **One of the 'Major Roguelikes'** identified by John Harris in @Play column
-  - **30+ years of continuous development** with active community maintenance
-  - **Influenced entire generation** of fantasy roguelike developers
+  Development and History:
+  Angband was created as a fork of UMoria, incorporating elements from Tolkien's legendarium. The game has been in continuous development for over 30 years and is maintained by the Angband Development Team. It established the naming convention for "*band" variants that followed.
   
-  **Tolkien Integration - Middle-earth Authenticity:**
-  - **100-level descent into Angband** - Morgoth's fortress from The Silmarillion
-  - **Authentic Tolkien monsters** - Balrogs, Dragons, Nazgûl, Orcs, Trolls
-  - **Middle-earth artifacts** - Sting, Orcrist, Ringil, One Ring, Silmarils
-  - **Racial choices** - Elves, Dwarves, Hobbits, Half-Elves with authentic traits
-  - **Tolkien-inspired magic** - Books of spells, prayer systems, artifact powers
+  Gameplay:
+  The game features a 100-level dungeon descent to defeat Morgoth, the Dark Enemy. Players can choose from 13 character classes and multiple races including Elves, Dwarves, Hobbits, and Half-Elves. The game includes a magic system with spell books, an artifact system featuring items from Tolkien's works, and a monster memory system that records information about encountered enemies.
   
-  **Technical Excellence:**
-  - **Pure C implementation** ensuring maximum portability
-  - **GPL-2.0 open source** with transparent development
-  - **Multi-platform support** - Windows, Linux, macOS, Unix, Android
-  - **Minimal requirements** - 32MB RAM, 100MB storage
-  - **ASCII perfection** with optional tile graphics support
+  Setting and Content:
+  Angband incorporates authentic Tolkien elements including creatures such as Balrogs, Dragons, and Nazgûl, as well as artifacts like Sting, the One Ring, and the Silmarils. The game includes a town level where players can purchase supplies and interact with NPCs.
   
-  **Massive Variant Ecosystem:**
-  - **ZAngband** (1994) - Roger Zelazny's Amber chronicles setting
-  - **ToME** (Tales of Middle-earth) - Expanded Tolkien world simulation
-  - **Sangband** - Skill-based character system
-  - **OAngband** (Oook) - Streamlined interface and mechanics
-  - **FAangband** - First Age Middle-earth setting
-  - **50+ documented variants** each exploring different mechanical innovations
+  Technical Implementation:
+  The game is written in C and released under the GPL-2.0 license. It supports multiple platforms including Windows, Linux, macOS, Unix, and Android. The game uses ASCII graphics by default with optional tile graphics support.
   
-  **Gameplay Depth:**
-  - **13 character classes** including unique Tolkien classes like Ranger and Paladin
-  - **Complex magic system** with 9 spellbooks per realm
-  - **Artifact system** - Legendary weapons and armor from Tolkien lore
-  - **Monster memory** - Learn enemy capabilities through combat experience
-  - **Town level** - Buy supplies, sell loot, interact with NPCs
-  
-  **Community Legacy:**
-  - **Active GitHub development** with regular releases
-  - **RogueBasin documentation** - Comprehensive community wiki
-  - **Ladder competitions** - High score tracking across decades
-  - **Academic study subject** - Analyzed for procedural generation techniques
-  
-  **Cultural Impact:** Established **Tolkien fantasy** as the default roguelike setting, proving that literary adaptation could enhance rather than constrain game design. Created template for **variant development** that influenced entire roguelike ecosystem.
+  Variants:
+  Angband has generated numerous variants including ZAngband (1994), ToME (Tales of Middle-earth), Sangband, OAngband, and FAangband. These variants explore different gameplay mechanics, settings, and character systems while maintaining the core Angband framework.
 release_date: "1993-04-11"
 latest_version: "4.2.5"
 developers:

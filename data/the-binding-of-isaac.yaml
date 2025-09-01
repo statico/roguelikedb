@@ -1,33 +1,28 @@
 name: "The Binding of Isaac"
 slug: "the-binding-of-isaac"
 description: |
-  **Genre-defining twin-stick roguelike shooter** - Created by Edmund McMillen and Florian Himsl as a **two-person indie team**, launching September 28, 2011, and catalyzing the entire roguelite boom.
-  
-  **Commercial Phenomenon:**
-  - **Over 5 million lifetime sales** across all versions by 2024
-  - **2+ million copies sold** by April 2013 of original release alone
-  - **450,000+ units** sold before first expansion
-  - **Metacritic score of 84/100** with widespread critical acclaim
-  
-  **Revolutionary Design:**
-  - **300+ items and synergies** creating billions of build combinations
-  - **Procedurally generated dungeons** with permadeath mechanics
-  - **Twin-stick shooting** combined with roguelike progression
-  - **Dark religious themes** and psychological horror narrative
-  - **Flash engine implementation** requiring minimal system specs
-  
-  **Massive Expansion Program:**
-  - **The Wrath of the Lamb** (2012) - First major expansion
-  - **Rebirth** (2014) - Complete remake in C++
-  - **Afterbirth** (2015), **Afterbirth+** (2017), **Repentance** (2021), **Repentance+** (2024)
-  
-  **Community Impact:**
-  - **1,000+ Steam Workshop mods** with extensive API support
-  - **Active Discord/Reddit communities** with 10,000+ daily players in 2025
-  - **Thriving speedrunning scene** on Twitch and leaderboards
-  - **Viral Let's Play coverage** driving organic growth
-  
-  **Industry Influence:** Directly inspired major roguelites like **Enter the Gungeon** and **Dead Cells**, demonstrating commercial viability of item-driven roguelikes and establishing the modern roguelite template. Regular balance patches and free content updates continued through 2024.
+  The Binding of Isaac is a roguelike shooter game created by Edmund McMillen and Florian Himsl, released on September 28, 2011. The game combines twin-stick shooting mechanics with roguelike elements and has achieved significant commercial success.
+
+  Development and Release:
+  The original game was developed by a two-person team consisting of Edmund McMillen and Florian Himsl. Built using Adobe Flash, the game was designed to run on minimal system requirements. The project was notable for its independent development approach and small team size.
+
+  Gameplay Mechanics:
+  The game features procedurally generated dungeons where players control Isaac through various floors filled with enemies and obstacles. The core gameplay combines real-time twin-stick shooting with roguelike permadeath mechanics. Players collect items that modify Isaac's abilities and can create complex synergistic combinations.
+
+  Commercial Performance:
+  The Binding of Isaac achieved substantial commercial success, selling over 5 million copies across all versions by 2024. The original release sold over 2 million copies by April 2013, demonstrating strong market demand for roguelike mechanics combined with action gameplay.
+
+  Expansions and Remakes:
+  The game has received multiple expansions including "The Wrath of the Lamb" (2012), followed by a complete remake called "Rebirth" (2014) using a C++ engine. Additional expansions include "Afterbirth" (2015), "Afterbirth+" (2017), "Repentance" (2021), and "Repentance+" (2024).
+
+  Community and Modding:
+  The game supports extensive modding through Steam Workshop integration, with over 1,000 community-created modifications. It maintains active player communities and has developed a significant presence in speedrunning and streaming communities.
+
+  Cultural Impact:
+  The Binding of Isaac is widely recognized for its influence on the modern roguelite genre, inspiring numerous other games that combine action gameplay with roguelike progression systems. The game helped establish the commercial viability of roguelike mechanics in mainstream gaming markets.
+
+  Critical Reception:
+  The game received positive critical reception with a Metacritic score of 84/100 and has been praised for its innovative combination of gameplay mechanics and extensive item system creating emergent gameplay possibilities.
 release_date: "2011-09-28"
 latest_version: "Rebirth (2014)"
 developers:
@@ -39,43 +34,48 @@ platforms:
   - "Windows"
   - "macOS"
   - "Linux"
+  - "Xbox"
+  - "PlayStation"
+  - "Nintendo Switch"
+  - "iOS"
+  - "Android"
 classification:
-  primary_type: "action"
+  primary_type: "roguelite"
   subgenres:
-    - "horror"
-    - "psychological"
+    - "twin_stick_shooter"
+    - "action"
   gameplay_features:
     - "real_time"
+    - "twin_stick_shooting"
     - "procedural_generation"
     - "permadeath"
-    - "tile_graphics"
-  difficulty: "hard"
+    - "item_synergies"
+    - "meta_progression"
+  difficulty: "moderate"
 lineage:
   parent_games:
     - "rogue"
     - "zelda"
-  notable_forks:
-    - "binding-of-isaac-rebirth"
   fork_type: "inspired_by"
 links:
+  official_website: "https://bindingofisaac.com/"
   steam_page: "https://store.steampowered.com/app/113200/The_Binding_of_Isaac/"
-  wiki: "https://bindingofisaacrebirth.fandom.com/"
+  wiki: "https://en.wikipedia.org/wiki/The_Binding_of_Isaac_(video_game)"
 community:
-  active_development: false
+  active_development: true
   open_source: false
   license: "Proprietary"
-  community_size: "massive"
+  community_size: "large"
 technical:
-  engine: "Adobe Flash"
+  engine: "Adobe Flash (original), C++ (Rebirth)"
   system_requirements:
     minimum_ram: "1GB"
     storage_space: "500MB"
 tags:
-  - "dark"
-  - "religious"
-  - "psychological"
-  - "influential"
+  - "twin-stick-shooter"
+  - "indie"
+  - "flash"
+  - "dark-themes"
   - "2011"
-  - "mcmillen"
-notes: "Massively influential indie roguelike that popularized the genre. Over 5 million copies sold across all versions. Spawned multiple expansions and inspired countless similar games."
+notes: "Highly influential roguelite that helped define the modern roguelite genre. Features over 300 items with complex synergistic interactions. Multiple expansions and ongoing development."
 last_updated: "2025-01-30"

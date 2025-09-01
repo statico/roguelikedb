@@ -1,71 +1,27 @@
 name: "100 Rogues"
 slug: "100-rogues"
 description: |
-  **The pioneering mobile roguelike** - Dinofarm Games' groundbreaking **iOS roguelike** that proved **traditional roguelike mechanics** could work on **touchscreen devices**, featuring **full animation**, **accessible controls**, and **mobile-optimized gameplay**.
+  100 Rogues is a mobile roguelike game developed by Dinofarm Games and released for iOS in 2011. The game is notable for being among the first major roguelikes designed specifically for mobile platforms, featuring touchscreen-optimized controls and fully animated pixel art graphics.
 
-  **Mobile Roguelike Pioneer:**
-  - **First major iOS roguelike** - Launched when iPhone gaming was nascent
-  - **Touchscreen optimization** - Controls designed specifically for mobile interaction
-  - **Portrait orientation** - Vertical play perfect for phone form factor
-  - **Quick session design** - Gameplay optimized for mobile usage patterns
-  - **App Store success** - Demonstrated roguelike viability on mobile platforms
+  ## Gameplay
+  The game follows traditional roguelike mechanics including procedural dungeon generation, turn-based combat, and permadeath. Players navigate through procedurally generated dungeons using tap-to-move controls specifically designed for touchscreen interaction. Combat uses an auto-targeting system to simplify mobile play while maintaining strategic depth.
 
-  **Visual Innovation for Mobile:**
-  - **Fully animated sprites** - Every character and monster beautifully animated
-  - **Colorful pixel art** - Vibrant visuals optimized for small screens
-  - **Clear UI design** - Interface elements sized for finger interaction
-  - **Visual feedback** - Clear animations for all player actions
-  - **Mobile-friendly graphics** - High contrast and readability on phone screens
+  ## Character Classes
+  100 Rogues features five distinct character classes:
+  - Crusader: A balanced warrior class with defensive capabilities
+  - Scoundrel: A stealth-focused class with special abilities
+  - Wizard: A magic-using class with ranged combat spells
+  - Ranger: An archer class with pet companions
+  - Fairy: A unique class with flight abilities
 
-  **Accessibility Revolution:**
-  - **Tutorial integration** - Built-in learning for roguelike newcomers
-  - **Simplified complexity** - Traditional depth with mobile-friendly presentation
-  - **Visual inventory** - Grid-based item management perfect for touch
-  - **Tap-to-move** - Simple movement system eliminating keyboard complexity
-  - **Auto-targeting** - Intelligent combat targeting for ease of use
+  ## Technical Features
+  The game was optimized for early iPhone hardware, featuring battery-efficient turn-based gameplay and stable save systems. The visual design uses high-contrast pixel art optimized for small mobile screens, with interface elements sized for finger interaction.
 
-  **Five Character Classes:**
-  - **Crusader** - Balanced warrior with defensive capabilities
-  - **Scoundrel** - Stealth-focused character with special abilities
-  - **Wizard** - Magic user with spell variety and ranged combat
-  - **Ranger** - Archer with pet companions and survival skills
-  - **Fairy** - Unique class with flight and magical abilities
+  ## Reception and Impact
+  100 Rogues received critical acclaim upon release and was featured prominently on the App Store. The game demonstrated the commercial viability of traditional roguelike mechanics on mobile platforms and influenced subsequent mobile roguelike development.
 
-  **Roguelike Authenticity:**
-  - **Procedural generation** - Traditional dungeon randomization
-  - **Permadeath** - Classic roguelike consequence system
-  - **Turn-based combat** - Strategic positioning and timing
-  - **Item identification** - Mystery items requiring experimentation
-  - **Character progression** - Level advancement and skill development
-
-  **Historical Significance:**
-  - **Mobile gaming milestone** - Proved complex genres could work on phones
-  - **Touchscreen adaptation** - Template for mobile roguelike design
-  - **App Store showcase** - Featured prominently in mobile gaming press
-  - **Genre expansion** - Brought roguelikes to entirely new audiences
-  - **Development inspiration** - Influenced countless mobile roguelike developers
-
-  **Technical Achievement:**
-  - **iOS optimization** - Smooth performance on early iPhone hardware
-  - **Battery efficiency** - Turn-based design perfect for mobile power constraints
-  - **Save system** - Persistent progress between sessions
-  - **Memory management** - Efficient resource usage on limited mobile hardware
-  - **Crash prevention** - Stable gameplay crucial for mobile experience
-
-  **Commercial Impact:**
-  - **Premium mobile pricing** - Successfully sold as premium app
-  - **Critical acclaim** - Praised by mobile gaming press
-  - **Community building** - Active forums and strategy discussions
-  - **Sequel success** - Multiple follow-up releases
-  - **Genre establishment** - Helped establish mobile roguelikes as viable category
-
-  **Design Legacy:**
-  - **Mobile roguelike template** - Established design patterns still used today
-  - **Touch UI standards** - Interface conventions adopted by later games
-  - **Accessibility model** - Showed how to make roguelikes approachable
-  - **Platform adaptation** - Demonstrated successful genre translation to new platforms
-
-  **Cultural Impact:** Proved that **traditional roguelike depth** could be successfully **adapted to touchscreen devices** without losing essential gameplay elements, opening the genre to **millions of mobile players** and establishing **mobile roguelikes** as a legitimate and profitable category.
+  ## Legacy
+  The game established design patterns for mobile roguelikes that continue to influence the genre, including touch-based UI conventions and accessibility features for newcomers to roguelike gaming. It helped establish mobile roguelikes as a legitimate gaming category.
 release_date: "2011-08-04"
 latest_version: "1.3.0"
 developers:

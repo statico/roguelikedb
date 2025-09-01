@@ -1,86 +1,28 @@
 name: "EyAngband"
 slug: "eyangband"
 description: |
-  **The experimental thematic pioneer** - Eytan Zweig's **creative achievement** that explored **unique aesthetic and thematic modifications** within the **Angband framework**, featuring **distinctive gameplay elements** and **alternative design approaches** as part of the **early 2000s experimental wave** proving that **Angband variants** could **embrace creative themes** while **maintaining traditional roguelike depth** and **inspiring innovative development**.
+  EyAngband is an Angband variant developed by Eytan Zweig, released in 2003. The game represents an experimental approach to roguelike development within the Angband framework, featuring distinctive thematic and aesthetic modifications.
   
-  **Thematic Experimentation Excellence (2003):**
-  - **Unique aesthetic exploration** - Creative departure from traditional Angband themes and presentation
-  - **Alternative design philosophy** - Experimental approach to roguelike development within Angband framework
-  - **Early 2000s innovation wave** - Part of diverse ecosystem exploring Angband modification possibilities
-  - **Creative expression** - Personal vision translated into functional roguelike gaming experience
-  - **Thematic coherence** - Distinctive elements integrated throughout gameplay and presentation
+  ## Development Approach
+  EyAngband was developed as part of the early 2000s wave of Angband variants that explored alternative thematic approaches while maintaining the core mechanics of the base game. The variant represents creative experimentation within established roguelike frameworks.
   
-  **Angband Framework Innovation:**
-  - **Major variant classification** - Significant modifications extending beyond simple content additions
-  - **Traditional mechanics preservation** - Core Angband gameplay maintained while exploring thematic alternatives
-  - **Extreme difficulty maintenance** - Challenging gameplay preserving Angband's tactical depth requirements
-  - **Cross-platform compatibility** - Windows and Linux versions ensuring broad community accessibility
-  - **Open source contribution** - Angband License enabling community study and modification
+  ## Thematic Elements
+  The game features unique aesthetic exploration that departs from traditional Angband themes and presentation. The variant incorporates distinctive visual and thematic elements throughout gameplay while maintaining the fundamental Angband experience.
   
-  **Experimental Development:**
-  - **Alternative aesthetics** - Visual and thematic elements exploring different artistic directions
-  - **Gameplay modification** - Mechanical changes supporting unique thematic vision
-  - **Creative risk-taking** - Willingness to explore unconventional approaches within established framework
-  - **Innovation within tradition** - Experimental features respecting Angband's foundational design principles
-  - **Community contribution** - Adding diversity to Angband variant ecosystem
+  ## Technical Implementation
+  EyAngband was developed using C programming within the complex Angband codebase, requiring 32MB of memory and 15MB of storage space. The variant maintains cross-platform compatibility across Windows and Linux systems while preserving the performance characteristics of the original game.
   
-  **Technical Achievement:**
-  - **C programming competence** - Sophisticated modifications within complex Angband codebase
-  - **Memory efficiency** - 32MB requirements maintaining accessibility on modest hardware
-  - **Storage optimization** - 15MB installation supporting complete variant experience
-  - **Performance maintenance** - Experimental features implemented without compromising gameplay responsiveness
-  - **Code integration** - Thematic modifications integrated cleanly with existing Angband systems
+  ## Community Contribution
+  The variant contributed to the diverse ecosystem of Angband modifications during the early 2000s period of active variant development. EyAngband added to the variety of approaches available within the Angband community and demonstrated the viability of thematic experimentation.
   
-  **Community Ecosystem Contribution:**
-  - **Variant diversity** - Adding unique voice to chorus of Angband modifications
-  - **Experimental inspiration** - Encouraging other developers to explore creative thematic approaches
-  - **Development community** - Contributing to collaborative Angband enhancement culture
-  - **Creative precedent** - Demonstrating viability of thematic experimentation within roguelike development
-  - **Open source sharing** - Knowledge and techniques available for community learning
+  ## Design Philosophy
+  The development of EyAngband reflected a willingness to explore unconventional approaches and aesthetics while respecting Angband's foundational design principles. The variant represents an example of how personal artistic vision can be translated into functional roguelike gaming experiences.
   
-  **Design Philosophy:**
-  - **Thematic coherence** - All elements supporting unified creative vision
-  - **Experimental courage** - Willingness to explore unconventional approaches and aesthetics
-  - **Community respect** - Innovation balanced with respect for Angband traditions and community
-  - **Creative expression** - Personal artistic vision translated into functional gaming experience
-  - **Technical competence** - Experimental ideas implemented with professional programming standards
+  ## Legacy and Influence
+  EyAngband serves as an example of experimental roguelike development and thematic modification techniques within established frameworks. The variant demonstrated methods for implementing aesthetic changes while maintaining technical competence and gameplay integrity.
   
-  **Historical Context:**
-  - **Early 2000s variant explosion** - Part of period when Angband variants flourished and diversified
-  - **Experimental culture** - Contributing to community atmosphere encouraging creative exploration
-  - **Thematic precedent** - Early example of aesthetic experimentation within roguelike development
-  - **Community documentation** - Preserved example of experimental roguelike development approaches
-  - **Educational legacy** - Teaching creative approaches to established game framework modification
-  
-  **Cultural Impact:**
-  - **Creative inspiration** - Demonstrating potential for artistic expression within roguelike development
-  - **Community diversity** - Contributing to rich ecosystem of Angband variant approaches
-  - **Experimental validation** - Proving thematic modifications could create compelling gaming experiences
-  - **Development encouragement** - Inspiring other developers to explore creative modification approaches
-  - **Aesthetic awareness** - Raising consciousness about visual and thematic possibilities in roguelikes
-  
-  **Open Source Legacy:**
-  - **Angband License** - Community access enabling study of thematic modification techniques
-  - **Educational resource** - Complete source demonstrating experimental development approaches
-  - **Preservation value** - Maintaining access to creative experimental roguelike development
-  - **Community enhancement** - Code availability enabling learning and further modification
-  - **Development transparency** - Open process supporting community understanding of experimental techniques
-  
-  **Technical Legacy:**
-  - **Thematic modification techniques** - Methods for implementing aesthetic changes within established frameworks
-  - **Experimental development** - Approaches to creative risk-taking within roguelike programming
-  - **Angband enhancement** - Techniques for major modifications to complex roguelike codebases
-  - **Creative integration** - Methods for maintaining coherence while implementing experimental features
-  - **Community development** - Collaborative programming practices supporting experimental projects
-  
-  **Educational Value:**
-  - **Experimental roguelike development** - Complete example of creative modification within established frameworks
-  - **Thematic design** - Approaches to aesthetic coherence and creative vision implementation
-  - **Angband programming** - Techniques for major modifications to complex roguelike codebases
-  - **Creative expression** - Methods for translating artistic vision into functional gaming experiences
-  - **Community contribution** - Approaches to sharing experimental development with roguelike community
-  
-  **Legacy Achievement:** **EyAngband** demonstrates that **creative vision** and **experimental courage** can **enhance established frameworks**, proving that **thematic innovation** and **technical competence** can **create unique experiences** while **contributing to community diversity** and **inspiring continued exploration** of **aesthetic possibilities** within **traditional roguelike development**.
+  ## Educational Value
+  The variant provides a complete example of creative modification within established roguelike frameworks, illustrating approaches to thematic design and aesthetic implementation. EyAngband serves as a reference for techniques used in major modifications to complex roguelike codebases.
 release_date: "2003"
 developers:
   - "Eytan Zweig"

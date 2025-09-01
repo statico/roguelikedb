@@ -1,78 +1,28 @@
 name: "Dungeons of Dredmor"
 slug: "dungeons-of-dredmor"
 description: |
-  **The Steam roguelike breakthrough** - Gaslamp Games' **commercial roguelike revolution** that proved **traditional roguelike depth** could achieve **mainstream Steam success**, featuring **750,000+ copies sold**, **brilliant humor integration**, and **extensive modding support** while establishing the **template for modern commercial roguelike design**.
-  
-  **Commercial Success Pioneer:**
-  - **750,000+ copies sold** - Massive commercial success proving roguelike market viability on Steam
-  - **'Very Positive' Steam reviews** - 90% positive rating demonstrating broad audience appeal
-  - **Steam integration excellence** - Achievements, trading cards, and Workshop support from day one
-  - **Multiple DLC expansions** - Conquest of the Wizardlands, You Have to Name the Expansion Pack
-  - **Indie development inspiration** - Proved small studios could achieve major commercial success
-  
-  **Humor Integration Mastery:**
-  - **Witty item descriptions** - Every piece of equipment featuring clever, memorable flavor text
-  - **Absurdist skill trees** - Skills like 'Fungal Arts', 'Emomancy', and 'Archaeology' with hilarious abilities
-  - **Pop culture references** - Clever nods to gaming, internet culture, and genre conventions
-  - **Self-aware design** - Meta-humor about roguelike tropes and game development
-  - **Character naming system** - Ridiculous randomly generated names adding personality to equipment
-  
-  **Skill System Innovation:**
-  - **7 skill tree selection** - Players choosing from dozens of unique skill combinations
-  - **Cross-skill synergies** - Abilities from different trees combining for powerful effects
-  - **Build experimentation** - Thousands of viable character combinations encouraging replay
-  - **Progression depth** - Each skill tree offering meaningful advancement and specialization options
-  - **Accessibility design** - Complex systems made approachable through clear UI and descriptions
-  
-  **Steam Workshop Revolution:**
-  - **Comprehensive modding support** - Tools and documentation enabling extensive community content
-  - **Thousands of mods** - Community creating new skills, items, monsters, and complete overhauls
-  - **Workshop integration** - Seamless mod discovery and installation through Steam platform
-  - **Developer encouragement** - Gaslamp Games actively supporting and promoting community content
-  - **Educational resources** - Modding tutorials and documentation helping creators learn game development
-  
-  **Visual & Audio Excellence:**
-  - **Distinctive art style** - Cartoon-like 2D graphics creating memorable visual identity
-  - **Animation quality** - Smooth character movement and spell effects enhancing gameplay experience
-  - **Atmospheric music** - Soundtrack perfectly matching dungeon exploration and combat tension
-  - **UI design mastery** - Clear, functional interface making complex systems accessible
-  - **Visual feedback** - Excellent communication of game state through visual and audio cues
-  
-  **Technical Achievement:**
-  - **Cross-platform success** - Windows, macOS, and Linux versions with consistent experience
-  - **Performance optimization** - Smooth gameplay across wide range of hardware specifications
-  - **Save system reliability** - Robust character preservation with multiple backup options
-  - **Crash prevention** - Stable gameplay crucial for roguelike permadeath consequences
-  - **Memory management** - Efficient resource usage supporting complex dungeon generation
-  
-  **Community Building:**
-  - **Forum engagement** - Active developer participation in community discussions and feedback
-  - **Strategy sharing** - Players discovering and documenting optimal skill combinations
-  - **Content creation** - Streamers and YouTubers showcasing gameplay and strategies
-  - **Educational content** - Community guides helping newcomers learn complex systems
-  - **Long-term support** - Continued bug fixes and compatibility updates years after release
-  
-  **Genre Bridge Building:**
-  - **Traditional roguelike respect** - Maintaining core mechanics while adding accessibility features
-  - **Modern gaming integration** - Steam features without compromising roguelike authenticity
-  - **Casual player welcome** - Lower difficulty options making genre accessible to newcomers
-  - **Hardcore depth preservation** - Advanced systems satisfying traditional roguelike players
-  - **Marketing success** - Effective promotion introducing roguelikes to mainstream audiences
-  
-  **Cultural Impact:**
-  - **Steam roguelike validation** - Proved digital distribution could support traditional genres
-  - **Indie development model** - Demonstrated small team success through quality and humor
-  - **Modding community template** - Established standards for community content support
-  - **Humor in games** - Showed comedy could enhance rather than undermine serious gameplay
-  - **Genre accessibility** - Made roguelikes approachable without sacrificing depth
-  
-  **Educational Legacy:**
-  - **Commercial development lessons** - Case study in successful indie game marketing and distribution
-  - **Community management** - Model for developer-player relationships and content support
-  - **Game design balance** - Balancing accessibility with traditional roguelike complexity
-  - **Modding architecture** - Technical framework enabling extensive community content creation
-  
-  **Ultimate Achievement:** **Dungeons of Dredmor** proved that **traditional roguelike mechanics** could achieve **massive commercial success** when combined with **exceptional humor**, **modern platform integration**, and **comprehensive community support**, establishing the **blueprint for successful commercial roguelike development** in the **digital distribution era**.
+  Dungeons of Dredmor is a roguelike role-playing game developed and published by Gaslamp Games, released on July 13, 2011. The game achieved significant commercial success on Steam, selling over 750,000 copies and receiving very positive user reviews.
+
+  Development and Release:
+  Developed by the independent studio Gaslamp Games, Dungeons of Dredmor was released for Windows, macOS, and Linux platforms. The game was one of the early successful commercial roguelikes on the Steam platform and helped demonstrate the commercial viability of traditional roguelike mechanics for mainstream audiences.
+
+  Gameplay and Mechanics:
+  The game combines traditional turn-based roguelike mechanics with modern interface design and extensive customization options. Players select seven skills from a variety of skill trees, creating diverse character builds and playstyles. The game features procedurally generated dungeons, permadeath, and a crafting system for creating equipment and consumables.
+
+  Humor and Style:
+  Dungeons of Dredmor incorporates extensive humor throughout its design, including witty item descriptions, absurdist skill names, and pop culture references. The game features a distinctive cartoon-like 2D art style with colorful graphics and animated character sprites.
+
+  Modding and Community Support:
+  The game includes comprehensive Steam Workshop integration, allowing players to easily install community-created modifications. Thousands of mods have been created, adding new skills, items, monsters, and complete gameplay overhauls. Gaslamp Games provided extensive modding documentation and tools to support community content creation.
+
+  Technical Implementation:
+  Built using a custom 2D engine, the game runs efficiently on modest hardware requirements. The engine supports both the base game and extensive modding capabilities, with clear interfaces for adding new content and mechanics.
+
+  Commercial Impact:
+  Dungeons of Dredmor achieved notable commercial success with over 750,000 copies sold and a 90% positive review rating on Steam. The game received multiple DLC expansions including "Conquest of the Wizardlands" and "You Have to Name the Expansion Pack." Its success helped establish the viability of traditional roguelikes in the digital distribution market.
+
+  Legacy:
+  The game's success influenced other indie developers and demonstrated that roguelike mechanics could achieve mainstream commercial success when combined with accessible presentation, humor, and strong community support features.
 release_date: "2011-07-13"
 latest_version: "1.1.5"
 developers:

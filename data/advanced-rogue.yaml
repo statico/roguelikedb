@@ -1,79 +1,25 @@
 name: "Advanced Rogue"
 slug: "advanced-rogue"
 description: |
-  **The foundational expansion masterpiece** - Michael Morgan and Ken Dalka's **revolutionary achievement** that created the **first major Rogue enhancement**, introducing **multiple character classes**, **team-based gameplay**, and **extended dungeon mechanics** in 1984, proving that **original roguelike concepts** could **support sophisticated expansion** while **establishing templates** for **decades of roguelike development**.
-  
-  **Character Class Innovation (1984):**
-  - **First roguelike character classes** - Revolutionary introduction of Fighter, Paladin, Ranger, and other distinct playstyles
-  - **Class-based specialization** - Different characters with unique abilities, equipment access, and tactical approaches
-  - **Statistical differentiation** - Varied starting attributes and advancement patterns creating meaningful choice
-  - **Role-playing foundation** - Character identity systems influencing gameplay and strategic decision-making
-  - **Genre expansion** - Demonstrating roguelike mechanics could support diverse character concepts
-  
-  **Team-Based Gameplay Pioneer:**
-  - **Multiple character control** - Managing teams of adventurers with complementary abilities
-  - **Cooperative mechanics** - Characters supporting each other through combined abilities and tactics
-  - **Leadership systems** - Party management requiring strategic coordination and resource distribution
-  - **Tactical complexity** - Team dynamics adding layers of strategic depth to traditional exploration
-  - **Social gaming precedent** - Foundation concepts for multiplayer and party-based roguelike development
-  
-  **Technical Achievement:**
-  - **C programming excellence** - Sophisticated enhancements within early 1980s programming constraints
-  - **Memory efficiency** - Expanded features within 64KB limitations demonstrating optimization mastery
-  - **Cross-platform compatibility** - Unix and DOS versions ensuring broad accessibility
-  - **Performance optimization** - Enhanced complexity maintaining smooth gameplay on limited hardware
-  - **Code architecture** - Clean design enabling future development and modification
-  
-  **Dungeon Mechanics Extension:**
-  - **Enhanced exploration systems** - Expanded dungeon features beyond original Rogue framework
-  - **Environmental variety** - Additional dungeon types and features creating diverse exploration experiences
-  - **Monster sophistication** - Advanced creature behavior and interaction systems
-  - **Item complexity** - Extended equipment and magic systems providing deeper character customization
-  - **Challenge scaling** - Difficulty progression accommodating multiple character types and team dynamics
-  
-  **Historical Significance:**
-  - **First major Rogue expansion** - Establishing precedent for roguelike enhancement and development
-  - **Direct influence on Super Rogue** - Spawning further development and iteration
-  - **Genre template establishment** - Character class systems adopted throughout roguelike history
-  - **Open source contribution** - BSD licensing enabling community study and enhancement
-  - **Educational foundation** - Teaching early roguelike expansion techniques and design principles
-  
-  **Design Philosophy Innovation:**
-  - **Expansion without replacement** - Enhancing original concepts while preserving core gameplay
-  - **Player choice emphasis** - Character classes providing meaningful decision-making and replayability
-  - **Tactical depth** - Team mechanics adding strategic complexity without overwhelming simplicity
-  - **Mechanical coherence** - New features integrating seamlessly with existing Rogue systems
-  - **Community service** - Development motivated by desire to enhance beloved gaming experience
-  
-  **Open Source Legacy:**
-  - **BSD licensing** - Free software approach enabling community access and modification
-  - **Educational resource** - Complete source code available for studying early roguelike enhancement
-  - **Development inspiration** - Codebase serving as foundation for numerous later projects
-  - **Preservation assurance** - Open source ensuring long-term availability and maintainability
-  - **Community empowerment** - Free access enabling player-driven improvements and variations
-  
-  **Cultural Impact:**
-  - **Character class standardization** - Establishing conventions adopted throughout gaming industry
-  - **Team-based gaming influence** - Pioneering concepts used in later party-based games
-  - **Roguelike expansion model** - Demonstrating viable approaches to enhancing existing games
-  - **Community development** - Early example of collaborative improvement and enhancement
-  - **Genre legitimacy** - Contributing to roguelike recognition as sustainable development platform
-  
-  **Technical Legacy:**
-  - **C programming techniques** - Early methods for game enhancement and feature addition
-  - **Memory management mastery** - Optimization strategies for limited hardware environments
-  - **Cross-platform development** - Techniques for maintaining consistency across systems
-  - **Code organization** - Architecture patterns supporting complex feature addition
-  - **Performance engineering** - Methods for maintaining speed with increased complexity
-  
-  **Educational Value:**
-  - **Early roguelike enhancement** - Complete example of 1980s game expansion development
-  - **Character class design** - Methods for creating distinct and balanced playstyles
-  - **Team gameplay mechanics** - Approaches to cooperative single-player game systems
-  - **Open source development** - Collaborative programming and community contribution practices
-  - **Historical game development** - Understanding early computer game enhancement techniques
-  
-  **Legacy Achievement:** **Advanced Rogue** demonstrates that **original innovations** can **inspire sophisticated enhancement**, proving that **character specialization** and **team mechanics** can **transform single-player experiences** while **establishing foundational concepts** that **influence decades** of **roguelike development** and **gaming industry evolution**.
+  Advanced Rogue is a roguelike game developed by Michael Morgan and Ken Dalka, released in 1984. It represents the first major expansion and enhancement of the original Rogue, introducing significant new gameplay mechanics including character classes and team-based gameplay.
+
+  ## Character Classes
+  Advanced Rogue was the first roguelike to implement character classes, introducing distinct playstyles including Fighter, Paladin, Ranger, and others. Each class features unique abilities, equipment access, and statistical progressions, providing meaningful choices that affect gameplay strategy.
+
+  ## Team-Based Gameplay
+  The game pioneered team management mechanics, allowing players to control multiple characters with complementary abilities. This system introduced cooperative elements and tactical coordination requirements that added strategic depth to traditional dungeon exploration.
+
+  ## Technical Implementation
+  Advanced Rogue was developed in C and demonstrated sophisticated programming within the constraints of early 1980s computing. The game maintained performance efficiency while adding complex new features, with versions available for Unix and DOS systems.
+
+  ## Historical Impact
+  As the first major enhancement of Rogue, Advanced Rogue established important precedents for roguelike development. Its character class system became a widely adopted convention throughout the genre, and its design influenced numerous subsequent roguelike games, including Super Rogue.
+
+  ## Open Source Legacy
+  Advanced Rogue is released under the BSD license, making its source code freely available for study and modification. This open source approach has enabled community preservation efforts and serves as an educational resource for understanding early roguelike development techniques.
+
+  ## Influence and Legacy
+  The game's innovations in character specialization and party mechanics established foundational concepts that influenced decades of roguelike development. Its approach to enhancing existing gameplay systems while preserving core mechanics became a template for future roguelike expansions.
 release_date: "1984"
 developers:
   - "Michael Morgan"

@@ -1,86 +1,43 @@
 name: "SporkHack"
 slug: "sporkhack"
 description: |
-  **The balance refinement masterpiece** - Derek Ray, Tangles, and K2's **collaborative achievement** that created a **balance-focused NetHack variant** featuring **varied Gehennom**, **new special levels**, **enhanced artifacts**, and **improved level compiler** with **advanced DES commands** proving that **careful refinement** and **technical enhancement** can **perfect beloved roguelikes** while **maintaining authentic depth** and **building dedicated communities**.
+  SporkHack is a NetHack variant developed by Derek Ray, Tangles, and K2 that focuses on gameplay balance improvements and technical enhancements. The variant features varied Gehennom levels, new special areas, enhanced artifacts, and an improved level compiler with advanced DES commands.
   
-  **Balance Enhancement Excellence (2007):**
-  - **Gameplay balance focus** - Systematic improvements addressing NetHack's most challenging balance issues
-  - **Collaborative development** - Derek Ray, Tangles, and K2 creating cohesive refinement vision
-  - **Version 0.6.5 evolution** - Ongoing development with careful incremental improvements
-  - **Technical enhancement** - Level compiler improvements enabling sophisticated content creation
-  - **Community-driven refinement** - Player feedback directly influencing balance and improvement priorities
+  ## Development History
   
-  **Gehennom Innovation:**
-  - **Varied Gehennom levels** - Eliminating repetitive endgame experience through diverse level design
-  - **Hell improvement** - Making NetHack's final area more engaging and strategically varied
-  - **Special level design** - New locations creating unique tactical challenges and exploration opportunities
-  - **Endgame enhancement** - Addressing community concerns about NetHack's late-game tedium
-  - **Atmospheric variety** - Different hellish environments creating diverse exploration experiences
+  SporkHack was released in 2007 as a collaborative effort to address balance issues in NetHack. The development team focused on systematic improvements while maintaining the core gameplay experience. Version 0.6.5 represents ongoing development with incremental improvements based on player feedback.
   
-  **Level Compiler Advancement:**
-  - **Enhanced DES commands** - Improved level description language enabling sophisticated level creation
-  - **Technical innovation** - Advanced compiler features supporting complex procedural level generation
-  - **Content creation tools** - Better systems for designing and implementing new areas
-  - **Development efficiency** - Tools reducing effort required for creating high-quality content
-  - **Community empowerment** - Enhanced compiler enabling easier community content contribution
+  ## Gehennom Improvements
   
-  **Technical Achievement:**
-  - **C programming excellence** - Sophisticated balance and compiler improvements within NetHack codebase
-  - **Cross-platform stability** - Windows, Linux, and macOS versions with consistent functionality
-  - **Memory efficiency** - 64MB requirements supporting enhanced content and compiler features
-  - **Performance optimization** - Smooth gameplay despite technical enhancements and content additions
-  - **GitHub development** - Modern version control supporting collaborative enhancement
+  The variant addresses NetHack's repetitive endgame by introducing varied Gehennom levels. These improvements include diverse level designs that eliminate the monotony of the original hell levels, new special areas that create unique tactical challenges, and different hellish environments that provide varied exploration experiences. The changes address long-standing community concerns about NetHack's late-game tedium.
   
-  **Artifact Enhancement:**
-  - **New artifact variety** - Additional powerful items creating more diverse character building options
-  - **Balance considerations** - Artifacts designed to enhance gameplay without overwhelming challenge
-  - **Strategic integration** - New items fitting seamlessly into existing NetHack tactical systems
-  - **Discovery excitement** - Fresh content providing surprise and exploration motivation
-  - **Power scaling** - Artifacts appropriate for different character development stages
+  ## Level Compiler Enhancements
   
-  **Community Integration:**
-  - **Small dedicated community** - Focused player base providing valuable feedback and testing
-  - **Public server accessibility** - Available on Hardfought and other servers ensuring community access
-  - **Open source collaboration** - NetHack GPL enabling community study and contribution
-  - **Development transparency** - GitHub repository supporting community understanding and participation
-  - **Educational resource** - Complete example of careful roguelike balance and enhancement
+  SporkHack features an enhanced level compiler with improved DES (level description) commands. These technical improvements enable more sophisticated level creation and support complex procedural generation. The enhanced compiler provides better tools for designing and implementing new areas while reducing the effort required for content creation.
   
-  **Design Philosophy:**
-  - **Balance priority** - All changes motivated by desire to improve gameplay balance and fairness
-  - **Technical excellence** - Enhancement tools and systems meeting professional development standards
-  - **Community service** - Development driven by desire to improve beloved NetHack experience
-  - **Incremental improvement** - Careful, tested changes avoiding disruption of core gameplay
-  - **Collaborative approach** - Multiple developers ensuring diverse perspectives and expertise
+  ## Technical Implementation
   
-  **Cultural Gaming Impact:**
-  - **Balance precedent** - Demonstrating approaches to careful improvement of established roguelikes
-  - **Technical innovation** - Level compiler enhancements inspiring other roguelike development tools
-  - **Community refinement** - Proving player communities could systematically improve beloved games
-  - **Development methodology** - Establishing practices for collaborative roguelike enhancement
-  - **Server culture** - Contributing to public server gaming communities and accessibility
+  The variant is implemented in C and maintains cross-platform compatibility across Windows, Linux, and macOS systems. It requires 64MB of RAM and 50MB of storage space. The codebase incorporates sophisticated balance improvements within the existing NetHack framework while maintaining performance optimization.
   
-  **Gehennom Design Innovation:**
-  - **Endgame variety** - Addressing long-standing community complaints about repetitive final area
-  - **Strategic diversity** - Different approaches required for varied hellish challenges
-  - **Atmospheric enhancement** - Multiple hell environments creating immersive variety
-  - **Tactical depth** - New situations requiring adaptive strategic thinking
-  - **Exploration motivation** - Fresh content encouraging thorough endgame exploration
+  ## Artifact System
   
-  **Open Source Excellence:**
-  - **NetHack GPL** - Community access enabling study of balance and compiler enhancement techniques
-  - **GitHub transparency** - Complete development process visible and accessible to community
-  - **Educational preservation** - Balance improvement techniques available for learning and adaptation
-  - **Community contribution** - Open development enabling ongoing participation and feedback
-  - **Development legacy** - Source availability ensuring continued access to enhancement methodologies
+  SporkHack introduces new artifacts that provide diverse character building options. These items are designed to enhance gameplay while maintaining balance, fitting seamlessly into NetHack's existing tactical systems. The artifacts are scaled appropriately for different character development stages.
   
-  **Educational Value:**
-  - **Balance improvement techniques** - Methods for systematic enhancement of established roguelikes
-  - **Level compiler development** - Technical approaches to procedural content creation tools
-  - **Collaborative development** - Multiple developer coordination and shared vision implementation
-  - **Community integration** - Practices for incorporating player feedback into development process
-  - **Technical documentation** - Enhanced DES command implementation and usage
+  ## Community and Distribution
   
-  **Legacy Achievement:** **SporkHack** demonstrates that **careful balance refinement** and **technical enhancement** can **perfect beloved experiences**, proving that **collaborative development** and **systematic improvement** can **address community concerns** while **maintaining authenticity** and **inspiring continued enhancement** of **classic roguelike experiences**.
+  The variant maintains a small but dedicated community that provides feedback and testing. SporkHack is available on public servers including Hardfought, ensuring accessibility to players. As an open source project under the NetHack General Public License, the complete development process is visible on GitHub.
+  
+  ## Design Philosophy
+  
+  All changes in SporkHack are motivated by improving gameplay balance and fairness. The development follows an incremental approach with careful testing to avoid disrupting core gameplay mechanics. The collaborative development model ensures diverse perspectives and expertise contribute to the enhancement process.
+  
+  ## Impact and Legacy
+  
+  SporkHack has influenced other NetHack variant development by demonstrating systematic approaches to balance improvement. The level compiler enhancements have inspired development tools in other roguelike projects. The variant serves as an educational resource for roguelike balance and enhancement techniques.
+  
+  ## Current Status
+  
+  While active development has ceased, SporkHack remains available on public servers and continues to maintain its dedicated player base. The source code availability ensures ongoing community access and potential future development.
 release_date: "2007"
 latest_version: "0.6.5"
 developers:

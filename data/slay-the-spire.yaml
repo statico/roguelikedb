@@ -1,42 +1,25 @@
 name: "Slay the Spire"
 slug: "slay-the-spire"
 description: |
-  **The game that created roguelike deckbuilders** - Mega Crit's revolutionary fusion of **card-based strategy** and **roguelike progression** that **sold over 5 million copies** and spawned an entire subgenre.
+  Slay the Spire is a roguelike deckbuilder game developed and published by Mega Crit Games that combines card-based strategy mechanics with roguelike progression systems. The game has sold over 5 million copies across multiple platforms and is credited with establishing the roguelike deckbuilder subgenre.
   
-  **Commercial Phenomenon & Critical Success:**
-  - **5+ million copies sold** across all platforms by 2024
-  - **'Overwhelmingly Positive' Steam reviews** (97% positive from 100k+ reviews)
-  - **Multiple indie game awards** including IGF Excellence in Design
-  - **Perfect Metacritic scores** across multiple platforms (89-90/100)
+  Commercial Success and Reception:
+  Slay the Spire has sold over 5 million copies across all platforms by 2024. The game has received 'Overwhelmingly Positive' Steam reviews with 97% positive rating from over 100,000 reviews. It has won multiple indie game awards including IGF Excellence in Design and received Metacritic scores of 89-90/100 across multiple platforms.
   
-  **Genre-Defining Innovation:**
-  - **First successful roguelike deckbuilder** - Created entirely new subgenre
-  - **Perfect mechanical fusion** - Card synergies with roguelike permadeath
-  - **Three unique character classes** - Ironclad, Silent, Defect (+ Watcher DLC)
-  - **500+ cards** with complex interaction systems and synergies
-  - **Dynamic difficulty scaling** through Ascension levels 1-20
+  Gameplay Innovation:
+  The game is recognized as the first successful roguelike deckbuilder, creating an entirely new subgenre. It features card synergies combined with roguelike permadeath mechanics. The game includes three unique character classes: Ironclad, Silent, and Defect, with the Watcher added as DLC. Over 500 cards provide complex interaction systems and synergies, with dynamic difficulty scaling through Ascension levels 1-20.
   
-  **Design Excellence:**
-  - **LibGDX Java engine** ensuring smooth cross-platform performance
-  - **Intuitive UI/UX** making complex systems accessible
-  - **Perfect information gameplay** - No hidden mechanics or RNG frustration
-  - **Endless replayability** through card combinations and build paths
+  Technical Design:
+  Slay the Spire uses the LibGDX Java engine ensuring smooth cross-platform performance. The game features intuitive UI/UX that makes complex systems accessible. It provides perfect information gameplay with no hidden mechanics, offering endless replayability through card combinations and build paths.
   
-  **Massive Cultural Impact:**
-  - **Inspired 100+ deckbuilder games** including Monster Train, Griftlands, Dicey Dungeons
-  - **Twitch/YouTube phenomenon** with millions of hours of content creation
-  - **Speedrunning community** with competitive scene and world records
-  - **Modding support** through Steam Workshop with hundreds of custom characters
+  Cultural Impact:
+  The game has inspired over 100 deckbuilder games including Monster Train, Griftlands, and Dicey Dungeons. It became a phenomenon on Twitch and YouTube with millions of hours of content creation. The game has developed a speedrunning community with competitive scene and supports modding through Steam Workshop with hundreds of custom characters.
   
-  **Content Depth:**
-  - **The Watcher character** - Major free DLC adding fourth class
-  - **Daily Climbs** - Competitive challenges with leaderboards
-  - **Custom mode** - Modify rules and difficulty for unique experiences
-  - **Achievement system** encouraging diverse strategies and builds
+  Content Features:
+  The game includes The Watcher character as major free DLC adding a fourth class. Daily Climbs provide competitive challenges with leaderboards. Custom mode allows players to modify rules and difficulty for unique experiences, and an achievement system encourages diverse strategies and builds.
   
-  **Educational Impact:** Studied in game design courses as **perfect example of mechanical synthesis**, showing how two disparate genres (card games + roguelikes) could create something greater than the sum of their parts.
-  
-  **Legacy:** Single-handedly proved **deckbuilders** could be standalone game genres, not just digital adaptations of physical card games. Established template for **roguelike deckbuilder** that dozens of games now follow.
+  Legacy:
+  Slay the Spire is studied in game design courses as an example of mechanical synthesis, demonstrating how card games and roguelikes could be combined effectively. The game proved that deckbuilders could be standalone game genres and established the template for roguelike deckbuilder that numerous games now follow.
 release_date: "2019-01-23"
 latest_version: "2.3.17"
 developers:

@@ -1,47 +1,25 @@
 name: "Darkest Dungeon"
 slug: "darkest-dungeon"
 description: |
-  **The psychological horror roguelite that changed everything** - Red Hook Studios' groundbreaking fusion of **turn-based tactics**, **psychological horror**, and **stress mechanics** that **sold over 5 million copies** and redefined what roguelikes could be.
+  Darkest Dungeon is a turn-based roguelike RPG developed and published by Red Hook Studios, released on January 19, 2016. The game is notable for its integration of psychological stress mechanics alongside traditional dungeon-crawling gameplay, set in a gothic horror atmosphere inspired by the works of H.P. Lovecraft.
   
-  **Revolutionary Stress & Affliction System:**
-  - **First game to simulate psychological trauma** in roguelike context
-  - **100+ stress-based afflictions** affecting character behavior and abilities
-  - **Quirks system** - Permanent positive and negative character traits
-  - **Resolve system** - Characters can become courageous or afflicted under pressure
-  - **Party dynamics** - Stress spreads between party members creating emergent drama
+  ## Gameplay Mechanics
+  The game features a unique stress and affliction system where characters can develop psychological conditions that affect their behavior and abilities. Players manage a roster of heroes across 17 different character classes, each with distinct abilities and roles in combat. The turn-based combat system incorporates positional tactics, with characters arranged in front and back rows affecting their available actions.
   
-  **Commercial & Critical Triumph:**
-  - **5+ million copies sold** across all platforms
-  - **Early Access success story** - Built passionate community during development
-  - **'Very Positive' Steam reviews** (85%+ positive) despite punishing difficulty
-  - **Multiple indie game awards** and critical acclaim
+  ## Stress System
+  Darkest Dungeon's stress mechanics simulate psychological trauma, with characters potentially developing over 100 different afflictions or positive traits based on their experiences. The system includes a quirks system that assigns permanent character traits, and party dynamics where stress can spread between team members during challenging encounters.
   
-  **Artistic & Narrative Excellence:**
-  - **Hand-drawn gothic art** by Chris Bourassa defining distinctive visual identity
-  - **Legendary narrator** - Wayne June's haunting voice acting became iconic
-  - **Lovecraftian atmosphere** with cosmic horror themes
-  - **Comic book art style** bringing static images to life through animation
+  ## Visual and Audio Design
+  The game features hand-drawn gothic artwork by Chris Bourassa in a distinctive comic book style. The narration by Wayne June has been widely praised for its atmospheric contribution to the game's horror themes. The visual design emphasizes dark, medieval aesthetics consistent with cosmic horror literature.
   
-  **Strategic Depth:**
-  - **17 unique character classes** each with 7 combat skills and camping abilities
-  - **Position-based combat** - Front/back row tactics with reach limitations
-  - **Light management** - Darkness increases difficulty but improves rewards
-  - **Hamlet management** - Upgrade buildings, recruit heroes, manage resources
-  - **Curio interactions** - Environmental storytelling through dangerous objects
+  ## Commercial Success and Reception
+  Darkest Dungeon has sold over 5 million copies across multiple platforms and received positive critical reception. The game was initially released through Steam Early Access, building a community during development. It has received several downloadable content expansions and spawned a sequel, Darkest Dungeon II, released in 2023.
   
-  **Massive Content Expansion:**
-  - **The Crimson Court DLC** (2017) - Vampire-themed expansion with new mechanics
-  - **The Shieldbreaker DLC** (2017) - New class with unique mechanics
-  - **The Color of Madness DLC** (2018) - Endless mode and new challenges
-  - **Darkest Dungeon II** (2023) - Full sequel with relationship system
+  ## Cultural Impact
+  The game has been noted for its influence on the integration of psychological mechanics in video games. Several quotes from the game's narrator have become popular internet memes. The game has been subject to academic study regarding its treatment of psychological horror in interactive media and has influenced other developers' approaches to stress and mental health mechanics in games.
   
-  **Cultural Impact:**
-  - **Meme phenomenon** - 'Overconfidence is a slow and insidious killer' became internet culture
-  - **Influenced AAA development** - Stress mechanics adopted by larger studios
-  - **Academic study subject** for psychological horror in games
-  - **Streaming/YouTube goldmine** - Dramatic moments perfect for content creation
-  
-  **Legacy Innovation:** Proved **emotional states** and **psychological realism** could be core mechanical systems, not just narrative flavor. Established **stress management** as legitimate strategic layer in roguelike design.
+  ## Legacy
+  Darkest Dungeon established psychological stress management as a viable strategic element in roguelike design. The game demonstrated that emotional states could function as core mechanical systems rather than purely narrative elements, influencing subsequent development in the genre.
 release_date: "2016-01-19"
 latest_version: "24787"
 developers:

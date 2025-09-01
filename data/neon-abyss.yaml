@@ -1,14 +1,14 @@
 name: "Neon Abyss"
 slug: "neon-abyss"
 description: |
-  **The cyberpunk chaos masterpiece** - Veewo Games' **frenetic achievement** that created an **explosive bullet hell roguelite** featuring **weapon stacking modifiers**, **pet collection systems**, **destructible environments**, **cyberpunk aesthetic**, and **Team17 publishing support** proving that **intense action gameplay** can **combine multiple complex systems** while **creating accessible yet challenging experiences** through **rapid-fire roguelike innovation**.
+  Neon Abyss is a bullet hell roguelite developed by Veewo Games and published by Team17, released on July 14, 2020. The game features cyberpunk aesthetics, weapon modification systems, pet collection mechanics, and destructible environments. With Very Positive Steam reviews (83%) and active development, it represents a successful fusion of bullet hell and roguelite mechanics.
   
-  **Cyberpunk Action Innovation (2020):**
-  - **Fast-paced bullet hell design** - Revolutionary combination of bullet hell intensity with roguelite progression systems
-  - **July 14, 2020 release** - Multi-platform launch bringing cyberpunk chaos to global action roguelike audiences
-  - **Veewo Games creativity** - Chinese developers creating internationally successful action-focused roguelike innovation
-  - **Team17 publishing excellence** - Professional publishing partnership enabling global reach and marketing support
-  - **Medium community formation** - Dedicated players embracing intense action and complex modification systems
+  **Development and Reception:**
+  - Combines bullet hell mechanics with roguelite progression systems
+  - Multi-platform release across Windows, PlayStation, Xbox, and Nintendo Switch
+  - Developed by Chinese studio Veewo Games with international distribution
+  - Published by Team17 providing marketing and distribution support
+  - Achieved commercial success with dedicated player community
   
   **Weapon Modifier System Excellence:**
   - **Stacking modification mechanics** - Multiple weapon modifiers combining for exponential power and variety
@@ -94,7 +94,7 @@ description: |
   - **Pet system integration** - Adding companion mechanics without overwhelming core gameplay
   - **Bullet hell accessibility** - Making challenging mechanics approachable through roguelike frameworks
   
-  **Legacy Achievement:** **Neon Abyss** demonstrates that **complex action systems** can **coexist harmoniously**, proving that **weapon modifiers**, **pet collection**, and **environmental destruction** can **create intense experiences** that **serve dedicated communities** while **advancing bullet hell innovation** and **international development collaboration**.
+  **Legacy:** Neon Abyss demonstrates successful integration of multiple complex systems within bullet hell roguelite design. The game's combination of weapon modification, pet collection, and environmental destruction has influenced other action roguelites and showcased effective international game development collaboration.
 release_date: "2020-07-14"
 latest_version: "1.3.1.2"
 developers:

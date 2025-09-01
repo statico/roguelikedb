@@ -1,86 +1,31 @@
 name: "Cataclysm: Dark Days Ahead"
 slug: "cataclysm-dda"
 description: |
-  **The survival simulation pinnacle** - The **most comprehensively detailed survival simulation ever created**, featuring **unprecedented crafting depth**, **vehicle construction systems**, **post-apocalyptic world building**, and **community-driven development** that transforms **traditional roguelike gameplay** into an **authentic survival experience** of **extraordinary complexity**.
+  Cataclysm: Dark Days Ahead is an open-source post-apocalyptic survival roguelike that emphasizes detailed simulation systems and complex crafting mechanics.
   
-  **Unmatched Crafting & Production Systems:**
-  - **15,000+ craftable items** - From basic tools to advanced electronics and chemical compounds
-  - **Realistic recipe requirements** - Authentic materials, tools, and skill prerequisites for every creation
-  - **Multi-stage production chains** - Complex manufacturing processes requiring multiple intermediate steps
-  - **Quality system depth** - Item condition affecting performance with repair and maintenance mechanics
-  - **Seasonal availability** - Resource availability changing with weather and environmental conditions
+  ## Crafting and Production Systems
+  The game features over 15,000 craftable items ranging from basic tools to advanced electronics and chemical compounds. Recipe requirements include authentic materials, tools, and skill prerequisites. The production system includes multi-stage manufacturing processes with quality systems affecting item performance. Resource availability changes with seasonal and environmental conditions.
   
-  **Revolutionary Vehicle Construction:**
-  - **Modular vehicle design** - Build anything from bicycles to massive mobile fortresses
-  - **Component-based engineering** - Engines, wheels, armor, and electronics with realistic physics
-  - **Fuel system complexity** - Multiple fuel types with consumption rates and engine compatibility
-  - **Vehicle modification freedom** - Complete customization including size, shape, and functionality
-  - **Collision simulation** - Detailed damage modeling for vehicles and environmental interaction
+  ## Vehicle Construction
+  Players can construct modular vehicles from bicycles to large mobile bases using component-based engineering. The system includes engines, wheels, armor, and electronics with realistic physics simulation. Multiple fuel types exist with specific consumption rates and engine compatibility. Vehicles can be completely customized for size, shape, and functionality, with detailed collision and damage modeling.
   
-  **Post-Apocalyptic World Excellence:**
-  - **The Cataclysm lore** - Rich backstory explaining the zombie apocalypse and ongoing mutations
-  - **Faction diversity** - Multiple survivor groups with distinct goals, technologies, and territories
-  - **Dynamic world events** - Ongoing changes and developments affecting gameplay environment
-  - **Mutation system depth** - Character evolution through genetic modification and adaptation
-  - **Environmental hazards** - Radiation, toxic waste, extreme weather, and evolving threats
+  ## World and Setting
+  The game features a rich backstory explaining the zombie apocalypse and ongoing mutations. Multiple survivor factions exist with distinct goals, technologies, and territories. Dynamic world events create ongoing changes in the gameplay environment. The mutation system allows character evolution through genetic modification, while environmental hazards include radiation, toxic waste, extreme weather, and evolving threats.
   
-  **Community Development Model:**
-  - **Open source excellence** - Thousands of contributors improving game through collaborative development
-  - **GitHub integration** - Professional development workflow with issue tracking and code review
-  - **Rapid feature development** - Weekly updates with new content, fixes, and system improvements
-  - **Accessibility focus** - Community working to make complex systems more approachable
-  - **Documentation culture** - Comprehensive guides and wikis maintained by volunteer contributors
+  ## Development Model
+  The project operates as open source with thousands of contributors using GitHub for development workflow with issue tracking and code review. The game receives weekly updates with new content, fixes, and system improvements. The community focuses on accessibility and maintains comprehensive documentation and guides.
   
-  **Survival Realism Innovation:**
-  - **Biological needs simulation** - Hunger, thirst, sleep, pain, and disease with medical accuracy
-  - **Clothing system depth** - Layered clothing with temperature regulation, protection, and encumbrance
-  - **Skill development realism** - Hundreds of skills improving through practical use and study
-  - **Combat injury detail** - Anatomical damage system with bleeding, broken bones, and infection
-  - **Mental health modeling** - Morale, depression, and psychological effects of survival stress
+  ## Survival Systems
+  The game simulates biological needs including hunger, thirst, sleep, pain, and disease. The clothing system features layered clothing with temperature regulation, protection, and encumbrance effects. Hundreds of skills improve through practical use and study. Combat includes an anatomical damage system with bleeding, broken bones, and infection. Mental health is modeled through morale, depression, and psychological effects.
   
-  **Base Building & Settlement:**
-  - **Construction system freedom** - Build anything from simple shelters to multi-story complexes
-  - **Resource management** - Gathering, processing, and storage systems for long-term survival
-  - **NPC recruitment** - Build communities with specialized roles and relationships
-  - **Fortification options** - Defensive structures protecting against zombie hordes and human threats
-  - **Power generation** - Solar panels, generators, and electrical systems powering advanced equipment
+  ## Base Building and Settlement
+  Players can construct anything from simple shelters to multi-story complexes. The resource management system covers gathering, processing, and storage for long-term survival. NPCs can be recruited to build communities with specialized roles. Fortification options protect against zombie hordes and human threats. Power generation includes solar panels, generators, and electrical systems.
   
-  **Technical Achievement:**
-  - **C++ codebase excellence** - High-performance simulation of enormous complexity
-  - **Cross-platform support** - Windows, Linux, macOS, Android, and iOS compatibility
-  - **Save system reliability** - Preserving vast amounts of world state and character data
-  - **Modding architecture** - JSON-based systems enabling easy content modification
-  - **Performance optimization** - Smooth gameplay despite simulating thousands of entities
+  ## Technical Features
+  Built with C++, the game provides high-performance simulation across Windows, Linux, macOS, Android, and iOS. The save system preserves large amounts of world state and character data. JSON-based modding systems enable easy content modification while maintaining smooth gameplay despite simulating thousands of entities.
   
-  **Educational & Research Value:**
-  - **Simulation methodology** - Advanced modeling of complex systems and interactions
-  - **Open source development** - Model for collaborative game development at scale
-  - **Survival knowledge** - Realistic information about crafting, survival, and self-sufficiency
-  - **Community management** - Successful coordination of large volunteer development teams
-  - **Game design philosophy** - Complexity embraced rather than simplified for accessibility
-  
-  **Cultural Impact:**
-  - **Simulation gaming standard** - Benchmark for depth and authenticity in survival games
-  - **Open source gaming** - Proof that community development can rival commercial production
-  - **Educational gaming** - Teaching practical skills through realistic simulation
-  - **Accessibility advancement** - Community efforts making complex games more inclusive
-  - **Long-term sustainability** - Model for projects surviving and thriving across decades
-  
-  **Content & Feature Depth:**
-  - **Laboratory exploration** - Scientific facilities with advanced equipment and research
-  - **Underground systems** - Subway tunnels, sewers, and bunkers creating vertical world complexity
-  - **Seasonal gameplay** - Weather systems affecting strategy, resources, and survival challenges
-  - **Character backgrounds** - Starting professions affecting initial skills and equipment
-  - **End-game content** - Advanced challenges and objectives for long-term character development
-  
-  **Community Excellence:**
-  - **Tutorial development** - Community-created guides reducing learning curve for newcomers
-  - **Translation efforts** - Multi-language support expanding global accessibility
-  - **Streaming culture** - Content creators showcasing incredible emergent gameplay moments
-  - **Strategy sharing** - Forums and wikis preserving community knowledge and discoveries
-  - **Bug reporting culture** - Active community participation in quality assurance and testing
-  
-  **Philosophical Achievement:** **Cataclysm: Dark Days Ahead** demonstrates that **open source collaboration** can create **gaming experiences** of **unprecedented depth and authenticity**, proving that **community passion** and **collaborative development** can achieve **simulation complexity** that **exceeds commercial productions** while maintaining **complete accessibility** and **continuous improvement**.
+  ## Content and Features
+  The game includes laboratory exploration with scientific facilities, underground systems like subway tunnels and bunkers, seasonal gameplay with weather effects, character backgrounds affecting initial skills and equipment, and advanced end-game challenges for long-term character development.
 release_date: "2013-02-26"
 latest_version: "0.H Herbert"
 developers:

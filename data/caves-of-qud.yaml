@@ -1,35 +1,22 @@
 name: "Caves of Qud"
 slug: "caves-of-qud"
 description: |
-  **The most critically acclaimed modern roguelike** - A science fantasy masterpiece by **Freehold Games** that achieved **full 1.0 release on December 5, 2024** after nearly **17 years of development** starting in 2007.
+  Caves of Qud is a science fantasy roguelike developed by Freehold Games, reaching full version 1.0 on December 5, 2024, after development beginning in 2007.
   
-  **Unprecedented Critical Success:**
-  - **IGF 2025 Excellence in Narrative Award** - First roguelike to win major narrative honor
-  - **2025 Hugo Award for Best Game** - Science fiction's most prestigious award
-  - **D.I.C.E. Award nomination** for Outstanding Achievement in Indie Game Development  
-  - **91/100 Metacritic score** with universal critical acclaim
-  - **100% positive recommendations** on OpenCritic
+  ## Critical Reception
+  The game received the IGF 2025 Excellence in Narrative Award, marking the first time a roguelike has won this major narrative honor. It also won the 2025 Hugo Award for Best Game and received a D.I.C.E. Award nomination for Outstanding Achievement in Indie Game Development. The game achieved a 91/100 score on Metacritic with 100% positive recommendations on OpenCritic.
   
-  **Revolutionary World Design:**
-  - **Partially pre-made, partially procedural** open world with simulation-driven history
-  - **Complex faction reputation system** affecting entire world state
-  - **Living ecosystem** where every creature has needs, relationships, and purposes
-  - **Deep lore** spanning thousands of years of post-apocalyptic history
-  - **Procedural generation** integrated with authored content seamlessly
+  ## World Design
+  The game features a partially pre-made, partially procedural open world with simulation-driven history. A complex faction reputation system affects the entire world state, creating a living ecosystem where every creature has needs, relationships, and purposes. The game's lore spans thousands of years of post-apocalyptic history, with procedural generation seamlessly integrated with authored content.
   
-  **Innovative Character System:**
-  - **True Kin vs. Mutant choice** - Humans with cybernetics or beings with mutations
-  - **Physical and mental mutations** - Over 70 unique mutations affecting gameplay
-  - **Skill system** with water ritual learning from creatures and NPCs
-  - **Body part simulation** - Individual limbs, organs, and systems tracked
+  ## Character System
+  Players choose between True Kin (humans with cybernetic enhancements) or Mutants (beings with genetic mutations). The game features over 70 unique physical and mental mutations that affect gameplay. The skill system allows players to learn from creatures and NPCs through water rituals, while individual body parts, limbs, organs, and systems are tracked through detailed simulation.
   
-  **Technical Excellence:**
-  - **Unity engine** delivering smooth performance across platforms
-  - **ASCII and tile graphics options** with beautiful character portraits
-  - **Modding support** with active community creating content
-  - **Multi-platform release** - Windows, macOS, Linux with controller support
+  ## Technical Features
+  Built using the Unity engine, the game offers both ASCII and tile graphics options with character portraits. It supports modding and is available on Windows, macOS, and Linux with controller support.
   
-  **Development Team:** Led by **Brian Bucklew**, **Jason Grinblat**, **Caelyn Sandel**, and **Nick DeCapua** based in South Bend, IN and Berkeley, CA, with art by **Samuel Wilson** and **Cyril van der Haegen**, plus music from **Craigory Hamilton** and **Brandon Tanner**.
+  ## Development Team
+  The development team is led by Brian Bucklew, Jason Grinblat, Caelyn Sandel, and Nick DeCapua, based in South Bend, IN and Berkeley, CA. Art is provided by Samuel Wilson and Cyril van der Haegen, with music composed by Craigory Hamilton and Brandon Tanner.
 release_date: "2015-07-15"
 latest_version: "2.0.206.60"
 developers:

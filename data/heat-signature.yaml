@@ -1,62 +1,31 @@
 name: "Heat Signature"
 slug: "heat-signature"
 description: |
-  **The spaceship infiltration roguelike** - Suspicious Developments' innovative **stealth-action** game featuring **procedural spaceship infiltration**, **emergent storytelling**, and **creative problem-solving** in deep space environments.
+  Heat Signature is a stealth-action roguelike developed by Suspicious Developments, released in 2017. The game features procedural spaceship infiltration with emergent storytelling and creative problem-solving mechanics set in deep space environments.
   
-  **Revolutionary Stealth-Roguelike Design:**
-  - **Procedural spaceship layouts** - Every mission features unique ship designs
-  - **Real-time stealth mechanics** - Pause-and-plan tactical infiltration
-  - **Emergent storytelling** - Player actions create memorable narrative moments
-  - **Creative problem solving** - Multiple solutions for every infiltration challenge
-  - **Spaceship hijacking** - Steal vessels and use them for future missions
+  ## Gameplay Mechanics
   
-  **Innovative Mission Structure:**
-  - **Procedural contracts** - Randomly generated objectives and constraints
-  - **Target variety** - Rescue missions, assassinations, theft, sabotage
-  - **Ship complexity scaling** - From simple shuttles to massive battle cruisers
-  - **Dynamic enemy AI** - Guards with realistic behavior patterns and communication
-  - **Environmental interaction** - Use ship systems, airlocks, and gravity against enemies
+  Heat Signature combines real-time stealth mechanics with pause-and-plan tactical infiltration across procedurally generated spaceship layouts. Each mission features unique ship designs with randomly generated objectives including rescue missions, assassinations, theft, and sabotage. Players can hijack vessels and use them for future missions while navigating ship complexity that scales from simple shuttles to massive battle cruisers.
   
-  **Developer Pedigree:**
-  - **Suspicious Developments** - Creators of Gunpoint
-  - **Tom Francis design** - Known for innovative indie game mechanics
-  - **Steam Deck optimization** - Verified compatibility with portable play
-  - **Linux and Mac support** - Full cross-platform development
+  ## Technical Implementation
   
-  **Emergent Gameplay Excellence:**
-  - **Improvised solutions** - Plans rarely survive contact with reality
-  - **Comedic failures** - Mistakes create hilarious and memorable moments
-  - **Tool creativity** - Weapons and gadgets used in unexpected ways
-  - **Player agency** - Complete freedom in approach and execution
-  - **Replay variety** - Same objectives played completely differently
+  Built using the Unity engine, the game features seamless ship-to-ship movement with realistic space physics including zero-gravity movement and momentum. Dynamic lighting systems affect stealth gameplay through shadows and visibility mechanics. The modular ship generation creates procedural layouts while maintaining hand-crafted feel, with performance optimization ensuring smooth operation of complex systems.
   
-  **Technical Innovation:**
-  - **Seamless ship-to-ship movement** - Smooth transitions between vessels
-  - **Realistic space physics** - Zero-gravity movement and momentum
-  - **Dynamic lighting** - Shadows and visibility affecting stealth gameplay
-  - **Modular ship generation** - Procedural layouts that feel hand-crafted
-  - **Performance optimization** - Complex systems running smoothly
+  ## Developer Background
   
-  **Community & Cultural Impact:**
-  - **Streaming phenomenon** - Perfect for content creation with dramatic moments
-  - **GIF culture** - Short clips of creative solutions went viral
-  - **Developer transparency** - Open development blogs sharing design insights
-  - **Educational value** - Teaches systems thinking and creative problem-solving
+  Suspicious Developments, creators of Gunpoint, developed Heat Signature with Tom Francis leading design. The studio is known for innovative indie game mechanics and maintains cross-platform support including Windows, macOS, and Linux systems with Steam Deck optimization.
   
-  **Critical Reception:**
-  - **Positive reviews** - Praised for innovation and emergent gameplay
-  - **Indie game awards** - Recognition for creative mechanics and design
-  - **Cult following** - Dedicated community appreciating unique mechanics
-  - **Developer communication** - Active engagement with player feedback
+  ## Emergent Gameplay
   
-  **Unique Selling Points:**
-  - **No two missions identical** - Procedural generation ensures constant novelty
-  - **Pause-and-plan combat** - Tactical depth without requiring quick reflexes  
-  - **Narrative emergence** - Stories arise from player actions, not scripted events
-  - **Creative encouragement** - Game rewards unconventional thinking
-  - **Accessibility through difficulty** - Pause system accommodates different skill levels
+  The game emphasizes improvised solutions where plans rarely survive initial contact with mission realities. Creative problem-solving is encouraged through multiple approaches to every challenge, with weapons and gadgets used in unexpected ways. Player agency allows complete freedom in approach and execution, ensuring significant replay variety for identical objectives.
   
-  **Legacy Impact:** Demonstrated that **stealth mechanics** could be successfully integrated with **roguelike generation** to create **emergent narrative experiences**, inspiring developers to explore **systematic approaches** to **procedural storytelling**.
+  ## Community Reception and Impact
+  
+  Heat Signature received positive reviews praising its innovation and emergent gameplay, gaining recognition through indie game awards. The game became popular for content creation due to dramatic moments and creative solutions that often became viral social media content. A dedicated community appreciates the unique mechanics and systems thinking that the game teaches.
+  
+  ## Cultural Influence
+  
+  The game demonstrated that stealth mechanics could be successfully integrated with roguelike generation to create emergent narrative experiences. Its approach to procedural storytelling through player actions rather than scripted events has influenced other developers exploring systematic approaches to narrative emergence in games.
 release_date: "2017-09-21"
 latest_version: "1.16"
 developers:

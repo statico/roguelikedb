@@ -1,14 +1,14 @@
 name: "Hellband"
 slug: "hellband"
 description: |
-  **The infernal atmosphere masterpiece** - Konijn's **dark achievement** that transformed the **Angband framework** into a **hell-themed horror experience**, featuring **demonic creatures**, **infernal settings**, and **darker atmosphere** that proved **traditional roguelike mechanics** could **support horror themes** while **creating atmospheric tension** and **exploring demonic mythology** within **strategic dungeon crawling**.
+  Hellband is an Angband variant developed by Konijn in 2004, featuring a hell-themed setting with demonic creatures and horror atmosphere. The variant maintains traditional Angband gameplay while transforming the visual and thematic elements to create an infernal dungeon-crawling experience.
   
-  **Hell-Themed Innovation (2004):**
-  - **Infernal atmosphere creation** - Complete transformation of Angband's fantasy setting into horrific demonic realm
-  - **Demonic creature design** - Extensive bestiary of hellish monsters with authentic mythological inspiration
-  - **Horror theme integration** - Atmospheric elements creating tension and dread within tactical gameplay
-  - **Dark aesthetic coherence** - All visual and narrative elements supporting unified infernal vision
-  - **Mid-2000s thematic exploration** - Part of Angband variant wave exploring alternative fantasy settings
+  **Thematic Design:**
+  - Complete conversion of Angband's fantasy setting to an infernal theme
+  - Extensive bestiary featuring demons and hellish creatures
+  - Horror atmosphere integrated with traditional turn-based mechanics
+  - Consistent dark aesthetic throughout visual and narrative elements
+  - Representative of mid-2000s trend toward thematically specialized Angband variants
   
   **Atmospheric Horror Achievement:**
   - **Psychological tension** - Horror elements creating emotional investment beyond traditional tactical challenge
@@ -80,7 +80,7 @@ description: |
   - **Atmospheric programming** - Technical implementation of mood and tension within tactical gameplay
   - **Community development** - Collaborative approaches to thematic enhancement and modification
   
-  **Legacy Achievement:** **Hellband** demonstrates that **horror themes** and **atmospheric design** can **enhance traditional mechanics**, proving that **demonic mythology** and **infernal atmosphere** can create **compelling gaming experiences** while **expanding genre boundaries** and **inspiring atmospheric exploration** within **tactical roguelike development**.
+  **Legacy:** Hellband demonstrates the successful integration of horror themes with traditional roguelike mechanics. The variant showed how established gameplay systems could support dramatically different atmospheric presentations, influencing other thematically-focused Angband variants and contributing to genre diversity.
 release_date: "2004"
 developers:
   - "Konijn"

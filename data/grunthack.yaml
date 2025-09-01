@@ -1,21 +1,21 @@
 name: "GruntHack"
 slug: "grunthack"
 description: |
-  **The challenge enhancement masterpiece** - Jason McIntosh (grunt) and GruntHack Contributors' **ambitious achievement** that created a **harder NetHack variant** featuring **challenging Sokoban variants**, **redesigned quest levels**, **color alchemy**, **gem alchemy**, and **advanced dungeon features** proving that **systematic difficulty enhancement** can **deepen beloved roguelikes** while **maintaining fairness** and **inspiring dedicated communities**.
+  GruntHack is a NetHack variant developed by Jason McIntosh and contributors, first released in 2015. The variant focuses on increasing NetHack's difficulty while maintaining gameplay fairness, featuring enhanced Sokoban puzzles, redesigned quest levels, and new alchemy systems.
   
-  **Difficulty Enhancement Excellence (2015):**
-  - **Harder challenge philosophy** - Systematic approach to increasing NetHack difficulty without compromising fairness
-  - **Sokoban variant complexity** - Enhanced puzzle chambers creating more demanding strategic challenges
-  - **Quest level redesign** - Knight and Caveman jungle areas completely reimagined with increased complexity
-  - **Version 0.3.0 evolution** - Active development with careful incremental challenge improvements
-  - **Community feedback integration** - Player testing ensuring enhanced difficulty remains enjoyable
+  **Development and Features:**
+  - Enhanced difficulty systems designed to challenge experienced NetHack players
+  - Modified Sokoban levels with increased complexity and puzzle variety
+  - Redesigned quest areas for Knight and Caveman classes with jungle environments
+  - Regular development updates incorporating community feedback
+  - Active maintenance with version 0.3.0 and ongoing improvements
   
-  **Sokoban Innovation:**
-  - **Puzzle variant system** - Multiple Sokoban configurations creating unpredictable challenge variety
-  - **Strategic complexity** - Enhanced box-pushing puzzles requiring deeper analysis and planning
-  - **Challenge scaling** - Difficulty progression ensuring appropriate challenge for character development
-  - **Creative level design** - Innovative puzzle mechanics exploring new Sokoban possibilities
-  - **Frustration prevention** - Hard but fair puzzle design avoiding cheap or impossible situations
+  **Sokoban Enhancements:**
+  - Multiple puzzle configurations providing varied challenges
+  - Complex box-pushing mechanics requiring strategic planning
+  - Difficulty scaling appropriate for character progression
+  - New puzzle designs expanding traditional Sokoban concepts
+  - Balanced design ensuring puzzles remain solvable
   
   **Quest Level Redesign:**
   - **Knight quest enhancement** - Completely reimagined areas with increased tactical complexity
@@ -87,7 +87,7 @@ description: |
   - **Community development** - Collaborative practices for challenge-focused game enhancement
   - **Balance maintenance** - Preserving fairness while significantly increasing difficulty
   
-  **Legacy Achievement:** **GruntHack** demonstrates that **systematic challenge enhancement** can **deepen beloved experiences**, proving that **fair difficulty increase** and **complex systems** can **create rewarding experiences** for **dedicated players** while **inspiring continued exploration** of **advanced roguelike challenge design**.
+  **Legacy:** GruntHack demonstrates successful difficulty enhancement in roguelike design, showing how systematic changes can create more challenging experiences while maintaining game balance. The variant has influenced other NetHack modifications and contributed to discussions about fair difficulty scaling in roguelike games.
 release_date: "2015"
 latest_version: "0.3.0"
 developers:

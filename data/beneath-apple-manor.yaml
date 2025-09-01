@@ -1,79 +1,25 @@
 name: "Beneath Apple Manor"
 slug: "beneath-apple-manor"
 description: |
-  **The commercial procedural pioneer** - Don Worth's **revolutionary achievement** that created the **first commercial game with random dungeons**, establishing **procedural generation** in **retail gaming** two years before Rogue and proving that **innovative algorithms** could **create infinite replayability** while **building successful business models** around **emergent gameplay experiences**.
-  
-  **Commercial Procedural Generation Revolution (1978):**
-  - **First commercial random dungeons** - Pioneering procedural generation in retail gaming market
-  - **Apple II optimization** - Advanced algorithms running efficiently on home computers
-  - **Infinite replayability** - Random layouts ensuring unique experiences with every playthrough
-  - **Pre-Rogue innovation** - Procedural mechanics developed independently, predating university Rogue
-  - **Technical achievement** - Complex generation systems within severe hardware limitations
-  
-  **Apple II Platform Mastery:**
-  - **BASIC and assembly hybrid** - Optimal performance combining accessible programming with speed optimization
-  - **48KB memory efficiency** - Sophisticated game systems within minimal hardware constraints
-  - **Floppy disk storage** - Complete game experience distributed through emerging retail channels
-  - **Graphics innovation** - Effective ASCII-based presentation on early color computers
-  - **User interface excellence** - Intuitive controls adapted for home computer keyboards
-  
-  **Commercial Gaming Innovation:**
-  - **Retail distribution success** - Proving procedural games could succeed in commercial markets
-  - **The Software Factory publishing** - Professional development and marketing approach
-  - **Special Edition enhancement (1982)** - Continued development and improvement over multiple years
-  - **Business model validation** - Random content creating sustainable commercial value
-  - **Market expansion** - Introducing procedural concepts to mainstream gaming audiences
-  
-  **Procedural Generation Excellence:**
-  - **Dungeon layout algorithms** - Complex mathematical systems creating varied architectural experiences
-  - **Monster placement systems** - Dynamic enemy distribution ensuring balanced challenge
-  - **Treasure generation** - Random item placement creating exploration motivation
-  - **Difficulty scaling** - Procedural systems adapting challenge to player progress
-  - **Structural coherence** - Random generation maintaining logical dungeon architecture
-  
-  **Technical Innovation Achievement:**
-  - **Memory optimization mastery** - Maximum game complexity within 48KB limitations
-  - **Algorithm efficiency** - Fast generation systems enabling real-time dungeon creation
-  - **Save system reliability** - Character and progress preservation across play sessions
-  - **Graphics processing** - Effective visual presentation on limited hardware capabilities
-  - **Input handling** - Responsive controls optimized for Apple II keyboard interface
-  
-  **Cultural Gaming Impact:**
-  - **Commercial precedent** - Establishing procedural generation as viable retail gaming feature
-  - **Home computer validation** - Proving sophisticated games could succeed on personal computers
-  - **Genre foundation** - Mechanical innovations adopted throughout roguelike development
-  - **Market influence** - Demonstrating consumer appetite for replayable gaming experiences
-  - **Educational value** - Teaching players about emergent gameplay and systemic thinking
-  
-  **Design Philosophy:**
-  - **Emergent gameplay focus** - Systems creating unpredictable and varied experiences
-  - **Replayability emphasis** - Design prioritizing long-term player engagement through variety
-  - **Technical excellence** - Maximum sophistication within hardware constraints
-  - **Commercial viability** - Balancing innovation with market accessibility and appeal
-  - **Player empowerment** - Systems enabling creative problem-solving and adaptation
-  
-  **Historical Significance:**
-  - **Procedural gaming milestone** - Critical moment in algorithmic game development history
-  - **Commercial gaming evolution** - Bridge between arcade games and complex home experiences
-  - **Apple II gaming culture** - Important contribution to early personal computer entertainment
-  - **Genre establishment** - Mechanical foundations influencing decades of roguelike development
-  - **Innovation documentation** - Preserved example of early procedural programming techniques
-  
-  **Preservation & Legacy:**
-  - **Emulation accessibility** - Modern availability through Apple II simulators and archives
-  - **Educational resource** - Historical example of early procedural programming methods
-  - **Cultural preservation** - Maintaining access to foundational commercial gaming experience
-  - **Technical documentation** - BASIC and assembly code demonstrating 1970s optimization techniques
-  - **Historical research value** - Primary source for studying early game development practices
-  
-  **Educational Value:**
-  - **Early commercial development** - Complete example of late 1970s game programming practices
-  - **Procedural generation techniques** - Foundational algorithms for random content creation
-  - **Platform optimization** - Methods for maximizing performance on limited hardware
-  - **Commercial game design** - Balancing innovation with market accessibility
-  - **Historical gaming culture** - Understanding early personal computer entertainment industry
-  
-  **Legacy Achievement:** **Beneath Apple Manor** demonstrates that **commercial innovation** and **technical excellence** can **establish entire gaming paradigms**, proving that **procedural systems** and **entrepreneurial vision** can create **lasting entertainment value** while **inspiring generations of developers** to **explore emergent gameplay possibilities**.
+  Beneath Apple Manor is a computer game developed by Don Worth and published by The Software Factory in 1978. It was one of the first commercial games to feature procedurally generated dungeons, predating the more widely known Rogue by two years.
+
+  Development and History:
+  The game was created by Don Worth for the Apple II computer using a combination of BASIC and assembly language. It was distributed on floppy disk and required 48KB of memory to run. A Special Edition was released in 1982 with various improvements and enhancements.
+
+  Gameplay:
+  The game features randomly generated dungeon layouts, ensuring different experiences with each playthrough. Players navigate through ASCII-based dungeons, fighting monsters and collecting treasures. The procedural generation system creates varied dungeon architectures while maintaining logical layouts.
+
+  Technical Implementation:
+  Written primarily in BASIC with assembly language routines for performance optimization, the game maximized the Apple II's limited capabilities. The random generation algorithms were sophisticated for their time, creating complex dungeon systems within strict memory constraints of 48KB.
+
+  Historical Significance:
+  Beneath Apple Manor was notable for being the first commercial game to use procedural dungeon generation. This innovation preceded university-developed games like Rogue and helped establish procedural generation as a viable commercial gaming feature. The game demonstrated that home computers could support complex gaming experiences.
+
+  Legacy and Influence:
+  The game's use of procedural generation influenced later roguelike development and helped establish the concept of replayable content through algorithmic generation. It served as an early example of successful commercial game development for personal computers.
+
+  Preservation:
+  The game is available today through Apple II emulators and retrogaming archives. It remains an important historical artifact representing early personal computer game development and the origins of procedural content generation in commercial gaming.
 release_date: "1978"
 latest_version: "Special Edition (1982)"
 developers:

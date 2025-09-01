@@ -1,93 +1,28 @@
 name: "Etrian Mystery Dungeon"
 slug: "etrian-mystery-dungeon"
 description: |
-  **The crossover masterpiece** - Atlus and Spike Chunsoft's **collaborative achievement** that created a **unique fusion** of **Etrian Odyssey** and **Mystery Dungeon series**, combining **party-based exploration**, **deep character customization**, **skill trees**, and **traditional roguelike mechanics** with **up to 4-person parties** proving that **series crossovers** can **create innovative experiences** while **honoring both franchises** and **appealing to diverse audiences**.
+  Etrian Mystery Dungeon is a dungeon-crawling RPG developed through a collaboration between Atlus and Spike Chunsoft, released for the Nintendo 3DS on March 5, 2015. The game combines elements from the Etrian Odyssey series with mechanics from the Mystery Dungeon franchise.
   
-  **Series Crossover Innovation (2015):**
-  - **Unique franchise fusion** - Revolutionary combination of two beloved dungeon-crawling series
-  - **Atlus-Spike Chunsoft collaboration** - Major developers working together to create crossover experience
-  - **March 5, 2015 release** - Nintendo 3DS launch bringing crossover concept to handheld audiences
-  - **Hard difficulty balance** - Challenge level honoring both series' reputation for demanding gameplay
-  - **Medium community formation** - Dedicated players appreciating unique fusion of familiar mechanics
+  ## Gameplay Mechanics
+  The game features party-based exploration with up to four-person teams, incorporating traditional roguelike elements such as turn-based combat, grid-based movement, and procedural dungeon generation. The party system enables complex tactical coordination and team management strategies.
   
-  **Party-Based Exploration Excellence:**
-  - **4-person party system** - Multi-character teams enabling complex tactical coordination
-  - **Etrian Odyssey party mechanics** - Formation strategy and character role specialization
-  - **Mystery Dungeon exploration** - Traditional roguelike navigation with party-based enhancements
-  - **Coordination complexity** - Team management requiring strategic planning and execution
-  - **Tactical depth** - Party interactions creating layers of strategic decision-making
+  ## Character Systems
+  Etrian Mystery Dungeon includes the character class system from the Etrian Odyssey series, featuring extensive skill trees and branching advancement paths. Players can customize party members through deep character creation options and develop specialized roles within their teams.
   
-  **Character Customization Mastery:**
-  - **Deep character creation** - Extensive options for personalizing party members
-  - **Etrian Odyssey class system** - Traditional job classes with specialized abilities and roles
-  - **Skill tree progression** - Complex advancement systems enabling character specialization
-  - **Build variety** - Multiple viable approaches to character development and party composition
-  - **Long-term progression** - Character growth supporting extended gameplay and investment
+  ## Development Collaboration
+  The game represents a unique collaboration between two major Japanese developers, combining Atlus's experience with the Etrian Odyssey franchise and Spike Chunsoft's expertise in Mystery Dungeon games. This crossover approach aimed to create a unified experience while respecting the traditions of both series.
   
-  **Skill System Integration:**
-  - **Comprehensive skill trees** - Branching advancement paths providing meaningful choice
-  - **Class specialization** - Each job offering distinct abilities and tactical contributions
-  - **Skill synergy** - Character abilities working together for enhanced party effectiveness
-  - **Strategic planning** - Skill allocation requiring careful consideration and long-term thinking
-  - **Customization depth** - Extensive options for tailoring characters to specific roles and strategies
+  ## Technical Implementation
+  The game was developed specifically for the Nintendo 3DS, utilizing the platform's dual-screen interface for enhanced information display and party management. The implementation includes comprehensive content within the 3DS cartridge format limitations.
   
-  **Traditional Roguelike Preservation:**
-  - **Turn-based tactical combat** - Classic roguelike timing and strategic planning
-  - **Grid-based movement** - Traditional navigation systems preserved within party context
-  - **Procedural generation** - Random dungeon layouts ensuring varied exploration experiences
-  - **Permadeath stakes** - Meaningful consequences creating tension and investment
-  - **Resource management** - Traditional roguelike survival elements enhanced by party dynamics
+  ## Difficulty and Challenge
+  Etrian Mystery Dungeon maintains the challenging difficulty characteristic of both parent series, featuring strategic complexity through party management combined with traditional roguelike elements. The game requires mastery of mechanical concepts from both franchises.
   
-  **Technical Achievement:**
-  - **Custom 3DS engine** - Platform-specific development maximizing handheld capabilities
-  - **2GB storage utilization** - Comprehensive content within 3DS cartridge limitations
-  - **Dual-screen interface** - Nintendo 3DS features utilized for enhanced information display
-  - **Performance optimization** - Smooth gameplay supporting complex party and dungeon systems
-  - **Visual presentation** - Clear graphics enabling tactical awareness and information management
+  ## Reception and Community
+  The game developed a dedicated community of players from both the Etrian Odyssey and Mystery Dungeon fanbases. It demonstrated the viability of combining established gaming franchises while maintaining the distinct characteristics that made each series popular.
   
-  **Crossover Design Philosophy:**
-  - **Franchise respect** - Both series' traditions honored while creating unified experience
-  - **Mechanical integration** - Systems from both games combined coherently and meaningfully
-  - **Fan service** - Elements familiar to both communities included and celebrated
-  - **Innovation balance** - New features respecting established franchise expectations
-  - **Quality commitment** - High standards maintained for both series' reputation
-  
-  **Atlus Development Excellence:**
-  - **JRPG expertise** - Deep understanding of character progression and party management
-  - **Dungeon crawler mastery** - Etrian Odyssey experience applied to Mystery Dungeon framework
-  - **Professional localization** - Quality translation bringing Japanese crossover to international audiences
-  - **Marketing coordination** - Collaborative promotion highlighting both series' strengths
-  - **Quality assurance** - Polished final product meeting both developers' standards
-  
-  **Community Impact:**
-  - **Medium dedicated community** - Players from both series finding common ground
-  - **Crossover validation** - Proving viability of combining established gaming franchises
-  - **Fan appreciation** - Both communities recognizing respectful treatment of source material
-  - **Design inspiration** - Encouraging other developers to explore creative franchise combinations
-  - **Educational value** - Teaching crossover development and franchise integration techniques
-  
-  **Challenge Balance:**
-  - **Hard difficulty maintenance** - Challenge level appropriate for both series' demanding reputation
-  - **Strategic complexity** - Party management and roguelike elements creating layered difficulty
-  - **Skill requirement** - Gameplay demanding mastery of both series' mechanical concepts
-  - **Fair challenge** - Difficulty feeling earned rather than arbitrary or frustrating
-  - **Progression reward** - Character advancement providing meaningful power increase
-  
-  **Cultural Gaming Impact:**
-  - **Crossover precedent** - Demonstrating potential for successful franchise collaboration
-  - **Series preservation** - Maintaining both franchises' identity while creating new experiences
-  - **Development cooperation** - Model for collaborative development between major studios
-  - **Fan community bridging** - Connecting separate gaming communities through shared experience
-  - **Innovation inspiration** - Encouraging creative approaches to established franchise development
-  
-  **Educational Value:**
-  - **Crossover development techniques** - Methods for combining disparate gaming franchises successfully
-  - **Party-based roguelike design** - Approaches to multi-character dungeon crawling mechanics
-  - **Collaborative development** - Inter-studio cooperation practices for shared projects
-  - **Skill system integration** - Complex progression mechanics within roguelike frameworks
-  - **Fan community management** - Maintaining multiple franchise communities through crossover content
-  
-  **Legacy Achievement:** **Etrian Mystery Dungeon** demonstrates that **franchise crossovers** can **create unique gaming experiences**, proving that **collaborative development** and **respectful integration** can **honor both series** while **creating innovative mechanics** that **serve diverse audiences** and **inspire continued exploration** of **creative franchise combinations**.
+  ## Legacy and Influence
+  Etrian Mystery Dungeon serves as an example of successful franchise collaboration and crossover development. The game illustrated methods for respectfully integrating disparate gaming systems while creating new experiences that appeal to diverse audiences. It has been referenced as a model for collaborative development between major studios and franchise integration techniques.
 release_date: "2015-03-05"
 latest_version: "1.0"
 developers:

@@ -1,72 +1,25 @@
 name: "UnReal World"
 slug: "unreal-world"
 description: |
-  **The survival simulation pioneer** - The **longest continuously developed roguelike in history**, Sami Maaranen and Erkka Lehmus's **33-year passion project** featuring **authentic Iron Age Finnish culture**, **unparalleled survival realism**, and **cultural preservation** that transforms **traditional roguelike mechanics** into **living historical education**.
+  UnReal World is a survival simulation roguelike game developed by Sami Maaranen and Erkka Lehmus. The game has been in continuous development since 1992, making it one of the longest-developed roguelike games in existence. It features authentic Iron Age Finnish culture and detailed survival mechanics based on historical research.
   
-  **Unprecedented Development Longevity:**
-  - **33+ years continuous development** - Longest-developed roguelike game in existence since 1992
-  - **Consistent vision maintenance** - Same core developers preserving authentic design across decades
-  - **Regular update schedule** - Monthly releases with new features, content, and refinements
-  - **Community integration** - Player feedback incorporated while maintaining historical accuracy
-  - **Version 3.84+ evolution** - Hundreds of versions each improving simulation depth and authenticity
+  Development History:
+  UnReal World has maintained over 33 years of continuous development with the same core developers. The game receives regular monthly updates with new features, content, and refinements. Player feedback is incorporated while maintaining historical accuracy, with hundreds of versions released improving simulation depth and authenticity.
   
-  **Authentic Iron Age Finnish Culture:**
-  - **Historical accuracy commitment** - Extensive research into 1000-year-old Finnish tribal life
-  - **Traditional craft simulation** - Authentic tool-making, food preparation, and survival techniques
-  - **Seasonal lifecycle realism** - Activities, resources, and challenges following actual Finnish seasons
-  - **Cultural ritual integration** - Spiritual beliefs, ceremonies, and social customs affecting gameplay
-  - **Linguistic authenticity** - Finnish terminology and place names preserving cultural heritage
+  Cultural Foundation:
+  The game is based on extensive research into 1000-year-old Finnish tribal life. It simulates traditional craft-making, food preparation, and survival techniques using period-appropriate methods. Activities, resources, and challenges follow actual Finnish seasonal patterns. The game incorporates spiritual beliefs, ceremonies, and social customs that affect gameplay, using authentic Finnish terminology and place names.
   
-  **Survival Simulation Excellence:**
-  - **Biological needs depth** - Hunger, thirst, warmth, sleep, and health with medical accuracy
-  - **Seasonal survival challenges** - Winter preparation, spring awakening, summer gathering, autumn preservation
-  - **Wildlife behavior realism** - Animal AI based on actual Finnish forest creature behaviors
-  - **Environmental interaction** - Weather, terrain, and ecosystem simulation affecting every action
-  - **Resource scarcity management** - Realistic availability and seasonal variation of materials
+  Survival Mechanics:
+  UnReal World simulates biological needs including hunger, thirst, warmth, sleep, and health with detailed accuracy. Players must prepare for seasonal survival challenges including winter preparation and summer gathering. Wildlife behavior is based on actual Finnish forest creatures. Weather, terrain, and ecosystem simulation affect all player actions, with realistic availability and seasonal variation of materials.
   
-  **Traditional Skills & Crafting:**
-  - **Hundreds of authentic crafts** - Tools, weapons, shelter, and clothing using period-appropriate methods
-  - **Skill development realism** - Abilities improving through practice with realistic time investment
-  - **Tool dependency systems** - Proper tools required for specific tasks with quality affecting outcomes
-  - **Resource gathering seasons** - Berry picking, mushroom hunting, fishing, and hunting following natural cycles
-  - **Preservation techniques** - Traditional food storage, smoking, drying, and fermentation systems
+  Crafting and Skills:
+  The game features hundreds of authentic crafts for creating tools, weapons, shelter, and clothing using historically accurate methods. Skills develop through practice with realistic time investment. Proper tools are required for specific tasks, with tool quality affecting outcomes. Resource gathering follows natural cycles for activities like berry picking, mushroom hunting, fishing, and hunting. Traditional food preservation techniques include smoking, drying, and fermentation systems.
   
-  **Cultural & Educational Value:**
-  - **Living heritage preservation** - Interactive museum of ancient Finnish survival knowledge
-  - **Academic recognition** - Used in educational contexts for teaching historical lifestyles
-  - **Cultural consulting** - Developers working with Finnish cultural institutions for accuracy
-  - **Language preservation** - Traditional Finnish terms and concepts explained through gameplay
-  - **Anthropological accuracy** - Lifestyle simulation based on archaeological and historical evidence
+  Educational Value:
+  UnReal World serves as an interactive preservation of ancient Finnish survival knowledge. It is used in educational contexts for teaching historical lifestyles and has received academic recognition. The developers work with Finnish cultural institutions to ensure accuracy, and the game preserves traditional Finnish terms and concepts. The simulation is based on archaeological and historical evidence.
   
-  **Technical Achievement:**
-  - **Cross-platform compatibility** - Windows, Linux, and macOS versions maintained across decades
-  - **Save system reliability** - Robust character preservation across complex world simulations
-  - **Performance optimization** - Smooth gameplay despite enormous simulation complexity
-  - **Mod support development** - Community tools for extending and modifying game content
-  - **Steam integration success** - Commercial release bringing indie development to wider audiences
-  
-  **Community & Recognition:**
-  - **Dedicated player base** - Loyal community spanning multiple decades of development
-  - **Strategy sharing culture** - Forums discussing authentic survival techniques and discoveries
-  - **Educational adoption** - Schools and cultural institutions using game for historical education
-  - **International recognition** - Featured in game development conferences and cultural exhibits
-  - **Academic citations** - Referenced in research papers on simulation, culture, and game design
-  
-  **Unique Design Philosophy:**
-  - **Realism over convenience** - Authentic simulation prioritized over gameplay accessibility
-  - **Cultural respect** - Accurate representation of Finnish heritage with sensitivity and research
-  - **Educational mission** - Teaching traditional skills and cultural knowledge through interaction
-  - **Seasonal gameplay** - Year-long cycles requiring long-term planning and adaptation
-  - **Individual character depth** - Personal survival story creation through authentic challenges
-  
-  **Modern Relevance:**
-  - **Sustainability education** - Traditional skills relevant to modern environmental challenges
-  - **Cultural preservation** - Maintaining connection to pre-industrial survival knowledge
-  - **Slow gaming movement** - Meditative, contemplative gameplay opposing fast-paced modern games
-  - **Historical simulation** - Template for authentic cultural recreation in interactive media
-  - **Educational gaming** - Proof that entertainment and learning can achieve perfect synthesis
-  
-  **Legacy Achievement:** **UnReal World** stands as **gaming's longest development journey**, proving that **authentic cultural representation** and **educational depth** can create **experiences of lasting significance**, demonstrating that **traditional knowledge** and **cultural heritage** can be **preserved and transmitted** through **interactive simulation** with **unprecedented authenticity**.
+  Technical Implementation:
+  The game maintains cross-platform compatibility across Windows, Linux, and macOS. It features robust character preservation across complex world simulations and optimized performance despite extensive simulation complexity. Community tools support extending and modifying game content, and the game successfully integrated with Steam for commercial release.
 release_date: "1992"
 latest_version: "3.84"
 developers:

@@ -1,14 +1,14 @@
 name: "NPPAngband"
 slug: "nppangband"
 description: |
-  **The user experience revolution** - Diego González's **interface-focused masterpiece** that **prioritized player convenience** and **quality-of-life improvements** while **preserving authentic Angband depth**, featuring **enhanced automation**, **improved balance**, and **modern usability** that proved **traditional complexity** could **coexist with player-friendly design**.
+  NPPAngband (No Partial Packages Angband) is an Angband variant developed by Diego González and the NPP Development Team, first released in 2006. The variant focuses on user interface improvements and quality-of-life enhancements while maintaining traditional Angband gameplay depth. It features enhanced automation, improved balance, and modern usability features.
   
-  **User Interface Excellence:**
-  - **Modern interface design** - Contemporary UI elements making complex systems more accessible
-  - **Information clarity** - Better display of game state, statistics, and character information  
-  - **Command streamlining** - Intuitive keyboard shortcuts and automated common actions
-  - **Visual feedback enhancement** - Clear communication of game events and status changes
-  - **Help system integration** - Comprehensive in-game assistance and documentation
+  **Interface Improvements:**
+  - Modern UI design making complex systems more accessible
+  - Enhanced information display for game state and character statistics
+  - Streamlined keyboard shortcuts and automated repetitive actions
+  - Improved visual feedback for game events and status changes
+  - Integrated help system with comprehensive in-game documentation
   
   **Quality-of-Life Revolution:**
   - **Enhanced automation** - Repetitive tasks automated while preserving meaningful player decisions
@@ -73,7 +73,7 @@ description: |
   - **Balance methodology** - Approaches to refining gameplay while preserving essential character
   - **User experience research** - Understanding how interface improvements affect player engagement
   
-  **Legacy Achievement:** **NPPAngband** demonstrates that **traditional roguelike complexity** and **modern usability** can achieve **perfect harmony**, proving that **player convenience** and **quality-of-life improvements** can **enhance rather than diminish** authentic gaming experiences through **thoughtful interface design** and **community-focused development**.
+  **Legacy:** NPPAngband demonstrates successful modernization of traditional roguelike interfaces without compromising gameplay depth. The variant's focus on quality-of-life improvements has influenced other Angband variants and established principles for balancing authenticity with user convenience in roguelike design.
 release_date: "2006"
 latest_version: "8.0.4"
 developers:

@@ -1,79 +1,34 @@
 name: "IVAN (Iter Vehemens ad Necem)"
 slug: "ivan"
 description: |
-  **The simulation complexity pinnacle** - Timo Kiviluoto's **legendary achievement** in **roguelike simulation depth**, featuring **revolutionary body part systems**, **material physics simulation**, and **unforgiving complexity** that creates **the most detailed combat mechanics** ever implemented in **traditional roguelike design** through **scientific authenticity** and **anatomical precision**.
+  IVAN (Iter Vehemens ad Necem) is a roguelike developed by Timo Kiviluoto featuring revolutionary body part systems, material physics simulation, and unforgiving complexity that creates detailed combat mechanics through scientific authenticity and anatomical precision.
   
-  **Revolutionary Body Part Simulation:**
-  - **Individual limb tracking** - Every body part (arms, legs, torso, head) simulated separately with unique properties
-  - **Amputation consequences** - Lost limbs creating permanent gameplay changes and tactical adaptations
-  - **Prosthetic replacement** - Artificial limbs with different material properties and functional characteristics
-  - **Anatomical accuracy** - Damage systems based on realistic human anatomy and physiological consequences
-  - **Pain and consciousness** - Physical trauma affecting character performance and decision-making capacity
+  ## Body Part Simulation
+  Every body part including arms, legs, torso, and head is simulated separately with unique properties. Lost limbs create permanent gameplay changes and tactical adaptations. Prosthetic replacement provides artificial limbs with different material properties and functional characteristics. Damage systems are based on realistic human anatomy and physiological consequences, with physical trauma affecting character performance and decision-making capacity.
   
-  **Material Physics Excellence:**
-  - **Comprehensive material system** - Hundreds of substances with authentic physical and chemical properties
-  - **Corrosion and degradation** - Equipment deteriorating through realistic environmental and usage factors
-  - **Temperature effects** - Heat and cold affecting materials, characters, and environmental interactions
-  - **Chemical reactions** - Acid, fire, and other substances behaving according to realistic chemical principles
-  - **Material interactions** - Complex relationships between different substances creating emergent tactical possibilities
+  ## Material Physics
+  The comprehensive material system includes hundreds of substances with authentic physical and chemical properties. Equipment deteriorates through realistic environmental and usage factors including corrosion and degradation. Temperature effects impact materials, characters, and environmental interactions. Acid, fire, and other substances behave according to realistic chemical principles, with complex relationships between different substances creating emergent tactical possibilities.
   
-  **Extreme Difficulty Achievement:**
-  - **Unforgiving consequence systems** - Every decision carrying potential for permanent character alteration
-  - **Learning curve intensity** - Mastery requiring deep understanding of complex interconnected systems
-  - **Death variety** - Hundreds of ways to die through realistic cause-and-effect relationships
-  - **No safety nets** - Traditional gaming conveniences eliminated in favor of authentic simulation
-  - **Hardcore player appeal** - Designed specifically for players seeking maximum challenge and complexity
+  ## Difficulty
+  Every decision carries potential for permanent character alteration through unforgiving consequence systems. Mastery requires deep understanding of complex interconnected systems with an intense learning curve. Hundreds of ways to die exist through realistic cause-and-effect relationships. Traditional gaming conveniences are eliminated in favor of authentic simulation, appealing specifically to players seeking maximum challenge and complexity.
   
-  **Open Source Development Legacy:**
-  - **GPL licensing** - Complete source code available for community study and enhancement
-  - **Community continuation** - IVAN Development Team maintaining and expanding original vision
-  - **GitHub preservation** - Modern code repository ensuring long-term availability and collaboration
-  - **Educational transparency** - Implementation details accessible for learning simulation programming
-  - **Modification freedom** - Open architecture enabling community content creation and system enhancement
+  ## Development
+  Released under GPL licensing, complete source code is available for community study and enhancement. The IVAN Development Team maintains and expands the original vision through GitHub preservation ensuring long-term availability and collaboration. Implementation details are accessible for learning simulation programming while open architecture enables community content creation and system enhancement.
   
-  **Technical Simulation Mastery:**
-  - **C++ implementation** - High-performance programming language enabling complex real-time calculations
-  - **Memory efficiency** - Sophisticated data structures managing enormous simulation complexity
-  - **Algorithm sophistication** - Advanced mathematical modeling of physical and biological systems
-  - **Save system complexity** - Preserving vast amounts of simulation state across gaming sessions
-  - **Cross-platform compatibility** - Windows, Linux, and DOS versions maintaining simulation accuracy
+  ## Technical Implementation
+  Built with C++ for high-performance complex real-time calculations, the game uses sophisticated data structures managing enormous simulation complexity. Advanced mathematical modeling covers physical and biological systems while preserving vast amounts of simulation state across gaming sessions. Cross-platform compatibility maintains simulation accuracy across Windows, Linux, and DOS versions.
   
-  **Combat System Innovation:**
-  - **Tactical positioning depth** - Body part targeting creating complex strategic combat decisions
-  - **Equipment interaction** - Armor, weapons, and tools affecting combat through realistic physical properties
-  - **Damage calculation authenticity** - Injury systems based on scientific understanding of trauma
-  - **Bleeding and healing** - Medical accuracy in wound management and recovery processes
-  - **Environmental combat factors** - Terrain, weather, and circumstances affecting battle outcomes
+  ## Combat System
+  Tactical positioning depth enables body part targeting creating complex strategic combat decisions. Equipment interaction affects combat through realistic physical properties. Damage calculation authenticity bases injury systems on scientific understanding of trauma. Medical accuracy appears in wound management and recovery processes while terrain, weather, and circumstances affect battle outcomes.
   
-  **Community & Cultural Recognition:**
-  - **Hardcore roguelike legend** - Revered among traditional roguelike enthusiasts for uncompromising vision
-  - **Simulation gaming benchmark** - Standard for complexity and authenticity in game simulation
-  - **Educational value** - Used for studying advanced game simulation techniques and implementation
-  - **Preservation efforts** - Community dedicated to maintaining and improving legendary codebase
-  - **Historical significance** - Important milestone in roguelike evolution and simulation gaming
+  ## Recognition
+  IVAN is revered among traditional roguelike enthusiasts for its uncompromising vision and serves as a benchmark for complexity and authenticity in game simulation. The game is used for studying advanced game simulation techniques and implementation, with community dedication to maintaining and improving the codebase. It represents an important milestone in roguelike evolution and simulation gaming.
   
-  **Roguelike Authenticity:**
-  - **Traditional mechanics respect** - Core genre elements preserved despite simulation complexity
-  - **ASCII graphics tradition** - Character-based display maintaining classic roguelike aesthetics
-  - **Turn-based precision** - Careful tactical planning enabled through methodical turn structure
-  - **Procedural generation** - Randomized content creation supporting emergent simulation experiences
-  - **Permanent consequences** - Death and major changes creating high-stakes gameplay tension
+  ## Authenticity
+  Core genre elements are preserved despite simulation complexity, maintaining traditional mechanics respect. Character-based display preserves classic roguelike aesthetics through ASCII graphics tradition. Turn-based precision enables careful tactical planning through methodical turn structure. Procedural generation supports emergent simulation experiences while permanent consequences create high-stakes gameplay tension.
   
-  **Scientific Approach:**
-  - **Realistic physics modeling** - Game systems based on authentic scientific principles
-  - **Anatomical consultation** - Body systems designed with medical accuracy and authenticity
-  - **Material science integration** - Substance properties based on real-world chemical and physical data
-  - **Biological accuracy** - Living systems simulated according to biological understanding
-  - **Engineering precision** - Technical implementation reflecting scientific methodology
-  
-  **Educational & Research Value:**
-  - **Simulation programming instruction** - Advanced techniques for complex system modeling
-  - **Game design philosophy** - Demonstrating uncompromising vision in interactive entertainment
-  - **Community development** - Model for open source collaborative game enhancement
-  - **Technical documentation** - Complex implementation serving as educational resource
-  - **Academic citations** - Referenced in game design and simulation courses
-  
-  **Legacy Achievement:** **IVAN** represents the **absolute pinnacle** of **roguelike simulation complexity**, proving that **scientific authenticity** and **unforgiving design** can create **gaming experiences** of **unprecedented depth**, demonstrating that **community dedication** and **open source development** can **preserve and enhance** truly **exceptional creative vision** across **decades of evolution**.
+  ## Scientific Approach
+  Game systems are based on authentic scientific principles through realistic physics modeling. Body systems are designed with medical accuracy and authenticity. Substance properties are based on real-world chemical and physical data while living systems are simulated according to biological understanding. Technical implementation reflects scientific methodology with engineering precision.
 release_date: "2001"
 latest_version: "0.58"
 developers:

@@ -1,40 +1,22 @@
 name: "Hades"
 slug: "hades"
 description: |
-  **The roguelike that conquered the mainstream** - Supergiant Games' masterpiece that proved roguelikes could achieve both critical acclaim and commercial success on a massive scale.
+  Hades is an action roguelike game developed by Supergiant Games, released in 2020. The game is set in the underworld of Greek mythology and follows Zagreus, son of Hades, attempting to escape to the surface. It received widespread critical acclaim and commercial success.
   
-  **Unprecedented Critical Success:**
-  - **Game of the Year 2020** - Multiple major award ceremonies
-  - **Perfect scores** from numerous gaming publications
-  - **98/100 Metacritic** on multiple platforms
-  - **'Overwhelmingly Positive' Steam reviews** (98% positive)
+  Development and Reception:
+  Hades was developed using a custom engine and features art direction by Jen Zee and a soundtrack by Darren Korb. The game received a 98/100 score on Metacritic and won Game of the Year awards at multiple ceremonies in 2020. It has sold over 5 million copies across all platforms.
   
-  **Commercial Triumph:**
-  - **Over 5 million copies sold** across all platforms
-  - **Day-one success on Game Pass** driving massive adoption
-  - **Nintendo Switch optimization** praised for technical excellence
-  - **Multi-language support** in 9+ languages for global reach
+  Narrative Design:
+  The game features a fully-voiced storyline with persistent story progression that continues through multiple runs. Players interact with dozens of characters, building relationships that develop over time. The narrative integrates with the gameplay loop of repeated escape attempts.
   
-  **Revolutionary Narrative Design:**
-  - **Fully-voiced storyline** with top-tier voice acting
-  - **Persistent story progression** through death and rebirth cycles
-  - **Dynamic relationship system** with dozens of characters
-  - **Zagreus's escape attempts** create meaningful narrative through gameplay
+  Gameplay Mechanics:
+  Hades utilizes a boon system where Olympian gods provide randomized power-ups during runs. Players can choose from six weapon types, each with multiple aspects. The game includes a Heat system for customizable difficulty scaling and the Mirror of Night for permanent character progression between runs.
   
-  **Artistic Excellence:**
-  - **Jen Zee's art direction** - Stunning hand-painted character portraits
-  - **Darren Korb's soundtrack** - Dynamic music that adapts to gameplay
-  - **Greek mythology reimagined** with modern storytelling sensibilities
-  - **Custom engine optimization** delivering smooth performance on all platforms
+  Technical Implementation:
+  The game has been optimized for multiple platforms including Windows, macOS, Nintendo Switch, PlayStation, Xbox, and iOS. It supports multiple languages and features dynamic music that adapts to gameplay situations.
   
-  **Gameplay Innovation:**
-  - **Boon system** - Olympian gods grant randomized power-ups
-  - **Six weapon types** with multiple aspects and playstyles
-  - **Heat system** - Customizable difficulty scaling
-  - **Mirror of Night** - Permanent progression between runs
-  - **Prophecies and Fated List** - Long-term objectives
-  
-  **Cultural Impact:** Broke roguelikes into mainstream gaming consciousness, proving the genre could deliver AAA production values while maintaining core roguelike principles. Set new standards for narrative integration in procedural games.
+  Cultural Impact:
+  Hades brought increased mainstream attention to the roguelike genre and demonstrated how narrative elements could be effectively integrated into procedurally generated gameplay structures.
 release_date: "2020-09-17"
 latest_version: "1.38142"
 developers:

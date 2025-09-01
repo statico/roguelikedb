@@ -1,79 +1,25 @@
 name: "Against the Storm"
 slug: "against-the-storm"
 description: |
-  **The city-building roguelike revolution** - Eremite Games' **groundbreaking achievement** that successfully merged **city-building strategy** with **roguelike meta-progression**, featuring **multi-species management**, **the Queen's Impatience mechanic**, **procedural weather challenges**, and **event-driven hazards** proving that **roguelike mechanics** can **transform city-building** while **reaching 100,000+ players** and **establishing new genre possibilities**.
+  Against the Storm is a city-building roguelike developed by Eremite Games and published by Hooded Horse, released in 2023. The game combines traditional city-building mechanics with roguelike meta-progression systems and procedural generation.
   
-  **City-Building Roguelike Innovation (2023):**
-  - **First major city-building roguelike** - Revolutionary fusion of urban planning with roguelike progression systems
-  - **100,000+ players within six months** - Commercial validation of city-building roguelike market potential
-  - **Hooded Horse publishing** - Strategic publisher investment in innovative genre fusion
-  - **Meta-progression excellence** - Long-term advancement across multiple settlement attempts
-  - **Genre boundary expansion** - Demonstrating roguelike flexibility in strategy gaming contexts
+  ## Gameplay Mechanics
+  The game features a unique blend of settlement management and roguelike progression. Players build and manage settlements for different fantasy species, each with distinct needs and abilities. A central mechanic is the "Queen's Impatience" system, which creates time pressure by tracking settlement progress against royal expectations.
   
-  **Species Management Excellence:**
-  - **Multi-racial civilization** - Different fantasy species with unique needs, abilities, and characteristics
-  - **Species-specific mechanics** - Each race requiring distinct resources, housing, and satisfaction systems
-  - **Cultural integration** - Species interaction systems affecting productivity and settlement harmony
-  - **Racial specialization** - Different species excelling in specific industries and roles
-  - **Population balance** - Strategic species composition affecting settlement success and efficiency
+  ## Species Management
+  Against the Storm includes multiple fantasy races that must be managed within the same settlement. Each species has specific resource requirements, housing needs, and productivity bonuses in certain industries. Players must balance the needs of different populations while maximizing overall settlement efficiency.
   
-  **Weather-Based Challenge Innovation:**
-  - **Procedural weather systems** - Dynamic environmental conditions affecting settlement operations
-  - **Seasonal progression** - Weather cycles creating planning challenges and resource management needs
-  - **Climate adaptation** - Settlement design responding to environmental pressures and opportunities
-  - **Weather-driven events** - Environmental hazards requiring preparation and adaptive strategies
-  - **Atmospheric immersion** - Weather systems enhancing fantasy setting believability and challenge
+  ## Environmental Systems
+  The game features dynamic weather systems that create procedural challenges for settlements. Seasonal changes and environmental hazards require adaptive planning and resource management. Weather patterns affect both settlement operations and available resources.
   
-  **Queen's Impatience Mechanic:**
-  - **Time pressure system** - Royal expectations creating urgency and strategic decision-making tension
-  - **Progress tracking** - Settlement achievements measured against royal demands and expectations
-  - **Failure consequences** - Inadequate progress resulting in meaningful setbacks and learning opportunities
-  - **Strategic prioritization** - Queen's demands forcing difficult resource allocation and planning decisions
-  - **Narrative integration** - Royal oversight providing context and motivation for settlement development
+  ## Meta-Progression
+  Unlike traditional city-builders, Against the Storm incorporates roguelike progression where failed settlements contribute to long-term advancement. Players unlock new options and abilities that carry over between settlement attempts, creating a cycle of learning and improvement.
   
-  **Procedural Map Generation:**
-  - **Varied terrain layouts** - Diverse landscapes creating unique settlement planning challenges
-  - **Resource distribution** - Random material placement requiring adaptive economic strategies
-  - **Environmental hazards** - Procedural dangers affecting settlement placement and development
-  - **Exploration opportunities** - Map variety encouraging different approaches and strategies
-  - **Replayability assurance** - Procedural systems ensuring fresh challenges across playthroughs
+  ## Technical Features
+  The game is built using Unity engine and supports complex simultaneous systems including real-time resource management, multiple species simulation, and procedural map generation. The interface presents these complex systems through accessible design.
   
-  **Technical Achievement:**
-  - **Unity engine mastery** - Complex city simulation and species management systems
-  - **Real-time strategy optimization** - Smooth gameplay with multiple simultaneous systems
-  - **Save system complexity** - Settlement and meta-progression persistence across attempts
-  - **Performance scaling** - Efficient resource usage supporting large settlements
-  - **UI/UX excellence** - Complex systems presented through intuitive interfaces
-  
-  **Fantasy Setting Integration:**
-  - **Rich world-building** - Detailed fantasy universe supporting multi-species civilizations
-  - **Narrative depth** - Environmental storytelling through settlement discovery and development
-  - **Cultural authenticity** - Each species maintaining distinct cultural identity and needs
-  - **Magical elements** - Fantasy features integrated into practical city-building systems
-  - **Atmospheric presentation** - Art and audio supporting immersive fantasy experience
-  
-  **Roguelike Design Innovation:**
-  - **Settlement permadeath** - Failed settlements creating learning opportunities and meta-progression
-  - **Run-based progression** - Each settlement attempt contributing to long-term advancement
-  - **Risk/reward balance** - Ambitious settlement goals offering greater rewards with increased danger
-  - **Learning integration** - Player knowledge and experience improving across settlement attempts
-  - **Strategic variety** - Different approaches viable across procedural challenges
-  
-  **Cultural Gaming Impact:**
-  - **City-building evolution** - Demonstrating potential for roguelike integration in strategy genres
-  - **Genre fusion validation** - Proving complex strategy mechanics could support roguelike structure
-  - **Independent development success** - Eremite Games achieving recognition in competitive strategy market
-  - **Innovation inspiration** - Encouraging other developers to explore genre fusion possibilities
-  - **Community building** - Dedicated player base supporting ongoing development and enhancement
-  
-  **Educational Value:**
-  - **City-building roguelike design** - Methods for integrating urban planning with roguelike progression
-  - **Species management systems** - Techniques for multi-population strategy game development
-  - **Weather system integration** - Environmental mechanics affecting strategy gameplay
-  - **Meta-progression design** - Long-term advancement systems across individual game sessions
-  - **Genre fusion techniques** - Approaches to combining disparate gaming genres successfully
-  
-  **Legacy Achievement:** **Against the Storm** demonstrates that **roguelike mechanics** can **enhance any strategy context**, proving that **innovative genre fusion** and **thoughtful design** can create **unprecedented gaming experiences** that **establish new market categories** while **achieving commercial success** and **inspiring continued innovation** in **strategy roguelike development**.
+  ## Reception and Impact
+  Against the Storm achieved over 100,000 players within its first six months and has been recognized for successfully merging city-building and roguelike genres. The game has established a dedicated community and influenced discussion about genre fusion possibilities in strategy gaming.
 release_date: "2023-12-08"
 developers:
   - "Eremite Games"

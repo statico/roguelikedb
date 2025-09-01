@@ -1,86 +1,31 @@
 name: "Hengband"
 slug: "hengband"
 description: |
-  **The Japanese Angband masterpiece** - The **Hengband Development Team's** **cultural achievement** that created Japan's **most beloved Angband variant**, featuring **comprehensive Japanese localization**, **unique Asian-inspired features**, and **active development** that proves **cultural adaptation** can **enhance traditional roguelikes** while **preserving authentic depth** and **building dedicated communities**.
+  Hengband is a Japanese Angband variant developed by the Hengband Development Team, featuring comprehensive Japanese localization, unique Asian-inspired features, and active development that demonstrates how cultural adaptation can enhance traditional roguelikes.
   
-  **Japanese Cultural Integration:**
-  - **Native Japanese development** - Created by Japanese developers for Japanese roguelike community
-  - **Comprehensive localization** - Full translation with cultural adaptation rather than literal conversion
-  - **Asian fantasy elements** - Monsters, items, and themes drawing from Japanese and Asian mythology
-  - **Cultural authenticity** - Respectful integration of Asian cultural elements and storytelling traditions
-  - **Japanese gaming sensibilities** - Design choices reflecting Japanese preferences and gaming culture
+  ## Cultural Integration
+  Created by Japanese developers specifically for the Japanese roguelike community, Hengband features comprehensive localization with cultural adaptation rather than literal translation. The game incorporates Asian fantasy elements including monsters, items, and themes drawing from Japanese and Asian mythology. Cultural authenticity is maintained through respectful integration of Asian cultural elements and storytelling traditions, with design choices reflecting Japanese gaming preferences and culture.
   
-  **Unique Feature Innovation:**
-  - **Distinctive mechanics** - Original systems not found in other Angband variants
-  - **Japanese-inspired content** - Monsters, artifacts, and locations with Asian cultural themes
-  - **Enhanced graphics options** - Both ASCII and tile graphics with Japanese aesthetic elements
-  - **Specialized character options** - Races and classes reflecting Asian fantasy traditions
-  - **Cultural storytelling** - Narrative elements and world-building incorporating Japanese sensibilities
+  ## Unique Features
+  The variant includes distinctive mechanics not found in other Angband variants, with Japanese-inspired content including monsters, artifacts, and locations with Asian cultural themes. Graphics options include both ASCII and tile graphics with Japanese aesthetic elements. Character options feature races and classes reflecting Asian fantasy traditions, while narrative elements incorporate Japanese sensibilities and world-building approaches.
   
-  **Active Development Excellence:**
-  - **Version 3.0.0+ releases** - Ongoing updates with regular improvements and content additions
-  - **Community-driven enhancement** - Japanese player feedback directly influencing development priorities
-  - **Modern development practices** - Contemporary programming techniques and version control
-  - **Quality assurance** - Rigorous testing ensuring stability and balance across features
-  - **Long-term sustainability** - Development practices supporting ongoing project health
+  ## Development
+  Active development continues with version 3.0.0+ releases providing ongoing updates and content additions. Community-driven enhancement allows Japanese player feedback to directly influence development priorities. Modern development practices include contemporary programming techniques and version control, with rigorous testing ensuring stability and balance across features.
   
-  **Bilingual Accessibility:**
-  - **Japanese primary** - Native Japanese interface and content with cultural authenticity
-  - **English localization** - International version enabling global community participation
-  - **Cultural bridge building** - Connecting Japanese and international roguelike communities
-  - **Translation quality** - High-quality localization preserving meaning and atmosphere
-  - **Community collaboration** - International players contributing to development and translation
+  ## Accessibility
+  The game primarily supports Japanese with native interface and content maintaining cultural authenticity, while English localization enables international community participation. High-quality translation preserves meaning and atmosphere, with international players contributing to development and translation efforts.
   
-  **Community Success in Japan:**
-  - **Medium community size** - Significant player base within Japanese roguelike community
-  - **Cultural resonance** - Strong appeal to Japanese players through authentic cultural integration
-  - **Active forums** - Dedicated Japanese community discussing strategies and discoveries
-  - **Educational resources** - Comprehensive Japanese guides and documentation
-  - **Social media presence** - Active engagement through Japanese gaming and social platforms
+  ## Community
+  Hengband maintains a significant player base within the Japanese roguelike community with strong cultural resonance through authentic cultural integration. Active Japanese communities discuss strategies and discoveries while maintaining comprehensive guides and documentation. Social media engagement occurs through Japanese gaming and social platforms.
   
-  **Technical Achievement (2008-Present):**
-  - **ZAngband foundation** - Built on proven variant architecture with extensive enhancements
-  - **Cross-platform support** - Windows and Linux versions with consistent functionality
-  - **Performance optimization** - Smooth gameplay despite extensive feature additions
-  - **Modern graphics support** - Contemporary tile graphics alongside traditional ASCII
-  - **Save system reliability** - Robust character preservation across complex feature interactions
+  ## Technical Foundation
+  Built on the ZAngband foundation with extensive enhancements, the game provides cross-platform support for Windows and Linux with consistent functionality. Performance optimization ensures smooth gameplay despite extensive feature additions. Modern graphics support includes contemporary tile graphics alongside traditional ASCII, with robust save system reliability preserving characters across complex feature interactions.
   
-  **Cultural Gaming Impact:**
-  - **Japanese roguelike validation** - Demonstrated potential for culturally-specific variant development
-  - **Asian fantasy gaming** - Brought Asian cultural elements to traditional Western fantasy framework
-  - **International cultural exchange** - Facilitated sharing of Japanese gaming culture globally
-  - **Localization methodology** - Established practices for culturally-authentic game adaptation
-  - **Community building** - Created connections between Japanese and international gaming communities
+  ## Cultural Impact
+  Hengband validates the potential for culturally-specific variant development and brings Asian cultural elements to traditional Western fantasy frameworks. The project facilitates international cultural exchange by sharing Japanese gaming culture globally while establishing practices for culturally-authentic game adaptation and creating connections between Japanese and international gaming communities.
   
-  **Open Source Contribution:**
-  - **Angband License** - Community access enabling study and modification of Japanese development approaches
-  - **Cultural code sharing** - Implementation techniques for integrating cultural elements authentically
-  - **Educational resource** - Complete source demonstrating culturally-sensitive game development
-  - **Community enhancement** - Platform for ongoing improvements from international contributors
-  - **Preservation value** - Source availability ensuring continued access to Japanese roguelike innovation
-  
-  **Design Philosophy:**
-  - **Cultural authenticity** - Respectful and accurate representation of Japanese cultural elements
-  - **Community service** - Development motivated by desire to serve Japanese roguelike community
-  - **Quality commitment** - High standards for both programming excellence and cultural accuracy
-  - **Collaborative development** - Team-based approach ensuring diverse perspectives and expertise
-  - **International awareness** - Conscious effort to make Japanese culture accessible globally
-  
-  **Educational & Cultural Value:**
-  - **Cultural gaming education** - Teaching international audiences about Japanese mythology and culture
-  - **Localization methodology** - Demonstrating effective techniques for cultural game adaptation
-  - **Community development** - Model for building culturally-specific gaming communities
-  - **Cross-cultural gaming** - Bridging different gaming traditions and cultural approaches
-  - **Language preservation** - Maintaining Japanese terminology and cultural concepts in gaming
-  
-  **International Recognition:**
-  - **Global roguelike community** - Acknowledged among international players as significant variant
-  - **Cultural appreciation** - Respected for authentic and respectful cultural integration
-  - **Development influence** - Inspiring other culturally-specific roguelike variants
-  - **Academic interest** - Studied for successful cultural adaptation techniques
-  - **Preservation importance** - Recognized as important example of Japanese indie gaming
-  
-  **Legacy Achievement:** **Hengband** demonstrates that **cultural adaptation** can **enrich traditional gaming experiences**, proving that **authentic cultural integration** and **community-focused development** can create **beloved gaming experiences** that **honor both genre traditions** and **cultural heritage** while **fostering international understanding** through **shared gaming passion**.
+  ## Open Source Contribution
+  Released under the Angband License, the game enables community access for studying Japanese development approaches. Implementation techniques demonstrate authentic cultural element integration while serving as an educational resource for culturally-sensitive game development. The open source nature provides a platform for ongoing improvements from international contributors while ensuring continued access to Japanese roguelike innovation.
 release_date: "2008"
 latest_version: "3.0.0"
 developers:

@@ -1,72 +1,31 @@
 name: "Dwarf Fortress"
 slug: "dwarf-fortress"
 description: |
-  **The simulation masterpiece** - Tarn Adams' **legendary 20-year passion project** representing the **most complex simulation ever created**, featuring **Adventure Mode roguelike gameplay** within a **fully simulated world** where **every action has consequences** and **emergent storytelling** reaches **unprecedented depths** of **procedural narrative generation**.
+  Dwarf Fortress is a complex simulation game developed by Tarn Adams over more than 20 years, featuring Adventure Mode roguelike gameplay within a fully simulated world with emergent storytelling and procedural narrative generation.
   
-  **Unparalleled World Simulation:**
-  - **Complete world generation** - Geological history, weather patterns, and ecological systems simulated across thousands of years
-  - **Emergent historical narratives** - Wars, kingdoms, and legendary figures developing through simulation
-  - **Living ecosystem modeling** - Animals, plants, and environmental interactions with scientific accuracy
-  - **Cultural evolution** - Civilizations developing unique languages, customs, and technological advancement
-  - **Individual creature psychology** - Every character having distinct personality traits, relationships, and motivations
+  ## World Simulation
+  The game generates complete worlds with geological history, weather patterns, and ecological systems simulated across thousands of years. Historical narratives emerge through simulation, creating wars, kingdoms, and legendary figures. The living ecosystem models animals, plants, and environmental interactions with scientific accuracy. Civilizations develop unique languages, customs, and technological advancement, while individual creatures have distinct personality traits, relationships, and motivations.
   
-  **Adventure Mode Roguelike Excellence:**
-  - **Traditional roguelike gameplay** - Turn-based movement, ASCII graphics, permadeath consequences
-  - **Persistent world exploration** - Characters exploring the same world across multiple adventure runs
-  - **Character creation depth** - Extensive customization with meaningful mechanical differences
-  - **Combat system complexity** - Detailed injury modeling with anatomical precision
-  - **Interactive world elements** - Everything from fortress mode accessible in adventure gameplay
+  ## Adventure Mode
+  Adventure Mode provides traditional roguelike gameplay with turn-based movement, ASCII graphics, and permadeath consequences. Characters can explore persistent worlds across multiple adventure runs. The character creation system offers extensive customization with meaningful mechanical differences. Combat features detailed injury modeling with anatomical precision, and all elements from fortress mode remain accessible in adventure gameplay.
   
-  **Technical Achievement Legend:**
-  - **20+ years continuous development** - Single developer creating gaming's most ambitious project
-  - **Procedural generation mastery** - Every world element generated through sophisticated algorithms
-  - **Memory management miracle** - Tracking millions of entities and relationships simultaneously
-  - **Cross-platform compatibility** - Running on Windows, Linux, and macOS despite complexity
-  - **Save system robustness** - Preserving vast amounts of world state across gaming sessions
+  ## Technical Achievement
+  The game represents over 20 years of continuous development by a single developer, creating one of gaming's most ambitious projects. Procedural generation algorithms create every world element through sophisticated systems. The game manages millions of entities and relationships simultaneously while maintaining cross-platform compatibility across Windows, Linux, and macOS. The robust save system preserves vast amounts of world state across gaming sessions.
   
-  **Cultural Phenomenon Status:**
-  - **Gaming legend recognition** - Universally acknowledged as unique achievement in game development
-  - **Academic research subject** - Studied in computer science for procedural generation and simulation
-  - **Meme culture icon** - "Losing is fun" philosophy becoming gaming culture touchstone
-  - **Streaming entertainment** - Legendary for generating incredible emergent stories
-  - **Museum recognition** - Exhibited in game design and art museums worldwide
+  ## Cultural Impact
+  Dwarf Fortress is recognized as a unique achievement in game development and studied in computer science for procedural generation and simulation. The "Losing is fun" philosophy has become a gaming culture touchstone. The game is legendary for generating emergent stories and has been exhibited in game design and art museums worldwide.
   
-  **Steam Release Revolution:**
-  - **2022 commercial release** - Moving from free ASCII version to paid graphics version
-  - **Kitfox Games partnership** - Professional publishing bringing accessibility improvements
-  - **Visual upgrade mastery** - Beautiful sprite graphics replacing ASCII while maintaining complexity
-  - **UI/UX revolution** - Mouse controls and intuitive interfaces replacing keyboard-only interaction
-  - **Mainstream accessibility** - Complex systems made approachable without losing depth
+  ## Steam Release
+  In 2022, the game received a commercial release through Kitfox Games partnership, moving from the free ASCII version to a paid graphics version. The visual upgrade features sprite graphics while maintaining complexity. UI/UX improvements include mouse controls and intuitive interfaces replacing keyboard-only interaction, making complex systems more approachable without losing depth.
   
-  **Community & Documentation:**
-  - **Massive community dedication** - Thousands of players creating guides, tools, and modifications
-  - **Wiki comprehensiveness** - Documentation rivaling academic textbooks in depth and detail
-  - **Story sharing culture** - Community celebrating emergent narratives and legendary moments
-  - **Tool development** - Third-party utilities enhancing gameplay and world visualization
-  - **Educational content** - Tutorials and guides helping newcomers navigate complexity
+  ## Community and Documentation
+  The game has massive community dedication with thousands of players creating guides, tools, and modifications. Community documentation rivals academic textbooks in depth and detail. The community celebrates emergent narratives and legendary moments while developing third-party utilities that enhance gameplay and world visualization.
   
-  **Narrative Generation Innovation:**
-  - **Dynamic storytelling** - Legends and stories emerging naturally through simulation
-  - **Character relationship depth** - Complex social networks affecting gameplay and world state
-  - **Historical continuity** - Adventure mode characters existing within fortress mode world history
-  - **Emergent plot development** - Player actions creating lasting consequences across game modes
-  - **Mythological depth** - Generated religions, artifacts, and legendary creatures with unique histories
+  ## Narrative Generation
+  Dynamic storytelling emerges naturally through simulation, creating legends and stories. Complex social networks affect gameplay and world state. Adventure mode characters exist within fortress mode world history, creating historical continuity. Player actions create lasting consequences across game modes. Generated religions, artifacts, and legendary creatures each have unique histories.
   
-  **Development Philosophy:**
-  - **Complexity as feature** - Embracing rather than simplifying intricate systems
-  - **Simulation authenticity** - Prioritizing realistic modeling over convenient gameplay shortcuts
-  - **Free core commitment** - ASCII version remaining free while graphics version funded development
-  - **Single vision maintenance** - Tarn Adams preserving artistic integrity across decades
-  - **Community respect** - Incorporating feedback while maintaining design principles
-  
-  **Educational & Research Value:**
-  - **Procedural generation teaching** - Demonstrating advanced algorithmic world creation
-  - **Simulation methodology** - Showcasing complex systems modeling in interactive media
-  - **Game design philosophy** - Proving depth and complexity can coexist with playability
-  - **Long-term development** - Model for sustainable single-developer project management
-  - **Community-driven documentation** - Example of player-generated educational content
-  
-  **Legacy Achievement:** **Tarn Adams' Dwarf Fortress** stands as **gaming's most ambitious simulation**, proving that **single-developer vision** combined with **decades of dedication** can create **experiences of unprecedented depth**, where **procedural generation** and **emergent storytelling** reach **artistic heights** previously thought **impossible in interactive media**.
+  ## Development Philosophy
+  The game embraces complexity as a feature rather than simplifying intricate systems. Development prioritizes simulation authenticity and realistic modeling over convenient gameplay shortcuts. The ASCII version remains free while the graphics version funds continued development. Tarn Adams maintains artistic integrity across decades while incorporating community feedback within design principles.
 release_date: "2006-08-08"
 latest_version: "50.14"
 developers:

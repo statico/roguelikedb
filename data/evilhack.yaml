@@ -1,100 +1,28 @@
 name: "EvilHack"
 slug: "evilhack"
 description: |
-  **The anti-heroic experiment** - Eric W. Harland's **bold achievement** that created an **experimental NetHack variant** exploring **anti-heroic themes**, **increased difficulty**, **branch color coding**, **expanded ranks**, and **cursed item enhancements** proving that **subversive design** and **experimental mechanics** can **challenge roguelike conventions** while **influencing later development** and **inspiring creative exploration**.
+  EvilHack is an experimental NetHack variant developed by Eric W. Harland, released in 2003. The game explores anti-heroic themes and incorporates experimental mechanics that depart from traditional heroic fantasy narratives common in roguelike games.
   
-  **Anti-Heroic Innovation (2003):**
-  - **Subversive theme exploration** - Revolutionary departure from traditional heroic fantasy narratives
-  - **Anti-heroic gameplay** - Mechanics encouraging morally ambiguous or villainous character development
-  - **Experimental design philosophy** - Willingness to challenge established NetHack conventions and expectations
-  - **Early 2000s modification scene** - Part of creative wave exploring alternative approaches to roguelike design
-  - **Influence on later variants** - Features incorporated into SLEX, UnNetHack, and other projects
+  ## Design Philosophy
+  EvilHack was developed as an experimental exploration of subversive themes within the NetHack framework. The variant encourages morally ambiguous or villainous character development through modified gameplay mechanics and narrative elements.
   
-  **Cursed Item Enhancement:**
-  - **Cursed item mechanics** - Enhanced negative item effects creating strategic complexity
-  - **Risk/reward balance** - Cursed items offering power at significant cost and danger
-  - **Strategic consideration** - Players forced to weigh benefits against negative consequences
-  - **Curse removal challenge** - Enhanced difficulty in dealing with cursed item problems
-  - **Anti-heroic theme integration** - Cursed items supporting villainous character development
+  ## Key Features
+  The variant includes several notable modifications to the base NetHack experience, including enhanced cursed item mechanics that create strategic complexity through risk/reward balancing. The game also features branch color coding for improved navigation, expanded character rank systems, and increased overall difficulty.
   
-  **Branch Color Coding:**
-  - **Visual organization** - Color-coded dungeon branches improving navigation and recognition
-  - **Information clarity** - Visual systems helping players understand complex dungeon structure
-  - **Interface innovation** - Enhanced presentation making branch identification more intuitive
-  - **Accessibility improvement** - Visual cues reducing reliance on memorization and documentation
-  - **Experimental interface** - Early exploration of color-based information systems
+  ## Experimental Mechanics
+  EvilHack introduced several experimental systems that challenged established NetHack conventions. These included modifications to cursed item behavior, visual enhancements through color coding systems, and expanded progression mechanics that reflected anti-heroic character development.
   
-  **Expanded Rank System:**
-  - **Character progression enhancement** - Additional advancement stages creating longer development arcs
-  - **Achievement recognition** - More granular acknowledgment of character accomplishment
-  - **Motivation extension** - Additional milestones encouraging continued play and advancement
-  - **Anti-heroic context** - Ranks potentially reflecting villainous rather than heroic achievement
-  - **Progression variety** - Different advancement paths for different character approaches
+  ## Technical Implementation
+  The variant was implemented in C programming within the NetHack architecture, maintaining cross-platform compatibility across DOS, Windows, and Linux systems. The modifications required 32MB of memory while maintaining performance optimization.
   
-  **Technical Achievement:**
-  - **C programming competence** - Complex experimental systems implemented within NetHack architecture
-  - **Cross-platform compatibility** - DOS, Windows, and Linux versions ensuring broad accessibility
-  - **Memory efficiency** - 32MB requirements supporting experimental features within modest limitations
-  - **Performance maintenance** - Smooth gameplay despite experimental mechanics and enhancements
-  - **Code integration** - Anti-heroic features seamlessly integrated with existing NetHack systems
+  ## Community and Influence
+  EvilHack developed a small dedicated community interested in experimental and alternative roguelike experiences. Several features pioneered in EvilHack were later incorporated into other NetHack variants including SLEX and UnNetHack, demonstrating the variant's influence on subsequent development.
   
-  **Experimental Design Philosophy:**
-  - **Convention challenging** - Willingness to question and modify established roguelike traditions
-  - **Thematic coherence** - All experimental features supporting unified anti-heroic vision
-  - **Creative risk-taking** - Exploration of unconventional mechanics and narrative approaches
-  - **Community contribution** - Sharing experimental results with broader NetHack development community
-  - **Innovation tolerance** - Acceptance that experimental features might not always succeed
+  ## Legacy and Impact
+  The variant is notable for demonstrating that roguelike games could explore diverse thematic approaches beyond traditional heroic fantasy. EvilHack served as an early example of experimental design within established roguelike frameworks and encouraged other developers to explore unconventional approaches to the genre.
   
-  **Community Impact:**
-  - **Small dedicated community** - Players attracted to experimental and subversive gaming experiences
-  - **Feature incorporation** - Successful experimental elements adopted by other NetHack variants
-  - **Design inspiration** - Encouraging other developers to explore unconventional roguelike approaches
-  - **Experimental validation** - Proving market demand for alternative and subversive gaming experiences
-  - **Creative precedent** - Establishing viability of anti-heroic themes within roguelike frameworks
-  
-  **Difficulty Enhancement:**
-  - **Challenge increase** - Systematic difficulty improvements creating more demanding gameplay
-  - **Anti-heroic consequences** - Moral choices creating additional strategic and tactical complications
-  - **Risk amplification** - Cursed items and evil choices increasing danger and uncertainty
-  - **Strategic complexity** - Enhanced difficulty requiring deeper planning and consideration
-  - **Hardcore appeal** - Difficulty level attracting players seeking extreme challenges
-  
-  **Cultural Gaming Impact:**
-  - **Thematic expansion** - Demonstrating roguelike potential for diverse narrative approaches
-  - **Experimental validation** - Proving community appetite for unconventional gaming experiences
-  - **Development influence** - Features and approaches inspiring later variant development
-  - **Creative freedom** - Encouraging developers to explore controversial and subversive themes
-  - **Genre boundary exploration** - Pushing traditional fantasy roguelike limitations
-  
-  **Open Source Legacy:**
-  - **NetHack GPL** - Community access enabling study of experimental and anti-heroic design techniques
-  - **Feature preservation** - Experimental mechanics available for learning and adaptation
-  - **Development transparency** - Experimental process visible and accessible to community
-  - **Educational resource** - Anti-heroic design techniques available for study
-  - **Creative inspiration** - Experimental approaches inspiring other unconventional projects
-  
-  **Design Innovation:**
-  - **Moral ambiguity** - Game mechanics supporting ethically complex character development
-  - **Curse integration** - Negative effects woven meaningfully into strategic gameplay
-  - **Visual enhancement** - Color coding improving player navigation and understanding
-  - **Progression expansion** - Rank systems encouraging long-term character development
-  - **Experimental courage** - Bold exploration of unconventional themes and mechanics
-  
-  **Historical Significance:**
-  - **Early experimental precedent** - Important example of creative NetHack modification
-  - **Influence documentation** - Features later incorporated into more successful variants
-  - **Creative exploration** - Demonstration of roguelike potential for diverse thematic approaches
-  - **Community contribution** - Sharing experimental results benefiting broader development community
-  - **Educational value** - Teaching experimental design approaches within established frameworks
-  
-  **Educational Value:**
-  - **Experimental design techniques** - Methods for creative modification of established games
-  - **Anti-heroic theme implementation** - Approaches to subversive narrative integration
-  - **Cursed item mechanics** - Risk/reward balance design within roguelike frameworks
-  - **Interface enhancement** - Color coding and visual organization techniques
-  - **Community contribution** - Sharing experimental results with development communities
-  
-  **Legacy Achievement:** **EvilHack** demonstrates that **experimental design** and **creative risk-taking** can **expand genre boundaries**, proving that **anti-heroic themes** and **subversive mechanics** can **challenge conventions** while **contributing valuable innovations** that **influence future development** and **inspire continued creative exploration**.
+  ## Educational Value
+  EvilHack serves as a case study in experimental game design, illustrating methods for creative modification of established games while maintaining technical functionality. The variant demonstrates approaches to implementing subversive themes and alternative progression systems within traditional roguelike structures.
 release_date: "2003"
 developers:
   - "Eric W. Harland (EvilHack)"

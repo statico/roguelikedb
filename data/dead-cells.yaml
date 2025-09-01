@@ -1,40 +1,22 @@
 name: "Dead Cells"
 slug: "dead-cells"
 description: |
-  **The Metroidvania roguelike that redefined action games** - Motion Twin's masterpiece combining **precise 2D combat**, **permanent progression**, and **exceptional pixel art** that sold **over 10 million copies** across all platforms.
+  Dead Cells is an action-platformer roguelite game developed by Motion Twin, released in 2018. The game combines Metroidvania-style exploration with roguelike permadeath mechanics and has sold over 10 million copies worldwide.
   
-  **Commercial & Critical Success:**
-  - **10+ million copies sold** worldwide by 2024
-  - **Multiple Game of the Year nominations** and indie awards
-  - **'Overwhelmingly Positive' Steam reviews** (96% positive)
-  - **94/100+ Metacritic scores** across all platforms
+  Development and Release:
+  Dead Cells was developed using a custom Haxe engine and features hand-animated pixel art. The game received positive critical reception with high Metacritic scores across platforms and maintains overwhelmingly positive Steam reviews.
   
-  **Revolutionary Gameplay Design:**
-  - **Metroidvania structure** with roguelike permadeath and progression
-  - **Fluid combat system** with over 100 weapons and skills
-  - **Permanent progression** through cells collected during runs
-  - **Interconnected biomes** with multiple paths and secrets
-  - **Mutation system** providing run-specific character builds
+  Gameplay:
+  The game features interconnected biomes with multiple paths and secrets. Players collect cells during runs to unlock permanent upgrades and abilities. The combat system includes over 100 weapons and skills, with a mutation system that provides temporary character builds for individual runs.
   
-  **Technical Excellence:**
-  - **Custom Haxe engine** delivering buttery-smooth 60fps gameplay
-  - **Hand-animated pixel art** with industry-leading fluidity
-  - **Multi-platform optimization** - PC, consoles, mobile
-  - **Local 2-player co-op** added June 11, 2024
+  Downloadable Content:
+  Several DLC expansions have been released including Rise of the Giant (2019), Fatal Falls (2021), The Queen and the Sea (2022), and Return to Castlevania (2023). The game receives regular updates with balance changes and quality of life improvements.
   
-  **Massive Content Expansion:**
-  - **Rise of the Giant DLC** (2019) - Free major expansion
-  - **Fatal Falls DLC** (2021) - Two new biomes and boss
-  - **The Queen and the Sea DLC** (2022) - Final story expansion
-  - **Return to Castlevania DLC** (2023) - Crossover content
-  - **Regular free updates** with balance changes and QoL improvements
+  Multiplayer:
+  Local 2-player cooperative gameplay was added in June 2024, allowing players to explore the game's world together.
   
-  **Community Impact:**
-  - **100k+ Discord members** with thriving modding scene
-  - **Active speedrunning community** with competitive leaderboards
-  - **8+ language localizations** for global accessibility
-  
-  **Industry Influence:** Demonstrated that **Metroidvania and roguelike mechanics** could be seamlessly integrated, inspiring countless imitators and establishing new subgenre template. Set new standards for **indie game production values** and post-launch content support.
+  Community:
+  Dead Cells has an active community with over 100,000 Discord members. The game has spawned a speedrunning community and supports multiple language localizations. The game has been ported to various platforms including PC, consoles, and mobile devices.
 release_date: "2018-08-07"
 latest_version: "2024.9"
 developers:

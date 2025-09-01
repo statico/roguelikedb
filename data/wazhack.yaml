@@ -1,72 +1,35 @@
 name: "WazHack"
 slug: "wazhack"
 description: |
-  **The NetHack-inspired 3D side-scrolling mobile roguelike** - Waz Games' innovative **3D side-view roguelike** that brings **NetHack complexity** to **mobile platforms** with **unique perspective** and **touch-optimized gameplay**.
+  WazHack is a NetHack-inspired roguelike developed by Waz Games that features a unique 3D side-scrolling perspective designed for mobile platforms. The game adapts traditional roguelike complexity to touchscreen interfaces while maintaining depth and strategic gameplay.
   
-  **Innovative 3D Side-View Design:**
-  - **Unique 3D side-scrolling perspective** - First roguelike to use this viewpoint successfully
-  - **Depth-based gameplay** - Players move in and out of the screen for tactical advantage
-  - **NetHack-inspired mechanics** - Complex item interactions and systems
-  - **Mobile optimization** - Touch controls designed for smartphone interaction
-  - **Visual clarity** - 3D graphics make complex systems easier to understand
+  ## Design and Gameplay
   
-  **NetHack Complexity on Mobile:**
-  - **Deep item system** - Hundreds of items with complex interactions
-  - **Spell system** - Magic mechanics adapted from traditional roguelikes
-  - **Monster variety** - Diverse enemies with unique behaviors and abilities
-  - **Environmental interaction** - Objects can be used creatively for problem-solving
-  - **Character progression** - Traditional roguelike advancement and skill development
+  WazHack uses a distinctive 3D side-scrolling perspective that allows players to move both horizontally and into the depth of the screen. This viewpoint makes complex roguelike systems more visually accessible while preserving the tactical depth of traditional games. The game features hundreds of items with complex interactions, spell systems adapted from classic roguelikes, and diverse enemies with unique behaviors.
   
-  **Cross-Platform Excellence:**
-  - **iOS and Android optimization** - Smooth performance on mobile devices
-  - **Desktop versions** - PC and Mac releases with enhanced features
-  - **Cloud save support** - Progress synchronization across devices
-  - **Multiple control schemes** - Touch, keyboard, and gamepad support
-  - **Platform-specific features** - Taking advantage of each platform's strengths
+  ## Platform Adaptations
   
-  **Multiplayer Innovation:**
-  - **Co-op multiplayer** - Team up with friends for dungeon exploration
-  - **Daily challenges** - Shared experiences with global leaderboards
-  - **Social features** - Share discoveries and achievements with community
-  - **Online tournaments** - Competitive events with special rules
-  - **Spectator mode** - Watch other players' attempts in real-time
+  The game is available on iOS, Android, Windows, and macOS platforms, with each version optimized for its respective hardware. Mobile versions feature touch controls designed specifically for smartphone interaction, while desktop versions support keyboard and gamepad input. Cloud save functionality enables progress synchronization across multiple devices.
   
-  **Mobile Accessibility:**
-  - **Tutorial system** - Gradual introduction to complex roguelike mechanics
-  - **Context-sensitive controls** - UI adapts based on current situation
-  - **Visual inventory** - Grid-based item management optimized for touch
-  - **Quick actions** - Streamlined common actions for mobile play
-  - **Save anywhere** - Perfect for mobile gaming sessions
+  ## Multiplayer Features
   
-  **Technical Achievement:**
-  - **3D engine optimization** - Smooth performance on mobile hardware
-  - **Battery efficiency** - Turn-based nature perfect for mobile devices
-  - **Network code** - Robust multiplayer and social features
-  - **Cross-platform development** - Consistent experience across devices
-  - **Regular updates** - Active development with new content and features
+  WazHack includes cooperative multiplayer gameplay that allows players to explore dungeons together. The game offers daily challenges with global leaderboards, social features for sharing discoveries, and online tournaments with special rules. A spectator mode allows players to observe others' attempts in real-time.
   
-  **Community & Features:**
-  - **Active community** - Players sharing strategies and discoveries
-  - **Modding support** - Custom content creation capabilities
-  - **Regular content updates** - New items, monsters, and features added
-  - **Developer engagement** - Responsive to player feedback and suggestions
-  - **Educational resources** - Guides and tutorials for new players
+  ## Mobile Accessibility
   
-  **Cultural Significance:**
-  - **3D roguelike pioneer** - First successful 3D side-view roguelike
-  - **Mobile complexity proof** - Showed mobile could handle deep roguelike systems
-  - **NetHack legacy** - Brought classic roguelike depth to new audiences
-  - **Perspective innovation** - Inspired other developers to experiment with viewpoints
-  - **Cross-platform model** - Template for roguelike distribution strategies
+  The game includes comprehensive tutorial systems that gradually introduce complex roguelike mechanics to new players. Context-sensitive controls adapt the user interface based on the current situation, while visual inventory management is optimized for touch interaction. The save-anywhere functionality accommodates mobile gaming patterns.
   
-  **Design Innovation:**
-  - **Perspective transformation** - Made complex 2D systems understandable in 3D
-  - **Mobile input adaptation** - Touch controls that work for complex gameplay
-  - **Multiplayer integration** - Social features enhancing single-player roguelike
-  - **Progressive complexity** - Gradual introduction of systems for new players
-  - **Platform optimization** - Each version tailored to platform strengths
+  ## Technical Implementation
   
-  **Legacy Impact:** Demonstrated that **traditional roguelike complexity** could be successfully **translated to 3D perspectives** and **mobile platforms**, proving that **innovative presentation** could make **deep systems accessible** to **broader audiences** while maintaining **authentic roguelike depth**.
+  WazHack uses a custom 3D engine optimized for mobile hardware performance while maintaining battery efficiency through turn-based gameplay mechanics. The game supports robust networking for multiplayer features and receives regular content updates from active development.
+  
+  ## Community and Development
+  
+  The game maintains an active community that shares strategies and discoveries. WazHack supports custom content creation and receives regular updates with new items, monsters, and features. The development team engages with player feedback and provides educational resources for newcomers.
+  
+  ## Industry Impact
+  
+  WazHack demonstrated that traditional roguelike complexity could be successfully adapted to 3D perspectives and mobile platforms. The game proved that innovative presentation methods could make deep systems accessible to broader audiences while maintaining authentic roguelike depth. Its success influenced other developers to experiment with alternative viewpoints and cross-platform distribution strategies.
 release_date: "2019-03-15"
 latest_version: "1.3.5"
 developers:

@@ -1,7 +1,7 @@
 name: "Rogue"
 slug: "rogue"
 description: |
-  **The foundational game that defined the roguelike genre** - Created by Michael Toy and Glenn Wichman (later Ken Arnold and Jon Lane) at UC Berkeley, included in **4BSD UNIX manuals in November 1980** as a C program leveraging the curses library (~50 KB source).
+  Rogue is the foundational video game that defined the roguelike genre, created by Michael Toy and Glenn Wichman (with later contributions from Ken Arnold and Jon Lane) at UC Berkeley. The game was included in 4BSD UNIX manuals in November 1980 as a C program utilizing the curses library, with approximately 50 KB of source code.
   
   **Revolutionary Innovations:**
   - **Permadeath** - First game to make character death permanent and meaningful

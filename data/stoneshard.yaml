@@ -1,79 +1,25 @@
 name: "Stoneshard"
 slug: "stoneshard"
 description: |
-  **The medieval simulation masterpiece** - Ink Stains Games' **exceptional achievement** that created the **most detailed injury and treatment system** in roguelike history, featuring **isometric turn-based combat**, **complex equipment management**, **gridless movement**, and **atmospheric medieval fantasy** proving that **simulation depth** and **traditional roguelike mechanics** can create **immersive experiences** with **over 400,000 units sold**.
+  Stoneshard is an isometric turn-based roguelike game developed by Ink Stains Games and published by HypeTrain Digital. The game features a detailed injury and treatment system, complex equipment management, gridless movement, and medieval fantasy presentation. The game has sold over 400,000 units.
   
-  **Medical Simulation Innovation:**
-  - **Detailed injury system** - Comprehensive wound mechanics affecting character performance and survival
-  - **Complex treatment mechanics** - Realistic medical care requiring knowledge, resources, and time investment
-  - **Body part targeting** - Specific injury locations creating tactical combat considerations
-  - **Recovery simulation** - Healing processes requiring rest, medicine, and appropriate care
-  - **Long-term consequences** - Permanent injuries affecting character capabilities and strategic planning
+  Injury and Medical System:
+  Stoneshard features comprehensive wound mechanics that affect character performance and survival. The game includes realistic medical care requiring knowledge, resources, and time investment. Specific injury locations create tactical combat considerations, and healing processes require rest, medicine, and appropriate care. Some injuries can have permanent consequences affecting character capabilities.
   
-  **Commercial Success Achievement:**
-  - **Over 400,000 units sold by 2023** - Strong market validation for complex simulation roguelike
-  - **HypeTrain Digital publishing** - Professional publisher investment in detailed indie development
-  - **Active development commitment** - Ongoing updates and content additions post-release
-  - **Modding community support** - Player-generated content extending game complexity and variety
-  - **Critical recognition** - Industry praise for innovation in roguelike simulation depth
+  Development and Reception:
+  The game has achieved over 400,000 units sold by 2023, with professional publisher support from HypeTrain Digital. Development continues with ongoing updates and content additions post-release. The game supports modding community content and has received industry recognition for innovation in roguelike simulation depth.
   
-  **Isometric Excellence:**
-  - **Atmospheric medieval presentation** - Rich visual style creating immersive fantasy environment
-  - **Unity engine optimization** - Smooth performance with detailed graphics and complex systems
-  - **Tile-based graphics** - Traditional roguelike visual approach enhanced with modern presentation
-  - **Environmental storytelling** - Medieval world conveyed through atmospheric design and detail
-  - **Visual clarity** - Complex mechanics presented through readable and intuitive interfaces
+  Visual Presentation:
+  Stoneshard uses an isometric perspective with atmospheric medieval presentation and rich visual style. The game is built using the Unity engine with optimized performance despite detailed graphics and complex systems. It combines tile-based graphics with traditional roguelike visual approaches enhanced with modern presentation.
   
-  **Combat System Innovation:**
-  - **Turn-based tactical depth** - Strategic positioning and planning within isometric perspective
-  - **Equipment complexity** - Detailed weapon and armor systems affecting combat outcomes
-  - **Character class specialization** - Distinct playstyles requiring different tactical approaches
-  - **Gridless movement options** - Flexible positioning enhancing tactical decision-making
-  - **Procedural encounter variety** - Random combat situations ensuring diverse tactical challenges
+  Combat and Gameplay:
+  The game features turn-based tactical combat with strategic positioning and planning within the isometric perspective. Equipment systems include detailed weapon and armor mechanics affecting combat outcomes. Character classes offer distinct playstyles with different tactical approaches. Gridless movement provides flexible positioning for enhanced tactical decision-making.
   
-  **Medieval Fantasy Authenticity:**
-  - **Historical accuracy focus** - Medieval setting researched and presented with cultural authenticity
-  - **Equipment realism** - Weapons, armor, and tools based on historical medieval artifacts
-  - **Economic systems** - Trade and crafting mechanics reflecting medieval commerce
-  - **Social structures** - Character interactions and world systems based on medieval society
-  - **Atmospheric immersion** - All elements supporting believable medieval fantasy experience
+  Medieval Fantasy Setting:
+  The medieval setting is researched and presented with cultural authenticity. Weapons, armor, and tools are based on historical medieval artifacts. Trade and crafting mechanics reflect medieval commerce, and character interactions are based on medieval social structures.
   
-  **Complexity Management:**
-  - **Steep learning curve** - Deep systems requiring significant player investment and mastery
-  - **Tutorial integration** - Educational systems helping players understand complex mechanics
-  - **Difficulty scaling** - Challenge progression accommodating skill development over time
-  - **Information presentation** - Complex data displayed through organized and accessible interfaces
-  - **Player agency** - Multiple approaches to challenges accommodating different playstyles
-  
-  **Technical Achievement:**
-  - **Unity engine mastery** - Complex simulation systems within accessible development environment
-  - **Performance optimization** - Smooth gameplay despite detailed injury and equipment systems
-  - **Save system reliability** - Character persistence across complex state interactions
-  - **Modding support** - Architecture enabling community content creation and enhancement
-  - **Cross-system compatibility** - Consistent experience across different hardware configurations
-  
-  **Cultural Gaming Impact:**
-  - **Simulation roguelike advancement** - Pushing boundaries of detail and realism in genre
-  - **Medieval gaming authenticity** - Setting new standards for historical accuracy in fantasy games
-  - **Complexity validation** - Proving market demand for deep, challenging roguelike experiences
-  - **Injury system precedent** - Inspiring other developers to explore detailed damage mechanics
-  - **Independent development success** - Demonstrating viability of complex indie roguelike projects
-  
-  **Design Philosophy:**
-  - **Simulation authenticity** - Prioritizing realistic systems over convenience or accessibility
-  - **Player mastery** - Rewarding deep understanding and skillful application of complex systems
-  - **Medieval immersion** - All mechanics serving authentic medieval fantasy experience
-  - **Strategic depth** - Multiple layers of decision-making creating rich tactical gameplay
-  - **Consequence significance** - Meaningful outcomes encouraging careful planning and execution
-  
-  **Educational Value:**
-  - **Injury system design** - Methods for creating realistic damage and recovery mechanics
-  - **Medieval simulation** - Historical research application in game development
-  - **Complex system integration** - Techniques for combining multiple detailed mechanics
-  - **Isometric roguelike development** - Unity implementation of traditional roguelike concepts
-  - **Community building** - Approaches to supporting modding and player content creation
-  
-  **Legacy Achievement:** **Stoneshard** demonstrates that **simulation complexity** and **historical authenticity** can **create compelling roguelike experiences**, proving that **detailed mechanics** and **atmospheric presentation** can **achieve commercial success** while **advancing genre sophistication** and **inspiring deeper exploration** of **realistic medieval fantasy gaming**.
+  Technical Implementation:
+  The game uses Unity engine for complex simulation systems with smooth gameplay performance. It includes reliable save systems for character persistence across complex state interactions. Modding support enables community content creation, and the game maintains consistent experience across different hardware configurations.
 release_date: "2021-05-26"
 developers:
   - "Ink Stains Games"

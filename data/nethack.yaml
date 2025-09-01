@@ -1,41 +1,22 @@
 name: "NetHack"
 slug: "nethack"
 description: |
-  **The most complex and revered traditional roguelike** - Born from **Hack in 1987**, NetHack represents the pinnacle of traditional roguelike design with **37+ years of continuous development** and the legendary motto **'The DevTeam thinks of everything.'**
+  NetHack is a free and open-source roguelike game originally developed in 1987 as a successor to Hack. The game has been in continuous development for over 35 years and is known for its complexity and depth. It was inducted into the Museum of Modern Art's video game collection in 2022.
   
-  **Cultural & Historical Significance:**
-  - **Inducted into MoMA (Museum of Modern Art)** in 2022 as essential video game art
-  - **37+ years of active development** - Longest-running game project in history
-  - **NetHack General Public License** - Influential open-source gaming license
-  - **Academic research subject** - Studied in AI and game design programs worldwide
+  Development:
+  NetHack was created by the NetHack DevTeam and is distributed under the NetHack General Public License. The development team follows the philosophy "The DevTeam thinks of everything," referring to their attention to detail in implementing item interactions and special cases.
   
-  **Legendary Depth & Complexity:**
-  - **400+ monster types** each with unique behaviors and interactions
-  - **1000+ items** with complex interaction systems and combinations
-  - **Multiple victory paths** through different dungeon branches
-  - **13 character classes** with unique quests and abilities
-  - **Pet system** with complex AI and evolution mechanics
+  Gameplay:
+  The game features over 400 monster types and more than 1,000 items with complex interaction systems. Players can choose from 13 character classes, each with unique quests and abilities. The game includes a pet system with AI mechanics and multiple victory paths through different dungeon branches.
   
-  **Technical Achievement:**
-  - **Pure C implementation** running on virtually every platform ever created
-  - **Universal portability** - Windows, Linux, macOS, Unix, DOS, BeOS, VMS, Haiku, OS/2
-  - **Minimal requirements** - 16MB RAM, 50MB storage
-  - **ASCII perfection** with optional tile support
-  - **Source code masterpiece** studied by programmers worldwide
+  Technical Implementation:
+  NetHack is written in C and has been ported to numerous platforms including Windows, Linux, macOS, Unix, DOS, BeOS, VMS, Haiku, and OS/2. The game uses ASCII graphics with optional tile support and has minimal system requirements.
   
-  **The DevTeam Philosophy:**
-  - **'The DevTeam thinks of everything'** - Legendary attention to detail
-  - **Every item interaction considered** - Thousands of special cases and easter eggs
-  - **Emergent complexity** from simple rules creating infinite possibilities
-  - **Community-driven development** with decades of player feedback integration
+  Variants:
+  NetHack has spawned over 50 documented variants including SLASH'EM, UnNetHack, and SporkHack. These variants modify gameplay mechanics, add content, or modernize the interface while maintaining the core NetHack framework.
   
-  **Massive Variant Ecosystem:**
-  - **SLASH'EM** - Most popular major variant
-  - **UnNetHack** - Modernized interface and mechanics
-  - **SporkHack** - Gameplay rebalancing
-  - **Over 50 documented variants** spanning decades
-  
-  **Legacy Impact:** Defined what **depth** means in roguelike design, establishing that simple graphics could support virtually infinite complexity. Inspired countless developers and remains the gold standard for traditional roguelike design principles.
+  Cultural Impact:
+  NetHack is widely studied in academic programs related to artificial intelligence and game design. It has influenced numerous other roguelike games and established many conventions for the genre.
 release_date: "1987-07-28"
 latest_version: "3.6.7"
 developers:

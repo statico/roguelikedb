@@ -1,14 +1,14 @@
 name: "Oangband"
 slug: "oangband"
 description: |
-  **The synthesis masterpiece** - Bahman Rabii and Leon Marrick's **collaborative achievement** that **merged the best features** from **multiple Angband variants** into **unified excellence**, featuring **improved interface design**, **balanced complexity**, and **refined gameplay** that proved **community wisdom** could create **superior gaming experiences** through **selective feature integration**.
+  Oangband is an Angband variant developed by Bahman Rabii and Leon Marrick, released in 2006. The variant attempts to integrate the best features from various Angband variants while maintaining game balance and improving user experience. It represents a synthesis approach to roguelike development, combining proven mechanics from multiple sources.
   
-  **Multi-Variant Feature Integration:**
-  - **Cherry-picked excellence** - Best mechanics and systems selected from ZAngband, SAngband, and other variants
-  - **Feature compatibility** - Carefully tested combinations ensuring systems worked harmoniously together
-  - **Balanced complexity** - Complexity additions providing depth without overwhelming players
-  - **System optimization** - Improved versions of borrowed features with enhanced balance and usability
-  - **Comprehensive testing** - Extensive playtesting ensuring integrated features enhanced rather than conflicted
+  **Feature Integration:**
+  - Selected mechanics from ZAngband, SAngband, and other popular variants
+  - Careful testing to ensure feature compatibility and system harmony
+  - Balanced approach to complexity that provides depth without overwhelming players
+  - Enhanced versions of borrowed features with improved balance and usability
+  - Extensive playtesting to ensure integrated features worked effectively together
   
   **Interface Design Revolution:**
   - **User experience prioritization** - Interface improvements making complex systems more accessible
@@ -80,7 +80,7 @@ description: |
   - **Community development** - Demonstration of community wisdom in feature selection and refinement
   - **Balance methodology** - Techniques for maintaining game balance while adding complexity
   
-  **Cultural Achievement:** **Oangband** demonstrates that **community collaboration** and **selective excellence** can create **superior gaming experiences**, proving that **thoughtful integration** of **proven features** can achieve **greater success** than **individual innovation** through **collaborative wisdom** and **player-focused design philosophy**.
+  **Legacy:** Oangband demonstrates the potential for successful feature synthesis in roguelike development. By thoughtfully combining proven mechanics from multiple sources, the variant showed how collaborative development and selective integration could create cohesive gaming experiences that balanced innovation with established design principles.
 release_date: "2006"
 latest_version: "1.1.0u"
 developers:

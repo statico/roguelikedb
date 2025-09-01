@@ -1,47 +1,28 @@
 name: "Peglin"
 slug: "peglin"
 description: |
-  **The pachinko roguelike phenomenon** - Red Nexus Games' innovative fusion of **pachinko physics**, **roguelike progression**, and **strategic orb placement** that created an entirely new subgenre.
+  Peglin is a physics-based roguelike game developed by Red Nexus Games that combines pachinko mechanics with traditional roguelike progression systems. The game represents an innovative fusion of pachinko physics, strategic orb placement, and procedural generation that established a new subgenre within roguelike gaming.
   
-  **Revolutionary Pachinko Mechanics:**
-  - **Physics-based combat** - Shoot orbs down pachinko boards to defeat enemies
-  - **Strategic peg placement** - Position and angle shots for maximum damage
-  - **Combo systems** - Chain reactions and multi-hits create satisfying cascades
-  - **Relics and upgrades** - Permanent bonuses that modify orb behavior
-  - **Precision aiming** - Skill-based targeting with physics prediction
+  ## Gameplay Mechanics
+  The game features physics-based combat where players shoot orbs down pachinko-style boards to defeat enemies. Combat involves strategic peg placement and angle calculation to maximize damage output. The system incorporates chain reactions and multi-hit combinations that create cascading effects. Players collect relics and upgrades that provide permanent bonuses and modify orb behavior, while precision aiming mechanics require skill-based targeting with physics prediction systems.
   
-  **Commercial & Critical Success:**
-  - **Over 500,000 copies sold** across platforms
-  - **'Overwhelmingly Positive' Steam reviews** (96% positive rating)
-  - **Viral streaming success** - Perfect for content creation with satisfying physics
-  - **Cross-platform success** - PC and mobile audiences both engaged
+  ## Commercial Performance
+  Peglin has achieved significant commercial success with over 500,000 copies sold across multiple platforms. The game maintains an "Overwhelmingly Positive" rating on Steam with 96% positive reviews from players. Its physics-based gameplay mechanics have proven particularly suitable for streaming and content creation, contributing to viral success on platforms like Twitch. The title has found success with both PC and mobile gaming audiences.
   
-  **Innovative Design Elements:**
-  - **Orb variety** - Different orb types with unique properties and effects
-  - **Enemy design** - Creatures positioned strategically on pachinko boards
-  - **Boss encounters** - Large-scale pachinko challenges requiring strategy
-  - **Incremental difficulty** - Gradually increasing complexity and challenge
-  - **Achievement system** - Rewards for creative play and mastery
+  ## Design Elements
+  The game incorporates various orb types with unique properties and effects that affect gameplay strategy. Enemy creatures are positioned strategically on pachinko boards to create tactical challenges. Boss encounters feature large-scale pachinko challenges requiring advanced strategic planning. Difficulty progression occurs incrementally through gradually increasing complexity and challenge levels, supported by an achievement system that rewards creative play and mechanical mastery.
   
-  **Technical Achievement:**
-  - **Satisfying physics engine** with precise ball movement and collision
-  - **Visual polish** with charming art style and smooth animations  
-  - **Audio design** - Satisfying sound effects for pegs, bounces, and impacts
-  - **Performance optimization** maintaining 60fps even with many physics objects
+  ## Technical Implementation
+  Peglin utilizes a physics engine designed for precise ball movement and collision detection. The game features polished visual presentation with charming art direction and smooth animation systems. Audio design emphasizes satisfying sound effects for peg interactions, ball bounces, and impact events. Performance optimization maintains 60fps gameplay even when rendering numerous physics objects simultaneously.
   
-  **Cultural Impact:**
-  - **Created pachinko roguelike subgenre** - Inspired multiple imitators
-  - **Twitch phenomenon** - Highly watchable with exciting moment-to-moment gameplay
-  - **Speedrunning community** - Competitive scenes around optimal strategies
-  - **Educational appeal** - Teaches physics concepts through engaging gameplay
+  ## Cultural Impact and Community
+  The game established the pachinko roguelike subgenre and inspired multiple derivative titles. Its gameplay mechanics have proven highly suitable for streaming platforms due to exciting moment-to-moment action sequences. A competitive speedrunning community has developed around optimal strategy development and execution. The physics-based gameplay provides educational value by demonstrating physics concepts through engaging interactive experiences.
   
-  **Community Engagement:**
-  - **Active Discord community** sharing strategies and memorable shots
-  - **Content creator friendly** - Built-in replay system for sharing great plays
-  - **Mod potential** - Custom orb types and board layouts from community
-  - **Regular developer updates** - Responsive to player feedback and suggestions
+  ## Community Features
+  Peglin maintains an active Discord community where players share strategies and memorable gameplay moments. The game includes content creator-friendly features such as built-in replay systems for sharing exceptional plays. Community modding potential exists for custom orb types and board layouts. Developers maintain regular update schedules and demonstrate responsiveness to player feedback and suggestions.
   
-  **Genre Innovation:** Proved that **traditional game mechanics** (pachinko) could be successfully merged with **roguelike progression** to create entirely new gameplay experiences. Demonstrated the potential for **physics-based roguelikes** as a distinct category.
+  ## Genre Innovation
+  The title demonstrated that traditional game mechanics from pachinko could be successfully integrated with roguelike progression systems to create entirely new gameplay experiences. Peglin established the viability of physics-based roguelikes as a distinct category within the broader roguelike genre, proving that mechanical innovation could create compelling hybrid gaming experiences.
 release_date: "2022-04-25"
 latest_version: "1.3.2"
 developers:

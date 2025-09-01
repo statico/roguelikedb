@@ -1,73 +1,28 @@
 name: "Balatro"
 slug: "balatro"
 description: |
-  **The indie phenomenon that conquered 2024** - LocalThunk's solo-developed **poker deckbuilder** that became **the highest-rated indie game of 2024**, winning **three Game Awards** and selling **over 5 million copies** in its first year.
-  
-  **Historic Game Awards Success:**
-  - **Best Independent Game 2024** - Beat established indie giants
-  - **Best Debut Indie Game 2024** - Remarkable for solo developer
-  - **Best Mobile Game 2024** - Cross-platform excellence
-  - **Game of the Year nomination** - Competing with AAA titles
-  - **Unprecedented indie recognition** at mainstream awards
-  
-  **Commercial Phenomenon:**
-  - **5+ million copies sold** in first 10 months (2024 launch)
-  - **98% positive Steam reviews** from 100k+ reviewers
-  - **#1 on Steam wishlist** charts for months before release
-  - **Global viral success** across all platforms simultaneously
-  
-  **Revolutionary Poker Mechanics:**
-  - **Traditional poker hands** as the foundation (pair, flush, straight, etc.)
-  - **150+ unique Jokers** that modify and enhance poker hands
-  - **Synergistic combinations** - Jokers work together for exponential scoring
-  - **Blind progression** - Each level requires higher scores to beat
-  - **Meta-game mastery** - Learning optimal Joker combinations
-  
-  **Solo Development Miracle:**
-  - **LocalThunk (one person)** created entire game alone
-  - **LÖVE 2D engine** - Lightweight Lua-based framework
-  - **Pixel-perfect visual design** with satisfying animations
-  - **No external funding** - Pure passion project success story
-  - **Development transparency** - Active communication with community
-  
-  **Addictive Gameplay Loop:**
-  - **8 blinds per ante** - Clear progression structure
-  - **Joker shop management** - Buying, selling, reordering for optimal synergy
-  - **Hand upgrading system** - Improve poker hands with chips and mult
-  - **Risk management** - Choosing when to skip blinds vs. push for rewards
-  
-  **Massive Content Depth:**
-  - **15 challenge runs** with unique rule modifications
-  - **8 stake levels** (difficulty modes) for each of 15 decks
-  - **Multiple deck types** - Each changes fundamental rules
-  - **Endless mode** - See how high scores can go
-  - **Achievement system** - Encouraging diverse strategies
-  
-  **Cultural Impact:**
-  - **Twitch streaming phenomenon** - Perfect for content creation
-  - **Mathematical community analysis** - Probability theory discussions
-  - **Speedrunning scene** - Competitive optimization strategies
-  - **Educational tool** - Teaching poker hand rankings to new audiences
-  
-  **Technical Excellence:**
-  - **Buttery smooth performance** on all platforms including mobile
-  - **Cross-platform saves** - Play anywhere with progress sync
-  - **Accessibility features** - Colorblind support and clear UI
-  - **Battery optimization** - Exceptional mobile performance
-  
-  **Community & Mods:**
-  - **Active Discord community** with strategy discussions
-  - **Modding potential** - Lua codebase enables community modifications
-  - **Fan art explosion** - Distinctive art style inspired creative community
-  - **Strategy guides** - Complex optimization discussions
-  
-  **Industry Inspiration:**
-  - **Poker mechanics revival** - Inspired numerous poker-based games
-  - **Solo development validation** - Proved one person can compete globally
-  - **Deckbuilder evolution** - Advanced the Slay the Spire formula
-  - **Mobile-first design** - Showed how to make complex games mobile-friendly
-  
-  **Legacy Achievement:** Demonstrated that **innovative mechanics** and **perfect execution** could make a **solo indie game** compete with AAA titles at the highest levels of the gaming industry. Set new standards for what solo developers can achieve.
+  Balatro is a poker-based deckbuilder roguelike developed by LocalThunk and released in 2024. The game combines traditional poker mechanics with deckbuilding elements and has achieved significant commercial and critical success.
+
+  ## Awards and Recognition
+  Balatro won three awards at The Game Awards 2024: Best Independent Game, Best Debut Indie Game, and Best Mobile Game. The game also received a Game of the Year nomination, competing alongside major AAA titles.
+
+  ## Commercial Performance
+  The game sold over 5 million copies in its first 10 months following its February 2024 launch. It received 98% positive reviews on Steam from over 100,000 reviewers and topped Steam wishlist charts prior to release.
+
+  ## Gameplay Mechanics
+  Balatro uses traditional poker hands (pairs, flushes, straights, etc.) as its core mechanic. Players collect and manage over 150 unique Joker cards that modify and enhance poker hands through synergistic combinations. The game features a progression system where each level requires increasingly higher scores to advance.
+
+  ## Development
+  The game was developed entirely by one person using the LÖVE 2D engine and Lua programming language. The development process involved no external funding, representing an independent passion project that achieved mainstream commercial success.
+
+  ## Content and Features
+  Balatro includes 15 challenge runs with modified rules, 8 difficulty levels for each of 15 different deck types, multiple game modes including endless play, and an achievement system. Players progress through antes with 8 blinds per level, managing a shop system for acquiring and optimizing Joker combinations.
+
+  ## Technical Implementation
+  The game features cross-platform compatibility with synchronized saves across devices, accessibility options including colorblind support, and optimized performance for mobile platforms while maintaining consistent gameplay across all supported systems.
+
+  ## Community and Cultural Impact
+  Balatro has developed an active community including strategy discussions, speedrunning competitions, and content creation. The game has been used as an educational tool for teaching poker hand rankings and has inspired mathematical analysis of its probability systems.
 release_date: "2024-02-20"
 developers:
   - "LocalThunk"

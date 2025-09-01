@@ -1,14 +1,14 @@
 name: "Linley's Dungeon Crawl"
 slug: "linleys-dungeon-crawl"
 description: |
-  **The DCSS ancestor** - Linley Henzell's **foundational achievement** that **revolutionized roguelike spellcasting** and **streamlined design philosophy**, serving as the **genetic foundation** for **Dungeon Crawl Stone Soup** while establishing **innovative mechanics** and **accessibility principles** that would **transform modern roguelike development**.
+  Linley's Dungeon Crawl is a roguelike game developed by Linley Henzell, first released in 1995. The game introduced innovative spellcasting mechanics and streamlined design principles that influenced modern roguelike development. It serves as the direct ancestor to Dungeon Crawl Stone Soup, which continues its development under community management.
   
-  **Revolutionary Spellcasting Innovation:**
-  - **Spell memorization system** - Unique magic mechanics requiring strategic spell selection and preparation
-  - **Spellbook discovery** - Finding and learning magic through exploration creating progression excitement
-  - **Spell level limitations** - Character advancement unlocking more powerful magical capabilities
-  - **Strategic magic resource management** - Spell points and memorization slots creating tactical decisions
-  - **School specialization** - Different magical disciplines with unique approaches and capabilities
+  **Spellcasting System:**
+  - Introduced spell memorization mechanics requiring strategic spell selection
+  - Spellbook discovery system linking magic progression to exploration
+  - Level-based spell access restricting powerful magic to advanced characters
+  - Resource management through spell points and memorization slot limitations
+  - Magic school specialization offering different tactical approaches
   
   **Streamlined Design Philosophy:**
   - **Complexity reduction** - Eliminating unnecessary mechanics while preserving strategic depth
@@ -80,7 +80,7 @@ description: |
   - **Design philosophy** - Clear examples of accessibility without depth compromise
   - **Historical preservation** - Important milestone in roguelike evolution and development
   
-  **Cultural Achievement:** **Linley's Dungeon Crawl** demonstrates that **innovative mechanics** and **streamlined design** can **revolutionize traditional genres** while **preserving authentic depth**, proving that **accessibility improvements** and **community empowerment** can create **lasting legacies** that **influence entire gaming movements** through **thoughtful design philosophy** and **open development practices**.
+  **Historical Significance:** Linley's Dungeon Crawl represents a significant evolution in roguelike design, introducing streamlined mechanics and accessibility improvements while maintaining strategic depth. Its transition to community development through DCSS demonstrated successful open-source game continuation and influenced modern roguelike development practices.
 release_date: "1995"
 latest_version: "4.0.0 beta26"
 developers:

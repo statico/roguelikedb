@@ -1,14 +1,14 @@
 name: "Hydra Slayer"
 slug: "hydra-slayer"
 description: |
-  **The mathematical combat masterpiece** - Zeno Rogue's **educational innovation** that transforms **ancient Greek mythology** into **pure mathematical gameplay**, featuring **hydra regeneration puzzles**, **Steam success**, and **academic recognition** that proves **mathematical problem-solving** can create **extraordinary gaming experiences** through **mythological mathematical fusion**.
+  Hydra Slayer is a puzzle roguelike developed by Zeno Rogue, first released in 2012. The game combines mathematical problem-solving with Greek mythology, featuring hydra creatures whose heads regenerate according to mathematical rules. It has gained recognition both as an entertaining game and as an educational tool for teaching mathematical concepts.
   
-  **Hydra Mathematics Innovation:**
-  - **Head regeneration algorithms** - Cutting heads spawning multiple new ones based on mathematical patterns
-  - **Strategic decapitation planning** - Mathematical analysis required for optimal hydra elimination sequences
-  - **Growth pattern prediction** - Players learning to calculate future hydra states through mathematical modeling
-  - **Combinatorial optimization** - Finding minimum move solutions requiring advanced mathematical reasoning
-  - **Pattern recognition mastery** - Identifying mathematical structures within seemingly chaotic regeneration
+  **Mathematical Mechanics:**
+  - Hydra head regeneration following mathematical sequence rules
+  - Strategic puzzle solving requiring calculation and pattern analysis
+  - Players must predict growth patterns to plan optimal elimination sequences
+  - Combinatorial challenges involving finding minimal solution paths
+  - Pattern recognition elements teaching mathematical structure identification
   
   **Educational Gaming Excellence:**
   - **Mathematical literacy development** - Complex number theory and combinatorics taught through gameplay
@@ -80,7 +80,7 @@ description: |
   - **Assessment tools** - Games providing data on student mathematical understanding and progress
   - **Curriculum development** - Educational sequences informed by effective game-based learning progression
   
-  **Legacy Achievement:** **Hydra Slayer** demonstrates that **ancient mythology** and **modern mathematics** can achieve **perfect educational synthesis**, proving that **challenging mathematical concepts** become **accessible and engaging** when **presented through interactive mythological contexts**, establishing **new standards** for **educational gaming effectiveness** and **mathematical learning innovation**.
+  **Legacy:** Hydra Slayer demonstrates successful integration of educational content with engaging gameplay mechanics. The game has been adopted in educational settings and has influenced other developers to explore mathematical concepts in gaming contexts, showing how mythology can make abstract mathematical ideas more accessible.
 release_date: "2012-01-01"
 latest_version: "18.0"
 developers:

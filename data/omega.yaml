@@ -1,14 +1,14 @@
 name: "Omega"
 slug: "omega"
 description: |
-  **The persistent world pioneer** - Laurence Brothers' **innovative 1987 achievement** that introduced **persistent village systems**, **guild memberships**, and **non-linear victory paths** to roguelike design, proving that **traditional mechanics** could support **complex social structures** and **multiple gameplay objectives** through **revolutionary sandbox design**.
+  Omega is a roguelike game developed by Laurence Brothers, first released in 1987. The game introduces persistent village systems, guild membership mechanics, and multiple victory conditions to the roguelike genre. Notable for its sandbox approach and complex social systems, Omega represents an early experiment in non-linear roguelike design.
   
-  **Revolutionary Persistent Village:**
-  - **Living community simulation** - Village continues existing and evolving independent of player presence
-  - **NPC persistence** - Characters maintaining locations, inventories, and relationships across game sessions
-  - **Economic simulation** - Shop inventories, prices, and merchant relationships changing over time
-  - **Social structure complexity** - Village hierarchy and political relationships affecting player interactions
-  - **Environmental continuity** - Physical changes and developments persisting across multiple characters
+  **Persistent Village System:**
+  - Village continues to exist and evolve independent of player presence
+  - NPCs maintain consistent locations, inventories, and relationships between sessions
+  - Dynamic economic simulation with changing shop inventories and prices
+  - Complex social hierarchy affecting player interactions and opportunities
+  - Environmental changes and developments persist across multiple characters
   
   **Guild System Innovation:**
   - **Multiple guild memberships** - Players joining various organizations with distinct benefits and obligations
@@ -80,7 +80,7 @@ description: |
   - **Developer inspiration** - Influencing numerous later games with persistent world and social features
   - **Technical documentation** - Implementation details preserved for future development reference
   
-  **Legacy Achievement:** **Omega** demonstrates that **roguelike mechanics** can support **extraordinary complexity** and **social depth**, proving that **persistent worlds** and **non-linear objectives** can create **gaming experiences** of **unprecedented freedom** while maintaining **authentic roguelike challenge** through **innovative system integration** and **player agency maximization**.
+  **Legacy:** Omega demonstrates early experimentation with persistent world systems and non-linear gameplay in roguelike design. Its innovations in guild systems, multiple victory conditions, and social complexity influenced later roguelike development and anticipated features that would become common in massively multiplayer online games.
 release_date: "1987"
 developers:
   - "Laurence Brothers"
